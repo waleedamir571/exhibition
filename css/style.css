@@ -189,6 +189,11 @@ letter-spacing: -0.572px;
   color: #ccc;
 }
 
+.owl-carousel .owl-item img {
+  display: block;
+  width: 85% !important;
+}
+
 .footer-bottom {
   text-align: center;
   border-top: 1px solid #fff;
@@ -19110,7 +19115,7 @@ section {
 
 .p-head {
   color: #FFF;
-  font-size: 43px;
+  font-size: 35px;
   font-style: normal;
   font-weight: 700;
   line-height: 39px;
@@ -19118,9 +19123,28 @@ section {
   padding-top: 16px;
 }
 
+.none{
+  display: none;
+}
+
+.testimonial-section {
+  padding: 0px 0;
+}
+.head-text1 {
+  color: #FFF;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 30px;
+}
+
+.footer ul li {
+  margin-bottom: 0px;
+}
+
 .relax-50 {
   color: #FFF;
-  font-size: 40px;
+  font-size: 33px;
   font-style: normal;
   font-weight: 700;
   line-height: 50px;

@@ -19123,6 +19123,19 @@ section {
   padding-top: 16px;
 }
 
+.w-90 {
+  width: 70%;
+}
+
+footer p {
+  color: #FFF;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 26.12px;
+  text-transform: capitalize;
+}
+
 .none{
   display: none;
 }

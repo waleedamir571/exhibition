@@ -102,13 +102,14 @@ h1.s2 .c1 span,
     /* background:linear-gradient(to right, var(--primary-color), var(--secondary-color)); */
     /* background-image: url('../images/home/Vector.png') !important; */
     /* background-image: url('../images/home/Vector.png') !important; */
+    
 
     
 }
 
 i.d-item-block {
 
-    background-image: url('../images/home/Vector.png') !important;
+    background-image: url('https://hoisolution.com/exhibit-network/images/home/Vector.png') !important;
 }
 
 

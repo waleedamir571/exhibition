@@ -12046,17 +12046,17 @@ text-transform: uppercase;
 }
 
 .de-marquee-list .d-item-block {
-  width: 80px;
-  height: 5px;
+  width: 50px;
+  height: 50px;
   margin: 0 20px;
   margin-right: 40px;
-  padding: 0px;
+  padding-top: 39px;
   border-radius: 50%;
   display: inline-block;
-  transform: translateY(-20px);
-  background-image: url('../images/home/Vector.png') !important;
-  background-size: cover; /* Add this if the image size is not adjusting */
-  background-repeat: no-repeat; /* Prevent tiling if the image is small */
+  transform: translateY(0px);
+  background-image: url(https://hoisolution.com/exhibit-network/images/home/Vector.png) !important;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .de-marquee-list .d-item-block{
@@ -19083,6 +19083,36 @@ img {
     font-style: normal;
     font-weight: 700;
     line-height: 40px;
+}
+
+.de-marquee-list .d-item-block {
+  width: 40px;
+  height: 40px;
+  margin: 0 20px;
+  margin-right: 40px;
+  padding-top: 39px;
+  border-radius: 50%;
+  display: inline-block;
+  transform: translateY(0px);
+  background-image: url(https://hoisolution.com/exhibit-network/images/home/Vector.png) !important;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+
+.de-marquee-list .d-item-txt {
+  font-size: 37px;
+  line-height: 100px;
+  padding-right: 8px;
+  font-style: normal;
+  font-weight: 300;
+  font-family: var(--title-font);
+  color: var(--primary-color);
+  user-select: none;
+  text-transform: uppercase;
+  color: #A7A9AC;
+  /* -webkit-text-stroke: 1px rgba(255, 255, 255, .75); */
+  letter-spacing: 12px;
 }
 
 section {

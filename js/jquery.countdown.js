@@ -22,7 +22,7 @@
 		<pre>&lt;div>&lt;/div></pre>
 		<p>Provide inline configuration like:</p>
 		<pre>&lt;div data-countdown="name: 'value'">&lt;/div></pre>
-	 	@module Countdown
+	 	@module Countdownb
 		@augments JQPlugin
 		@example $(selector).countdown({until: +300}) */
 	$.JQPlugin.createPlugin({

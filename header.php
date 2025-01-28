@@ -96,7 +96,7 @@
                                     <li><a class="menu-item" href="what-we-do.php">What We Do</a></li>
                                     <li><a class="menu-item" href="gallery.php">Gallery</a></li>
                                     <li><a class="menu-item" href="#-tickets">Exhibits</a></li>
-                                    <li><a class="menu-item" href="#-gallery">Resources</a></li>
+                                    <li><a class="menu-item" href="resources.php">Resources</a></li>
                                     <li><a class="menu-item" href="#-location">Connect</a></li>
 
                                 </ul>

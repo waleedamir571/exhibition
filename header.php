@@ -19,6 +19,7 @@
     <link href="css/plugins.css" rel="stylesheet" type="text/css">
     <link href="css/style.css" rel="stylesheet" type="text/css">
     <link href="css/coloring.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
     <!-- color scheme -->
     <link id="colors" href="css/colors/blue-teal.css" rel="stylesheet" type="text/css">
 </head>
@@ -87,12 +88,13 @@
                             </div>
                             <div class="de-flex-col header-col-mid">
                                 <ul id="mainmenu">
-                                    <li><a class="menu-item" href="#section-hero">Home</a>
+                                    <li><a class="menu-item" href="index.php">Home</a>
 
                                     </li>
-                                    <li><a class="menu-item" href="#-about">About</a></li>
-                                    <li><a class="menu-item" href="#-experts">Who We Serve</a></li>
-                                    <li><a class="menu-item" href="#-schedule">What We Do</a></li>
+                                    <li><a class="menu-item" href="about.php">About</a></li>
+                                    <li><a class="menu-item" href="who-we-serve.php">Who We Serve</a></li>
+                                    <li><a class="menu-item" href="what-we-do.php">What We Do</a></li>
+                                    <li><a class="menu-item" href="gallery.php">Gallery</a></li>
                                     <li><a class="menu-item" href="#-tickets">Exhibits</a></li>
                                     <li><a class="menu-item" href="#-gallery">Resources</a></li>
                                     <li><a class="menu-item" href="#-location">Connect</a></li>

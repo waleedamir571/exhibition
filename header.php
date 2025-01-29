@@ -44,6 +44,10 @@
                                     <p>Upload</p>
 
                                 </li>
+                                <li>
+                                    <p>Happy Hour Guide</p>
+
+                                </li>
                             </ul>
                         </div>
                     </div>
@@ -78,7 +82,7 @@
                                 <div class="de-flex-col">
                                     <!-- logo begin -->
                                     <div id="logo">
-                                        <a href="index.html">
+                                        <a href="index.php">
                                             <img class="logo-main" src="images/home/logo.png" alt="">
                                             <!-- <img class="logo-mobile" src="images/home/logo.png" alt=""> -->
                                         </a>
@@ -97,7 +101,7 @@
                                     <li><a class="menu-item" href="gallery.php">Gallery</a></li>
                                     <li><a class="menu-item" href="#-tickets">Exhibits</a></li>
                                     <li><a class="menu-item" href="resources.php">Resources</a></li>
-                                    <li><a class="menu-item" href="#-location">Connect</a></li>
+                                    <li><a class="menu-item" href="contact-us.php">Contact Us</a></li>
 
                                 </ul>
                             </div>

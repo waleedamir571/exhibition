@@ -540,7 +540,7 @@
                 <div class="pt-50 pb-30">
                 <div class="row">
                     <div class="col-md-12 text-center">
-                        <button type="button" class="btn btn-primary2">VIEW ALL PROJECTS</button>
+                        <button type="button" class="btn btn-primary1">VIEW ALL PROJECTS</button>
                     </div>
                 </div>
             </div>              

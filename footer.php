@@ -20,13 +20,16 @@
                     <div class="col-lg-2 offset-md-1 col-md-6">
                         <h5>About Us</h5>
                         <ul>
-                            <li><a href="#">Case Studies</a></li>
-                            <li><a href="#">Blog</a></li>
-                            <li><a href="#">Connect</a></li>
-                            <li><a href="#">Testimonials</a></li>
-                            <li><a href="#">FAQs</a></li>
-                            <li><a href="#">Upload</a></li>
-                            <li><a href="#">Pay</a></li>
+                            <li><a href="#">About Us</a></li>
+                            <li><a href="#">Meet The Team</a></li>
+                            <li><a href="#">Who We Serve
+                            </a></li>
+                            <li><a href="#">What We Do
+                            </a></li>
+                            <li><a href="#">Services</a></li>
+                            <li><a href="#">Production</a></li>
+                            <li><a href="#">Exhibits</a></li>
+                            <li><a href="#">Ask A Question</a></li>
                         </ul>
                     </div>
 
@@ -40,6 +43,8 @@
                             <li><a href="#">FAQs</a></li>
                             <li><a href="#">Upload</a></li>
                             <li><a href="#">Pay</a></li>
+                            <li><a href="#">Privacy Policy</a></li>
+                            <li><a href="#">Term of Services</a></li>
                         </ul>
                     </div>
 
@@ -76,10 +81,34 @@
     <script src="js/jquery.countdown.js"></script>
     <script src="js/countdown-custom.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script> -->
+
 
 </body>
 
 </html>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        let accordionButtons = document.querySelectorAll(".accordion-button");
+
+        accordionButtons.forEach(button => {
+            button.addEventListener("click", function () {
+                let icon = this.querySelector(".toggle-icon");
+
+                // Close all icons first
+                document.querySelectorAll(".toggle-icon").forEach(i => i.classList.replace("fa-minus", "fa-plus"));
+
+                // Toggle the clicked icon
+                if (!this.classList.contains("collapsed")) {
+                    icon.classList.replace("fa-plus", "fa-minus");
+                } else {
+                    icon.classList.replace("fa-minus", "fa-plus");
+                }
+            });
+        });
+    });
+</script>
 
 <script>
     var swiper = new Swiper(".mySwiper", {
@@ -158,6 +187,20 @@ window.onload = function() {
 </script>
 
 <script>
+document.addEventListener("DOMContentLoaded", function () {
+    let currentUrl = window.location.pathname.split("/").pop(); // Get current page file name
+    let menuItems = document.querySelectorAll("#mainmenu .menu-item");
+
+    menuItems.forEach(item => {
+        if (item.getAttribute("href") === currentUrl) {
+            item.classList.add("active"); // Add active class to the current page link
+        }
+    });
+});
+</script>
+
+
+<!-- <script>
     var swiper = new Swiper(".mySwiper", {
       effect: "coverflow",
       grabCursor: true,
@@ -174,4 +217,4 @@ window.onload = function() {
         el: ".swiper-pagination",
       },
     });
-  </script>
+  </script> -->

@@ -242,14 +242,18 @@
                                 <div class="c-item_wrap">
                                     <img class="w-100" src="images/resource/video1.png" class="lazy img-fluid" alt="">
                                     <div class="col-md-12">
-                                        <p class="p-text1 plf-20">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor
+                                        <p class="p-text1 plf-20">Lorem ipsum dolor sit amet, consectetur adipiscing
+                                            elit. Sed do eiusmod tempor
                                             incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                                            nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                                            fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+                                            nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                                            consequat.
+                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+                                            eu
+                                            fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
+                                            in
                                             culpa qui officia deserunt mollit anim id est laborum.</p>
                                     </div>
-                                  
+
                                 </div>
 
                             </div>
@@ -260,7 +264,8 @@
 
                                 <div class="c-item_wrap">
                                     <img class="w-100" src="images/resource/video1.png" class="lazy img-fluid" alt="">
-                                    <p class="p-text1 plf-20">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor
+                                    <p class="p-text1 plf-20">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                                        Sed do eiusmod tempor
                                         incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
                                         nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                                         Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
@@ -276,7 +281,8 @@
 
                                 <div class="c-item_wrap">
                                     <img class="w-100" src="images/resource/video1.png" class="lazy img-fluid" alt="">
-                                    <p class="p-text1 plf-20">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor
+                                    <p class="p-text1 plf-20">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                                        Sed do eiusmod tempor
                                         incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
                                         nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                                         Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
@@ -300,37 +306,22 @@
         </div>
     </div>
 
-    <div class="container">
-        <div class="row pt-50 pb-30">
 
-            <div class="row">
 
-                <div class="col-md-6">
+</section>
 
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us">Repair
-                            and refurbishment:</span> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
-                        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                        nostrud exer.</p>
+<section id="section-schedule" class="jarallax no-bottom">
 
-                    <h2 class="wow fadeInRight head-text1 animated animated" data-wow-delay=".3s"> <span
-                            class="about-us">
-
-                        </span>
-
-                        <h2 class="text-uppercase wow fadeInRight relax3 montserrat animated" data-wow-delay=".3s">
-
-                            Breathe . <span style="color: #514CA0;">Relax .</span>
-                            Laugh.
-
-                        </h2>
-
-                    </h2>
-
-                </div>
-                <div class="col-md-6">
-                    <img class="w-100" src="images/what-we-do/s2.png" alt="">
-                </div>
-
+    <div class="de-gradient-edge-top"></div>
+    <div class="container position-relative z1000">
+        <div class="row">
+            <div class="col-md-12 text-center wow fadeInUp">
+                <p class="about-us relax2 montserrat"> <img src="images/home/Line.png" alt=""> FAqs
+                    <img src="images/home/Line.png" alt="">
+                </p>
+                <br>
+                <p class="head-text1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+                <div class="spacer-single"></div>
             </div>
 
         </div>
@@ -338,66 +329,106 @@
 
     <div class="container">
         <div class="row pt-50 pb-30">
-
-            <div class="row">
-                <div class="col-md-6">
-                    <img class="w-100" src="images/what-we-do/s3.png" alt="">
-                </div>
-                <div class="col-md-5 offset-md-1 position-relative" data-jarallax-element="-60">
-
-                    <div class="position-relative z1000">
-
-                        <h2 class="text-uppercase wow fadeInRight head-text1 montserrat" data-wow-delay=".3s"><span
-                                class="about-us">relax </span> …
-
-                            we got this
-
+            <div class="col-md-6">
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button p-text" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                            </button>
                         </h2>
-
-                        <h2 class="text-uppercase wow fadeInRight relax3 montserrat animated" data-wow-delay=".3s">
-
-                            <span style="color: #514CA0;">Aluvision: <br></span>
-                            MODULAR DISPLAYS
-
-                        </h2>
-
-                        </p>
-                        <div class="row">
-                            <div class="col-md-12 ">
-                                <p class="wow fadeInRight head-text1" data-wow-delay=".4s">Lorem ipsum dolor sit amet,
-                                    consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                                    magna
-                                    aliqua.</p>
-                            </div>
-
-                        </div>
-
-                        <div class="row">
-
-
-                            <div class="col-md-12">
-
-                                <ul class="disc-none">
-                                    <li class="mission-text"><img src="images/about/tick.png" alt="">&nbsp; Lorem ipsum
-                                        dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                                        labore et dolore magna aliqua.</li>
-                                    <li class="mission-text"><img src="images/about/tick.png" alt="">&nbsp; Lorem ipsum
-                                        dolor sit amet, consectetur adipiscing elit.</li>
-                                    <li class="mission-text"><img src="images/about/tick.png" alt="">&nbsp; Lorem ipsum
-                                        dolor sit amet, consectetur adipiscing elit.</li>
-                                </ul>
-
+                        <div id="collapseOne" class="accordion-collapse collapse show"
+                            data-bs-parent="#accordionExample">
+                            <div class="accordion-body color-change">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
                             </div>
                         </div>
-
-                        <br>
-
                     </div>
-                    <!-- <img src="images/misc/circle-gradient.png"
-                        class="position-absolute top-50 start-50 translate-middle" alt=""> -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button p-text collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div class="accordion-body color-change">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button p-text collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                            </button>
+                        </h2>
+                        <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div class="accordion-body color-change">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button p-text collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapsefour" aria-expanded="false" aria-controls="collapsefour">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                            </button>
+                        </h2>
+                        <div id="collapsefour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div class="accordion-body color-change">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button p-text collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapsefive" aria-expanded="false" aria-controls="collapsefive">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                            </button>
+                        </h2>
+                        <div id="collapsefive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div class="accordion-body color-change">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button p-text collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapsesix" aria-expanded="false" aria-controls="collapsesix">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                            </button>
+                        </h2>
+                        <div id="collapsesix" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div class="accordion-body color-change">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                            </div>
+                        </div>
+                    </div>
                 </div>
-
             </div>
+            <div class="col-md-6">
+                <img class="w-100" src="images/resource/faqs.png" alt="">
+            </div>
+
+
 
         </div>
     </div>

@@ -473,7 +473,7 @@
                                     nisi ut aliquip ex ea commodo consequat.
                                 </p>
 
-                               <a href=""> <button type="button" class="btn btn-primary1 none">JOIN NOW</button></a>
+                               <a href="careers.php"> <button type="button" class="btn btn-primary1 none">JOIN NOW</button></a>
                             </div>
                         </div>
                     </div>

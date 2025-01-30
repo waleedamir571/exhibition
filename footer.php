@@ -173,17 +173,17 @@ $(this).addClass("active");
 
 
 <script>
-window.onload = function() {
-    // Default "active" tab ko set karo
-    const buttons = document.querySelectorAll(".filter-button");
+// window.onload = function() {
+//     // Default "active" tab ko set karo
+//     const buttons = document.querySelectorAll(".filter-button");
     
-    // Remove active class from all buttons
-    buttons.forEach(button => button.classList.remove("active"));
+//     // Remove active class from all buttons
+//     buttons.forEach(button => button.classList.remove("active"));
     
-    // Default active button set (first button in this case)
-    const defaultActiveButton = document.querySelector('[data-filter="all"]');
-    defaultActiveButton.classList.add("active");
-};
+//     // Default active button set (first button in this case)
+//     const defaultActiveButton = document.querySelector('[data-filter="all"]');
+//     defaultActiveButton.classList.add("active");
+// };
 
 
 </script>

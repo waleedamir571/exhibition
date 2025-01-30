@@ -80,6 +80,11 @@ Table of content:
 
 }
 
+.card-body {
+  padding-bottom: 25px;
+}
+
+
 .p-0 a {
   padding: 0px !important;
 }
@@ -963,11 +968,11 @@ line-height: 33px; /* 126.923% */
 .knowledge {
   color: #514CA0 !important;
   text-align: center;
-  font-size: 32px;
+  font-size: 30px;
   font-style: normal;
   font-weight: 700;
   line-height: 110%;
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 
 
@@ -1113,6 +1118,7 @@ html {
   padding: 0;
   margin: 0;
   background: #000000;
+  
 }
 
 body {
@@ -1124,9 +1130,13 @@ body {
   line-height: 1.8em;
   word-spacing: 0px;
   letter-spacing: -0.2px;
-  background-image: url(../images/contact/bg.png);
+  background-image: url("../images/contact/back.png");
   background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; /* Optional: Scroll effect */
+  height: 100vh;
+  width: 100vw;
 }
 
 .inria-sans {

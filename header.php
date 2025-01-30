@@ -20,6 +20,7 @@
     <link href="css/style.css" rel="stylesheet" type="text/css">
     <link href="css/coloring.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.css">
     <!-- color scheme -->
     <link id="colors" href="css/colors/blue-teal.css" rel="stylesheet" type="text/css">
 </head>
@@ -99,7 +100,7 @@
                                     <li><a class="menu-item" href="who-we-serve.php">Who We Serve</a></li>
                                     <li><a class="menu-item" href="what-we-do.php">What We Do</a></li>
                                     <li><a class="menu-item" href="gallery.php">Gallery</a></li>
-                                    <li><a class="menu-item" href="#-tickets">Exhibits</a></li>
+                                    <li><a class="menu-item" href="exhibits.php">Exhibits</a></li>
                                     <li><a class="menu-item" href="resources.php">Resources</a></li>
                                     <li><a class="menu-item" href="contact-us.php">Contact Us</a></li>
 

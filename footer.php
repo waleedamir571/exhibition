@@ -201,6 +201,21 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 </script>
 
+<script>
+ $(document).ready(function () {
+    $(".image-box").hover(
+        function () {
+            $(this).siblings().css("width", "10%");
+        },
+        function () {
+            $(".image-box").css("width", "30%");
+        }
+    );
+});
+
+
+</script>
+
 
 <!-- <script>
     var swiper = new Swiper(".mySwiper", {

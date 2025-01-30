@@ -68,8 +68,13 @@
           
         <div class="swiper mySwiper">
     <div class="swiper-wrapper">
-      <div class="swiper-slide"><img class="w-100" src="images/serve/slide.png" alt=""></div>
-      <div class="swiper-slide"><img class="w-100" src="images/serve/slide.png" alt=""></div>
+      <div class="swiper-slide"><a href="technology.php"> <img class="w-100" src="images/serve/slide.png" alt=""> </a></div>
+      <div class="swiper-slide"><a href="electronics.php"> <img class="w-100" src="images/serve/electronic.png" alt=""></a></div>
+      <div class="swiper-slide"><a href="healthcare.php"> <img class="w-100" src="images/serve/health.png" alt=""></a></div>
+      <div class="swiper-slide"><a href="automotive.php"> <img class="w-100" src="images/serve/auto.png" alt=""></a></div>
+      <div class="swiper-slide"><a href="retail.php"> <img class="w-100" src="images/serve/retail.png" alt=""></a></div>
+      <div class="swiper-slide"><a href="consumer-goods.php"> <img class="w-100" src="images/serve/consumers.png" alt=""></a></div>
+      <div class="swiper-slide"><a href="financial-services.php"> <img class="w-100" src="images/serve/finice.png" alt=""></a></div>
      
     </div>
     <div class="swiper-button-next"></div>

@@ -60,6 +60,32 @@
         </div>
     </div>
     <div class="container">
+
+        <div class="row pt-50 pb-30">
+     
+        <?php include 'tickets.php'; ?>
+        </div>
+       
+    </div>
+</section>
+
+<section>
+
+    <div class="container position-relative z1000">
+        <div class="row">
+            <div class="col-md-12 text-center wow fadeInUp">
+                <p class="about-us relax2 montserrat"> <img src="images/home/Line.png" alt=""> Trade show services
+
+                </p>
+                <br>
+                <p class="head-text1">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                <div class="spacer-single"></div>
+            </div>
+
+
+        </div>
+    </div>
+    <div class="container">
         <!-- <div class="row">
             <div class="col-lg-8 offset-lg-2 text-center">
                 <h1 class="text-uppercase"><span class="wow fadeInUp">December</span> <span
@@ -133,8 +159,7 @@
     <div class="container position-relative z1000">
         <div class="row">
             <div class="col-md-12 text-center wow fadeInUp">
-                <p class="about-us relax2 montserrat"> <img src="images/home/Line.png" alt=""> Project and Program
-                    Management
+                <p class="about-us relax2 montserrat"> <img src="images/home/Line.png" alt=""> Custom Exhibit Design
                     <img src="images/home/Line.png" alt="">
                 </p>
                 <br>
@@ -174,7 +199,7 @@
 
                         <p class="card-title knowledge">Project management </p>
                         <p class="guide text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
-                            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam t.</p>
+                            eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 
 
 

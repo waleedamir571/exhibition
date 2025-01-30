@@ -430,7 +430,7 @@
                                     nisi ut aliquip ex ea commodo consequat.
                                 </p>
 
-                                <button type="button" class="btn btn-primary1 none">WHAT’S THE BUZZ!</button>
+                              <a href="newsroom.php">  <button type="button" class="btn btn-primary1 none">WHAT’S THE BUZZ!</button></a>
                             </div>
                         </div>
                     </div>
@@ -442,7 +442,7 @@
                 <img class="w-100" src="images/about/new-sec.png" alt="">
             </div>
 
-            <div class="de-gradient-edge-bottom"></div>
+           
 </section>
 
 <section id="section-schedule">
@@ -473,7 +473,7 @@
                                     nisi ut aliquip ex ea commodo consequat.
                                 </p>
 
-                                <button type="button" class="btn btn-primary1 none">JOIN NOW</button>
+                               <a href=""> <button type="button" class="btn btn-primary1 none">JOIN NOW</button></a>
                             </div>
                         </div>
                     </div>
@@ -490,7 +490,7 @@
     <div class="container position-relative z1000">
         <div class="row align-items-center pt-50">
             <div class="col-lg-12">
-                <img class="w-100" src="images/about/sec-gr.svg" alt="">
+               <a href="corporate-responsibility.php"> <img class="w-100" src="images/about/sec-gr.svg" alt=""></a>
             </div>
            
 

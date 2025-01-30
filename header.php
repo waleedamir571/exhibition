@@ -58,10 +58,10 @@
                     <div class="col-lg-4 text-lg-end text-sm-center">
                         <ul id="mainmenu">
                             <li>
-                                <p>713.290.1212</p>
+                             <div class="p-0"> <a href="tel:7132901212%20">  <p>713.290.1212</p> </a> </div>
                             </li>
                             <li>
-                                <p>info@exhibithouston.com</p>
+                            <div class="p-0"> <a href="mailto:info@exhibithouston.com">   <p>info@exhibithouston.com</p></a></div>
 
                             </li>
                         </ul>

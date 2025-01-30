@@ -19,7 +19,7 @@
                                 <div class="col-md-6 mb-sm-30 ">
 
                                     <p class=" text-uppercase mb-3 head-text"> <span class="wow fadeInRight"
-                                            data-wow-delay=".2s">Technology</span></p>
+                                            data-wow-delay=".2s">Retail</span></p>
                                     <p class="wow fadeInUp head-text1 animated" data-wow-delay=".3s">Never worry about
                                         your trade show exhibit again. With Exhibit Network, you can be confident all
                                         your trade show experiences will be seamless and stress-free.Trust us…we got
@@ -29,7 +29,7 @@
                                 </div>
                                 <div class="col-md-6 mb-sm-30 text-center">
 
-                                    <img src="images/technology/head.png" alt="">
+                                    <img src="images/technology/retail.png" alt="">
                                 </div>
 
                             </div>
@@ -53,12 +53,12 @@
     <div class="container position-relative z1000">
         <div class="row">
             <div class="col-md-12 text-center wow fadeInUp">
-                <p class="about-us relax2 montserrat"> <img src="images/home/Line.png" alt=""> Technology Trade Shows  <img src="images/home/Line.png" alt="">
+                <p class="about-us relax2 montserrat"> <img src="images/home/Line.png" alt=""> Retail Trade Shows
+                    <img src="images/home/Line.png" alt="">
                 </p>
                 <br>
-                <p class="head-text1">The technology industry is evolving rapidly, and trade shows provide the perfect
-                    platform to showcase innovations, network with industry leaders, and discover cutting-edge
-                    solutions.
+                <p class="head-text1">Retail trade shows bring together brands, e-commerce leaders, and technology
+                    providers to explore new shopping experiences.
                 </p>
                 <div class="spacer-single"></div>
             </div>
@@ -72,7 +72,7 @@
 
             <div class="row">
                 <div class="col-md-12">
-                    <img class="w-100" src="images/technology/as.png" alt="">
+                    <img class="w-100" src="images/technology/retail2.png" alt="">
                 </div>
             </div>
 
@@ -91,20 +91,18 @@
                             <h2 class="text-uppercase wow fadeInRight relax3 montserrat animated animated"
                                 data-wow-delay=".3s">
 
-                                Major <span style="color: #514CA0;">Technology</span>
+                                Top <span style="color: #514CA0;">Retail</span>
                                 Trade Shows:
                             </h2>
                         </div>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us">
-                                🔹 CES (Consumer Electronics Show)</span> – The world’s leading tech event showcasing
-                            AI, IoT, and smart devices.</p>
+                                🔹 NRF Big Show</span> – The largest retail event covering omnichannel strategies and innovations.</p>
                         <br>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us">🔹
-                                MWC (Mobile World Congress)</span> – A premier event for mobile technology, 5G, and
-                            connectivity trends.</p>
+                            Retail Expo</span> – Showcasing trends in store design, AI-driven retail, and consumer behavior.</p>
                         <br>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us">🔹
-                                Web Summit</span> – A hub for startups, investors, and tech enthusiasts worldwide.
+                            Shoptalk</span> – A must-attend for brands looking to disrupt retail with technology.
                         </p>
                         <br>
 
@@ -117,35 +115,32 @@
                     class="position-absolute top-50 start-50 translate-middle" alt=""> -->
             </div>
 
-            <div class="col-md-6 position-relative" >
+            <div class="col-md-6 position-relative">
 
-              
 
-                    <div class="row">
-                        <div class="col-md-12 ">
 
-                            <h2 class="text-uppercase wow fadeInRight relax3 montserrat animated animated"
-                                data-wow-delay=".3s">
+                <div class="row">
+                    <div class="col-md-12 ">
 
-                                <span style="color: #514CA0;">Why Exhibit?</span>
+                        <h2 class="text-uppercase wow fadeInRight relax3 montserrat animated animated"
+                            data-wow-delay=".3s">
 
-                            </h2>
-                        </div>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> ✅ Demonstrate new software,
-                            hardware, and AI-powered solutions.</p>
-                        <br>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s">✅ Connect with investors,
-                            tech buyers, and industry influencers.</p>
-                        <br>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> ✅ Stay updated on emerging
-                            trends like blockchain, cloud computing, and cybersecurity.
-                        </p>
-                        <br>
+                            <span style="color: #514CA0;">Why Exhibit?</span>
 
+                        </h2>
                     </div>
+                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> ✅ Display the latest retail technology, from AI to POS systems.</p>
                     <br>
-               
-               
+                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s">✅ Connect with major retail chains and decision-makers.</p>
+                    <br>
+                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s">✅ Gain insights into consumer shopping habits and future trends.
+                    </p>
+                    <br>
+
+                </div>
+                <br>
+
+
             </div>
 
         </div>

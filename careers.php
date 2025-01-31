@@ -210,7 +210,6 @@
 
                     </div>
 
-
                     <!-- <button type="button" class="btn btn-primary1 w-100">DOWNLOAD NOW</button> -->
 
                     <br>

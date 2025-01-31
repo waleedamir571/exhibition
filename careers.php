@@ -1,8 +1,5 @@
 <?php include 'header.php'; ?>
 
-
-
-
 <section id="de-carousel section-schedule" class="no-top no-bottom carousel slide carousel-fade "
     data-mdb-ride="carousel">
     <!-- Indicators -->
@@ -48,15 +45,11 @@
 <section>
     <div class="container">
 
-
-
-
         <div class="row align-items-center">
 
             <div class="col-md-6 position-relative" data-jarallax-element="-60">
                 <p class="about-us">We are hiring </p>
                 <div class="position-relative z1000">
-
 
                     <div class="row">
                         <div class="col-md-12 ">
@@ -101,7 +94,6 @@
                         <li class="head-text1"><img src="images/contact/location.png" alt="">  Remote</li>
                         <li class="head-text1"><img src="images/contact/time.png" alt=""> Full-time</li>
 
-
                     </ul>
 
                     <div class="row">
@@ -119,8 +111,7 @@
                         <ul>
                             <li class="head-text1"><img src="images/contact/location.png" alt="">  Remote</li>
                             <li class="head-text1"><img src="images/contact/time.png" alt=""> Full-time</li>
-    
-    
+        
                         </ul>
     
                         <div class="row">
@@ -138,8 +129,7 @@
                             <ul>
                                 <li class="head-text1"><img src="images/contact/location.png" alt="">  Remote</li>
                                 <li class="head-text1"><img src="images/contact/time.png" alt=""> Full-time</li>
-        
-        
+                
                             </ul>
         
                             <div class="row">
@@ -157,8 +147,7 @@
                                 <ul>
                                     <li class="head-text1"><img src="images/contact/location.png" alt="">  Remote</li>
                                     <li class="head-text1"><img src="images/contact/time.png" alt=""> Full-time</li>
-            
-            
+                        
                                 </ul>
             
                                 <div class="row">
@@ -176,8 +165,7 @@
                                     <ul>
                                         <li class="head-text1"><img src="images/contact/location.png" alt="">  Remote</li>
                                         <li class="head-text1"><img src="images/contact/time.png" alt=""> Full-time</li>
-                
-                
+                                
                                     </ul>
                 
                                     <div class="row">
@@ -267,7 +255,6 @@
                     <button type="button" class="btn btn-primary1 ">submit</button>
                 </form>
             </div>
-
 
         </div>
     </div>

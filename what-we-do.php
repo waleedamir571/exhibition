@@ -182,7 +182,7 @@
 
                         <p class="card-title knowledge">Decision guide</p>
                         <p class="guide text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
-                            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+                            eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 
 
 

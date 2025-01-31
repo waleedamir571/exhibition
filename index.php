@@ -3,28 +3,14 @@
         <!-- header close -->
         <!-- content begin -->
         <div class="no-bottom no-top" id="content">
-            <!-- float text begin -->
-            <!-- <div class="float-text">
-                <div class="de_social-icons">
-                    <a href="#"><i class="fa fa-facebook fa-lg"></i></a>
-                    <a href="#"><i class="fa fa-twitter fa-lg"></i></a>
-                    <a href="#"><i class="fa fa-instagram fa-lg"></i></a>
-                </div>
-                <span><a href="tickets.html">Get Ticket</a></span>
-            </div> -->
-            <!-- float text close -->
-
-            <!-- <div id="top"></div> -->
-            <section id="de-carousel" class="no-top no-bottom carousel slide carousel-fade bg2"
+          
+            <section  class="no-top no-bottom  bg2"
                 data-mdb-ride="carousel">
-                <!-- Indicators -->
-
-
-                <!-- Inner -->
+               
                 <div class="">
-                    <div class="carousel-inner position-relative">
+                    <div class=" position-relative">
                         <!-- Single item -->
-                        <div class="carousel-item active jarallax">
+                        <div class=" jarallax">
                             <img src="images/slider/1.jpg" class="jarallax-img" alt="">
                             <div class="mask">
                                 <div class="h-100 v-center">

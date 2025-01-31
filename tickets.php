@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hover Expand Effect</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css">
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css"> -->
     <link rel="stylesheet" href="styles.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 </head>
@@ -105,12 +105,7 @@
 
 <style>
     /* General Page Styles */
-    body {
-        background-color: #121212;
-        color: white;
-        font-family: Arial, sans-serif;
-    }
-
+  
     .card1 {
     border: 0;
     -webkit-box-shadow: 0 10px 20px 0 rgba(0, 0, 0, .05);

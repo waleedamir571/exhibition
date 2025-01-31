@@ -80,6 +80,10 @@ Table of content:
 
 }
 
+.d-none1 a {
+  padding: 0px !important;
+}
+
 .scroll1 {
   overflow-x: hidden;
   height: 30rem;
@@ -990,7 +994,7 @@ line-height: 33px; /* 126.923% */
 
 .v-center1 {
   /* background-color: black; */
-  background-image: url('../images/contact/bg.png');
+  background-image: url(../images/contact/bg.png);
   background-repeat: no-repeat;
   background-size: 100% 100%;
   min-height: 100%;
@@ -998,6 +1002,7 @@ line-height: 33px; /* 126.923% */
   display: flex
 ;
   align-items: center;
+  padding-top: 25px;
 }
 
 .knowledge {
@@ -1007,7 +1012,7 @@ line-height: 33px; /* 126.923% */
   font-style: normal;
   font-weight: 700;
   line-height: 110%;
-  text-transform: capitalize;
+  text-transform: uppercase;
 }
 
 
@@ -1822,7 +1827,7 @@ header .header-col.mid .social-icons {
 #mainmenu a {
   position: relative;
   display: inline-block;
-  padding: 30px 0;
+  padding: 35px 0;
   text-decoration: none;
   color: #ffffff;
   text-align: center;
@@ -2625,7 +2630,7 @@ text-transform: capitalize;
 }
 
 .dark-scheme footer a {
-  color: var(--dark-body-font-color);
+  color: white;
 }
 
 footer.footer-black {
@@ -19690,6 +19695,35 @@ img {
     display: none;
   }
 
+  .up-head {
+    color: #514CA0;
+    text-align: center;
+    font-size: 43px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.3;
+    text-transform: uppercase;
+    line-height: 130p;
+}
+
+.v-center {
+  background-image: url(../images/home/bg2.png);
+  background-repeat: no-repeat;
+  background-size: cover !important;
+  /* min-height: 100%; */
+  height: 22rem !important;
+  min-height: auto !important;
+}
+
+.relax-new {
+  color: #514CA0;
+  text-align: center;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+}
+
   .d_profile {
     display: block;
   }
@@ -19886,6 +19920,28 @@ img {
     font-style: normal;
     font-weight: 700;
     line-height: 40px;
+}
+
+.plf-20 {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 20px;
+}
+
+.exhibit1 {
+  color: #FFF;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20.6px;
+  letter-spacing: -0.572px;
+  padding-top: 26px;
+}
+
+
+
+.d-none1{
+  display: none;
 }
 
 .de-marquee-list .d-item-block {

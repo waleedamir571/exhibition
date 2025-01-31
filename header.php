@@ -32,21 +32,21 @@
         <div id="de-loader"></div>
         <!-- page preloader close -->
         <div class="headbg">
-            <div class="container">
+            <div class="container d-none1 ">
                 <div class="row g-4">
 
                     <div class="col-lg-5 text-lg-start text-sm-center">
                         <div class="social-icons">
                             <ul id="mainmenu">
                                 <li>
-                                    <p>play</p>
+                                    <p class="d-none1">Pay</p>
                                 </li>
                                 <li>
-                                    <p>Upload</p>
+                                  <p class="d-none1"><a href="upload.php"> Upload </a></p>
 
                                 </li>
                                 <li>
-                                    <p>Happy Hour Guide</p>
+                                    <p >Happy Hour Guide</p>
 
                                 </li>
                             </ul>

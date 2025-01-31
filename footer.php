@@ -20,15 +20,15 @@
                     <div class="col-lg-2 offset-md-1 col-md-6">
                         <h5>About Us</h5>
                         <ul>
-                            <li><a href="#">About Us</a></li>
+                            <li><a href="about.php">About Us</a></li>
                             <li><a href="#">Meet The Team</a></li>
-                            <li><a href="#">Who We Serve
+                            <li><a href="who-we-serve.php">Who We Serve
                             </a></li>
-                            <li><a href="#">What We Do
+                            <li><a href="what-we-do.php">What We Do
                             </a></li>
                             <li><a href="#">Services</a></li>
                             <li><a href="#">Production</a></li>
-                            <li><a href="#">Exhibits</a></li>
+                            <li><a href="exhibits.php">Exhibits</a></li>
                             <li><a href="#">Ask A Question</a></li>
                         </ul>
                     </div>
@@ -37,12 +37,19 @@
                         <h5>Resources</h5>
                         <ul>
                             <li><a href="#">Case Studies</a></li>
+                            <br>
                             <li><a href="#">Blog</a></li>
-                            <li><a href="#">Connect</a></li>
+                            <br>
+                            <li><a href="contact-us.php">Connect</a></li>
+                            <br>
                             <li><a href="#">Testimonials</a></li>
+                            <br>
                             <li><a href="#">FAQs</a></li>
-                            <li><a href="#">Upload</a></li>
+                            <br>
+                            <li><a href="upload.php">Upload</a></li>
+                            <br>
                             <li><a href="#">Pay</a></li>
+                            <br>
                             <li><a href="#">Privacy Policy</a></li>
                             <li><a href="#">Term of Services</a></li>
                         </ul>
@@ -53,8 +60,8 @@
                         <h5>Contact Us</h5>
                         <p><img class="w-10" src="images/home/location.png" alt=""> EXHIBIT NETWORK, LLC<br>3434 Lang
                             Rd, Houston TX 77092</p>
-                        <p><img class="w-10" src="images/home/call.png" alt=""> 713.290.1212</p>
-                        <p><img class="w-10" src="images/home/sms.png" alt=""> info@exhibithouston.com</p>
+                        <p> <img class="w-10" src="images/home/call.png" alt=""><a href="tel:7132901212%20"> 713.290.1212</a></p>
+                        <p><a href="mailto:info@exhibithouston.com"> <img class="w-10" src="images/home/sms.png" alt=""> info@exhibithouston.com </a></p>
                         <div class="social-icons">
                             <a href="#"><img src="images/home/twitter.png" alt=""></a>
                             <a href="#"><img src="images/home/fb (2).png" alt=""></a>

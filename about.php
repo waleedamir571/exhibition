@@ -483,7 +483,7 @@
             </div>
 
 
-            <div class="de-gradient-edge-bottom"></div>
+          
 </section>
 
 <section id="section-schedule">

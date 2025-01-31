@@ -1,8 +1,6 @@
 <?php include 'header.php'; ?>
 
-<style>
-    
-</style>
+
 
 
 <section id="de-carousel section-schedule" class="no-top no-bottom carousel slide carousel-fade "

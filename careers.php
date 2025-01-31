@@ -1,5 +1,9 @@
 <?php include 'header.php'; ?>
 
+<style>
+    
+</style>
+
 
 <section id="de-carousel section-schedule" class="no-top no-bottom carousel slide carousel-fade "
     data-mdb-ride="carousel">
@@ -46,7 +50,7 @@
 <section>
     <div class="container">
 
-      
+
 
 
         <div class="row align-items-center">
@@ -66,11 +70,12 @@
 
                             </h2>
                         </div>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> Lorem ipsum dolor sit amet, consectetur adipiscing
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> Lorem ipsum dolor sit amet,
+                            consectetur adipiscing
                             elit. Proin eget tortor risus. Pellentesque in ipsum id orci porta dapibus. Curabitur arcu
                             erat, accumsan id imperdiet et, porttitor at sem. Sed porttitor lectus nibh.</p>
-                            <img src="images/contact/careers1.png" class="d-img-1" alt="">
-                        
+                        <img src="images/contact/careers1.png" class="d-img-1" alt="">
+
                     </div>
 
                     <br>
@@ -80,15 +85,114 @@
                     class="position-absolute top-50 start-50 translate-middle" alt=""> -->
             </div>
 
-            <div class="col-lg-6  position-relative">
-                <div class="images-deco-1">
-                    <img src="images/corporate/s2.png" class="d-img-1" alt="">
-                    <!-- <img src="images/misc/dotted.png" class="d-img-2" alt="" data-jarallax-element="40"> -->
-                    <div class="d-img-3 bg-color"></div>
-                </div>
-            </div>
+            <div class="col-lg-6  position-relative br-10">
+                <h2 class="text-uppercase wow fadeInRight relax3 montserrat animated animated" data-wow-delay=".3s">
 
+                    OPEN POSITIONS
+
+                </h2>
+
+                <div class="scroll1">
+                <div class="">
+                <p class="p-text">Product Designer</p>
+                <p class="guide text-left"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget tortor risus.
+                    Pellentesque in ipsum id orci porta dapibus. Curabitur arcu erat, accumsan id imperdiet et,
+                    porttitor at sem. Sed porttitor lectus nibh.</p>
+
+                    <ul>
+                        <li class="head-text1"><img src="images/contact/location.png" alt="">  Remote</li>
+                        <li class="head-text1"><img src="images/contact/time.png" alt=""> Full-time</li>
+
+
+                    </ul>
+
+                    <div class="row">
+                        <div class="col-md-4 offset-md-8">
+                            <a href="#" class="btn-line">Apply &nbsp; <img src="images/contact/arrow.png" alt=""></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="">
+                    <p class="p-text">Account Executive</p>
+                    <p class="guide text-left"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget tortor risus.
+                        Pellentesque in ipsum id orci porta dapibus. Curabitur arcu erat, accumsan id imperdiet et,
+                        porttitor at sem. Sed porttitor lectus nibh.</p>
+    
+                        <ul>
+                            <li class="head-text1"><img src="images/contact/location.png" alt="">  Remote</li>
+                            <li class="head-text1"><img src="images/contact/time.png" alt=""> Full-time</li>
+    
+    
+                        </ul>
+    
+                        <div class="row">
+                            <div class="col-md-4 offset-md-8">
+                                <a href="#" class="btn-line">Apply &nbsp;<img src="images/contact/arrow.png" alt=""></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="">
+                        <p class="p-text">Marketing Manager</p>
+                        <p class="guide text-left"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget tortor risus.
+                            Pellentesque in ipsum id orci porta dapibus. Curabitur arcu erat, accumsan id imperdiet et,
+                            porttitor at sem. Sed porttitor lectus nibh.</p>
+        
+                            <ul>
+                                <li class="head-text1"><img src="images/contact/location.png" alt="">  Remote</li>
+                                <li class="head-text1"><img src="images/contact/time.png" alt=""> Full-time</li>
+        
+        
+                            </ul>
+        
+                            <div class="row">
+                                <div class="col-md-4 offset-md-8">
+                                    <a href="#" class="btn-line">Apply &nbsp;<img src="images/contact/arrow.png" alt=""></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="">
+                            <p class="p-text">Marketing Manager</p>
+                            <p class="guide text-left"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget tortor risus.
+                                Pellentesque in ipsum id orci porta dapibus. Curabitur arcu erat, accumsan id imperdiet et,
+                                porttitor at sem. Sed porttitor lectus nibh.</p>
+            
+                                <ul>
+                                    <li class="head-text1"><img src="images/contact/location.png" alt="">  Remote</li>
+                                    <li class="head-text1"><img src="images/contact/time.png" alt=""> Full-time</li>
+            
+            
+                                </ul>
+            
+                                <div class="row">
+                                    <div class="col-md-4 offset-md-8">
+                                        <a href="#" class="btn-line">Apply &nbsp;<img src="images/contact/arrow.png" alt=""></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="">
+                                <p class="p-text">Marketing Manager</p>
+                                <p class="guide text-left"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget tortor risus.
+                                    Pellentesque in ipsum id orci porta dapibus. Curabitur arcu erat, accumsan id imperdiet et,
+                                    porttitor at sem. Sed porttitor lectus nibh.</p>
+                
+                                    <ul>
+                                        <li class="head-text1"><img src="images/contact/location.png" alt="">  Remote</li>
+                                        <li class="head-text1"><img src="images/contact/time.png" alt=""> Full-time</li>
+                
+                
+                                    </ul>
+                
+                                    <div class="row">
+                                        <div class="col-md-4 offset-md-8">
+                                            <a href="#" class="btn-line">Apply &nbsp;<img src="images/contact/arrow.png" alt=""></a>
+                                        </div>
+                                    </div>
+                                </div>
+                    </div>
+            </div>
         </div>
+
+    </div>
     </div>
 </section>
 

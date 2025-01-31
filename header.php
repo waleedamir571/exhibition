@@ -108,7 +108,7 @@
                             </div>
                             <div class="de-flex-col">
                                 <div class="menu_side_area">
-                                    <a href="tickets.html" class="btn-line">Get A Quote</a>
+                                    <a href="contact-us.php" class="btn-line">Get A Quote</a>
                                     <span id="menu-btn"></span>
                                 </div>
                             </div>

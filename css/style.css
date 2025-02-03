@@ -80,6 +80,23 @@ Table of content:
 
 }
 
+.c-151 {
+  color: #FFF;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 90px;
+  text-transform: lowercase;
+}
+
+.left-front {
+  color: #070713;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  text-transform: uppercase;
+}
 .d-none1 a {
   padding: 0px !important;
 }
@@ -500,7 +517,7 @@ letter-spacing: -0.572px;
 }
 
 .tab-content {
-  display: none;
+  /* display: none; */
   animation: fadeIn 0.5s ease;
 }
 
@@ -12979,7 +12996,7 @@ text-transform: uppercase;
 /* marquee plugin close */
 
 .de-gradient-edge-top {
-  z-index: 1;
+  z-index: -1;
   position: absolute;
   top: 0;
   width: 100%;

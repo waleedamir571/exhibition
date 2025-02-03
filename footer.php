@@ -80,6 +80,140 @@
         <!-- footer close -->
     </div>
 
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-xl">
+            <div class="modal-content">
+                <div class="modal-header">
+                    
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+    
+                    <!-- Tabs Navigation -->
+                    <ul class="nav nav-tabs" id="myTab" role="tablist">
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link active" id="tab1-tab" data-bs-toggle="tab" data-bs-target="#tab1" type="button" role="tab">Left Front   </button>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link" id="tab2-tab" data-bs-toggle="tab" data-bs-target="#tab2" type="button" role="tab">Front</button>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link" id="tab3-tab" data-bs-toggle="tab" data-bs-target="#tab3" type="button" role="tab">Right Front</button>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link" id="tab4-tab" data-bs-toggle="tab" data-bs-target="#tab4" type="button" role="tab">Left Rear</button>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link" id="tab5-tab" data-bs-toggle="tab" data-bs-target="#tab5" type="button" role="tab">Right Rear</button>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link" id="tab5-tab" data-bs-toggle="tab" data-bs-target="#tab5" type="button" role="tab">Elevated</button>
+                        </li>
+                    </ul>
+    
+                    <!-- Tabs Content -->
+                    <div class="tab-content mt-3" id="myTabContent">
+                        <!-- Tab 1 Content -->
+                        <div class="tab-pane  show active" id="tab1" role="tabpanel">
+                            <div class="row align-items-center">
+                                <div class="col-md-6">
+                                    <img src="images/exhibit/e1.png" class="img-fluid" alt="Image 1">
+                                </div>
+                                <div class="col-md-6">
+                                    <p class="c-151">C-150 20x20</p>
+                                    <p class="left-front">LEFT FRONT</p>
+                                    <p class="head-text1">C-150 is a custom 20 x 20 exhibit with features including a 10 x 20 conference room with SEG fabric exterior/interior graphics,
+                                         conference table/chairs, circular hanging SEG graphic sign, HD monitor, premium curved counter with storage, coffee service, 
+                                         and bistro table with bar stools.</p>
+
+                                         <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+
+                                </div>
+                            </div>
+                        </div>
+    
+                        <!-- Tab 2 Content -->
+                        <div class="tab-pane " id="tab2" role="tabpanel">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <img src="images/exhibit/e1.png" class="img-fluid" alt="Image 2">
+                                </div>
+                                <div class="col-md-6">
+                                    <p class="c-151">C-150 20x20</p>
+                                    <p class="left-front">Front</p>
+                                    <p class="head-text1">C-150 is a custom 20 x 20 exhibit with features including a 10 x 20 conference room with SEG fabric exterior/interior graphics,
+                                         conference table/chairs, circular hanging SEG graphic sign, HD monitor, premium curved counter with storage, coffee service, 
+                                         and bistro table with bar stools.</p>
+
+                                         <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                                </div>
+                            </div>
+                        </div>
+    
+                        <!-- Tab 3 Content -->
+                        <div class="tab-pane " id="tab3" role="tabpanel">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <img src="images/exhibit/e1.png" class="img-fluid" alt="Image 3">
+                                </div>
+                                <div class="col-md-6">
+                                    <p class="c-151">C-150 20x20</p>
+                                    <p class="left-front">Right Front</p>
+                                    <p class="head-text1">C-150 is a custom 20 x 20 exhibit with features including a 10 x 20 conference room with SEG fabric exterior/interior graphics,
+                                         conference table/chairs, circular hanging SEG graphic sign, HD monitor, premium curved counter with storage, coffee service, 
+                                         and bistro table with bar stools.</p>
+
+                                         <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                                </div>
+                            </div>
+                        </div>
+    
+                        <!-- Tab 4 Content -->
+                        <div class="tab-pane " id="tab4" role="tabpanel">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <img src="images/exhibit/e1.png" class="img-fluid" alt="Image 4">
+                                </div>
+                                <div class="col-md-6">
+                                    <p class="c-151">C-150 20x20</p>
+                                    <p class="left-front">Right Rear</p>
+                                    <p class="head-text1">C-150 is a custom 20 x 20 exhibit with features including a 10 x 20 conference room with SEG fabric exterior/interior graphics,
+                                         conference table/chairs, circular hanging SEG graphic sign, HD monitor, premium curved counter with storage, coffee service, 
+                                         and bistro table with bar stools.</p>
+
+                                         <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                                </div>
+                            </div>
+                        </div>
+    
+                        <!-- Tab 5 Content -->
+                        <div class="tab-pane " id="tab5" role="tabpanel">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <img src="images/exhibit/e1.png" class="img-fluid" alt="Image 5">
+                                </div>
+                                <div class="col-md-6">
+                                    <p class="c-151">C-150 20x20</p>
+                                    <p class="left-front">Right Rear</p>
+                                    <p class="head-text1">C-150 is a custom 20 x 20 exhibit with features including a 10 x 20 conference room with SEG fabric exterior/interior graphics,
+                                         conference table/chairs, circular hanging SEG graphic sign, HD monitor, premium curved counter with storage, coffee service, 
+                                         and bistro table with bar stools.</p>
+
+                                         <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+    
+                </div>
+                <!-- <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary">Save changes</button>
+                </div> -->
+            </div>
+        </div>
+    </div>
+
     <!-- Javascript Files
     ================================================== -->
     <script src="js/plugins.js"></script>
@@ -96,6 +230,7 @@
 </body>
 
 </html>
+
 
 <script>
     document.addEventListener("DOMContentLoaded", function () {

@@ -80,7 +80,7 @@
         <!-- footer close -->
     </div>
 
-    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal fade" id="exampleModal10" tabindex="-1" aria-labelledby="exampleModalLabel10" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered modal-xl">
             <div class="modal-content">
                 <div class="modal-header">
@@ -92,29 +92,29 @@
                     <!-- Tabs Navigation -->
                     <ul class="nav nav-tabs" id="myTab" role="tablist">
                         <li class="nav-item" role="presentation">
-                            <button class="nav-link active" id="tab1-tab" data-bs-toggle="tab" data-bs-target="#tab1" type="button" role="tab">Left Front   </button>
+                            <button class="nav-link active" id="tab1-tab" data-bs-toggle="tab" data-bs-target="#tab11" type="button" role="tab">Left Front </button>
                         </li>
                         <li class="nav-item" role="presentation">
-                            <button class="nav-link" id="tab2-tab" data-bs-toggle="tab" data-bs-target="#tab2" type="button" role="tab">Front</button>
+                            <button class="nav-link" id="tab2-tab" data-bs-toggle="tab" data-bs-target="#tab22" type="button" role="tab">Front</button>
                         </li>
                         <li class="nav-item" role="presentation">
-                            <button class="nav-link" id="tab3-tab" data-bs-toggle="tab" data-bs-target="#tab3" type="button" role="tab">Right Front</button>
+                            <button class="nav-link" id="tab3-tab" data-bs-toggle="tab" data-bs-target="#tab33" type="button" role="tab">Right Front</button>
                         </li>
                         <li class="nav-item" role="presentation">
-                            <button class="nav-link" id="tab4-tab" data-bs-toggle="tab" data-bs-target="#tab4" type="button" role="tab">Left Rear</button>
+                            <button class="nav-link" id="tab4-tab" data-bs-toggle="tab" data-bs-target="#tab44" type="button" role="tab">Left Rear</button>
                         </li>
                         <li class="nav-item" role="presentation">
-                            <button class="nav-link" id="tab5-tab" data-bs-toggle="tab" data-bs-target="#tab5" type="button" role="tab">Right Rear</button>
+                            <button class="nav-link" id="tab5-tab" data-bs-toggle="tab" data-bs-target="#tab555" type="button" role="tab">Right Rear</button>
                         </li>
                         <li class="nav-item" role="presentation">
-                            <button class="nav-link" id="tab5-tab" data-bs-toggle="tab" data-bs-target="#tab5" type="button" role="tab">Elevated</button>
+                            <button class="nav-link" id="tab5-tab" data-bs-toggle="tab" data-bs-target="#tab56" type="button" role="tab">Elevated</button>
                         </li>
                     </ul>
     
                     <!-- Tabs Content -->
                     <div class="tab-content mt-3" id="myTabContent">
                         <!-- Tab 1 Content -->
-                        <div class="tab-pane  show active" id="tab1" role="tabpanel">
+                        <div class="tab-pane  show active" id="tab11" role="tabpanel">
                             <div class="row align-items-center">
                                 <div class="col-md-6">
                                     <img src="images/exhibit/e1.png" class="img-fluid" alt="Image 1">
@@ -133,7 +133,7 @@
                         </div>
     
                         <!-- Tab 2 Content -->
-                        <div class="tab-pane " id="tab2" role="tabpanel">
+                        <div class="tab-pane " id="tab22" role="tabpanel">
                             <div class="row">
                                 <div class="col-md-6">
                                     <img src="images/exhibit/e1.png" class="img-fluid" alt="Image 2">
@@ -151,7 +151,7 @@
                         </div>
     
                         <!-- Tab 3 Content -->
-                        <div class="tab-pane " id="tab3" role="tabpanel">
+                        <div class="tab-pane " id="tab33" role="tabpanel">
                             <div class="row">
                                 <div class="col-md-6">
                                     <img src="images/exhibit/e1.png" class="img-fluid" alt="Image 3">
@@ -169,7 +169,7 @@
                         </div>
     
                         <!-- Tab 4 Content -->
-                        <div class="tab-pane " id="tab4" role="tabpanel">
+                        <div class="tab-pane " id="tab44" role="tabpanel">
                             <div class="row">
                                 <div class="col-md-6">
                                     <img src="images/exhibit/e1.png" class="img-fluid" alt="Image 4">
@@ -187,14 +187,14 @@
                         </div>
     
                         <!-- Tab 5 Content -->
-                        <div class="tab-pane " id="tab5" role="tabpanel">
+                        <div class="tab-pane " id="tab55" role="tabpanel">
                             <div class="row">
                                 <div class="col-md-6">
                                     <img src="images/exhibit/e1.png" class="img-fluid" alt="Image 5">
                                 </div>
                                 <div class="col-md-6">
                                     <p class="c-151">C-150 20x20</p>
-                                    <p class="left-front">Right Rear</p>
+                                    <p class="left-front">Left Rear</p>
                                     <p class="head-text1">C-150 is a custom 20 x 20 exhibit with features including a 10 x 20 conference room with SEG fabric exterior/interior graphics,
                                          conference table/chairs, circular hanging SEG graphic sign, HD monitor, premium curved counter with storage, coffee service, 
                                          and bistro table with bar stools.</p>

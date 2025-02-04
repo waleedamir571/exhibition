@@ -39,10 +39,10 @@
                         <div class="social-icons">
                             <ul id="mainmenu">
                                 <li>
-                                    <p class="d-none1">Pay</p>
+                                    <p class="d-none1"><a href="https://simplecheckout.authorize.net/payment/CatalogPayment.aspx" target="_blank"> Pay</p></a>
                                 </li>
                                 <li>
-                                  <p class="d-none1"><a href="upload.php"> Upload </a></p>
+                                  <p class="d-none1"><a href="upload.php" target="_blank"> Upload </a></p>
 
                                 </li>
                                 <li>
@@ -93,22 +93,22 @@
                             </div>
                             <div class="de-flex-col header-col-mid">
                                 <ul id="mainmenu">
-                                    <li><a class="menu-item" href="index.php">Home</a>
+                                    <!-- <li><a class="menu-item" href="index.php" target="_blank">Home</a> -->
 
                                     </li>
-                                    <li><a class="menu-item" href="about.php">About</a></li>
-                                    <li><a class="menu-item" href="who-we-serve.php">Who We Serve</a></li>
-                                    <li><a class="menu-item" href="what-we-do.php">What We Do</a></li>
-                                    <li><a class="menu-item" href="gallery.php">Gallery</a></li>
-                                    <li><a class="menu-item" href="exhibits.php">Exhibits</a></li>
-                                    <li><a class="menu-item" href="resources.php">Resources</a></li>
-                                    <li><a class="menu-item" href="contact-us.php">Contact Us</a></li>
+                                    <li><a class="menu-item" href="about.php" target="_blank">About</a></li>
+                                    <li><a class="menu-item" href="who-we-serve.php" target="_blank">Who We Serve</a></li>
+                                    <li><a class="menu-item" href="what-we-do.php" target="_blank">What We Do</a></li>
+                                    <li><a class="menu-item" href="gallery.php" target="_blank">Gallery</a></li>
+                                    <li><a class="menu-item" href="exhibits.php" target="_blank">Exhibits</a></li>
+                                    <li><a class="menu-item" href="resources.php" target="_blank">Resources</a></li>
+                                    <li><a class="menu-item" href="contact-us.php" target="_blank">Contact Us</a></li>
 
                                 </ul>
                             </div>
                             <div class="de-flex-col">
                                 <div class="menu_side_area">
-                                    <a href="contact-us.php" class="btn-line">Get A Quote</a>
+                                    <a href="contact-us.php" target="_blank" class="btn-line">Get A Quote</a>
                                     <span id="menu-btn"></span>
                                 </div>
                             </div>

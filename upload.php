@@ -20,10 +20,11 @@
 
                                     <p class=" text-uppercase mb-3 head-text"> <span class="wow fadeInRight"
                                             data-wow-delay=".2s">UPLOAD</span></p>
-                                    <p class="wow fadeInUp head-text1 animated" data-wow-delay=".3s">Never worry about
-                                        your trade show exhibit again. With Exhibit Network, you can be confident all
-                                        your trade show experiences will be seamless and stress-free.Trust us…we got
-                                        this.</p>
+                                    <p class="wow fadeInUp head-text1 animated" data-wow-delay=".3s">You’re one click
+                                        away from turning your beautifully designed graphic files into out-of-this-world
+                                        exhibit graphics.
+                                        Just a few more steps before we send you through to our Dropbox.
+                                    </p>
                                     <div class="spacer-10"></div>
 
                                 </div>
@@ -80,7 +81,7 @@
                                 granted you log-in access, via your email address.</p>
                         </div>
                     </div>
-                  <br>
+                    <br>
                     <div class="row baseline">
 
                         <div class="col-md-2 ">
@@ -89,7 +90,10 @@
                         <div class="col-md-10">
 
                             <p class="head-text1">Make sure your files are print-ready, to ensure the best possible
-                                results. Our file set-up recommendations can be <span class="read">downloaded here.</span></p>
+                                results. Our file set-up recommendations can be <a
+                                    href="https://exhibithouston.com/wp-content/uploads/2018/09/GraphicOutput_specs_v2.pdf " target="_blank">
+                                    <span class="read">downloaded
+                                        here.</span></p></a>
                         </div>
                     </div>
                     <br>
@@ -101,13 +105,13 @@
                         <div class="col-md-10">
                             <p class="head-text1">All set? Well, let’s go!</p>
 
-                         
+
 
                         </div>
                     </div>
                     <br>
 
-                    <button type="button" class="btn btn-primary1 w-100">DOWNLOAD NOW</button>
+                    <button type="button" class="btn btn-primary1 w-100">Upload Now </button>
 
                     <br>
 

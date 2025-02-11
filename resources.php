@@ -166,78 +166,284 @@
     <div class="container">
         <div class="row pt-50 pb-30">
 
-            <div class="row">
-
-                <div class="col-md-12">
-                    <div class="d-carousel wow fadeInRight">
-                        <div id="item-carousel-big-type-2" class="owl-carousel no-hide owl-center" data-wow-delay="1s">
-                            <div class="c-item">
 
 
+            <div class="col-md-6">
+                <img class="w-100" src="images/resource/video.png" alt="">
+            </div>
 
-                                <div class="c-item_wrap">
-                                    <img class="w-100" src="images/resource/video1.png" class="lazy img-fluid" alt="">
-                                    <div class="col-md-12">
-                                        <p class="p-text1 plf-20">Lorem ipsum dolor sit amet, consectetur adipiscing
-                                            elit. Sed do eiusmod tempor
-                                            incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                                            nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                            consequat.
-                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-                                            eu
-                                            fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-                                            in
-                                            culpa qui officia deserunt mollit anim id est laborum.</p>
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="c-item">
+            <div class="col-md-6">
+                <img class="w-100" src="images/resource/video.png" alt="">
+            </div>
 
 
 
-                                <div class="c-item_wrap">
-                                    <img class="w-100" src="images/resource/video1.png" class="lazy img-fluid" alt="">
-                                    <p class="p-text1 plf-20">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                        Sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                                        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                                        fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                                        culpa qui officia deserunt mollit anim id est laborum.</p>
-                                </div>
 
-                            </div>
-
-                            <div class="c-item">
+        </div>
+        <div class="row pt-50 pb-30">
 
 
 
-                                <div class="c-item_wrap">
-                                    <img class="w-100" src="images/resource/video1.png" class="lazy img-fluid" alt="">
-                                    <p class="p-text1 plf-20">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                        Sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                                        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                                        fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                                        culpa qui officia deserunt mollit anim id est laborum.</p>
-                                </div>
-
-                            </div>
-
-
-
-                        </div>
-                        <!-- <div class="d-arrow-left mod-a"><i class="fa fa-angle-left"></i></div>
-                            <div class="d-arrow-right mod-a"><i class="fa fa-angle-right"></i></div> -->
+            <div class="col-md-6">
+                <div class="row">
+                    <div class="col-md-4">
+                        <img class="w-100" src="images/resource/b2.png" alt="">
+                    </div>
+                    <div class="col-md-8">
+                        <h3>Never Been to a Tradeshow</h3>
+                        <p class="guide2 ">Don’t be “this guy” if you want results at your first ever tradeshow.</p>
+                        <p class="read">Read More</p>
                     </div>
                 </div>
-
-
+                <br>
+                <div class="row">
+                    <div class="col-md-4">
+                        <img class="w-100" src="images/resource/b3.png" alt="">
+                    </div>
+                    <div class="col-md-8">
+                        <h3>Never Been to a Tradeshow</h3>
+                        <p class="guide2 ">Don’t be “this guy” if you want results at your first ever tradeshow.</p>
+                        <p class="read">Read More</p>
+                    </div>
+                </div>
             </div>
+
+            <div class="col-md-6">
+                <div class="row">
+                    <div class="col-md-4">
+                        <img class="w-100" src="images/resource/b2.png" alt="">
+                    </div>
+                    <div class="col-md-8">
+                        <h3>Never Been to a Tradeshow</h3>
+                        <p class="guide2 ">Don’t be “this guy” if you want results at your first ever tradeshow.</p>
+                        <p class="read">Read More</p>
+                    </div>
+                </div>
+                <br>
+                <div class="row">
+                    <div class="col-md-4">
+                        <img class="w-100" src="images/resource/b3.png" alt="">
+                    </div>
+                    <div class="col-md-8">
+                        <h3>Never Been to a Tradeshow</h3>
+                        <p class="guide2 ">Don’t be “this guy” if you want results at your first ever tradeshow.</p>
+                        <p class="read">Read More</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</section>
+
+<section id="section-schedule" class="jarallax no-bottom">
+
+    <!-- <div class="de-gradient-edge-top"></div>
+    <div class="container position-relative z1000">
+        <div class="row">
+            <div class="col-md-12 text-center wow fadeInUp">
+                <p class="about-us relax2 montserrat"> <img src="images/home/Line.png" alt=""> AWARDS & ACollades
+                    <img src="images/home/Line.png" alt="">
+                </p>
+                <br>
+                <p class="head-text1">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                <div class="spacer-single"></div>
+            </div>
+
+        </div>
+    </div> -->
+
+    <div class="container">
+        <div class="row pt-50 pb-30">
+            <div class="col-md-4">
+                <div class="card card1">
+                    <div class="img-center">
+                        <img class="w-100" src="images/resource/news.png" alt="Card image cap">
+                    </div>
+                    <div class="card-body">
+
+                        <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h3>
+                        <p class="guide2 ">Lorem ipsum dolor sit amet, consectetur thems an adipiscing elit, sed do
+                            eiusmod as tempor incididunt ut.</p>
+
+                        <div class="btn-pos">
+                            <a href="contact-us.php" target="_blank" class="btn-line">VIEW MORE</a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card card1">
+                    <div class="img-center">
+                        <img class="w-100" src="images/resource/museum.png" alt="Card image cap">
+                    </div>
+                    <div class="card-body">
+
+                        <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h3>
+                        <p class="guide2 ">Lorem ipsum dolor sit amet, consectetur thems an adipiscing elit, sed do
+                            eiusmod as tempor incididunt ut.</p>
+
+                        <div class="btn-pos">
+                            <a href="contact-us.php" target="_blank" class="btn-line">VIEW MORE</a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card card1">
+                    <div class="img-center">
+                        <img class="w-100" src="images/resource/exhibition.png" alt="Card image cap">
+                    </div>
+                    <div class="card-body">
+
+                        <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h3>
+                        <p class="guide2 ">Lorem ipsum dolor sit amet, consectetur thems an adipiscing elit, sed do
+                            eiusmod as tempor incididunt ut.</p>
+                        <div class="btn-pos">
+                            <a href="contact-us.php" target="_blank" class="btn-line">VIEW MORE</a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</section>
+
+<section id="section-schedule" class="jarallax no-bottom">
+
+    <div class="de-gradient-edge-top"></div>
+    <div class="container position-relative z1000">
+        <div class="row">
+            <div class="col-md-12 text-center wow fadeInUp">
+                <p class="about-us relax2 montserrat"> <img src="images/home/Line.png" alt=""> FAqs
+                    <img src="images/home/Line.png" alt="">
+                </p>
+                <br>
+                <p class="head-text1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+                <div class="spacer-single"></div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row pt-50 pb-30">
+
+
+
+            <div class="col-md-6">
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+                            data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                            data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingThree">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                            </button>
+                        </h2>
+                        <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+                            data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingThree">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                            </button>
+                        </h2>
+                        <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="headingThree"
+                            data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingThree">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                            </button>
+                        </h2>
+                        <div id="collapse5" class="accordion-collapse collapse" aria-labelledby="headingThree"
+                            data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingThree">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                            </button>
+                        </h2>
+                        <div id="collapse6" class="accordion-collapse collapse" aria-labelledby="headingThree"
+                            data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                                Lorem ipsum dolor sit amet, consectetur adipiscing aute irure dolor elit, sit amet?
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <img class="w-100" src="images/resource/faqs.png" alt="">
+            </div>
+
+
+
 
         </div>
     </div>

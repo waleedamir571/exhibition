@@ -20,8 +20,13 @@
                                                 data-wow-delay=".2s">EXPERIENCE MATTERS</span></p>
                                         <p class="wow fadeInUp relax-new" data-wow-delay=".3s">RELAX, WE GOT
                                             THIS</p>
-                                        <div class="spacer-10"></div>
-                                        <button type="button" class="btn btn-primary2">Get Started</button>
+                                        <p class="about-us1">Welcome to Exhibit Network. We are in business to make your
+                                            trade show experience as <br> seamless, stress-free, and successful as
+                                            possible.
+                                        </p>
+
+                                        <a href="experience-matters.php"> <button type="button"
+                                                class="btn btn-primary2">LEARN MORE</button></a>
                                     </div>
 
                                 </div>
@@ -474,7 +479,7 @@
         <div class="container position-relative z1000">
             <div class="row">
                 <div class="col-md-12 text-center wow fadeInUp">
-                    <p class="about-us relax2 montserrat"> <img src="images/home/Line.png" alt=""> OUR PROJECTS 
+                    <p class="about-us relax2 montserrat"> <img src="images/home/Line.png" alt=""> OUR PROJECTS
                         <img src="images/home/Line.png" alt="">
                     </p>
                     <br>
@@ -520,7 +525,7 @@
         <div class="pt-50 pb-30">
             <div class="row">
                 <div class="col-md-12 text-center">
-                  <a href="gallery.php">  <button type="button" class="btn btn-primary1">View Our Gallery</button> </a>
+                    <a href="gallery.php"> <button type="button" class="btn btn-primary1">View Our Gallery</button> </a>
                 </div>
             </div>
         </div>
@@ -552,12 +557,18 @@
                                     </div>
 
                                     <p class="testimonial-text">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                        tempor incididunt ut labore et dolore magna aliqua. enim ad minim
-                                        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                                        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate 
+                                        Exhibit Network went above and beyond on our recent booth build and exhibit at
+                                        the NBAA-EBACE show in Orlando. The CMS booth was the hit of the show all
+                                        because of the hard work and dedication of the team. Our project manager, Kat,
+                                        worked late
+                                        nights for months before the show to ensure everything would go smoothly once in
+                                        Orlando. During the show, Kat managed even my team of 20 employees to ensure we
+                                        staffed the booth properly and stocked the conference room and giveaway tables.
+                                        We joked she was our marketing manager as she handled customers and all aspects
+                                        of our show experience. The show was a great success, and the money was well
+                                        spent.
                                     </p>
-                                    <h4 class="testimonial-name">John Wick</h4>
+                                    <h4 class="testimonial-name">Cabin Management Solutions</h4>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="183" height="113"
                                         viewBox="0 0 183 113" fill="none">
                                         <path opacity="0.2"
@@ -575,12 +586,19 @@
                                     </div>
 
                                     <p class="testimonial-text">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                        tempor incididunt ut labore et dolore magna aliqua. enim ad minim
-                                        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                                        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate 
+                                        A huge thank you to the entire team, especially Nicole Papakosta, Alex
+                                        Danielides, and Jeff Smith, for making our booth placement and setup so smooth
+                                        and stress-free. A special shoutout to Nicole, our project manager, who went
+                                        above and beyond to ensure everything was perfect. Coming all the way from Los
+                                        Angeles to Houston, we had many logistical challenges, but Nicole handled
+                                        everything flawlessly and made it look easy! Her dedication and professionalism
+                                        truly made the difference. We’re excited to continue working with Exhibit
+                                        Network and look forward to sharing many more shows and events in the future.
+                                        Thank you, Exhibit Network, for your outstanding support and for helping us
+                                        shine at the event. We highly recommend your services to anyone in need of
+                                        expert event setup
                                     </p>
-                                    <h4 class="testimonial-name">Angelina Veen</h4>
+                                    <h4 class="testimonial-name">ITS Environmental</h4>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="183" height="113"
                                         viewBox="0 0 183 113" fill="none">
                                         <path opacity="0.2"
@@ -591,19 +609,21 @@
                             </div>
 
                             <!-- Testimonial 3 -->
-                            <div class="col-lg-4 col-md-6">
+                            <div class="col-lg-4 col-md-6 pt-105">
                                 <div class="testimonial-item">
 
                                     <div class="pb-30"> <img class="w-50" src="images/home/c3.png" alt="John Wick">
                                     </div>
 
                                     <p class="testimonial-text">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                        tempor incididunt ut labore et dolore magna aliqua. enim ad minim
-                                        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                                        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate 
+                                        I had the most amazing experience working with the team - shoutout to Joann and
+                                        Eric! Literally, 24 hours before our event, our booth was lost in transit, and
+                                        guess what? THEY MADE IT HAPPEN! They created an amazing 10 x 10 booth for us,
+                                        and we are eternally grateful for the expedited service. Joann and Eric were on
+                                        the ball and kept in touch throughout the process. They truly went above and
+                                        beyond. Hats off to the amazing team and Exhibit Network!
                                     </p>
-                                    <h4 class="testimonial-name">Adam De</h4>
+                                    <h4 class="testimonial-name">Alvys</h4>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="183" height="113"
                                         viewBox="0 0 183 113" fill="none">
                                         <path opacity="0.2"

@@ -46,7 +46,7 @@
 
                                 </li>
                                 <li>
-                                    <p >Happy Hour Guide</p>
+                                  <a href="happy-hour-guide.php" target="_blank"> <p >Happy Hour Guide</p> </a> 
 
                                 </li>
                             </ul>

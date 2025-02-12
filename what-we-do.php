@@ -52,7 +52,8 @@
 
                 </p>
                 <br>
-                <p class="head-text1">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                <p class="head-text1">We work with you to design and produce visually compelling and cohesive trade show
+                    experiences that maximize your brand's impact and make it memorable and effective.</p>
                 <div class="spacer-single"></div>
             </div>
 
@@ -62,10 +63,10 @@
     <div class="container">
 
         <div class="row pt-50 pb-30">
-     
-        <?php include 'tickets.php'; ?>
+
+            <?php include 'tickets.php'; ?>
         </div>
-       
+
     </div>
 </section>
 
@@ -78,7 +79,10 @@
 
                 </p>
                 <br>
-                <p class="head-text1">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                <p class="head-text1">We provide end-to-end trade show support, from professional exhibit installation
+                    to ongoing cleaning and assistance during the event, followed by efficient dismantling, packing, and
+                    shipping. We handle the small print, venue rules and regulations, deadlines, labor requirements, and
+                    more. And we speak the right language, so you don’t have to.</p>
                 <div class="spacer-single"></div>
             </div>
 
@@ -109,8 +113,8 @@
 
                     <div class="row">
                         <div class="col-md-12 ">
-                            <p class="wow fadeInRight head-text1" data-wow-delay=".4s">Organize and prepare displays for
-                                pre-event showcase and client previews.</p>
+                            <p class="wow fadeInRight head-text1" data-wow-delay=".4s">We organize and prepare displays
+                                in our expansive showroom for client previews and pre-event showcases.</p>
                         </div>
 
                     </div>
@@ -118,9 +122,10 @@
                     <div class="row">
                         <div class="col-md-12 ">
                             <p class="about-us">Material handling, shipping, and logistics: </p>
-                            <p class="wow fadeInRight head-text1" data-wow-delay=".4s">Manage the secure transport,
-                                storage, and organization of exhibition materials, ensuring everything arrives on time
-                                and in perfect condition.</p>
+                            <p class="wow fadeInRight head-text1" data-wow-delay=".4s">We manage the secure transport of
+                                exhibition materials, ensuring everything arrives on time and in perfect condition. We
+                                also offer custom crating to minimize damage and maximize installation and dismantling
+                                efficiency.</p>
                         </div>
 
                     </div>
@@ -128,9 +133,21 @@
                     <div class="row">
                         <div class="col-md-12 ">
                             <p class="about-us">Installation, cleaning, onsite support, dismantling: </p>
-                            <p class="wow fadeInRight head-text1" data-wow-delay=".4s">Provide end-to-end support, from
-                                professional installation of exhibits to ongoing cleaning and assistance during the
-                                event, followed by efficient dismantling and packing.</p>
+                            <p class="wow fadeInRight head-text1" data-wow-delay=".4s">Safety and efficiency are
+                                mandatory requirements for your installation and dismantling (I&D) crew. We understand
+                                the complexity of your booth design and allocate sufficient time for setup and takedown
+                                to avoid delays and unexpected costs. And we ensure we have all the necessary tools and
+                                materials on-site.</p>
+                        </div>
+
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 ">
+                            <p class="about-us">CLEANING AND ONSITE SUPPORT: </p>
+                            <p class="wow fadeInRight head-text1" data-wow-delay=".4s">Trade show installations are
+                                notorious for a spontaneous crisis or two, especially for those new to the industry.
+                                We’ve seen it all and can help you plan for, and manage through, unforeseen obstacles.
+                            </p>
                         </div>
 
                     </div>
@@ -159,11 +176,12 @@
     <div class="container position-relative z1000">
         <div class="row">
             <div class="col-md-12 text-center wow fadeInUp">
-                <p class="about-us relax2 montserrat"> <img src="images/home/Line.png" alt=""> Custom Exhibit Design
+                <p class="about-us relax2 montserrat"> <img src="images/home/Line.png" alt=""> Project and Program
+                    Management
                     <img src="images/home/Line.png" alt="">
                 </p>
                 <br>
-                <p class="head-text1">Exhibitors big and small, far and wide, trust Exhibit Network.</p>
+                <p class="head-text1">Leave nothing to chance.</p>
                 <div class="spacer-single"></div>
             </div>
 
@@ -181,8 +199,10 @@
                     <div class="card-body">
 
                         <p class="card-title knowledge">Decision guide</p>
-                        <p class="guide text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
-                            eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p class="guide text-center">Let us guide you through the necessary decisions. Our team works
+                            with you to understand your goals upfront and recommend the optimal solution. We help you
+                            estimate total costs across various options to make informed decisions and avoid costly
+                            redesigns.</p>
 
 
 
@@ -198,8 +218,12 @@
                     <div class="card-body">
 
                         <p class="card-title knowledge">Project management </p>
-                        <p class="guide text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
-                            eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p class="guide text-center">Minimize surprises and unforeseen issues. Our project managers are
+                            your secret weapon for successful trade shows. They constantly work behind the scenes to
+                            arrange logistics, meet deadlines, monitor progress, and stay within your budget. Our
+                            project management software enables us to manage via clear, visual timelines, organize tasks
+                            and dependencies, allocate resources, assign owners, track progress, identify and manage
+                            risks, and communicate effectively.</p>
 
 
 
@@ -215,11 +239,8 @@
                     <div class="card-body">
 
                         <p class="card-title knowledge">Strategic oversight</p>
-                        <p class="guide text-center">Our highly engaged, solutions-oriented team is unmatched in its
-                            ability to meet your unique challenges. </p>
-
-
-
+                        <p class="guide text-center">From detailed program design aligned with your business objectives
+                            to seamless project management, we ensure your success. </p>
 
                     </div>
                 </div>
@@ -241,7 +262,7 @@
                     <img src="images/home/Line.png" alt="">
                 </p>
                 <br>
-                <p class="head-text1">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                <p class="head-text1">We treat your prized possessions with tender, loving care.</p>
                 <div class="spacer-single"></div>
             </div>
 
@@ -260,9 +281,8 @@
 
                     <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us">Storage
                             Ts & Cs:</span> (on site right now)
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                        laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        We offer over 42K square feet of storage. Our clean, organized, efficient warehouse ensures
+                        secure storage and easy access/retrieval.</p>
 
                     <h2 class="wow fadeInRight head-text1 animated animated" data-wow-delay=".3s"> <span
                             class="about-us">
@@ -292,9 +312,8 @@
                 <div class="col-md-6">
 
                     <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us">Repair
-                            and refurbishment:</span> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
-                        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                        nostrud exer.</p>
+                            and refurbishment:</span> We can work with you to ensure that any damage is promptly
+                        addressed to help extend the lifespan of your booth</p>
 
                     <h2 class="wow fadeInRight head-text1 animated animated" data-wow-delay=".3s"> <span
                             class="about-us">
@@ -328,13 +347,14 @@
                     <img class="w-100" src="images/what-we-do/s3.png" alt="">
                 </div>
                 <div class="col-md-5 offset-md-1 position-relative" data-jarallax-element="-60">
-                   
+
                     <div class="position-relative z1000">
-    
-                        <h2 class="text-uppercase wow fadeInRight head-text1 montserrat" data-wow-delay=".3s"><span class="about-us">relax </span> …
-    
+
+                        <h2 class="text-uppercase wow fadeInRight head-text1 montserrat" data-wow-delay=".3s"><span
+                                class="about-us">relax </span> …
+
                             we got this
-    
+
                         </h2>
 
                         <h2 class="text-uppercase wow fadeInRight relax3 montserrat animated" data-wow-delay=".3s">
@@ -343,55 +363,48 @@
                             MODULAR DISPLAYS
 
                         </h2>
-                            
+
                         </p>
                         <div class="row">
                             <div class="col-md-12 ">
-                                <p class="wow fadeInRight head-text1" data-wow-delay=".4s">Lorem ipsum dolor sit amet,
-                                    consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-                                    aliqua.</p>
+                                <p class="wow fadeInRight head-text1" data-wow-delay=".4s">By partnering with Aluvision,
+                                    we offer beautiful architectural looks using frame-based wall systems and structural
+                                    profiles. From single-floor to double decker trade show exhibits, our modular
+                                    solutions integrate easily with light walls, flooring systems, reception counters,
+                                    hanging signs, and more to make your booth:</p>
                             </div>
-                          
+
                         </div>
-                      
+
                         <div class="row">
-    
-                          
+
+
                             <div class="col-md-12">
-                             
+
                                 <ul class="disc-none">
-                                    <li class="mission-text"><img src="images/about/tick.png" alt="">&nbsp; Lorem ipsum
-                                        dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                                        labore et dolore magna aliqua.</li>
-                                    <li class="mission-text"><img src="images/about/tick.png" alt="">&nbsp; Lorem ipsum
-                                        dolor sit amet, consectetur adipiscing elit.</li>
-                                    <li class="mission-text"><img src="images/about/tick.png" alt="">&nbsp; Lorem ipsum
-                                        dolor sit amet, consectetur adipiscing elit.</li>
+                                    <li class="mission-text"><img src="images/about/tick.png" alt="">&nbsp; Elegant and appealing</li>
+                                    <br>
+                                    <li class="mission-text"><img src="images/about/tick.png" alt="">&nbsp; Cost-effective and durable</li>
+                                    <br>
+                                    <li class="mission-text"><img src="images/about/tick.png" alt="">&nbsp; Easy to build and efficient</li>
+                                    <br>
+                                    <li class="mission-text"><img src="images/about/tick.png" alt="">&nbsp; Sustainable</li>
                                 </ul>
-    
+
                             </div>
                         </div>
-    
+
                         <br>
-    
+
                     </div>
                     <!-- <img src="images/misc/circle-gradient.png"
                         class="position-absolute top-50 start-50 translate-middle" alt=""> -->
                 </div>
 
             </div>
-
         </div>
     </div>
 
-
 </section>
-
-
-
-
-
-
-
 
 <?php include 'footer.php'; ?>

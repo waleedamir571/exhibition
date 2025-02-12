@@ -11,8 +11,7 @@
                         <p class="footer-description we-got">
                             Relax...We got this.<br>
                         </p>
-                        <p class="head-text1">Legendary provider of shamelessly awesome custom tradeshow exhibits and
-                            services for over 30 years. We’re not a catalog store.</p>
+                        <p class="head-text1">We are in business to make your trade show experience as seamless, stress-free, and successful as possible.</p>
                     </div>
 
 
@@ -20,38 +19,41 @@
                     <div class="col-lg-2 offset-md-1 col-md-6">
                         <h5>About Us</h5>
                         <ul>
+                        <li><a href="#">Home</a></li>
+                        <br>
                             <li><a href="about.php">About Us</a></li>
-                            <li><a href="#">Meet The Team</a></li>
+                            <br>
                             <li><a href="who-we-serve.php">Who We Serve
                             </a></li>
+                            <br>
                             <li><a href="what-we-do.php">What We Do
                             </a></li>
-                            <li><a href="#">Services</a></li>
-                            <li><a href="#">Production</a></li>
-                            <li><a href="exhibits.php">Exhibits</a></li>
-                            <li><a href="#">Ask A Question</a></li>
+                            <br>
+                            <li><a href="gallery.php">Gallery</a></li>
+                            <br>
+                            <li><a href="resources.php">Resources</a></li>
+                            <br>
+                            <li><a href="contact-us.php">Contact Us</a></li>
+                            
                         </ul>
                     </div>
 
                     <div class="col-lg-2 offset-md-1 col-md-6">
                         <h5>Resources</h5>
                         <ul>
-                            <li><a href="#">Case Studies</a></li>
-                            <br>
-                            <li><a href="#">Blog</a></li>
-                            <br>
-                            <li><a href="contact-us.php">Connect</a></li>
-                            <br>
-                            <li><a href="#">Testimonials</a></li>
-                            <br>
-                            <li><a href="#">FAQs</a></li>
+                            <li><a href="#">Pay </a></li>
                             <br>
                             <li><a href="upload.php">Upload</a></li>
                             <br>
-                            <li><a href="#">Pay</a></li>
+                            <li><a href="happy-hour-guide.php">Happy Hour</a></li>
                             <br>
-                            <li><a href="#">Privacy Policy</a></li>
-                            <li><a href="#">Term of Services</a></li>
+                            <li><a href="technology.php">Technology</a></li>
+                            <br>
+                            <li><a href="newsroom.php">Newsroom</a></li>
+                            <br>
+                            <li><a href="upload.php">Upload</a></li>
+                            <br>
+                           
                         </ul>
                     </div>
 

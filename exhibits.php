@@ -56,10 +56,13 @@
 
                                     <p class=" text-uppercase mb-3 head-text"> <span class="wow fadeInRight"
                                             data-wow-delay=".2s">EXHIBITS</span></p>
-                                    <p class="wow fadeInUp head-text1 animated" data-wow-delay=".3s">Never worry about
-                                        your trade show exhibit again. With Exhibit Network, you can be confident all
-                                        your trade show experiences will be seamless and stress-free.Trust us…we got
-                                        this.</p>
+                                    <p class="wow fadeInUp head-text1 animated" data-wow-delay=".3s">Ensure your brand
+                                        stands out without breaking the bank. Exhibit Network provides highly
+                                        professional, cost-effective, custom solutions tailored for companies seeking to
+                                        maximize their impact at any budget. We specialize in large, custom-built
+                                        tradeshow experiences for lead generation, new product launches, and customer
+                                        engagement, but we also understand the importance of portable, pop-up booths for
+                                        flexibility and adaptability.</p>
                                     <div class="spacer-10"></div>
 
                                 </div>
@@ -302,13 +305,13 @@
                                 <p class="c-151">
 
                                     C-115 20 x 20
- </p>
+                                </p>
                                 <p class="left-front">Right Front
 
 
                                 </p>
                                 <p class="head-text1">
-                                  
+
                                 </p>
 
                                 <button type="button" class="btn btn-primary1">REQUEST INFO</button>
@@ -336,7 +339,7 @@
                                 </p>
                                 <p class="head-text1">
 
-                                 
+
 
                                 </p>
 
@@ -363,7 +366,7 @@
 
                                 </p>
                                 <p class="head-text1">
-                                   
+
 
 
                                 </p>
@@ -394,7 +397,7 @@
 
                                 </p>
                                 <p class="head-text1">
-                                    
+
                                 </p>
 
                                 <button type="button" class="btn btn-primary1">REQUEST INFO</button>
@@ -417,7 +420,7 @@
                                 <p class="left-front">Upper Deck Detail
                                 </p>
                                 <p class="head-text1">
-                                    
+
 
                                 </p>
 
@@ -441,7 +444,7 @@
 
                                 </p>
                                 <p class="head-text1">
-                                   
+
                                 </p>
 
                                 <button type="button" class="btn btn-primary1">REQUEST INFO</button>

@@ -19,10 +19,9 @@
 
                                     <p class=" text-uppercase mb-3 head-text"> <span class="wow fadeInRight"
                                             data-wow-delay=".2s">Gallery</span></p>
-                                    <p class="wow fadeInUp head-text1 animated" data-wow-delay=".3s">Never worry about
-                                        your trade show exhibit again. With Exhibit Network, you can be confident all
-                                        your trade show experiences will be seamless and stress-free.Trust us…we got
-                                        this.
+                                    <p class="wow fadeInUp head-text1 animated" data-wow-delay=".3s">Explore our gallery
+                                        of recent installations for design inspiration and ideas to bring your brand to
+                                        life.
 
                                     <div class="spacer-10"></div>
 
@@ -60,14 +59,14 @@
                 <button class="btn btn-default filter-button" data-filter="spray">Event Highlights</button>
                 <button class="btn btn-default filter-button" data-filter="irrigation">Booth Designs</button>
             </div>
-            
+
             <br />
 
             <div class="row">
                 <div class="col-md-8">
 
                     <div class="gallery_product  filter hdpe">
-                        <img class="w-100"  src="images/home/p1.png" class="img-responsive">
+                        <img class="w-100" src="images/home/p1.png" class="img-responsive">
                     </div>
 
                     <div class="row">
@@ -75,7 +74,7 @@
                             <div class="gallery_product  filter sprinkle">
                                 <img class="w-100" src="images/home/p2.png" class="img-responsive">
                             </div>
-        
+
                             <div class="gallery_product  filter hdpe">
                                 <img class="w-100" src="images/home/p3.png" class="img-responsive">
                             </div>
@@ -84,13 +83,13 @@
                             <div class="gallery_product  filter sprinkle">
                                 <img class="w-100" src="images/home/p4.png" class="img-responsive">
                             </div>
-        
+
                             <div class="gallery_product  filter hdpe">
                                 <img class="w-100" src="images/home/p5.png" class="img-responsive">
                             </div>
                         </div>
                     </div>
-<!-- 
+                    <!-- 
                     <div class="gallery_product  filter sprinkle">
                         <img class="w-100" src="images/home/p2.png" class="img-responsive">
                     </div>

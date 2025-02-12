@@ -40,10 +40,12 @@
 
                                     <p class=" text-uppercase mb-3 head-text"> <span class="wow fadeInRight"
                                             data-wow-delay=".2s">Resources</span></p>
-                                    <p class="wow fadeInUp head-text1 animated" data-wow-delay=".3s">Never worry about
-                                        your trade show exhibit again. With Exhibit Network, you can be confident all
-                                        your trade show experiences will be seamless and stress-free.Trust us…we got
-                                        this.
+                                    <p class="wow fadeInUp head-text1 animated" data-wow-delay=".3s">If you want to
+                                        learn more about the trade show industry or Exhibit Network, you’ve come to the
+                                        right place. We’re building a comprehensive collection of blogs, white papers,
+                                        case studies, press releases, videos, and more. If you can’t find what you’re
+                                        looking for, give us a call! We’ll walk you through your question and then write
+                                        a new blog piece on it to help others.
 
                                     <div class="spacer-10"></div>
 
@@ -148,26 +150,9 @@
 
 <section id="section-schedule" class="jarallax no-bottom">
 
-    <div class="de-gradient-edge-top"></div>
-    <div class="container position-relative z1000">
-        <div class="row">
-            <div class="col-md-12 text-center wow fadeInUp">
-                <p class="about-us relax2 montserrat"> <img src="images/home/Line.png" alt=""> AWARDS & ACollades
-                    <img src="images/home/Line.png" alt="">
-                </p>
-                <br>
-                <p class="head-text1">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-                <div class="spacer-single"></div>
-            </div>
-
-        </div>
-    </div>
-
     <div class="container">
         <div class="row pt-50 pb-30">
 
-
-
             <div class="col-md-6">
                 <img class="w-100" src="images/resource/video.png" alt="">
             </div>
@@ -175,14 +160,9 @@
             <div class="col-md-6">
                 <img class="w-100" src="images/resource/video.png" alt="">
             </div>
-
-
-
 
         </div>
         <div class="row pt-50 pb-30">
-
-
 
             <div class="col-md-6">
                 <div class="row">

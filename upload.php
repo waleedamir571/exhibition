@@ -73,7 +73,7 @@
                                 graphics.Just a few more steps before we send you through to our Dropbox.</p>
                         </div>
                         <div class="col-md-2 ">
-                            <img class="w-100" src="images/upload/1 (1).png" alt="">
+                            <img class="w-100 w-auto1" src="images/upload/1 (1).png" alt="">
                         </div>
                         <div class="col-md-10">
 
@@ -85,7 +85,7 @@
                     <div class="row baseline">
 
                         <div class="col-md-2 ">
-                            <img class="w-100" src="images/upload/2.png" alt="">
+                            <img class="w-100 w-auto1"  src="images/upload/2.png" alt="">
                         </div>
                         <div class="col-md-10">
 
@@ -100,7 +100,7 @@
                     <div class="row baseline">
 
                         <div class="col-md-2 ">
-                            <img class="w-100" src="images/upload/3.png" alt="">
+                            <img class="w-100 w-auto1" src="images/upload/3.png" alt="">
                         </div>
                         <div class="col-md-10">
                             <p class="head-text1">All set? Well, let’s go!</p>

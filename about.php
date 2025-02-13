@@ -83,7 +83,7 @@
                                 aliqua.</p>
                         </div>
                         <div class="col-md-2 ">
-                            <img class="w-100" src="images/about/m1.png" alt="">
+                            <img class="w-100 w-auto1" src="images/about/m1.png" alt="">
                         </div>
                         <div class="col-md-10">
                             <p class="wow fadeInRight mission" data-wow-delay=".4s">OUR MISSION</p>
@@ -96,7 +96,7 @@
                     <div class="row">
 
                         <div class="col-md-2 ">
-                            <img class="w-100" src="images/about/m2.png" alt="">
+                            <img class="w-100 w-auto1" src="images/about/m2.png" alt="">
                         </div>
                         <div class="col-md-10">
                             <p class="wow fadeInRight mission" data-wow-delay=".4s">OUR VISION </p>
@@ -108,7 +108,7 @@
                     <div class="row">
 
                         <div class="col-md-2 ">
-                            <img class="w-100" src="images/about/m3.png" alt="">
+                            <img class="w-100 w-auto1" src="images/about/m3.png" alt="">
                         </div>
                         <div class="col-md-10">
                             <p class="wow fadeInRight mission" data-wow-delay=".4s">OUR VALUES</p>

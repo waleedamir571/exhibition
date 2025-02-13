@@ -53,6 +53,9 @@
                             <br>
                             <li><a href="upload">Upload</a></li>
                             <br>
+                            <li><a href="faqs">Faqs</a></li>
+                            <br>
+                            <li><a href="customer-storage-terms-conditions">STORAGE TERMS & CONDITIONS</a></li>
                            
                         </ul>
                     </div>

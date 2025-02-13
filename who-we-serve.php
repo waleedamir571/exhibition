@@ -124,26 +124,26 @@
         <div class="row pt-50 pb-30">
 
             <div class="row">
-                <div class="col-md-3">
+                <div class="col-md-3 text-end">
                     <img src="images/serve/sponsors.png" alt="">
                     <div class="pt-50">
                         <p class="card-title knowledge">Sponsors / <br>Partners</p>
                     </div>
                 </div>
 
-                <div class="col-md-3">
+                <div class="col-md-3 text-end">
                     <img src="images/serve/prod.png" alt="">
                     <div class="pt-50">
                         <p class="card-title knowledge">producers</p>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 text-end ">
                     <img src="images/serve/exhibitions.png" alt="">
                     <div class="pt-50">
                         <p class="card-title knowledge">exhibitors</p>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 text-end">
                     <img src="images/serve/marketing.png" alt="">
                     <div class="pt-50">
                         <p class="card-title knowledge">marketing managERS</p>

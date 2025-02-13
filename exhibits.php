@@ -113,7 +113,7 @@
             <br />
 
             <div class="row">
-                <div class="col-md-3">
+                <div class="col-md-3 text-end">
 
                     <div class="gallery_product  filter hdpe sprinkle">
                         <button type="" class="" data-bs-toggle="modal" data-bs-target="#exampleModal10">
@@ -124,7 +124,7 @@
                         <p class="c-150">C-150 20x20</p>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 text-end">
                     <div class="gallery_product  filter sprinkle sprinkle">
                         <button type="" class="" data-bs-toggle="modal" data-bs-target="#exampleModal1">
                             <img class="w-100" src="images/exhibit/imageblue.png" class="img-responsive">
@@ -133,7 +133,7 @@
                         <p class="c-150">C-150 20x20</p>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 text-end">
                     <div class="gallery_product  filter hdpe sprinkle">
 
                         <button type="" class="" data-bs-toggle="modal" data-bs-target="#exampleModal2">
@@ -145,7 +145,7 @@
 
 
 
-                <div class="col-md-3">
+                <div class="col-md-3 text-end">
                     <div class="gallery_product  filter sprinkle">
 
                         <button type="" class="" data-bs-toggle="modal" data-bs-target="#exampleModal3">
@@ -154,7 +154,7 @@
                         <p class="c-150">C-150 20x20</p>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 text-end">
                     <div class="gallery_product  filter hdpe">
 
                         <button type="" class="" data-bs-toggle="modal" data-bs-target="#exampleModal4">
@@ -165,7 +165,7 @@
                 </div>
 
 
-                <div class="col-md-3">
+                <div class="col-md-3 text-end">
                     <div class="gallery_product  filter irrigation">
                         <button type="" class="" data-bs-toggle="modal" data-bs-target="#exampleModal5">
                             <img class="w-100" src="images/exhibit/6.png" class="img-responsive">
@@ -175,7 +175,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-3">
+                <div class="col-md-3 text-end">
                     <div class="gallery_product  filter spray">
                         <button type="" class="" data-bs-toggle="modal" data-bs-target="#exampleModal6">
                             <img class="w-100" src="images/exhibit/7.png" class="img-responsive">
@@ -184,7 +184,7 @@
                         <p class="c-150">C-150 20x20</p>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 text-end">
                     <div class="gallery_product  filter spray">
                         <button type="" class="" data-bs-toggle="modal" data-bs-target="#exampleModal7">
                             <img class="w-100" src="images/exhibit/8.png" class="img-responsive">
@@ -193,7 +193,7 @@
                         <p class="c-150">C-150 20x20</p>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 text-end">
                     <div class="gallery_product  filter hdpe">
 
                         <button type="" class="" data-bs-toggle="modal" data-bs-target="#exampleModal8">
@@ -205,7 +205,7 @@
                 </div>
 
 
-                <div class="col-md-3">
+                <div class="col-md-3 text-end">
                     <div class="gallery_product  filter irrigation">
                         <button type="" class="" data-bs-toggle="modal" data-bs-target="#exampleModal9">
                             <img class="w-100" src="images/exhibit/xnergy.jpg" class="img-responsive">
@@ -215,7 +215,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-3">
+                <div class="col-md-3 text-end">
                     <div class="gallery_product  filter spray">
                         <button type="" class="" data-bs-toggle="modal" data-bs-target="#exampleModal10">
                             <img class="w-100" src="images/exhibit/terrann.jpg" class="img-responsive">
@@ -224,7 +224,7 @@
                         <p class="c-150">C-150 20x20</p>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 text-end">
                     <div class="gallery_product  filter spray">
                         <button type="" class="" data-bs-toggle="modal" data-bs-target="#exampleModal11">
                             <img class="w-100" src="images/exhibit/energy.jpg" class="img-responsive">

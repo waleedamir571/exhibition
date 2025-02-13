@@ -21,19 +21,19 @@
                         <ul>
                         <li><a href="#">Home</a></li>
                         <br>
-                            <li><a href="about.php">About Us</a></li>
+                            <li><a href="about">About Us</a></li>
                             <br>
-                            <li><a href="who-we-serve.php">Who We Serve
+                            <li><a href="who-we-serve">Who We Serve
                             </a></li>
                             <br>
-                            <li><a href="what-we-do.php">What We Do
+                            <li><a href="what-we-do">What We Do
                             </a></li>
                             <br>
-                            <li><a href="gallery.php">Gallery</a></li>
+                            <li><a href="gallery">Gallery</a></li>
                             <br>
-                            <li><a href="resources.php">Resources</a></li>
+                            <li><a href="resources">Resources</a></li>
                             <br>
-                            <li><a href="contact-us.php">Contact Us</a></li>
+                            <li><a href="contact-us">Contact Us</a></li>
                             
                         </ul>
                     </div>
@@ -43,15 +43,15 @@
                         <ul>
                             <li><a href="#">Pay </a></li>
                             <br>
-                            <li><a href="upload.php">Upload</a></li>
+                            <li><a href="upload">Upload</a></li>
                             <br>
-                            <li><a href="happy-hour-guide.php">Happy Hour</a></li>
+                            <li><a href="happy-hour-guide">Happy Hour</a></li>
                             <br>
-                            <li><a href="technology.php">Technology</a></li>
+                            <li><a href="technology">Technology</a></li>
                             <br>
-                            <li><a href="newsroom.php">Newsroom</a></li>
+                            <li><a href="newsroom">Newsroom</a></li>
                             <br>
-                            <li><a href="upload.php">Upload</a></li>
+                            <li><a href="upload">Upload</a></li>
                             <br>
                            
                         </ul>
@@ -75,7 +75,7 @@
                 </div>
                 <!-- Footer Bottom -->
                 <div class="footer-bottom head-text1">
-                    © 2024 Exhibit Network. All rights reserved.
+                    © 2025 Exhibit Network. All rights reserved.
                 </div>
             </div>
         </footer>

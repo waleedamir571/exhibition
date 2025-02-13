@@ -39,14 +39,18 @@
                         <div class="social-icons">
                             <ul id="mainmenu">
                                 <li>
-                                    <p class="d-none1"><a href="https://simplecheckout.authorize.net/payment/CatalogPayment.aspx" target="_blank"> Pay</p></a>
+                                    <p class="d-none1"><a
+                                            href="https://simplecheckout.authorize.net/payment/CatalogPayment.aspx"> Pay
+                                    </p></a>
                                 </li>
                                 <li>
-                                  <p class="d-none1"><a href="upload.php" target="_blank"> Upload </a></p>
+                                    <p class="d-none1"><a href="upload" target="_blank"> Upload </a></p>
 
                                 </li>
                                 <li>
-                                  <a href="happy-hour-guide.php" target="_blank"> <p >Happy Hour Guide</p> </a> 
+                                    <a href="happy-hour-guide" target="_blank">
+                                        <p>Happy Hour Guide</p>
+                                    </a>
 
                                 </li>
                             </ul>
@@ -58,10 +62,14 @@
                     <div class="col-lg-4 text-lg-end text-sm-center">
                         <ul id="mainmenu">
                             <li>
-                             <div class="p-0"> <a href="tel:7132901212%20">  <p>713.290.1212</p> </a> </div>
+                                <div class="p-0"> <a href="tel:7132901212%20">
+                                        <p>713.290.1212</p>
+                                    </a> </div>
                             </li>
                             <li>
-                            <div class="p-0"> <a href="mailto:info@exhibithouston.com">   <p>info@exhibithouston.com</p></a></div>
+                                <div class="p-0"> <a href="mailto:info@exhibithouston.com">
+                                        <p>info@exhibithouston.com</p>
+                                    </a></div>
 
                             </li>
                         </ul>
@@ -83,7 +91,7 @@
                                 <div class="de-flex-col">
                                     <!-- logo begin -->
                                     <div id="logo">
-                                        <a href="index.php">
+                                        <a href="index">
                                             <img class="logo-main" src="images/home/logo.png" alt="">
                                             <!-- <img class="logo-mobile" src="images/home/logo.png" alt=""> -->
                                         </a>
@@ -93,22 +101,23 @@
                             </div>
                             <div class="de-flex-col header-col-mid">
                                 <ul id="mainmenu">
-                                    <!-- <li><a class="menu-item" href="index.php" target="_blank">Home</a> -->
+                                    <!-- <li><a class="menu-item" href="index" target="_blank">Home</a> -->
 
                                     </li>
-                                    <li><a class="menu-item" href="about.php" target="_blank">About</a></li>
-                                    <li><a class="menu-item" href="who-we-serve.php" target="_blank">Who We Serve</a></li>
-                                    <li><a class="menu-item" href="what-we-do.php" target="_blank">What We Do</a></li>
-                                    <li><a class="menu-item" href="gallery.php" target="_blank">Gallery</a></li>
-                                    <li><a class="menu-item" href="exhibits.php" target="_blank">Exhibits</a></li>
-                                    <li><a class="menu-item" href="resources.php" target="_blank">Resources</a></li>
-                                    <li><a class="menu-item" href="contact-us.php" target="_blank">Contact Us</a></li>
+                                    <li><a class="menu-item" href="about" target="_blank">About</a></li>
+                                    <li><a class="menu-item" href="who-we-serve" target="_blank">Who We Serve</a>
+                                    </li>
+                                    <li><a class="menu-item" href="what-we-do" target="_blank">What We Do</a></li>
+                                    <li><a class="menu-item" href="gallery" target="_blank">Gallery</a></li>
+                                    <li><a class="menu-item" href="exhibits" target="_blank">Exhibits</a></li>
+                                    <li><a class="menu-item" href="resources" target="_blank">Resources</a></li>
+                                    <li><a class="menu-item" href="contact-us" target="_blank">Contact Us</a></li>
 
                                 </ul>
                             </div>
                             <div class="de-flex-col">
                                 <div class="menu_side_area">
-                                    <a href="contact-us.php" target="_blank" class="btn-line">Get A Quote</a>
+                                    <a href="contact-us" target="_blank" class="btn-line">Get A Quote</a>
                                     <span id="menu-btn"></span>
                                 </div>
                             </div>

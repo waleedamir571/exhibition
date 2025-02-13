@@ -583,14 +583,14 @@
                             <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s">We have built a
                                 significant presence in our hometown and beyond:</p>
                             <p class="about-us">
-                                <a href="houston.php"> Houston </a>
+                                <a href="houston"> Houston </a>
                                 <br>
-                                <a href="las-vegas.php"> Las Vegas </a>
+                                <a href="las-vegas"> Las Vegas </a>
                                 <br>
 
-                                <a href="chicago.php"> Chicago </a>
+                                <a href="chicago"> Chicago </a>
                             </p>
-                            <a href="">
+                            <a href="orlando">
                                 <p class="about-us">ORLANDO</p>
                             </a>
 
@@ -629,7 +629,7 @@
                                     and press releases about Exhibit Network, our partners, and the trade show industry.
                                 </p>
 
-                                <a href="newsroom.php"> <button type="button" class="btn btn-primary1 none">WHAT’S THE
+                                <a href="newsroom"> <button type="button" class="btn btn-primary1 none">WHAT’S THE
                                         BUZZ!</button></a>
                             </div>
                         </div>
@@ -671,7 +671,7 @@
                                     ideas are heard, and your career can thrive.
                                 </p>
 
-                                <a href="careers.php"> <button type="button" class="btn btn-primary1 none">JOIN
+                                <a href="careers"> <button type="button" class="btn btn-primary1 none">JOIN
                                         NOW</button></a>
                             </div>
                         </div>
@@ -686,7 +686,7 @@
     <div class="container position-relative z1000">
         <div class="row align-items-center pt-50">
             <div class="col-lg-12">
-                <a href="corporate-responsibility.php"> <img class="w-100" src="images/about/sec=gr.png" alt=""></a>
+                <a href="corporate-responsibility"> <img class="w-100" src="images/about/sec=gr.png" alt=""></a>
             </div>
 
 </section>

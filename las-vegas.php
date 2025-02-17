@@ -44,7 +44,7 @@
 
 <section id="section-schedule" class="jarallax no-bottom">
 
- 
+
 
     <div class="container">
 
@@ -56,40 +56,31 @@
 
                     <div class="row">
 
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s">Home to NASA’s Johnson Space
-                            Center, Houston is nicknamed the
-                            “Space City.” Beyond space exploration, Houston is a global leader in the oil and gas
-                            industry and is home to world-class advanced manufacturing and robotics firms, the world’s
-                            largest medical complex, the Texas Medical Center, and dozens of Fortune 500 companies.</p>
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s">Recognized as a city of
+                            indulgence, neon lights, world-class shows, and over-the-top themed hotels, Las Vegas is
+                            nicknamed “Sin City.” With an overabundance of entertainment, lodging, and convention center
+                            space, it’s no wonder the <span class="about-us1"> Las Vegas Convention and Visitors
+                                Authority </span> also calls it “The
+                            World’s No. 1 Meeting Destination.” </p>
                         <br>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> According to the <span
-                                class="about-us1">2024 Convention Cities Index</span> published by event
-                            production platform <span class="about-us1"> Northstar Meetings Group </span>, Houston ranks
-                            #5 in the country based on
-                            criteria including the amount of indoor exhibit space, the number of hotel rooms within a
-                            15-minute walk of the convention center, the average cost of hotel rooms, visitor safety,
-                            and access to an international airport.</p>
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> Boasting more meeting space
+                            than any other city on the globe, Las Vegas is home to three of the top venues in the
+                            country as ranked by the <span class="about-us1"> Wall Street Journal: </span> </p>
                         <br>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> Trade shows in Houston are
-                            held at venues such as:</p>
+
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us1">🔹
-                                George R. Brown Convention Center</span> one of the ten largest convention centers in
-                            the US.
-                        </p>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us1">🔹
-                                NRG Center</span> offering over 1.4 million square feet and 11 exhibit halls.
+                                The Las Vegas Convention Center (LVCC),</span> approximately 2.9 million square feet of
+                            exhibit space and 225 meeting rooms
                         </p>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us1">🔹
-                                Sam Houston Race Park , Hobby Center for Performing Arts</span> and <span
-                                class="about-us1">
-                                Rice Stadium.</span>
+                                The Venetian Convention and Expo Center,</span> over 2 million square feet, three
+                            exhibition halls, and over 350 meeting rooms
                         </p>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> With decades of
-                            experience managing events at our Houston-based convention centers, we understand their
-                            rules, permitting requirements, designated loading docks, safety protocols, set-up
-                            guidelines, and requirements for coordinating with show management for any of your unique
-                            needs or booth requirements.
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us1">🔹
+                                Mandalay Bay Convention Center,</span> the fifth largest convention center in the U.S.,
+                            with 2.1 million gross square feet of meeting and exhibit space
                         </p>
+
                         <br>
 
                     </div>
@@ -105,40 +96,33 @@
 
                 <div class="row">
 
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s">With decades of experience
-                        managing events at our Houston-based convention centers, we understand their rules, permitting
-                        requirements, designated loading docks, safety protocols, set-up guidelines, and requirements
-                        for coordinating with show management for any of your unique needs or booth requirements.</p>
+                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s">Exhibit Network has supported
+                        customer exhibits at all the top Las Vegas-based convention centers as well as the <span
+                            class="about-us1"> MGM Grand
+                            Hotel and Caesar’s. </span> We understand the Las Vegas union guidelines, permits and
+                        licenses, venue
+                        requirements, and more for events such as:</p>
                     <br>
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> Exhibit Network is proud to
-                        support customers from around the world who exhibit at our many Houston-based shows,
-                        including: <span class="about-us1">🔹 Offshore Technology Conference</span>, a collaboration of non-profit
-                        organizations that
-                        support the global energy sector.</p>
+                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us1">
+                            Consumer Electronics Show (CES), </span> the most powerful and visionary tech event in the
+                        world</p>
                     <br>
 
                     <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us1">
-                            🔹 NAPE Summit,</span> executives, investors, and professionals from the upstream energy
-                        sector.
+                             Specialty Equipment Market Association</span> (SEMA), an automotive aftermarket trade show
                     </p>
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us1">🔹
-                            CERAWeek,</span> new ideas, insight, and solutions to the biggest challenges facing the
-                        future of energy, the environment, and climate.
+                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us1">
+                            ConExpo</span> , the largest construction show in North America
                     </p>
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us1">🔹
-                            Energy Transition North America</span> key decision makers from utilities, oil & gas,
-                        renewable power generation, finance and policymaking.
+                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us1">
+                            National Association of Broadcasters</span>(NAB), the premier destination for leaders in the
+                        media and entertainment industries
                     </p>
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us1">🔹
-                            Hydrogen Technology Expo</span> advanced technologies for the hydrogen and fuel cell
-                        industry.
+                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us1">
+                            International Builders Show</span> (IBS), the largest gathering for residential building
+                        professionals in North America
                     </p>
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us1">🔹
-                            Specialty Coffee Expo</span> the largest B2B specialty coffee trade show in North America.
-                    </p>
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us1">🔹
-                            ILTA Conference and Trade Show,</span> International Liquid Terminals Association
-                    </p>
+
 
                     <br>
 

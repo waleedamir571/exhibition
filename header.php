@@ -43,13 +43,13 @@
                                             href="https://simplecheckout.authorize.net/payment/CatalogPayment.aspx"> Pay
                                     </p></a>
                                 </li>
-                                <li>
+                                <!-- <li>
                                     <p class="d-none1"><a href="upload" target="_blank"> Upload </a></p>
 
-                                </li>
+                                </li>  -->
                                 <li>
                                     <a href="happy-hour-guide" target="_blank">
-                                        <p>Happy Hour Guide</p>
+                                        <p>Need a booth?</p>
                                     </a>
 
                                 </li>
@@ -117,7 +117,7 @@
                             </div>
                             <div class="de-flex-col">
                                 <div class="menu_side_area">
-                                    <a href="contact-us" target="_blank" class="btn-line">Get A Quote</a>
+                                    <a href="contact-us" target="_blank" class="btn-line">Get in Touch</a>
                                     <span id="menu-btn"></span>
                                 </div>
                             </div>

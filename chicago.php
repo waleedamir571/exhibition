@@ -19,9 +19,13 @@
 
                                     <p class=" text-uppercase mb-3 head-text"> <span class="wow fadeInRight"
                                             data-wow-delay=".2s">CHICAGO</span></p>
-                                    <p class="wow fadeInUp head-text1 animated" data-wow-delay=".3s">Known as the “Windy
-                                        City,” Chicago is more than tall skyscrapers, Wrigley Field, deep-dish pizza,
-                                        and the Chicago bean.</p>
+                                    <p class="wow fadeInUp head-text1 animated" data-wow-delay=".3s">Chicago is home to
+                                        McCormick Place
+                                        Convention Center. With 2.6 million square
+                                        feet of exhibit halls and 600,000 square feet
+                                        of meeting space, it’s billed as the
+                                        continent’s largest and most versatile
+                                        convention center.</p>
                                     <div class="spacer-10"></div>
 
                                 </div>

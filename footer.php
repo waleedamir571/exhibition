@@ -1,4 +1,6 @@
 <a href="#" id="back-to-top"></a>
+
+
         <!-- ` begin -->
         <footer class="footer">
             <div class="container">
@@ -9,9 +11,12 @@
                             <img class="w-90" src="images/home/footer-logo.png" alt="">
                         </div>
                         <p class="footer-description we-got">
-                            Relax...We got this.<br>
+                            Relax... We got this.<br>
                         </p>
-                        <p class="head-text1">We are in business to make your trade show experience as seamless, stress-free, and successful as possible.</p>
+                        <p class="head-text1">Welcome to Exhibit Network. We are
+in business to make your trade show
+experience as seamless, stress-free,
+and successful as possible. </p>
                     </div>
 
 
@@ -42,10 +47,9 @@
                         <h5>Resources</h5>
                         <ul>
                             <li><a href="#">Pay </a></li>
-                            <br>
-                            <li><a href="upload">Upload</a></li>
-                            <br>
-                            <li><a href="happy-hour-guide">Happy Hour</a></li>
+                                                        <br>
+                            <li><a href="happy-hour-guide">Need a
+                            Booth ?</a></li>
                             <br>
                             <li><a href="technology">Technology</a></li>
                             <br>
@@ -53,9 +57,10 @@
                             <br>
                             <li><a href="upload">Upload</a></li>
                             <br>
-                            <li><a href="faqs">Faqs</a></li>
+                            <li><a href="faqs">FAQs</a></li>
                             <br>
-                            <li><a href="customer-storage-terms-conditions">STORAGE TERMS & CONDITIONS</a></li>
+                            <li><a href="customer-storage-terms-conditions">Storage Terms &
+                            Conditions</a></li>
                            
                         </ul>
                     </div>
@@ -66,13 +71,13 @@
                         <p><img class="w-10" src="images/home/location.png" alt=""> EXHIBIT NETWORK, LLC<br>3434 Lang
                             Rd, Houston TX 77092</p>
                         <p> <img class="w-10" src="images/home/call.png" alt=""><a href="tel:7132901212%20"> 713.290.1212</a></p>
-                        <p><a href="mailto:info@exhibithouston.com"> <img class="w-10" src="images/home/sms.png" alt=""> info@exhibithouston.com </a></p>
+                        <p><a class="text-transform" href="mailto:info@exhibithouston.com"> <img class="w-10 " src="images/home/sms.png" alt="">info@exhibithouston.com </a></p>
                         <div class="social-icons">
-                            <a href="#"><img src="images/home/twitter.png" alt=""></a>
-                            <a href="#"><img src="images/home/fb (2).png" alt=""></a>
-                            <a href="#"><img src="images/home/yiu.png" alt=""></a>
-                            <a href="#"><img src="images/home/pinterest.png" alt=""></a>
-                            <a href="#"><img src="images/home/insta (2).png" alt=""></a>
+                            <a href="@ExhibitNetwork"><img src="images/home/x.png" alt=""></a>
+                            <a href="https://www.facebook.com/EXHIBITNETWORK"><img src="images/home/fb (2).png" alt=""></a>
+                            <a href="https://www.youtube.com/@ExhibitNetwork"><img src="images/home/yiu.png" alt=""></a>
+                            <a href="https://www.linkedin.com/company/exhibit-network/"><img src="images/home/linked.png" alt=""></a>
+                            <a href="https://www.instagram.com/exhibitnetwork"><img src="images/home/insta (2).png" alt=""></a>
                         </div>
                     </div>
                 </div>
@@ -267,9 +272,48 @@
       },
     });
   </script>
+<script>
+    // Ensure DOM is fully loaded
+// JavaScript Code
+document.addEventListener('DOMContentLoaded', function() {
+    const scrollButton = document.querySelector('.top-6');
+    const targetSection = document.querySelector('#first-section');
+
+    // Check if both elements are present
+    if (scrollButton && targetSection) {
+        console.log('Scroll button and target section found!');
+
+        scrollButton.addEventListener('click', function() {
+            console.log('Scroll button clicked!');
+            const sectionPosition = targetSection.getBoundingClientRect().top + window.scrollY;
+
+            console.log('Scrolling to position:', sectionPosition);
+
+            // Smooth scroll to the target section
+            window.scrollTo({
+                top: sectionPosition,
+                behavior: 'smooth'
+            });
+        });
+    } else {
+        console.error('Element not found:', scrollButton, targetSection);
+    }
+});
+
+</script>
 
 
 <script>
+
+    // JavaScript Code
+// JavaScript Code
+document.querySelector('.top-6').addEventListener('click', function() {
+    document.querySelector('#second-section').scrollIntoView({
+        behavior: 'smooth'
+    });
+});
+
+
     document.addEventListener('DOMContentLoaded', function() {
     const tabBtns = document.querySelectorAll('.tab-btn');
     const tabContents = document.querySelectorAll('.tab-content');

@@ -199,8 +199,8 @@
 
                     <div class="row">
                         <div class="col-md-12 ">
-                            <p class="wow fadeInRight head-text1" data-wow-delay=".4s">Exhibit Network is taking care of
-                                your booth. Go to Happy Hour…We Got This.</p>
+                            <!-- <p class="wow fadeInRight head-text1" data-wow-delay=".4s">Exhibit Network is taking care of
+                                your booth. Go to Happy Hour…We Got This.</p> -->
                             <br>
                             <p class="wow fadeInRight head-text1" data-wow-delay=".4s">Never worry about your trade show
                                 exhibit again. With Exhibit Network, you can be confident all your trade show

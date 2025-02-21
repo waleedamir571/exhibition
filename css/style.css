@@ -103,6 +103,16 @@ Table of content:
   background: #323080;
   padding: 20px 10px 5px;
 }
+.text-transform{
+  text-transform: lowercase;
+}
+
+.top-6{
+  position: relative;
+  top: 6rem;
+  text-transform: uppercase;
+
+}
 
 
 input#flexCheckDefault {
@@ -1098,6 +1108,7 @@ li {
   font-size: 14px;
   color: #aaa;
   margin-bottom: 15px;
+  text-align: justify;
 }
 
 .testimonial-name {
@@ -1105,9 +1116,8 @@ li {
   font-family: Lexend;
   font-size: 20px;
   font-style: normal;
-  font-weight: 500;
+  font-weight: 700;
   line-height: 29px;
-  /* 145% */
 }
 
 .p-head {

@@ -26,10 +26,12 @@
 
                                     <p class=" text-uppercase mb-3 head-text"> <span class="wow fadeInRight"
                                             data-wow-delay=".2s">ABOUT US</span></p>
-                                    <p class="wow fadeInUp head-text1 animated" data-wow-delay=".3s">Never worry about
-                                        your trade
-                                        show exhibit again. With Exhibit Network, you can be confident all your trade
-                                        show experiences will be seamless and stress-free.Trust us…we got this.</p>
+                                    <p class="wow fadeInUp head-text1 animated" data-wow-delay=".3s">Ensure your brand
+                                        stands out without breaking
+                                        the bank. At Exhibit Network, we provide highly
+                                        professional, cost-effective, custom solutions
+                                        tailored for companies seeking to maximize their
+                                        impact at any budget. </p>
                                     <div class="spacer-10"></div>
 
                                 </div>
@@ -67,20 +69,18 @@
                     <div class="d-img-3 bg-color"></div>
                 </div>
             </div>
-            <div class="col-md-5 offset-md-1 position-relative" data-jarallax-element="-60">
+            <div class="col-md-6 position-relative" data-jarallax-element="-60">
                 <p class="about-us">OVERVIEW <img src="images/home/Line.png" alt=""></p>
                 <div class="position-relative z1000">
 
-                    <h2 class="text-uppercase wow fadeInRight relax montserrat" data-wow-delay=".3s">relax…
+                    <h2 class="text-uppercase wow fadeInRight relax montserrat" data-wow-delay=".3s">relax …
 
                         we got this
 
                     </h2>
                     <div class="row">
                         <div class="col-md-12 ">
-                            <p class="wow fadeInRight head-text1" data-wow-delay=".4s">Lorem ipsum dolor sit amet,
-                                consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-                                aliqua.</p>
+
                         </div>
                         <div class="col-md-2 ">
                             <img class="w-100 w-auto1" src="images/about/m1.png" alt="">
@@ -263,12 +263,12 @@
                                     <p class="name text-center">Jon Arnstein</p>
                                     <p class="card-title knowledge">President</p>
 
-                                    <ul class="text-center">
+                                    <!-- <ul class="text-center">
 
                                         <li><img src="images/about/twitter.png" alt=""></li>
                                         <li><img src="images/about/insta.png" alt=""></li>
                                         <li><img src="images/about/fb.png" alt=""></li>
-                                    </ul>
+                                    </ul> -->
                                     <div class="text-center">
                                         <button type="button" class="btn btn-primary3">VIEW LINKEDIN</button>
                                     </div>
@@ -289,238 +289,206 @@
                     </div>
                     <div class="card swiper-slide">
                         <div class="card swiper-slide">
-                        <div class="col-md-12">
-                            <div class="card card1">
-                                <div class="img-center">
-                                    <img class="card-img-top1" src="images/about/user3.png" alt="Card image cap">
-                                </div>
-                                <div class="card-body">
-
-                                    <p class="name text-center">Alex Danielides</p>
-                                    <p class="card-title knowledge">CEO</p>
-
-                                    <ul class="text-center">
-
-                                        <li><img src="images/about/twitter.png" alt=""></li>
-                                        <li><img src="images/about/insta.png" alt=""></li>
-                                        <li><img src="images/about/fb.png" alt=""></li>
-                                    </ul>
-                                    <div class="text-center">
-                                        <button type="button" class="btn btn-primary3">VIEW LINKEDIN</button>
+                            <div class="col-md-12">
+                                <div class="card card1">
+                                    <div class="img-center">
+                                        <img class="card-img-top1" src="images/about/user2.png" alt="Card image cap">
                                     </div>
-                                    <br>
-                                    <div class="text-center">
-                                        <button type="button" class="btn btn-primary1" data-bs-toggle="modal"
-                                            data-bs-target="#exampleModal2">VIEW PROFILE</button>
+                                    <div class="card-body">
+
+                                        <p class="name text-center">Alex Danielides</p>
+                                        <p class="card-title knowledge">CEO</p>
+
+                                        <!-- <ul class="text-center">
+
+                                            <li><img src="images/about/twitter.png" alt=""></li>
+                                            <li><img src="images/about/insta.png" alt=""></li>
+                                            <li><img src="images/about/fb.png" alt=""></li>
+                                        </ul> -->
+                                        <div class="text-center">
+                                            <a href="https://www.linkedin.com/in/alexander-danielides-97284715/">
+                                                <button type="button" class="btn btn-primary3">VIEW LINKEDIN</button> </a>
+                                        </div>
+                                        <br>
+                                        <div class="text-center">
+                                            <button type="button" class="btn btn-primary1" data-bs-toggle="modal"
+                                                data-bs-target="#exampleModal2">VIEW PROFILE</button>
+                                        </div>
+
+
                                     </div>
-
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    </div>
-                    <div class="card swiper-slide">
-                        <div class="card swiper-slide">
-                        <div class="col-md-12">
-                            <div class="card card1">
-                                <div class="img-center">
-                                    <img class="card-img-top1" src="images/about/user2.png" alt="Card image cap">
-                                </div>
-                                <div class="card-body">
-
-                                    <p class="name text-center">Lenny Maartens</p>
-                                    <p class="card-title knowledge">Advisor</p>
-
-                                    <ul class="text-center">
-
-                                        <li><img src="images/about/twitter.png" alt=""></li>
-                                        <li><img src="images/about/insta.png" alt=""></li>
-                                        <li><img src="images/about/fb.png" alt=""></li>
-                                    </ul>
-                                    <div class="text-center">
-                                        <button type="button" class="btn btn-primary3">VIEW LINKEDIN</button>
-                                    </div>
-                                    <br>
-                                    <div class="text-center">
-                                        <button type="button" class="btn btn-primary1" data-bs-toggle="modal"
-                                            data-bs-target="#exampleModal3">VIEW PROFILE</button>
-                                    </div>
-
                                 </div>
                             </div>
-                        </div>
                         </div>
                     </div>
                     <div class="card swiper-slide">
                         <div class="card swiper-slide">
-                        <div class="col-md-12">
-                            <div class="card card1">
-                                <div class="img-center">
-                                    <img class="card-img-top1" src="images/about/user4.png" alt="Card image cap">
-                                </div>
-                                <div class="card-body">
-
-                                    <p class="name text-center">Kathleen Maartens</p>
-                                    <p class="card-title knowledge">Advisor</p>
-
-                                    <ul class="text-center">
-
-                                        <li><img src="images/about/twitter.png" alt=""></li>
-                                        <li><img src="images/about/insta.png" alt=""></li>
-                                        <li><img src="images/about/fb.png" alt=""></li>
-                                    </ul>
-                                    <div class="text-center">
-                                        <button type="button" class="btn btn-primary3">VIEW LINKEDIN</button>
+                            <div class="col-md-12">
+                                <div class="card card1">
+                                    <div class="img-center">
+                                        <img class="card-img-top1" src="images/about/user3.png" alt="Card image cap">
                                     </div>
-                                    <br>
+                                    <div class="card-body">
 
-                                    <div class="text-center">
-                                        <button type="button" class="btn btn-primary1" data-bs-toggle="modal"
-                                            data-bs-target="#exampleModal4">VIEW PROFILE</button>
+                                        <p class="name text-center">Lenny Maartens</p>
+                                        <p class="card-title knowledge">Advisor</p>
+
+                                        <!-- <ul class="text-center">
+
+                                            <li><img src="images/about/twitter.png" alt=""></li>
+                                            <li><img src="images/about/insta.png" alt=""></li>
+                                            <li><img src="images/about/fb.png" alt=""></li>
+                                        </ul> -->
+                                        <div class="text-center">
+                                            <button type="button" class="btn btn-primary3">VIEW LINKEDIN</button>
+                                        </div>
+                                        <br>
+                                        <div class="text-center">
+                                            <button type="button" class="btn btn-primary1" data-bs-toggle="modal"
+                                                data-bs-target="#exampleModal3">VIEW PROFILE</button>
+                                        </div>
+
                                     </div>
-
-
                                 </div>
                             </div>
                         </div>
+                    </div>
+
+                    <div class="card swiper-slide">
+                        <div class="card swiper-slide">
+                            <div class="col-md-12">
+                                <div class="card card1">
+                                    <div class="img-center">
+                                        <img class="card-img-top1" src="images/about/nicole.png" alt="Card image cap">
+                                    </div>
+                                    <div class="card-body">
+
+                                        <p class="name text-center">Nicole Papakostas</p>
+                                        <p class="card-title knowledge">Project Manager</p>
+
+                                        <!-- <ul class="text-center">
+
+                                            <li><img src="images/about/twitter.png" alt=""></li>
+                                            <li><img src="images/about/insta.png" alt=""></li>
+                                            <li><img src="images/about/fb.png" alt=""></li>
+                                        </ul> -->
+                                        <div class="text-center">
+                                            <button type="button" class="btn btn-primary3">VIEW LINKEDIN</button>
+                                        </div>
+                                        <br>
+
+                                        <div class="text-center">
+                                            <button type="button" class="btn btn-primary1" data-bs-toggle="modal"
+                                                data-bs-target="#exampleModal5">VIEW PROFILE</button>
+                                        </div>
+
+
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <div class="card swiper-slide">
                         <div class="card swiper-slide">
-                        <div class="col-md-12">
-                            <div class="card card1">
-                                <div class="img-center">
-                                    <img class="card-img-top1" src="images/about/nicole.png" alt="Card image cap">
-                                </div>
-                                <div class="card-body">
-
-                                    <p class="name text-center">Nicole Papakostas</p>
-                                    <p class="card-title knowledge">Project Manager</p>
-
-                                    <ul class="text-center">
-
-                                        <li><img src="images/about/twitter.png" alt=""></li>
-                                        <li><img src="images/about/insta.png" alt=""></li>
-                                        <li><img src="images/about/fb.png" alt=""></li>
-                                    </ul>
-                                    <div class="text-center">
-                                        <button type="button" class="btn btn-primary3">VIEW LINKEDIN</button>
+                            <div class="col-md-12">
+                                <div class="card card1">
+                                    <div class="img-center">
+                                        <img class="card-img-top1" src="images/about/regusci.png" alt="Card image cap">
                                     </div>
-                                    <br>
+                                    <div class="card-body">
 
-                                    <div class="text-center">
-                                        <button type="button" class="btn btn-primary1" data-bs-toggle="modal"
-                                            data-bs-target="#exampleModal5">VIEW PROFILE</button>
+                                        <p class="name text-center">Alex Regusci</p>
+                                        <p class="card-title knowledge">Production</p>
+
+                                        <!-- <ul class="text-center">
+
+                                            <li><img src="images/about/twitter.png" alt=""></li>
+                                            <li><img src="images/about/insta.png" alt=""></li>
+                                            <li><img src="images/about/fb.png" alt=""></li>
+                                        </ul> -->
+                                        <div class="text-center">
+                                            <button type="button" class="btn btn-primary3">VIEW LINKEDIN</button>
+                                        </div>
+                                        <br>
+
+                                        <div class="text-center">
+                                            <button type="button" class="btn btn-primary1" data-bs-toggle="modal"
+                                                data-bs-target="#exampleModal6">VIEW PROFILE</button>
+                                        </div>
+
+
                                     </div>
-
-
                                 </div>
                             </div>
                         </div>
-                    </div>
                     </div>
                     <div class="card swiper-slide">
                         <div class="card swiper-slide">
-                        <div class="col-md-12">
-                            <div class="card card1">
-                                <div class="img-center">
-                                    <img class="card-img-top1" src="images/about/regusci.png" alt="Card image cap">
-                                </div>
-                                <div class="card-body">
-
-                                    <p class="name text-center">Alex Regusci</p>
-                                    <p class="card-title knowledge">Production</p>
-
-                                    <ul class="text-center">
-
-                                        <li><img src="images/about/twitter.png" alt=""></li>
-                                        <li><img src="images/about/insta.png" alt=""></li>
-                                        <li><img src="images/about/fb.png" alt=""></li>
-                                    </ul>
-                                    <div class="text-center">
-                                        <button type="button" class="btn btn-primary3">VIEW LINKEDIN</button>
+                            <div class="col-md-12">
+                                <div class="card card1">
+                                    <div class="img-center">
+                                        <img class="card-img-top1" src="images/about/george.png" alt="Card image cap">
                                     </div>
-                                    <br>
+                                    <div class="card-body">
 
-                                    <div class="text-center">
-                                        <button type="button" class="btn btn-primary1" data-bs-toggle="modal"
-                                            data-bs-target="#exampleModal6">VIEW PROFILE</button>
+                                        <p class="name text-center">George Wenk</p>
+                                        <p class="card-title knowledge">Production</p>
+
+                                        <!-- <ul class="text-center">
+
+                                            <li><img src="images/about/twitter.png" alt=""></li>
+                                            <li><img src="images/about/insta.png" alt=""></li>
+                                            <li><img src="images/about/fb.png" alt=""></li>
+                                        </ul> -->
+                                        <div class="text-center">
+                                            <button type="button" class="btn btn-primary3">VIEW LINKEDIN</button>
+                                        </div>
+                                        <br>
+
+                                        <div class="text-center">
+                                            <button type="button" class="btn btn-primary1" data-bs-toggle="modal"
+                                                data-bs-target="#exampleModal7">VIEW PROFILE</button>
+                                        </div>
+
+
                                     </div>
-
-
                                 </div>
                             </div>
                         </div>
-                    </div>
                     </div>
                     <div class="card swiper-slide">
                         <div class="card swiper-slide">
-                        <div class="col-md-12">
-                            <div class="card card1">
-                                <div class="img-center">
-                                    <img class="card-img-top1" src="images/about/george.png" alt="Card image cap">
-                                </div>
-                                <div class="card-body">
-
-                                    <p class="name text-center">George Wenk</p>
-                                    <p class="card-title knowledge">Production</p>
-
-                                    <ul class="text-center">
-
-                                        <li><img src="images/about/twitter.png" alt=""></li>
-                                        <li><img src="images/about/insta.png" alt=""></li>
-                                        <li><img src="images/about/fb.png" alt=""></li>
-                                    </ul>
-                                    <div class="text-center">
-                                        <button type="button" class="btn btn-primary3">VIEW LINKEDIN</button>
+                            <div class="col-md-12">
+                                <div class="card card1">
+                                    <div class="img-center">
+                                        <img class="card-img-top1" src="images/about/wes.png" alt="Card image cap">
                                     </div>
-                                    <br>
+                                    <div class="card-body">
 
-                                    <div class="text-center">
-                                        <button type="button" class="btn btn-primary1" data-bs-toggle="modal"
-                                            data-bs-target="#exampleModal7">VIEW PROFILE</button>
+                                        <p class="name text-center">Wes Galicia</p>
+                                        <p class="card-title knowledge">Warehouse/I&D</p>
+
+                                        <!-- <ul class="text-center">
+
+                                            <li><img src="images/about/twitter.png" alt=""></li>
+                                            <li><img src="images/about/insta.png" alt=""></li>
+                                            <li><img src="images/about/fb.png" alt=""></li>
+                                        </ul> -->
+                                        <div class="text-center">
+                                            <button type="button" class="btn btn-primary3">VIEW LINKEDIN</button>
+                                        </div>
+                                        <br>
+
+                                        <div class="text-center">
+                                            <button type="button" class="btn btn-primary1" data-bs-toggle="modal"
+                                                data-bs-target="#exampleModal8">VIEW PROFILE</button>
+                                        </div>
+
+
                                     </div>
-
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    </div>
-                    <div class="card swiper-slide">
-                        <div class="card swiper-slide">
-                        <div class="col-md-12">
-                            <div class="card card1">
-                                <div class="img-center">
-                                    <img class="card-img-top1" src="images/about/wes.png" alt="Card image cap">
-                                </div>
-                                <div class="card-body">
-
-                                    <p class="name text-center">Wes Galicia</p>
-                                    <p class="card-title knowledge">Warehouse/I&D</p>
-
-                                    <ul class="text-center">
-
-                                        <li><img src="images/about/twitter.png" alt=""></li>
-                                        <li><img src="images/about/insta.png" alt=""></li>
-                                        <li><img src="images/about/fb.png" alt=""></li>
-                                    </ul>
-                                    <div class="text-center">
-                                        <button type="button" class="btn btn-primary3">VIEW LINKEDIN</button>
-                                    </div>
-                                    <br>
-
-                                    <div class="text-center">
-                                        <button type="button" class="btn btn-primary1" data-bs-toggle="modal"
-                                            data-bs-target="#exampleModal8">VIEW PROFILE</button>
-                                    </div>
-
-
                                 </div>
                             </div>
                         </div>
-                    </div>
                     </div>
 
                 </div>
@@ -545,7 +513,8 @@
                     <img src="images/home/Line.png" alt="">
                 </p>
                 <br>
-                <p class="head-text1">We provide services in all 50 states and international</p>
+                <p class="head-text1">we’re committed to delivering
+                    exceptional solutions tailored to your needs. </p>
                 <div class="spacer-single"></div>
             </div>
 
@@ -567,8 +536,7 @@
                         713.290.1212</p>
                     <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s">We proudly serve all 50 states,
                         offering seamless support across the United States. Our expertise also extends internationally,
-                        ensuring reliable solutions for clients worldwide. No matter where you are, we’re committed to
-                        delivering exceptional service tailored to your needs.</p>
+                        ensuring reliable solutions for clients worldwide. No matter where you are, </p>
                     <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s">We’ve provided turnkey exhibit
                         services for our international clients from Australia, Belgium, Canada, China, Germany, Ghana,
                         Italy, The Maldives, Mexico, Namibia, The Netherlands, Nigeria, Poland, Portugal, Russia, Spain,
@@ -589,10 +557,12 @@
                                 <br>
 
                                 <a href="chicago"> Chicago </a>
+                                <br>
+                                <a href="orlando">
+                                    ORLANDO
+                                </a>
                             </p>
-                            <a href="orlando">
-                                <p class="about-us">ORLANDO</p>
-                            </a>
+                            
 
                         </div>
                     </div>
@@ -671,7 +641,7 @@
                                     ideas are heard, and your career can thrive.
                                 </p>
 
-                                <a href="careers"> <button type="button" class="btn btn-primary1 none">JOIN
+                                <a href="https://www.linkedin.com/company/exhibit-network/jobs"> <button type="button" class="btn btn-primary1 none">JOIN
                                         NOW</button></a>
                             </div>
                         </div>
@@ -686,7 +656,7 @@
     <div class="container position-relative z1000">
         <div class="row align-items-center pt-50">
             <div class="col-lg-12">
-                <a href="corporate-responsibility"> <img class="w-100" src="images/about/sec=gr.png" alt=""></a>
+                <a href="#"> <img class="w-100" src="images/about/sec=gr.png" alt=""></a>
             </div>
 
 </section>

@@ -290,12 +290,8 @@
                                 </div>
                                 <div class="col-md-2">
 
-                                    <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-
-
-                                </div>
-
-                                <div class="col-md-2">
+                                
+                                <p class="size30"> One</p>
 
                                     <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
 
@@ -304,13 +300,19 @@
 
                                 <div class="col-md-2">
 
+                                <p class="size30"> Recurring</p>
+
+
                                     <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
 
 
                                 </div>
+
+                               
 
 
                             </div>
+                            <br>
                             <div class="row">
                                 <div class="col-md-6">
 
@@ -322,24 +324,21 @@
                                 </div>
                                 <div class="col-md-2">
 
+                                <p class="size30"> Yes</p>
                                     <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
 
 
                                 </div>
 
                                 <div class="col-md-2">
+                                <p class="size30"> No</p>
 
                                     <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
 
 
                                 </div>
 
-                                <div class="col-md-2">
-
-                                    <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-
-
-                                </div>
+                            
 
 
                             </div>

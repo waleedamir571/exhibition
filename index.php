@@ -25,8 +25,13 @@
                                             possible.
                                         </p>
 
-                                        <a href="experience-matters.php"> <button type="button"
+                                        <a href="about"> <button type="button"
                                                 class="btn btn-primary2">LEARN MORE</button></a>
+
+                                                
+                                                <?php include 'scroll-down.php'; ?>
+                                                
+                                        
                                     </div>
 
                                 </div>
@@ -40,7 +45,7 @@
         <!-- Inner -->
     </section>
 
-    <section id="section-schedule" class="jarallax no-bottom">
+    <section id="first-section" class="jarallax no-bottom">
 
         <div class="de-gradient-edge-top"></div>
         <div class="container position-relative z1000">
@@ -53,7 +58,7 @@
                     </div>
 
                     <br>
-                    <p class="head-text1">Exhibitors big and small, far and wide, trust Exhibit Network.</p>
+                    <p class="head-text1">When you partner with Exhibit Network, we work hard to ensure you are successful.</p>
                     <div class="spacer-single"></div>
                 </div>
 
@@ -66,8 +71,8 @@
                     <div class="card1">
                         <img class="card-img-top" src="images/home/card1.png" alt="Card image cap">
                         <div class="card-body">
-                            <img src="images/home/quote-down.png" alt="">
-                            <p class="card-title knowledge">KnowledgEAble & Confident</p>
+                            <!-- <img src="images/home/quote-down.png" alt=""> -->
+                            <p class="card-title knowledge">KNOWLEDGEABLE & Confident</p>
                             <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
 
                         </div>
@@ -78,7 +83,7 @@
                     <div class="card1">
                         <img class="card-img-top" src="images/home/card2.png" alt="Card image cap">
                         <div class="card-body">
-                            <img src="images/home/quote-down.png" alt="">
+                            <!-- <img src="images/home/quote-down.png" alt=""> -->
                             <p class="card-title knowledge">Understood & <br> Valued</p>
                             <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
 
@@ -90,7 +95,7 @@
                     <div class="card1">
                         <img class="card-img-top" src="images/home/card3.png" alt="Card image cap">
                         <div class="card-body">
-                            <img src="images/home/quote-down.png" alt="">
+                            <!-- <img src="images/home/quote-down.png" alt=""> -->
                             <p class="card-title knowledge">In Good <br> Hands</p>
                             <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
 
@@ -388,7 +393,7 @@
                     </p>
                     <br>
                     <p class="head-text1">Our highly skilled, professional team members engage with you every step of
-                        the way and choreograph every moment to bring your brand to life with ease.</p>
+                        the way  to bring your brand to life with ease.</p>
                     <div class="spacer-single"></div>
                 </div>
 
@@ -406,7 +411,7 @@
 
 
                                 <div class="c-item_wrap">
-                                    <img class="w-100" src="images/home/service.png" class="lazy img-fluid" alt="">
+                                    <img class="w-100" src="images/home/1.png" class="lazy img-fluid" alt="">
                                 </div>
 
                             </div>
@@ -416,7 +421,7 @@
 
 
                                 <div class="c-item_wrap">
-                                    <img class="w-100" src="images/home/slider4.png" class="lazy img-fluid" alt="">
+                                    <img class="w-100" src="images/home/2.png" class="lazy img-fluid" alt="">
                                 </div>
 
                             </div>
@@ -426,7 +431,7 @@
 
 
                                 <div class="c-item_wrap">
-                                    <img class="w-100" src="images/home/manage.png" class="lazy img-fluid" alt="">
+                                    <img class="w-100" src="images/home/3.png" class="lazy img-fluid" alt="">
                                 </div>
 
                             </div>
@@ -436,7 +441,7 @@
 
 
                                 <div class="c-item_wrap">
-                                    <img class="w-100" src="images/home/storage.png" class="lazy img-fluid" alt="">
+                                    <img class="w-100" src="images/home/4.png" class="lazy img-fluid" alt="">
                                 </div>
 
                             </div>
@@ -447,7 +452,7 @@
 
 
                                 <div class="c-item_wrap">
-                                    <img class="w-100" src="images/home/shipping.png" class="lazy img-fluid" alt="">
+                                    <img class="w-100" src="images/home/5.png" class="lazy img-fluid" alt="">
                                 </div>
 
                             </div>
@@ -482,6 +487,7 @@
                     <p class="about-us relax2 montserrat"> <img src="images/home/Line.png" alt=""> OUR PROJECTS
                         <img src="images/home/Line.png" alt="">
                     </p>
+                    <p class="head-text1">We’re proud to showcase our client successes!</p>
                     <br>
 
                     <div class="spacer-single"></div>
@@ -557,18 +563,17 @@
                                     </div>
 
                                     <p class="testimonial-text">
-                                        Exhibit Network went above and beyond on our recent booth build and exhibit at
-                                        the NBAA-EBACE show in Orlando. The CMS booth was the hit of the show all
-                                        because of the hard work and dedication of the team. Our project manager, Kat,
-                                        worked late
-                                        nights for months before the show to ensure everything would go smoothly once in
-                                        Orlando. During the show, Kat managed even my team of 20 employees to ensure we
-                                        staffed the booth properly and stocked the conference room and giveaway tables.
-                                        We joked she was our marketing manager as she handled customers and all aspects
-                                        of our show experience. The show was a great success, and the money was well
-                                        spent.
+                                        We are pleased with the services and
+                                        professionalism of working alongside
+                                        Exhibit Network. We’ve utilized their
+                                        services for years because they
+                                        understand our business and are always
+                                        ready to go in, waist-deep, to ensure we
+                                        are happy with the final product. I would
+                                        recommend Exhibit Network because they
+                                        truly align themselves as part of the team.
                                     </p>
-                                    <h4 class="testimonial-name">Cabin Management Solutions</h4>
+                                    <h4 class="testimonial-name">Maersk</h4>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="183" height="113"
                                         viewBox="0 0 183 113" fill="none">
                                         <path opacity="0.2"

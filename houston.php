@@ -20,7 +20,7 @@
 
                                     <p class=" text-uppercase mb-3 head-text"> <span class="wow fadeInRight"
                                             data-wow-delay=".2s">HOUSTON</span></p>
-                                    <p class="wow fadeInUp head-text1 animated" data-wow-delay=".3s">Houston is also the
+                                    <p class="wow fadeInUp head-text1 animated" data-wow-delay=".3s">Houston is  the
                                         headquarters of Exhibit Network. With the size of the trade show industry in
                                         this area, it was a natural fit.</p>
                                     <div class="spacer-10"></div>
@@ -55,7 +55,7 @@
 
         <div class="row align-items-center">
 
-            <div class="col-md-6 position-relative" data-jarallax-element="-60">
+            <div class="col-md-5 position-relative" data-jarallax-element="-60">
 
                 <div class="position-relative z1000">
 
@@ -90,12 +90,7 @@
                                 class="about-us1">
                                 Rice Stadium.</span>
                         </p>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> With decades of
-                            experience managing events at our Houston-based convention centers, we understand their
-                            rules, permitting requirements, designated loading docks, safety protocols, set-up
-                            guidelines, and requirements for coordinating with show management for any of your unique
-                            needs or booth requirements.
-                        </p>
+                       
                         <br>
 
                     </div>
@@ -107,7 +102,7 @@
                     class="position-absolute top-50 start-50 translate-middle" alt=""> -->
             </div>
 
-            <div class="col-md-6 position-relative">
+            <div class="col-md-5 offset-md-1 position-relative">
 
 
 
@@ -120,11 +115,13 @@
                     <br>
                     <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> Exhibit Network is proud to
                         support customers from around the world who exhibit at our many Houston-based shows,
-                        including: <span>🔹 Offshore Technology Conference</span>, a collaboration of non-profit organizations that
+                        including:
+                        <br>
+                        <span>🔹 Offshore Technology Conference</span>, a collaboration of non-profit organizations that
                         support the global energy sector.</p>
                     <br>
                   
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us1">🔹
+                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us1">
                         🔹 NAPE Summit,</span>  executives, investors, and professionals from the upstream energy sector.
                     </p>
                     <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us1">🔹 CERAWeek,</span>  new ideas, insight, and solutions to the biggest challenges facing the future of energy, the environment, and climate.

@@ -21,11 +21,13 @@
                                     <p class=" text-uppercase mb-3 head-text"> <span class="wow fadeInRight"
                                             data-wow-delay=".2s">What We Do</span></p>
                                     <p class="wow fadeInUp head-text1 animated" data-wow-delay=".3s">Never worry about
-                                        your trade show exhibit again. With Exhibit Network, you can be confident all
-                                        your trade show experiences will be seamless and stress-free.
+                                        your trade show
+                                        exhibit again. We provide full, turnkey
+                                        services for everything related to your
+                                        exhibit before, during, after, and inbetween shows.
 
                                     <div class="spacer-10"></div>
-
+                                    <?php include 'scroll-down.php'; ?>
                                 </div>
                                 <div class="col-md-6 mb-sm-30 text-center">
 
@@ -43,12 +45,12 @@
     <!-- Inner -->
 </section>
 
-<section>
+<section id="first-section">
 
     <div class="container position-relative z1000">
         <div class="row">
             <div class="col-md-12 text-center wow fadeInUp">
-                <p class="about-us relax2 montserrat"> <img src="images/home/Line.png" alt=""> Trade show services
+                <p class="about-us relax2 montserrat"> <img src="images/home/Line.png" alt=""> CUSTOM EXHIBIT DESIGN
 
                 </p>
                 <br>
@@ -132,7 +134,7 @@
 
                     <div class="row">
                         <div class="col-md-12 ">
-                            <p class="about-us">Installation, cleaning, onsite support, dismantling: </p>
+                            <p class="about-us">INSTALLATION AND DISMANTLING : </p>
                             <p class="wow fadeInRight head-text1" data-wow-delay=".4s">Safety and efficiency are
                                 mandatory requirements for your installation and dismantling (I&D) crew. We understand
                                 the complexity of your booth design and allocate sufficient time for setup and takedown
@@ -155,7 +157,7 @@
 
                     <br>
                     <h2 class="wow fadeInRight head-text1 animated" data-wow-delay=".3s">SO, <span class="about-us">
-                            relax…</span>
+                            relax … </span>
 
                         we got this
 
@@ -181,7 +183,8 @@
                     <img src="images/home/Line.png" alt="">
                 </p>
                 <br>
-                <p class="head-text1">Leave nothing to chance.</p>
+                <p class="head-text1">At Exhibit Network, we leave nothing to chance.
+                </p>
                 <div class="spacer-single"></div>
             </div>
 
@@ -199,7 +202,7 @@
                     <div class="card-body">
 
                         <p class="card-title knowledge">Decision guide</p>
-                        <p class="guide text-center">Let us guide you through the necessary decisions. Our team works
+                        <p class="guide ">Let us guide you through the necessary decisions. Our team works
                             with you to understand your goals upfront and recommend the optimal solution. We help you
                             estimate total costs across various options to make informed decisions and avoid costly
                             redesigns.</p>
@@ -218,7 +221,7 @@
                     <div class="card-body">
 
                         <p class="card-title knowledge">Project management </p>
-                        <p class="guide text-center">Minimize surprises and unforeseen issues. Our project managers are
+                        <p class="guide ">Minimize surprises and unforeseen issues. Our project managers are
                             your secret weapon for successful trade shows. They constantly work behind the scenes to
                             arrange logistics, meet deadlines, monitor progress, and stay within your budget. Our
                             project management software enables us to manage via clear, visual timelines, organize tasks
@@ -239,7 +242,7 @@
                     <div class="card-body">
 
                         <p class="card-title knowledge">Strategic oversight</p>
-                        <p class="guide text-center">From detailed program design aligned with your business objectives
+                        <p class="guide ">From detailed program design aligned with your business objectives
                             to seamless project management, we ensure your success. </p>
 
                     </div>
@@ -279,8 +282,7 @@
                 </div>
                 <div class="col-md-6">
 
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us">Storage
-                            Ts & Cs:</span> (on site right now)
+                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us">STORAGE</span> (on site right now)
                         We offer over 42K square feet of storage. Our clean, organized, efficient warehouse ensures
                         secure storage and easy access/retrieval.</p>
 
@@ -359,7 +361,7 @@
 
                         <h2 class="text-uppercase wow fadeInRight relax3 montserrat animated" data-wow-delay=".3s">
 
-                            <span style="color: #514CA0;">Aluvision: <br></span>
+                            <span style="color: #514CA0;"> <br></span>
                             MODULAR DISPLAYS
 
                         </h2>
@@ -367,7 +369,7 @@
                         </p>
                         <div class="row">
                             <div class="col-md-12 ">
-                                <p class="wow fadeInRight head-text1" data-wow-delay=".4s">By partnering with Aluvision,
+                                <p class="wow fadeInRight head-text1" data-wow-delay=".4s">i.e.,
                                     we offer beautiful architectural looks using frame-based wall systems and structural
                                     profiles. From single-floor to double decker trade show exhibits, our modular
                                     solutions integrate easily with light walls, flooring systems, reception counters,
@@ -382,13 +384,17 @@
                             <div class="col-md-12">
 
                                 <ul class="disc-none">
-                                    <li class="mission-text"><img src="images/about/tick.png" alt="">&nbsp; Elegant and appealing</li>
+                                    <li class="head-text1"><img src="images/about/tick.png" alt="">&nbsp; Elegant and
+                                        appealing</li>
                                     <br>
-                                    <li class="mission-text"><img src="images/about/tick.png" alt="">&nbsp; Cost-effective and durable</li>
+                                    <li class="head-text1"><img src="images/about/tick.png" alt="">&nbsp;
+                                        Cost-effective and durable</li>
                                     <br>
-                                    <li class="mission-text"><img src="images/about/tick.png" alt="">&nbsp; Easy to build and efficient</li>
+                                    <li class="head-text1"><img src="images/about/tick.png" alt="">&nbsp; Easy to
+                                        build and efficient</li>
                                     <br>
-                                    <li class="mission-text"><img src="images/about/tick.png" alt="">&nbsp; Sustainable</li>
+                                    <li class="head-text1"><img src="images/about/tick.png" alt="">&nbsp; Sustainable
+                                    </li>
                                 </ul>
 
                             </div>

@@ -26,7 +26,7 @@
                                         Just a few more steps before we send you through to our Dropbox.
                                     </p>
                                     <div class="spacer-10"></div>
-
+                                    <?php include 'scroll-down.php'; ?>
                                 </div>
                                 <div class="col-md-6 mb-sm-30 text-center">
 
@@ -44,7 +44,7 @@
     <!-- Inner -->
 </section>
 
-<section>
+<section id="first-section">
     <div class="container">
         <!-- <div class="row">
             <div class="col-lg-8 offset-lg-2 text-center">

@@ -16,22 +16,22 @@
                                 <div class="row gx-5 align-items-center">
                                     <div class="col-lg-12 mb-sm-30 text-center">
 
-                                        <p class="text-uppercase mb-3  up-head"> <span class="wow fadeInRight"
-                                                data-wow-delay=".2s">EXPERIENCE MATTERS</span></p>
-                                        <p class="wow fadeInUp relax-new" data-wow-delay=".3s">RELAX, WE GOT
-                                            THIS</p>
-                                        <p class="about-us1">Welcome to Exhibit Network. We are in business to make your
+                                        <!-- <p class="text-uppercase mb-3  up-head"> <span class="wow fadeInRight"
+                                                data-wow-delay=".2s">EXPERIENCE MATTERS</span></p> -->
+                                        <p class="wow fadeInUp relax-new" data-wow-delay=".3s"><span class="relax-51"> RELAX</span><span
+                                                class="relax-50">... WE GOT THIS</span></p>
+                                        <p class="about-us2">Welcome to Exhibit Network. We are in business to make your
                                             trade show experience as <br> seamless, stress-free, and successful as
                                             possible.
                                         </p>
 
-                                        <a href="about"> <button type="button"
-                                                class="btn btn-primary2">LEARN MORE</button></a>
+                                        <a href="about"> <button type="button" class="btn btn-primary2">LEARN
+                                                MORE</button></a>
 
-                                                
-                                                <?php include 'scroll-down.php'; ?>
-                                                
-                                        
+
+                                        <?php include 'scroll-down.php'; ?>
+
+
                                     </div>
 
                                 </div>
@@ -58,7 +58,8 @@
                     </div>
 
                     <br>
-                    <p class="head-text1">When you partner with Exhibit Network, we work hard to ensure you are successful.</p>
+                    <p class="head-text1">When you partner with Exhibit Network, we work hard to ensure you are
+                        successful.</p>
                     <div class="spacer-single"></div>
                 </div>
 
@@ -68,8 +69,15 @@
         <div class="container">
             <div class="row pt-50 pb-30">
                 <div class="col-md-4">
-                    <div class="card1">
+                    <div class="card1" style="position: relative; overflow: hidden;">
                         <img class="card-img-top" src="images/home/card1.png" alt="Card image cap">
+                        <div class="overlay1">
+                            <p class="fontsize24">
+                                We take the time to educate you on all your options throughout the project lifecycle so
+                                you can make the best decisions for your unique situation.
+
+                            </p>
+                        </div>
                         <div class="card-body">
                             <!-- <img src="images/home/quote-down.png" alt=""> -->
                             <p class="card-title knowledge">KNOWLEDGEABLE & Confident</p>
@@ -80,8 +88,14 @@
                 </div>
 
                 <div class="col-md-4">
-                    <div class="card1">
+                    <div class="card1" style="position: relative; overflow: hidden;">
                         <img class="card-img-top" src="images/home/card2.png" alt="Card image cap">
+                        <div class="overlay1">
+                            <p class="fontsize24">
+                                Our discovery process focuses on your unique brand, business objectives, budget, and
+                                desired outcomes—to propose and deliver the best solution to meet your needs.
+                            </p>
+                        </div>
                         <div class="card-body">
                             <!-- <img src="images/home/quote-down.png" alt=""> -->
                             <p class="card-title knowledge">Understood & <br> Valued</p>
@@ -92,8 +106,16 @@
                 </div>
 
                 <div class="col-md-4">
-                    <div class="card1">
+                    <div class="card1" style="position: relative; overflow: hidden;">
                         <img class="card-img-top" src="images/home/card3.png" alt="Card image cap">
+                        <div class="overlay1">
+                            <p class="fontsize24">
+                                Our highly engaged, solutions-oriented team is unmatched in its ability to meet your
+                                unique challenges. Our processes and systems are designed and optimized to give you
+                                peace of mind.
+
+                            </p>
+                        </div>
                         <div class="card-body">
                             <!-- <img src="images/home/quote-down.png" alt=""> -->
                             <p class="card-title knowledge">In Good <br> Hands</p>
@@ -393,7 +415,7 @@
                     </p>
                     <br>
                     <p class="head-text1">Our highly skilled, professional team members engage with you every step of
-                        the way  to bring your brand to life with ease.</p>
+                        the way to bring your brand to life with ease.</p>
                     <div class="spacer-single"></div>
                 </div>
 
@@ -531,7 +553,7 @@
         <div class="pt-50 pb-30">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <a href="gallery.php"> <button type="button" class="btn btn-primary1">View Our Gallery</button> </a>
+                    <a href="gallery"> <button type="button" class="btn btn-primary1">View Our Gallery</button> </a>
                 </div>
             </div>
         </div>

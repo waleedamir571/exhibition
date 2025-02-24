@@ -24,7 +24,7 @@
                                         headquarters of Exhibit Network. With the size of the trade show industry in
                                         this area, it was a natural fit.</p>
                                     <div class="spacer-10"></div>
-
+                                    <?php include 'scroll-down.php'; ?>
                                 </div>
                                 <div class="col-md-6 mb-sm-30 text-center">
 
@@ -46,7 +46,7 @@
 
 
 
-<section id="section-schedule" class="jarallax no-bottom">
+<section id="first-section" class="jarallax no-bottom">
 
    
 

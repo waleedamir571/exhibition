@@ -7,19 +7,27 @@
 
 
     <!-- Inner -->
-    <div class="">
+    <div class=" ">
         <div class=" position-relative">
             <!-- Single item -->
             <div class=" jarallax">
                 <img src="images/slider/1.jpg" class="jarallax-img" alt="">
                 <div class="mask">
                     <div class="h-100 v-center1">
-                        <div class="container">
+                        <div class="container pt-50">
                             <div class="row gx-5 align-items-center">
                               
                                 <div class="col-md-6 mb-sm-30 ">
                                     <p class=" text-uppercase mb-3 head-text">get in touch </p>
                                     <form>
+                                    <div class="form-group">
+                                            <div class="ptb-25">
+                                                <label class="label1" for="exampleInputEmail1">Title</label>
+                                                <input type="text" class="form-control1" id="exampleInputEmail1"
+                                                    aria-describedby="emailHelp" placeholder="">
+                                            </div>
+
+                                        </div>
                                         <div class="form-group">
                                             <div class="ptb-25">
                                                 <label class="label1" for="exampleInputEmail1">first name</label>

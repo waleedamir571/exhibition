@@ -55,8 +55,8 @@ and successful as possible. </p>
                             <br>
                             <li><a href="newsroom">Newsroom</a></li>
                             <br>
-                            <li><a href="upload">Upload</a></li>
-                            <br>
+                            <!-- <li><a href="upload">Upload</a></li>
+                            <br> -->
                             <li><a href="faqs">FAQs</a></li>
                             <br>
                             <li><a href="customer-storage-terms-conditions">Storage Terms &
@@ -241,6 +241,36 @@ and successful as possible. </p>
 
 </html>
 
+<script>
+    // Ensure DOM is fully loaded
+// JavaScript Code
+document.addEventListener('DOMContentLoaded', function() {
+    const scrollButton = document.querySelector('.top-6');
+    const targetSection = document.querySelector('#first-section');
+
+    // Check if both elements are present
+    if (scrollButton && targetSection) {
+        console.log('Scroll button and target section found!');
+
+        scrollButton.addEventListener('click', function() {
+            console.log('Scroll button clicked!');
+            const sectionPosition = targetSection.getBoundingClientRect().top + window.scrollY;
+
+            console.log('Scrolling to position:', sectionPosition);
+
+            // Smooth scroll to the target section
+            window.scrollTo({
+                top: sectionPosition,
+                behavior: 'smooth'
+            });
+        });
+    } else {
+        console.error('Element not found:', scrollButton, targetSection);
+    }
+});
+
+</script>
+
 
 <script>
     document.addEventListener("DOMContentLoaded", function () {
@@ -272,35 +302,7 @@ and successful as possible. </p>
       },
     });
   </script>
-<script>
-    // Ensure DOM is fully loaded
-// JavaScript Code
-document.addEventListener('DOMContentLoaded', function() {
-    const scrollButton = document.querySelector('.top-6');
-    const targetSection = document.querySelector('#first-section');
 
-    // Check if both elements are present
-    if (scrollButton && targetSection) {
-        console.log('Scroll button and target section found!');
-
-        scrollButton.addEventListener('click', function() {
-            console.log('Scroll button clicked!');
-            const sectionPosition = targetSection.getBoundingClientRect().top + window.scrollY;
-
-            console.log('Scrolling to position:', sectionPosition);
-
-            // Smooth scroll to the target section
-            window.scrollTo({
-                top: sectionPosition,
-                behavior: 'smooth'
-            });
-        });
-    } else {
-        console.error('Element not found:', scrollButton, targetSection);
-    }
-});
-
-</script>
 
 
 <script>

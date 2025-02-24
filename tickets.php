@@ -16,82 +16,86 @@
         <div class="image-container">
             <!-- Image 1 -->
             <div class="image-box">
-                <img src="images/what-we-do/anim.png" alt="Graphic Design">
+                <img src="images/what-we-do/1.png" alt="Graphic Design">
                 <div class="overlay">
-                    <p class="graphic">Graphic design and production</p class="graphic">
-                    <p class="g-text">Does your graphic designer know the complexities of trade show graphic design? And understand the
-                        three viewing distances? And consider the impact of color and lighting? And meet critical
-                        deadlines? We’ve met too many that don’t. Relax … we got this.</p>
+                    <p class="graphic">Exhibit design and production</p class="graphic">
+                    <p class="g-text">We meet exacting standards: yours and ours. Smart exhibit design unites compelling
+                        visual storytelling with solid engineering and quality craftsmanship for stability, durability,
+                        efficiency, versatility, and value. We understand the complexities of trade show graphic
+                        design—viewing distances, the impact of color and lighting, materials, etc. And we meet your
+                        critical deadlines</p>
                 </div>
             </div>
             <!-- Image 2 -->
             <div class="image-box">
-                <img src="images/what-we-do/slider.png" alt="Product Displays">
+                <img src="images/what-we-do/2.png" alt="Product Displays">
                 <div class="overlay">
-                    <p class="graphic">Graphic design and production</p class="graphic">
-                        <p class="g-text">Does your graphic designer know the complexities of trade show graphic design? And understand the
-                            three viewing distances? And consider the impact of color and lighting? And meet critical
-                            deadlines? We’ve met too many that don’t. Relax … we got this.</p>
+                    <p class="graphic">Product displays</p class="graphic">
+                    <p class="g-text">Immersive, hands-on displays. Showcase the features and benefits of your range of
+                        products in a tangible, interactive fashion. Perfect for launching new products and
+                        demonstrating capabilities.</p>
                 </div>
             </div>
             <!-- Image 3 -->
             <div class="image-box">
-                <img src="images/resource/faqs.png" alt="Interactive Elements">
+                <img src="images/what-we-do/3.png" alt="Interactive Elements">
                 <div class="overlay">
-                    <p class="graphic">Graphic design and production</p class="graphic">
-                        <p class="g-text">Does your graphic designer know the complexities of trade show graphic design? And understand the
-                            three viewing distances? And consider the impact of color and lighting? And meet critical
-                            deadlines? We’ve met too many that don’t. Relax … we got this.</p>
+                    <p class="graphic">Interactive elements </p class="graphic">
+                    <p class="g-text">Touchscreens, LED walls, AV elements, and more. Capture attention, facilitate
+                        real-time demonstrations, provide personalized content, and encourage deeper interactions with
+                        your brand.</p>
                 </div>
             </div>
             <!-- Image 4 -->
             <div class="image-box">
-                <img src="images/what-we-do/slider.png" alt="Rental Furniture">
+                <img src="images/what-we-do/4.png" alt="Rental Furniture">
                 <div class="overlay">
-                    <p class="graphic">Graphic design and production</p class="graphic">
-                        <p class="g-text">Does your graphic designer know the complexities of trade show graphic design? And understand the
-                            three viewing distances? And consider the impact of color and lighting? And meet critical
-                            deadlines? We’ve met too many that don’t. Relax … we got this.</p>
+                    <p class="graphic">Rental furniture</p class="graphic">
+                    <p class="g-text">Ask us for our rental catalog. Our comprehensive catalog provides a wide selection
+                        of furniture options tailored  to your needs. Accommodate visitors in a professional environment
+                        with ease and convenience without the  hassle of purchasing, storing, or transporting items.</p>
                 </div>
             </div>
             <!-- Image 5 -->
             <div class="image-box">
-                <img src="images/resource/faqs.png" alt="Meeting Spaces">
+                <img src="images/what-we-do/5.png" alt="Meeting Spaces">
                 <div class="overlay">
-                    <p class="graphic">Graphic design and production</p class="graphic">
-                        <p class="g-text">Does your graphic designer know the complexities of trade show graphic design? And understand the
-                            three viewing distances? And consider the impact of color and lighting? And meet critical
-                            deadlines? We’ve met too many that don’t. Relax … we got this.</p>
+                    <p class="graphic">Meeting spaces, conference rooms</p class="graphic">
+                    <p class="g-text">A dedicated area for confidentiality. Enable focused discussions, relationship
+                        building, and deal-making with potential clients, partners, and stakeholders in a private,
+                        professional, comfortable setting. We offer foam-insulated, sound-deadening walls. Air
+                        conditioning. Charging stations. And more.</p>
                 </div>
             </div>
             <!-- Image 6 -->
             <div class="image-box">
-                <img src="images/what-we-do/slider.png" alt="Signage and Lighting">
+                <img src="images/what-we-do/6.png" alt="Signage and Lighting">
                 <div class="overlay">
                     <p class="graphic">Graphic design and production</p class="graphic">
-                        <p class="g-text">Does your graphic designer know the complexities of trade show graphic design? And understand the
-                            three viewing distances? And consider the impact of color and lighting? And meet critical
-                            deadlines? We’ve met too many that don’t. Relax … we got this.</p>
+                    <p class="g-text">Does your graphic designer know the complexities of trade show graphic design? And
+                        understand the
+                        three viewing distances? And consider the impact of color and lighting? And meet critical
+                        deadlines? We’ve met too many that don’t. Relax … we got this.</p>
                 </div>
             </div>
             <!-- Image 7 -->
             <div class="image-box">
-                <img src="images/resource/faqs.png" alt="Carpet and Flooring">
+                <img src="images/what-we-do/7.png" alt="Carpet and Flooring">
                 <div class="overlay">
-                    <p class="graphic">Graphic design and production</p class="graphic">
-                        <p class="g-text">Does your graphic designer know the complexities of trade show graphic design? And understand the
-                            three viewing distances? And consider the impact of color and lighting? And meet critical
-                            deadlines? We’ve met too many that don’t. Relax … we got this.</p>
+                    <p class="graphic">Signage, lighting, and electrical </p class="graphic">
+                    <p class="g-text">Visually impactful and functional. Expertly designed signage draws attention and
+                        reinforces your brand  message. Well-planned lighting enhances product displays and creates the
+                        desired ambiance.</p>
                 </div>
             </div>
             <!-- Image 8 -->
             <div class="image-box">
                 <img src="images/what-we-do/slider.png" alt="Custom Solutions">
                 <div class="overlay">
-                    <p class="graphic">Graphic design and production</p class="graphic">
-                        <p class="g-text">Does your graphic designer know the complexities of trade show graphic design? And understand the
-                            three viewing distances? And consider the impact of color and lighting? And meet critical
-                            deadlines? We’ve met too many that don’t. Relax … we got this.</p>
+                    <p class="graphic">Carpet, pad, and flooring</p class="graphic">
+                    <p class="g-text">A comfortable surface for attendees is a must. Select high-quality, padded
+                        carpeting to reduce fatigue during  long hours on your feet. Or choose from various flooring
+                        options to enhance your booth’s aesthetic and  complement your brand image.</p>
                 </div>
             </div>
         </div>
@@ -105,15 +109,15 @@
 
 <style>
     /* General Page Styles */
-  
+
     .card1 {
-    border: 0;
-    -webkit-box-shadow: 0 10px 20px 0 rgba(0, 0, 0, .05);
-    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, .05);
-    border-radius: 10px;
-    border: 1px solid #323080 !important;
-    background: #070713 !important;
-}
+        border: 0;
+        -webkit-box-shadow: 0 10px 20px 0 rgba(0, 0, 0, .05);
+        box-shadow: 0 10px 20px 0 rgba(0, 0, 0, .05);
+        border-radius: 10px;
+        border: 1px solid #323080 !important;
+        background: #070713 !important;
+    }
 
     /* Container for Images */
     .image-container {
@@ -151,23 +155,22 @@
 
     /* Overlay Text */
     .image-box .overlay {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(0, 0, 0, 0.8);
-    color: white;
-    display: flex
-;
-    flex-direction: column;
-    justify-content: end;
-    align-items: center;
-    opacity: 0;
-    transition: opacity 0.3s ease-in-out;
-    padding: 20px;
-    text-align: center;
-}
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.8);
+        color: white;
+        display: flex;
+        flex-direction: column;
+        justify-content: end;
+        align-items: center;
+        opacity: 0;
+        transition: opacity 0.3s ease-in-out;
+        padding: 20px;
+        /* text-align: center; */
+    }
 
     .image-box {
         position: relative;
@@ -195,62 +198,62 @@
         justify-content: center;
         opacity: 0;
         transition: opacity 0.3s ease-in-out;
-        text-align: center;
+        /* text-align: center; */
         padding: 10px;
     }
 
     .card {
-    --bs-card-spacer-y: 1rem;
-    --bs-card-spacer-x: 1rem;
-    --bs-card-title-spacer-y: 0.5rem;
-    --bs-card-title-color: ;
-    --bs-card-subtitle-color: ;
-    --bs-card-border-width: var(--bs-border-width);
-    --bs-card-border-color: var(--bs-border-color-translucent);
-    --bs-card-border-radius: var(--bs-border-radius);
-    --bs-card-box-shadow: ;
-    --bs-card-inner-border-radius: calc(var(--bs-border-radius) -(var(--bs-border-width)));
-    --bs-card-cap-padding-y: 0.5rem;
-    --bs-card-cap-padding-x: 1rem;
-    --bs-card-cap-bg: rgba(var(--bs-body-color-rgb), 0.03);
-    --bs-card-cap-color: ;
-    --bs-card-height: ;
-    --bs-card-color: ;
-    --bs-card-bg: var(--bs-body-bg);
-    --bs-card-img-overlay-padding: 1rem;
-    --bs-card-group-margin: 0.75rem;
-    position: relative;
-    display: flex
-;
-    flex-direction: column;
-    min-width: 0;
-    height: var(--bs-card-height);
-    color: var(--bs-body-color);
-    word-wrap: break-word;
-    background-color: transparent !important;
-    background-clip: border-box;
-    border: var(--bs-card-border-width) solid var(--bs-card-border-color);
-    border-radius: var(--bs-card-border-radius);
-}
-    .graphic{
-        color: #FFF;
-
-font-size: 28px !important; 
-font-style: normal;
-font-weight: 600;
-line-height: 36px !important;
-text-align: start;
+        --bs-card-spacer-y: 1rem;
+        --bs-card-spacer-x: 1rem;
+        --bs-card-title-spacer-y: 0.5rem;
+        --bs-card-title-color: ;
+        --bs-card-subtitle-color: ;
+        --bs-card-border-width: var(--bs-border-width);
+        --bs-card-border-color: var(--bs-border-color-translucent);
+        --bs-card-border-radius: var(--bs-border-radius);
+        --bs-card-box-shadow: ;
+        --bs-card-inner-border-radius: calc(var(--bs-border-radius) -(var(--bs-border-width)));
+        --bs-card-cap-padding-y: 0.5rem;
+        --bs-card-cap-padding-x: 1rem;
+        --bs-card-cap-bg: rgba(var(--bs-body-color-rgb), 0.03);
+        --bs-card-cap-color: ;
+        --bs-card-height: ;
+        --bs-card-color: ;
+        --bs-card-bg: var(--bs-body-bg);
+        --bs-card-img-overlay-padding: 1rem;
+        --bs-card-group-margin: 0.75rem;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        min-width: 0;
+        height: var(--bs-card-height);
+        color: var(--bs-body-color);
+        word-wrap: break-word;
+        background-color: transparent !important;
+        background-clip: border-box;
+        border: var(--bs-card-border-width) solid var(--bs-card-border-color);
+        border-radius: var(--bs-card-border-radius);
     }
 
-    .g-text{
+    .graphic {
+        color: #FFF;
+
+        font-size: 28px !important;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 36px !important;
+        text-align: start !important;
+    }
+
+    .g-text {
         color: #FFF;
 
 
-font-size: 18px !important;
-font-style: normal;
-font-weight: 300;
-line-height: 23px !important;
-text-align: start;
+        font-size: 18px !important;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 23px !important;
+        text-align: start;
     }
 
     /* Hover Effects */

@@ -34,7 +34,10 @@
                                         impact at any budget. </p>
                                     <div class="spacer-10"></div>
 
+                                    <?php include 'scroll-down.php'; ?>
+
                                 </div>
+                                
                                 <div class="col-md-6 mb-sm-30 text-center">
 
                                     <img src="images/about/about.png" alt="">
@@ -51,7 +54,7 @@
     <!-- Inner -->
 </section>
 
-<section>
+<section id="first-section">
     <div class="container">
         <!-- <div class="row">
             <div class="col-lg-8 offset-lg-2 text-center">
@@ -513,8 +516,8 @@
                     <img src="images/home/Line.png" alt="">
                 </p>
                 <br>
-                <p class="head-text1">we’re committed to delivering
-                    exceptional solutions tailored to your needs. </p>
+                <p class="head-text1">No matter where your trade shows take you, we’re committed to delivering
+                    exceptional solutions tailored to your needs</p>
                 <div class="spacer-single"></div>
             </div>
 
@@ -536,7 +539,7 @@
                         713.290.1212</p>
                     <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s">We proudly serve all 50 states,
                         offering seamless support across the United States. Our expertise also extends internationally,
-                        ensuring reliable solutions for clients worldwide. No matter where you are, </p>
+                        ensuring reliable solutions for clients worldwide. </p>
                     <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s">We’ve provided turnkey exhibit
                         services for our international clients from Australia, Belgium, Canada, China, Germany, Ghana,
                         Italy, The Maldives, Mexico, Namibia, The Netherlands, Nigeria, Poland, Portugal, Russia, Spain,
@@ -1101,7 +1104,7 @@
                         <p class="left-front">“Life moves pretty fast. If you don’t stop and look around once in
                             a while, you could miss it.”
                         </p>
-                        <p class="c-151">Ferris Bueller</p>
+                        <p class="c-151">Jon Arnstein                        </p>
                         <p class="head-text1">Jon led company strategy and operations as the Director of Global
                             Operations & Strategy at BigCommerce. Prior to that, he assisted with the successful
                             $1.68B acquisition and integration of Magento to Adobe and managed high-level

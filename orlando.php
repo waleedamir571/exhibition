@@ -23,7 +23,7 @@
                                         supported our customers’ trade show exhibits at the Orlando Orange County
                                         Convention Center for decades.</p>
                                     <div class="spacer-10"></div>
-
+                                    <?php include 'scroll-down.php'; ?>
                                 </div>
                                 <div class="col-md-6 mb-sm-30 text-center">
 
@@ -42,16 +42,14 @@
 </section>
 
 
-<section id="section-schedule" class="jarallax no-bottom">
-
-
+<section id="first-section" class="jarallax no-bottom">
 
     <div class="container">
 
         <div class="row align-items-center">
 
-            <div class="text-center">
-            <div class="col-md-6 offset-md-3 position-relative" data-jarallax-element="-60">
+
+            <div class="col-md-6 position-relative" data-jarallax-element="-60">
 
                 <div class="position-relative z1000">
 
@@ -59,34 +57,59 @@
 
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s">With unparalleled
                             entertainment and theme parks, including Walt Disney World and Universal Studios, it’s no
-                            wonder why Orlando draws large trade shows to its <span class="about-us1"> Orange County
-                                Convention Center. </span> With over
+                            wonder why Orlando draws large trade shows to its <a href="https://www.occc.net/"> <span
+                                    class="about-us1"> Orange County
+                                    Convention Center. </span> </a> With over
                             2 million square feet of convention space and just under 500,000 square feet of meeting room
                             footage, the OCCC hosts 150 trade shows and conventions per year including:</p>
                         <br>
 
                         <br>
 
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us1">🔹
-                                NPE The Plastics Show</span>the largest plastics trade show in the Americas.
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a href="https://npe.org/">
+                                <span class="about-us1">🔹
+                                    NPE The Plastics Show</span></a> the largest plastics trade show in the Americas.
                         </p>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us1">🔹
-                                InfoSec World</span> the leading cybersecurity conference for security professionals and
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a
+                                href="https://www.infosecworldusa.com/"> <span class="about-us1">🔹
+                                    InfoSec World</span> </a> the leading cybersecurity conference for security
+                            professionals and
                             executives.
                         </p>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us1">🔹
-                                PGA Show</span> the longest-running and largest global gathering for the business of
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a
+                                href="https://www.pgashow.com/#/"> <span class="about-us1">🔹
+                                    PGA Show</span> </a> the longest-running and largest global gathering for the
+                            business of
                             golf.
                         </p>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us1">🔹
-                                IAAPA Expo</span> the biggest event in the attractions industry, hosted by the
+
+                    </div>
+
+                    <br>
+
+                </div>
+                <!-- <img src="images/misc/circle-gradient.png"
+                    class="position-absolute top-50 start-50 translate-middle" alt=""> -->
+            </div>
+            <div class="col-md-6 position-relative" data-jarallax-element="-60">
+
+                <div class="position-relative z1000">
+
+                    <div class="row">
+
+
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a
+                                href="https://www.iaapa.org/expos-and-events/iaapa-expo"> <span class="about-us1">🔹
+                                    IAAPA Expo</span> </a> the biggest event in the attractions industry, hosted by the
                             International Association of Amusement Parks and Attractions.
                         </p>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us1">🔹
-                                Global Pet Expo</span> the premiere annual event for the pet industry.
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a
+                                href="https://globalpetexpo.org/"> <span class="about-us1">🔹
+                                    Global Pet Expo</span> </a> the premiere annual event for the pet industry.
                         </p>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us1">🔹
-                                VMX</span> Veterinary Meeting and Expo, the world’s premier veterinary event
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a href=""> <span
+                                    class="about-us1">🔹
+                                    VMX</span> </a> Veterinary Meeting and Expo, the world’s premier veterinary event
                         </p>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us1">🔹
                                 I/ITSEC</span> the world’s largest modeling, simulation, and training event
@@ -105,11 +128,11 @@
 
                 </div>
                 <!-- <img src="images/misc/circle-gradient.png"
-                    class="position-absolute top-50 start-50 translate-middle" alt=""> -->
+    class="position-absolute top-50 start-50 translate-middle" alt=""> -->
             </div>
-        </div>
 
-         
+
+
         </div>
 
         <div class="row pt-50 pb-30">

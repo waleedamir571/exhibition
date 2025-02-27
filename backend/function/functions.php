@@ -249,7 +249,7 @@ function packageForm($payload, $con)
             $email = mysqli_real_escape_string($con, $payload['email']);
             $phone = mysqli_real_escape_string($con, $payload['phone']);
             $message = mysqli_real_escape_string($con, clean($payload['message']));
-            
+
             // Check if package_type and price are empty and set default value
             $defaultText = "Popup Form Submission";
             $package_type = !empty($payload['package_type']) && $payload['package_type'] !== 'none' ? $payload['package_type'] : $defaultText;
@@ -257,7 +257,7 @@ function packageForm($payload, $con)
 
             $package_type = mysqli_real_escape_string($con, $package_type);
             $price = mysqli_real_escape_string($con, $price);
-            
+
             mysqli_query($con, "INSERT INTO leads(page,date,name,email,phone,message,package_type,price) VALUES('$page','$date','$name','$email','$phone','$message','$package_type','$price')") or die(mysqli_error($con));
 
             //EMAIL NOTIFICATION
@@ -336,7 +336,6 @@ function nameEmailForm($payload, $con)
             //SLACK NOTIFICATION
             $slackContent = json_encode(array("text" => "Hi Team , \n\t We have received a new lead . Please check the following details.  \n \n Page : " . $payload['page'] . " \n Name : " . $payload['name'] . " \n Email : " . $payload['email']));
             sendSlack($slackContent);
-
         } catch (Exception $e) {
             die($e->getMessage());
         }
@@ -364,7 +363,6 @@ function emailForm($payload, $con)
             //SLACK NOTIFICATION
             $slackContent = json_encode(array("text" => "Hi Team , \n\t We have received a new lead . Please check the following details.  \n \n Page : " . $payload['page'] . " \n Email : " . $payload['email']));
             sendSlack($slackContent);
-
         } catch (Exception $e) {
             die($e->getMessage());
         }
@@ -394,7 +392,6 @@ function servicesEmailForm($payload, $con)
             //SLACK NOTIFICATION
             $slackContent = json_encode(array("text" => "Hi Team , \n\t We have received a new lead . Please check the following details.  \n \n Page : " . $payload['page'] . " \n services-category : " . $payload['services_category'] . " \n Email : " . $payload['email']));
             sendSlack($slackContent);
-
         } catch (Exception $e) {
             die($e->getMessage());
         }
@@ -473,62 +470,75 @@ function bookWritingServicesForm($payload, $con)
 
 function questionnaireForm($payload, $con)
 {
-    if (empty($payload['booktitlesubtitle'])) {
-        echo 'Empty Request';
-    } else {
-        try {
-            // DB FIRST
-            $page = $_POST['page'];
-            $date = date("Y-m-d H:i:s");
-            $jobNature = $_POST['jobNature'];
-            $jobNatures = implode(",", $jobNature);
-            $bookType = $_POST['bookType'];
-            $bookTypes = implode(",", $bookType);
-            $targetAudience = $_POST['targetAudience'];
-            $targetAudiences = implode(",", $targetAudience);
-            $bookTone = $_POST['bookTone'];
-            $bookTones = implode(",", $bookTone);
-            $bookNarative = $_POST['bookNarative'];
-            $bookNaratives = implode(",", $bookNarative);
-            $writingStyle = $_POST['writingStyle'];
-            $writingStyles = implode(",", $writingStyle);
-            $booktitlesubtitle = mysqli_real_escape_string($con, $payload['booktitlesubtitle']);
-            $projectabout = mysqli_real_escape_string($con, $payload['projectabout']);
-            $writingreason = mysqli_real_escape_string($con, $payload['writingreason']);
-            $instructions = mysqli_real_escape_string($con, $payload['instructions']);
-            $howstart = mysqli_real_escape_string($con, $payload['howstart']);
-            $researchSources = mysqli_real_escape_string($con, $payload['researchSources']);
-            $deadline = mysqli_real_escape_string($con, $payload['deadline']);
-            $booksize = mysqli_real_escape_string($con, $payload['booksize']);
-            mysqli_query($con, "INSERT INTO questionnaire(page,date,jobNature,bookType,targetAudience,bookTone,bookNarative,writingStyle,booktitlesubtitle,projectabout,writingreason,instructions,howstart,researchSources,deadline,booksize) VALUES('$page','$date','$jobNatures','$bookTypes','$bookTones','$writingStyles','$bookNaratives','$targetAudiences','$booktitlesubtitle','$projectabout','$writingreason','$instructions','$howstart','$researchSources','$deadline','$booksize')") or die(mysqli_error($con));
 
-            //EMAIL NOTIFICATION
-            $emailContent = '<p>Page : ' . $payload['page'] . '</p>';
-            $emailContent .= '<p>What is the nature of this job? : ' . $jobNatures . '</p>';
-            $emailContent .= '<p>Type of Your Book / Genre* : ' . $bookTypes . '</p>';
-            $emailContent .= '<p>Who is your target audience? : ' . $targetAudiences . '</p>';
-            $emailContent .= '<p>What sort of tone do you want your book to be in? : ' . $bookTones . '</p>';
-            $emailContent .= '<p>Please specify the narrative you would prefer the book to be written in. : ' . $bookNaratives . '</p>';
-            $emailContent .= '<p>Writing Style : ' . $writingStyles . '</p>';
-            $emailContent .= '<p>Title of your book and subtitle, if any : ' . $booktitlesubtitle . '</p>';
-            $emailContent .= '<p>Briefly describe your project. What is it about? : ' . $projectabout . '</p>';
-            $emailContent .= '<p>Why are you writing this book? : ' . $writingreason . '</p>';
-            $emailContent .= '<p>Do you have any specific instructions for the writer that you would like to convey? : ' . $instructions . '</p>';
-            $emailContent .= '<p>If you would be writing this book, how you would start? : ' . $howstart . '</p>';
-            $emailContent .= '<p>Are there any particular books, research sources, memoirs, and scripts that you want the writer to consider while developing your book? : ' . $researchSources . '</p>';
-            $emailContent .= '<p>Deadline: : ' . $deadline . '</p>';
-            $emailContent .= '<p>Book Size : ' . $booksize . '</p>';
-            sendEmail($emailContent);
+    try {
+        // DB FIRST
+        $title = mysqli_real_escape_string($con, $payload['title']);
+        $first_name = mysqli_real_escape_string($con, $payload['first_name']);
+        $last_name = mysqli_real_escape_string($con, $payload['last_name']);
+        $company_name = mysqli_real_escape_string($con, $payload['company_name']);
+        $email = mysqli_real_escape_string($con, $payload['email']);
+        $message = mysqli_real_escape_string($con, $payload['message']);
+        $selected_goals = isset($payload['important_goals']) ? $payload['important_goals'] : [];
+        $other_goals = isset($payload['other_goals']) ? trim($payload['other_goals']) : '';
 
-            //SLACK NOTIFICATION
-            $slackContent = json_encode(array("text" => "Hi Team , \n\t We have received a new lead . Please check the following details.  \n \n Page : " . $page . " \n What is the nature of this job? : " . $jobNatures . " \n Type of Your Book / Genre* : " . $bookTypes . " \n Who is your target audience? : " . $targetAudiences . " \n What sort of tone do you want your book to be in? : " . $bookTones . " \n Please specify the narrative you would prefer the book to be written in. : " . $bookNaratives . " \n Writing Style : " . $writingStyles . " \n Title of your book and subtitle, if any : " . $booktitlesubtitle . " \n Briefly describe your project. What is it about? : " . $projectabout . " \n Why are you writing this book? : " . $writingreason . " \n Do you have any specific instructions for the writer that you would like to convey? : " . $instructions . " \n If you would be writing this book, how you would start? : " . $howstart . " \n Are there any particular books, research sources, memoirs, and scripts that you want the writer to consider while developing your book? : " . $researchSources . " \n Deadline: : " . $deadline . " \n Book Size : " . $booksize));
-            sendSlack($slackContent);
-        } catch (Exception $e) {
-            die($e->getMessage());
+        if (!empty($other_goals)) {
+            $selected_goals[] = $other_goals; // Add "Other" field to goals
         }
+        $important_goals = implode(", ", $selected_goals);
+
+        $trade_show_experience = [];
+        if (isset($payload['trade_show_experience'])) {
+            foreach ($payload['trade_show_experience'] as $category => $levels) {
+                $trade_show_experience[] = "$category: " . implode("/", $levels);
+            }
+        }
+        $trade_show_experience_str = implode(", ", $trade_show_experience);
+
+        $event_type = isset($payload['event_type']) ? $payload['event_type'] : '';
+
+        // Process Design Flexibility (Yes / No)
+        $design_flexibility = isset($payload['design_flexibility']) ? $payload['design_flexibility'] : '';
+        $sql = "INSERT INTO form (title, first_name, last_name, company_name, email, message, important_goals, trade_show_experience, event_type, design_flexibility) 
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
+
+        $stmt = $con->prepare($sql);
+        $stmt->bind_param("ssssssssss", $title, $first_name, $last_name, $company_name, $email, $message, $important_goals, $trade_show_experience_str, $event_type, $design_flexibility);
+
+        // Execute the query
+        if ($stmt->execute()) {
+            $stmt->close();
+            return true; // Success
+        } else {
+            $stmt->close();
+            return false; // Failure
+        }
+
+        // //EMAIL NOTIFICATION
+        // $emailContent = '<p>Page : ' . $payload['page'] . '</p>';
+        // $emailContent .= '<p>What is the nature of this job? : ' . $jobNatures . '</p>';
+        // $emailContent .= '<p>Type of Your Book / Genre* : ' . $bookTypes . '</p>';
+        // $emailContent .= '<p>Who is your target audience? : ' . $targetAudiences . '</p>';
+        // $emailContent .= '<p>What sort of tone do you want your book to be in? : ' . $bookTones . '</p>';
+        // $emailContent .= '<p>Please specify the narrative you would prefer the book to be written in. : ' . $bookNaratives . '</p>';
+        // $emailContent .= '<p>Writing Style : ' . $writingStyles . '</p>';
+        // $emailContent .= '<p>Title of your book and subtitle, if any : ' . $booktitlesubtitle . '</p>';
+        // $emailContent .= '<p>Briefly describe your project. What is it about? : ' . $projectabout . '</p>';
+        // $emailContent .= '<p>Why are you writing this book? : ' . $writingreason . '</p>';
+        // $emailContent .= '<p>Do you have any specific instructions for the writer that you would like to convey? : ' . $instructions . '</p>';
+        // $emailContent .= '<p>If you would be writing this book, how you would start? : ' . $howstart . '</p>';
+        // $emailContent .= '<p>Are there any particular books, research sources, memoirs, and scripts that you want the writer to consider while developing your book? : ' . $researchSources . '</p>';
+        // $emailContent .= '<p>Deadline: : ' . $deadline . '</p>';
+        // $emailContent .= '<p>Book Size : ' . $booksize . '</p>';
+        // sendEmail($emailContent);
+
+        // //SLACK NOTIFICATION
+        // $slackContent = json_encode(array("text" => "Hi Team , \n\t We have received a new lead . Please check the following details.  \n \n Page : " . $page . " \n What is the nature of this job? : " . $jobNatures . " \n Type of Your Book / Genre* : " . $bookTypes . " \n Who is your target audience? : " . $targetAudiences . " \n What sort of tone do you want your book to be in? : " . $bookTones . " \n Please specify the narrative you would prefer the book to be written in. : " . $bookNaratives . " \n Writing Style : " . $writingStyles . " \n Title of your book and subtitle, if any : " . $booktitlesubtitle . " \n Briefly describe your project. What is it about? : " . $projectabout . " \n Why are you writing this book? : " . $writingreason . " \n Do you have any specific instructions for the writer that you would like to convey? : " . $instructions . " \n If you would be writing this book, how you would start? : " . $howstart . " \n Are there any particular books, research sources, memoirs, and scripts that you want the writer to consider while developing your book? : " . $researchSources . " \n Deadline: : " . $deadline . " \n Book Size : " . $booksize));
+        // sendSlack($slackContent);
+    } catch (Exception $e) {
+        die($e->getMessage());
     }
 }
-
 function questionnaireFormTwo($payload, $con)
 {
     if (empty($payload['name']) || empty($payload['phone']) || empty($payload['email']) || empty($payload['message'])) {
@@ -595,14 +605,10 @@ function questionnaireFormThree($payload, $con)
 function illustrativeForm($payload, $con)
 {
 
-    if ( empty($payload['name']) || empty($payload['phone']) || empty($payload['email']) || empty($payload['message']) )
-    {
+    if (empty($payload['name']) || empty($payload['phone']) || empty($payload['email']) || empty($payload['message'])) {
         echo 'Empty Request';
-    }
-    else
-    {
-        try
-        {
+    } else {
+        try {
             //DB FIRST
             $page = $_POST['page'];
             $date = date("Y-m-d H:i:s");
@@ -623,9 +629,7 @@ function illustrativeForm($payload, $con)
             // SLACK NOTIFICATION
             $slackContent = json_encode(array("text" => "Hi Team , \n\t We have received a new lead . Please check the following details.  \n \n Page : " . $payload['page'] . " \n Name : " . $payload['name'] . " \n Email : " . $payload['email'] . " \n Phone : " . $payload['phone'] . " \n Message : " . $message));
             sendSlack($slackContent);
-        }
-        catch (Exception $e)
-        {
+        } catch (Exception $e) {
             die($e->getMessage());
         }
     }
@@ -897,5 +901,3 @@ function current_url()
     $url = $protocol . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
     return $url;
 }
-
-?>

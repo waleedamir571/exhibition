@@ -2,7 +2,7 @@
 
 
 <style>
-    .d-none1{
+    .d-none1 {
         display: none;
     }
 </style>
@@ -33,7 +33,7 @@
                                     <div class="spacer-10"></div>
                                     <?php include 'scroll-down.php'; ?>
                                 </div>
-                                
+
                                 <div class="col-md-6 mb-sm-30 text-center">
 
                                     <img src="images/contact/imageee.png" alt="">
@@ -75,7 +75,7 @@
                             erat, accumsan id imperdiet et, porttitor at sem. Sed porttitor lectus nibh.</p>
                         <img src="images/contact/careers1.png" class="d-img-1" alt="">
 
-                       
+
 
                     </div>
 
@@ -94,36 +94,39 @@
                 </h2>
 
                 <div class="scroll1">
-                <div class="">
-                <p class="p-text">Product Designer</p>
-                <p class="guide text-left"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget tortor risus.
-                    Pellentesque in ipsum id orci porta dapibus. Curabitur arcu erat, accumsan id imperdiet et,
-                    porttitor at sem. Sed porttitor lectus nibh.</p>
+                    <div class="">
+                        <p class="p-text">Product Designer</p>
+                        <p class="guide text-left"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget
+                            tortor risus.
+                            Pellentesque in ipsum id orci porta dapibus. Curabitur arcu erat, accumsan id imperdiet et,
+                            porttitor at sem. Sed porttitor lectus nibh.</p>
 
-                    <ul>
-                        <li class="head-text1"><img src="images/contact/location.png" alt="">  Remote</li>
-                        <li class="head-text1"><img src="images/contact/time.png" alt=""> Full-time</li>
+                        <ul>
+                            <li class="head-text1"><img src="images/contact/location.png" alt=""> Remote</li>
+                            <li class="head-text1"><img src="images/contact/time.png" alt=""> Full-time</li>
 
-                    </ul>
+                        </ul>
 
-                    <div class="row">
-                        <div class="col-md-4 offset-md-8">
-                            <a href="#" class="btn-line">Apply &nbsp; <img src="images/contact/arrow.png" alt=""></a>
+                        <div class="row">
+                            <div class="col-md-4 offset-md-8">
+                                <a href="#" class="btn-line">Apply &nbsp; <img src="images/contact/arrow.png"
+                                        alt=""></a>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="">
-                    <p class="p-text">Account Executive</p>
-                    <p class="guide text-left"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget tortor risus.
-                        Pellentesque in ipsum id orci porta dapibus. Curabitur arcu erat, accumsan id imperdiet et,
-                        porttitor at sem. Sed porttitor lectus nibh.</p>
-    
+                    <div class="">
+                        <p class="p-text">Account Executive</p>
+                        <p class="guide text-left"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget
+                            tortor risus.
+                            Pellentesque in ipsum id orci porta dapibus. Curabitur arcu erat, accumsan id imperdiet et,
+                            porttitor at sem. Sed porttitor lectus nibh.</p>
+
                         <ul>
-                            <li class="head-text1"><img src="images/contact/location.png" alt="">  Remote</li>
+                            <li class="head-text1"><img src="images/contact/location.png" alt=""> Remote</li>
                             <li class="head-text1"><img src="images/contact/time.png" alt=""> Full-time</li>
-        
+
                         </ul>
-    
+
                         <div class="row">
                             <div class="col-md-4 offset-md-8">
                                 <a href="#" class="btn-line">Apply &nbsp;<img src="images/contact/arrow.png" alt=""></a>
@@ -132,59 +135,62 @@
                     </div>
                     <div class="">
                         <p class="p-text">Marketing Manager</p>
-                        <p class="guide text-left"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget tortor risus.
+                        <p class="guide text-left"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget
+                            tortor risus.
                             Pellentesque in ipsum id orci porta dapibus. Curabitur arcu erat, accumsan id imperdiet et,
                             porttitor at sem. Sed porttitor lectus nibh.</p>
-        
-                            <ul>
-                                <li class="head-text1"><img src="images/contact/location.png" alt="">  Remote</li>
-                                <li class="head-text1"><img src="images/contact/time.png" alt=""> Full-time</li>
-                
-                            </ul>
-        
-                            <div class="row">
-                                <div class="col-md-4 offset-md-8">
-                                    <a href="#" class="btn-line">Apply &nbsp;<img src="images/contact/arrow.png" alt=""></a>
-                                </div>
+
+                        <ul>
+                            <li class="head-text1"><img src="images/contact/location.png" alt=""> Remote</li>
+                            <li class="head-text1"><img src="images/contact/time.png" alt=""> Full-time</li>
+
+                        </ul>
+
+                        <div class="row">
+                            <div class="col-md-4 offset-md-8">
+                                <a href="#" class="btn-line">Apply &nbsp;<img src="images/contact/arrow.png" alt=""></a>
                             </div>
                         </div>
-                        <div class="">
-                            <p class="p-text">Marketing Manager</p>
-                            <p class="guide text-left"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget tortor risus.
-                                Pellentesque in ipsum id orci porta dapibus. Curabitur arcu erat, accumsan id imperdiet et,
-                                porttitor at sem. Sed porttitor lectus nibh.</p>
-            
-                                <ul>
-                                    <li class="head-text1"><img src="images/contact/location.png" alt="">  Remote</li>
-                                    <li class="head-text1"><img src="images/contact/time.png" alt=""> Full-time</li>
-                        
-                                </ul>
-            
-                                <div class="row">
-                                    <div class="col-md-4 offset-md-8">
-                                        <a href="#" class="btn-line">Apply &nbsp;<img src="images/contact/arrow.png" alt=""></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="">
-                                <p class="p-text">Marketing Manager</p>
-                                <p class="guide text-left"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget tortor risus.
-                                    Pellentesque in ipsum id orci porta dapibus. Curabitur arcu erat, accumsan id imperdiet et,
-                                    porttitor at sem. Sed porttitor lectus nibh.</p>
-                
-                                    <ul>
-                                        <li class="head-text1"><img src="images/contact/location.png" alt="">  Remote</li>
-                                        <li class="head-text1"><img src="images/contact/time.png" alt=""> Full-time</li>
-                                
-                                    </ul>
-                
-                                    <div class="row">
-                                        <div class="col-md-4 offset-md-8">
-                                            <a href="#" class="btn-line">Apply &nbsp;<img src="images/contact/arrow.png" alt=""></a>
-                                        </div>
-                                    </div>
-                                </div>
                     </div>
+                    <div class="">
+                        <p class="p-text">Marketing Manager</p>
+                        <p class="guide text-left"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget
+                            tortor risus.
+                            Pellentesque in ipsum id orci porta dapibus. Curabitur arcu erat, accumsan id imperdiet et,
+                            porttitor at sem. Sed porttitor lectus nibh.</p>
+
+                        <ul>
+                            <li class="head-text1"><img src="images/contact/location.png" alt=""> Remote</li>
+                            <li class="head-text1"><img src="images/contact/time.png" alt=""> Full-time</li>
+
+                        </ul>
+
+                        <div class="row">
+                            <div class="col-md-4 offset-md-8">
+                                <a href="#" class="btn-line">Apply &nbsp;<img src="images/contact/arrow.png" alt=""></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="">
+                        <p class="p-text">Marketing Manager</p>
+                        <p class="guide text-left"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget
+                            tortor risus.
+                            Pellentesque in ipsum id orci porta dapibus. Curabitur arcu erat, accumsan id imperdiet et,
+                            porttitor at sem. Sed porttitor lectus nibh.</p>
+
+                        <ul>
+                            <li class="head-text1"><img src="images/contact/location.png" alt=""> Remote</li>
+                            <li class="head-text1"><img src="images/contact/time.png" alt=""> Full-time</li>
+
+                        </ul>
+
+                        <div class="row">
+                            <div class="col-md-4 offset-md-8">
+                                <a href="#" class="btn-line">Apply &nbsp;<img src="images/contact/arrow.png" alt=""></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
 
@@ -194,9 +200,9 @@
 
 
 <div class="d-none1">
-    <section id="first-section " >
-    <div class="container">
-        <!-- <div class="row">
+    <section id="first-section ">
+        <div class="container">
+            <!-- <div class="row">
             <div class="col-lg-8 offset-lg-2 text-center">
                 <h1 class="text-uppercase"><span class="wow fadeInUp">December</span> <span
                         class="text-gradient wow fadeInUp" data-wow-delay="
@@ -204,72 +210,81 @@
             </div>
         </div> -->
 
-        <div class="row align-items-center">
-            <div class="col-md-6 " data-jarallax-element="-60">
-                <p class=" text-uppercase mb-3 head-text">get in touch </p>
-                <div class="position-relative z1000">
+            <div class="row align-items-center">
+                <div class="col-md-6 " data-jarallax-element="-60">
+                    <p class=" text-uppercase mb-3 head-text">get in touch </p>
+                    <div class="position-relative z1000">
 
-                    <div class="row">
-                        <div class="col-md-12 ">
-                            <!-- <p class="wow fadeInRight head-text1" data-wow-delay=".4s">Exhibit Network is taking care of
+                        <div class="row">
+                            <div class="col-md-12 ">
+                                <!-- <p class="wow fadeInRight head-text1" data-wow-delay=".4s">Exhibit Network is taking care of
                                 your booth. Go to Happy Hour…We Got This.</p> -->
-                            <br>
-                            <p class="wow fadeInRight head-text1" data-wow-delay=".4s">Never worry about your trade show
-                                exhibit again. With Exhibit Network, you can be confident all your trade show
-                                experiences will be seamless and stress-free.Trust us…we got this.</p>
-                            <img src="images/contact/c2.png" alt="">
+                                <br>
+                                <p class="wow fadeInRight head-text1" data-wow-delay=".4s">Never worry about your trade
+                                    show
+                                    exhibit again. With Exhibit Network, you can be confident all your trade show
+                                    experiences will be seamless and stress-free.Trust us…we got this.</p>
+                                <img src="images/contact/c2.png" alt="">
+                            </div>
+
                         </div>
 
+                        <!-- <button type="button" class="btn btn-primary1 w-100">DOWNLOAD NOW</button> -->
+
+                        <br>
+
                     </div>
-
-                    <!-- <button type="button" class="btn btn-primary1 w-100">DOWNLOAD NOW</button> -->
-
-                    <br>
-
-                </div>
-                <!-- <img src="images/misc/circle-gradient.png"
+                    <!-- <img src="images/misc/circle-gradient.png"
                     class="position-absolute top-50 start-50 translate-middle" alt=""> -->
-            </div>
-            <div class="col-lg-6  position-relative">
-                <form>
-                    <div class="form-group">
-                        <div class="ptb-25">
-                            <label class="label1" for="exampleInputEmail1">first name</label>
+                </div>
+                <div class="col-lg-6  position-relative">
+                    <form>
+                        <div class="form-group">
+                            <div class="ptb-25">
+                                <label class="label1" for="exampleInputEmail1">Title</label>
+                                <input type="text" class="form-control1" id="exampleInputEmail1"
+                                    aria-describedby="emailHelp" placeholder="">
+                            </div>
+
+                        </div>
+                        <div class="form-group">
+                            <div class="ptb-25">
+                                <label class="label1" for="exampleInputEmail1">first name</label>
+                                <input type="text" class="form-control1" id="exampleInputEmail1"
+                                    aria-describedby="emailHelp" placeholder="">
+                            </div>
+
+                        </div>
+                        <div class="form-group ptb-25">
+                            <label class="label1" for="exampleInputEmail1">last name</label>
                             <input type="text" class="form-control1" id="exampleInputEmail1"
                                 aria-describedby="emailHelp" placeholder="">
+
+                        </div>
+                        <div class="form-group ptb-25">
+                            <label class="label1" for="exampleInputEmail1">Company Name</label>
+                            <input type="text" class="form-control1" id="exampleInputEmail1"
+                                aria-describedby="emailHelp" placeholder="">
+
+                        </div>
+                        <div class="form-group ptb-25">
+                            <label class="label1" for="exampleInputEmail1">email</label>
+                            <input type="email" class="form-control1" id="exampleInputEmail1"
+                                aria-describedby="emailHelp" placeholder="">
+
+                        </div>
+                        <div class="form-group ptb-25">
+                            <label class="label1" for="exampleInputPassword1">message</label>
+                            <input type="text" class="form-control1" id="exampleInputPassword1" placeholder="">
                         </div>
 
-                    </div>
-                    <div class="form-group ptb-25">
-                        <label class="label1" for="exampleInputEmail1">last name</label>
-                        <input type="text" class="form-control1" id="exampleInputEmail1" aria-describedby="emailHelp"
-                            placeholder="">
+                        <button type="button" class="btn btn-primary1 ">submit</button>
+                    </form>
+                </div>
 
-                    </div>
-                    <div class="form-group ptb-25">
-                        <label class="label1" for="exampleInputEmail1">Company Name</label>
-                        <input type="text" class="form-control1" id="exampleInputEmail1" aria-describedby="emailHelp"
-                            placeholder="">
-
-                    </div>
-                    <div class="form-group ptb-25">
-                        <label class="label1" for="exampleInputEmail1">email</label>
-                        <input type="email" class="form-control1" id="exampleInputEmail1" aria-describedby="emailHelp"
-                            placeholder="">
-
-                    </div>
-                    <div class="form-group ptb-25">
-                        <label class="label1" for="exampleInputPassword1">message</label>
-                        <input type="text" class="form-control1" id="exampleInputPassword1" placeholder="">
-                    </div>
-
-                    <button type="button" class="btn btn-primary1 ">submit</button>
-                </form>
             </div>
-
         </div>
-    </div>
-</section>
+    </section>
 </div>
 
 

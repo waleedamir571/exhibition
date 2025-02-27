@@ -106,19 +106,19 @@
                                 </div>
                                 <div class="col-md-6">
                                     <p class="size30"><input class="form-check-input" type="checkbox" value=""
-                                            id="flexCheckDefault"> Meeting lead generation targets</p>
+                                            id="flexCheckDefault"> Capturing # of Quality Customer interaction</p>
                                     <p class="size30"><input class="form-check-input" type="checkbox" value=""
-                                            id="flexCheckDefault"> Increasing band awareness/visibility</p>
+                                            id="flexCheckDefault"> Initiating Partnership discussions</p>
                                     <p class="size30"><input class="form-check-input" type="checkbox" value=""
-                                            id="flexCheckDefault"> Measuring return on investment</p>
+                                            id="flexCheckDefault"> Calculating social media likes, comments, shares</p>
                                     <p class="size30"><input class="form-check-input" type="checkbox" value=""
-                                            id="flexCheckDefault"> Monitoring cost per lead</p>
+                                            id="flexCheckDefault"> Garnering press coverage and/or awards</p>
                                     <p class="size30"><input class="form-check-input" type="checkbox" value=""
-                                            id="flexCheckDefault"> Booking trade show meetings or demos</p>
+                                            id="flexCheckDefault"> Quantifying post-show lead conversion to sales</p>
                                     <p class="size30"><input class="form-check-input" type="checkbox" value=""
-                                            id="flexCheckDefault"> Showcasing or introducing products</p>
+                                            id="flexCheckDefault"> Calculating post-show revenue attribution</p>
                                     <p class="size30"><input class="form-check-input" type="checkbox" value=""
-                                            id="flexCheckDefault"> Increasing foot traffic to the booth</p>
+                                            id="flexCheckDefault"> Ensuring the show is seamless and stress-free</p>
                                 </div>
                             </div>
 

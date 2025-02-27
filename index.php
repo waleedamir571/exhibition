@@ -578,13 +578,13 @@
                     <div class="container">
                         <div class="row g-4">
                             <!-- Testimonial 1 -->
-                            <div class="col-lg-4 col-md-6">
+                            <div class="col-lg-4 col-md-6 pt-105">
                                 <div class="testimonial-item">
 
-                                    <div class="pb-30"> <img class="w-50" src="images/home/c1.png" alt="John Wick">
+                                    <div class="pb-30"> <img class="w-50" src="images/home/marsk.png" alt="John Wick">
                                     </div>
 
-                                    <p class="testimonial-text">
+                                    <p class="testimonial-text pt-50">
                                         We are pleased with the services and
                                         professionalism of working alongside
                                         Exhibit Network. We’ve utilized their

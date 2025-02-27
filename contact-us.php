@@ -1,7 +1,9 @@
 <?php include 'header.php'; ?>
 
 
-<section id="de-carousel section-schedule" class="no-top no-bottom carousel slide carousel-fade "
+
+<div class=">
+<section id="de-carousel section-schedule " class="no-top no-bottom carousel slide carousel-fade "
     data-mdb-ride="carousel">
     <!-- Indicators -->
 
@@ -79,6 +81,7 @@
     </div>
     <!-- Inner -->
 </section>
+</div>
 
 
 

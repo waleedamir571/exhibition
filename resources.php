@@ -108,9 +108,12 @@
                     <div class="col-md-8">
                         <p class="exhibit1">Blog</p>
                         <p class="full">Decluttering Your Trade Show Booth</p>
-                        <p class="exhibit1">The cleanliness of your booth is a foundational element of the customer experience</p>
+                        <p class="exhibit1">The cleanliness of your booth is a foundational element of the customer
+                            experience</p>
 
-                      <a href="">  <p class="read">Read More</p> </a>
+                        <a href="">
+                            <p class="read">Read More</p>
+                        </a>
                     </div>
                 </div>
                 <div class="row">
@@ -164,7 +167,7 @@
                         <img class="w-100" src="images/resource/b2.png" alt="">
                     </div>
                     <div class="col-md-8">
-                    <p class="exhibit1">Media Coverage</p>
+                        <p class="exhibit1">Media Coverage</p>
                         <h3>The Importance of Lean Six Sigma for Trade Show Project Managers</h3>
                         <p class="guide2 ">Our Project Managers are lean thinkers to ensure your success</p>
                         <p class="read">Read More</p>
@@ -176,7 +179,7 @@
                         <img class="w-100" src="images/resource/b3.png" alt="">
                     </div>
                     <div class="col-md-8">
-                    <p class="exhibit1">Blog</p>
+                        <p class="exhibit1">Blog</p>
                         <h3>A First Trade Show Cautionary Tale</h3>
                         <p class="guide2 ">Trade show success relies on a competent team</p>
                         <p class="read">Read More</p>
@@ -190,7 +193,7 @@
                         <img class="w-100" src="images/resource/b2.png" alt="">
                     </div>
                     <div class="col-md-8">
-                    <p class="exhibit1">Case Study</p>
+                        <p class="exhibit1">Case Study</p>
                         <h3>A Seamless, Stress-free, Delightful Trade Show Experience</h3>
                         <p class="guide2 ">Discover why the customer experience matters at Exhibit Network</p>
                         <p class="read">Read More</p>
@@ -202,7 +205,7 @@
                         <img class="w-100" src="images/resource/b3.png" alt="">
                     </div>
                     <div class="col-md-8">
-                    <p class="exhibit1">White Paper</p>
+                        <p class="exhibit1">White Paper</p>
                         <h3>Choosing the Right Trade Show Partner</h3>
                         <p class="guide2 ">Choosing the right exhibit house to meet your needs is important</p>
                         <p class="read">Read More</p>
@@ -242,7 +245,7 @@
                         <img class="w-100" src="images/resource/news.png" alt="Card image cap">
                     </div>
                     <div class="card-body">
-                    <p class="exhibit1">White Paper</p>
+                        <p class="exhibit1">White Paper</p>
                         <h3>The Importance of Your Trade Show Warehouse</h3>
                         <p class="guide2 ">Cleanliness, efficiency, and care are critical for proper exhibit storage</p>
 
@@ -259,8 +262,8 @@
                         <img class="w-100" src="images/resource/museum.png" alt="Card image cap">
                     </div>
                     <div class="card-body">
-                    <p class="exhibit1">Media Coverage</p>
-                        <h3>Trade Show Booth Etiquette</h3>
+                        <p class="exhibit1">Media Coverage</p>
+                        <h3>Trade Show Booth <br> Etiquette</h3>
                         <p class="guide2 ">We always recommend “being in the <br> moment”</p>
 
                         <div class="btn-pos">
@@ -276,9 +279,9 @@
                         <img class="w-100" src="images/resource/exhibition.png" alt="Card image cap">
                     </div>
                     <div class="card-body">
-                    <p class="exhibit1">Press Release</p>
+                        <p class="exhibit1">Press Release</p>
                         <h3>Gathering Intelligence at a Trade Show</h3>
-                        <p class="guide2 ">Our advice: walk an aisle in their shoes!</p>
+                        <p class="guide2 ">Our advice: <br> walk an aisle in their shoes!</p>
                         <div class="btn-pos">
                             <a href="contact-us.php" target="_blank" class="btn-line">VIEW MORE</a>
                         </div>
@@ -302,7 +305,10 @@
                     <img src="images/home/Line.png" alt="">
                 </p>
                 <br>
-                <p class="head-text1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+                <p class="head-text1">People want to do business with a company they know, like, and trust. After over
+                    30 years in business, we know the questions people ask when looking for the right exhibit house.
+                    They want to know who we are, how we roll, what we deliver, and how to get to HAPPY HOUR on time.
+                </p>
                 <div class="spacer-single"></div>
             </div>
 
@@ -314,7 +320,7 @@
 
 
 
-        <div class="col-md-6">
+            <div class="col-md-6">
                 <div class="accordion" id="accordionExample">
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="headingOne">
@@ -562,6 +568,83 @@
 
 
 
+</section>
+
+<section id="first-section">
+    <div class="container">
+        <!-- <div class="row">
+            <div class="col-lg-8 offset-lg-2 text-center">
+                <h1 class="text-uppercase"><span class="wow fadeInUp">December</span> <span
+                        class="text-gradient wow fadeInUp" data-wow-delay="
+                    .3s">3 - 7</span></h1>
+            </div>
+        </div> -->
+
+        <div class="row align-items-center">
+            <div class="col-md-6 " data-jarallax-element="-60">
+                <p class=" text-uppercase mb-3 head-text">get in touch </p>
+                <div class="position-relative z1000">
+
+                    <div class="row">
+                        <div class="col-md-12 ">
+                            <!-- <p class="wow fadeInRight head-text1" data-wow-delay=".4s">Exhibit Network is taking care of
+                                your booth. Go to Happy Hour…We Got This.</p> -->
+                            <br>
+                            <p class="wow fadeInRight head-text1" data-wow-delay=".4s">Never worry about your trade show
+                                exhibit again. With Exhibit Network, you can be confident all your trade show
+                                experiences will be seamless and stress-free.Trust us…we got this.</p>
+                            <img src="images/contact/c2.png" alt="">
+                        </div>
+
+                    </div>
+
+                    <!-- <button type="button" class="btn btn-primary1 w-100">DOWNLOAD NOW</button> -->
+
+                    <br>
+
+                </div>
+                <!-- <img src="images/misc/circle-gradient.png"
+                    class="position-absolute top-50 start-50 translate-middle" alt=""> -->
+            </div>
+            <div class="col-lg-6  position-relative">
+                <form>
+                    <div class="form-group">
+                        <div class="ptb-25">
+                            <label class="label1" for="exampleInputEmail1">first name</label>
+                            <input type="text" class="form-control1" id="exampleInputEmail1"
+                                aria-describedby="emailHelp" placeholder="">
+                        </div>
+
+                    </div>
+                    <div class="form-group ptb-25">
+                        <label class="label1" for="exampleInputEmail1">last name</label>
+                        <input type="text" class="form-control1" id="exampleInputEmail1" aria-describedby="emailHelp"
+                            placeholder="">
+
+                    </div>
+                    <div class="form-group ptb-25">
+                        <label class="label1" for="exampleInputEmail1">Company Name</label>
+                        <input type="text" class="form-control1" id="exampleInputEmail1" aria-describedby="emailHelp"
+                            placeholder="">
+
+                    </div>
+                    <div class="form-group ptb-25">
+                        <label class="label1" for="exampleInputEmail1">email</label>
+                        <input type="email" class="form-control1" id="exampleInputEmail1" aria-describedby="emailHelp"
+                            placeholder="">
+
+                    </div>
+                    <div class="form-group ptb-25">
+                        <label class="label1" for="exampleInputPassword1">message</label>
+                        <input type="text" class="form-control1" id="exampleInputPassword1" placeholder="">
+                    </div>
+
+                    <button type="button" class="btn btn-primary1 ">submit</button>
+                </form>
+            </div>
+
+        </div>
+    </div>
 </section>
 
 <?php include 'footer.php'; ?>

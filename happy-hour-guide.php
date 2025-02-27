@@ -122,6 +122,8 @@
                                 </div>
                             </div>
 
+                            <br>
+
                             <div class="row align-items-center">
                                 <div class="col-md-12 mb-sm-30 ">
                                     <div class="bg-purple">
@@ -138,7 +140,8 @@
                                     <p class="size30" style="font-weight: bold;"> Depth of trade show experience</p>
 
 
-                                    <p class="size30"> Developing the trade show strategy</p>
+                                    <p class="size30"><img class="mw-4" src="images/exhibit/Vector.png" alt="">
+                                        Developing the trade show strategy</p>
                                 </div>
                                 <div class="col-md-2">
                                     <p class="size30"> Low</p>
@@ -162,7 +165,8 @@
                             <div class="row">
                                 <div class="col-md-6">
 
-                                    <p class="size30"> Designing the trade show experience</p>
+                                    <p class="size30"><img class="mw-4" src="images/exhibit/Vector.png" alt="">
+                                        Designing the trade show experience</p>
 
 
                                 </div>
@@ -189,7 +193,8 @@
                             <div class="row">
                                 <div class="col-md-6">
 
-                                    <p class="size30"> Attending / managing the booth</p>
+                                    <p class="size30"><img class="mw-4" src="images/exhibit/Vector.png" alt="">
+                                        Attending / managing the booth</p>
 
                                 </div>
                                 <div class="col-md-2">
@@ -309,7 +314,7 @@
                         <div class="container">
                             <div class="row gx-5 align-items-center">
                                 <div class="col-md-6 mb-sm-30 ">
-                                    <p class=" text-uppercase mb-3 head-text">HOW CAN WE HELP? </p>
+                                    <p class=" text-uppercase mb-3 head-text">LAST BUT NOT LEAST </p>
 
                                     <img src="images/happy-hour/happy1.png" alt="">
                                 </div>
@@ -317,7 +322,7 @@
 
                                     <form>
                                         <div class="form-group">
-                                            
+
                                             <div class="ptb-25">
                                                 <label class="label1" for="exampleInputEmail1">Title</label>
                                                 <input type="text" class="form-control1" id="exampleInputEmail1"

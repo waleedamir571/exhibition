@@ -37,7 +37,7 @@
                                     <?php include 'scroll-down.php'; ?>
 
                                 </div>
-                                
+
                                 <div class="col-md-6 mb-sm-30 text-center">
 
                                     <img src="images/about/about.png" alt="">
@@ -273,7 +273,8 @@
                                         <li><img src="images/about/fb.png" alt=""></li>
                                     </ul> -->
                                     <div class="text-center">
-                                        <button type="button" class="btn btn-primary3">VIEW LINKEDIN</button>
+                                        <a href="https://www.linkedin.com/in/jonarnstein/"><button type="button"
+                                                class="btn btn-primary3">VIEW LINKEDIN</button></a>
                                     </div>
                                     <br>
                                     <div class="text-center">
@@ -295,11 +296,12 @@
                             <div class="col-md-12">
                                 <div class="card card1">
                                     <div class="img-center">
-                                        <img class="card-img-top1" src="images/about/user2.png" alt="Card image cap">
+                                        <img class="card-img-top1" src="images/about/user3.png" alt="Card image cap">
                                     </div>
                                     <div class="card-body">
 
-                                        <p class="name text-center">Alex Danielides</p>
+                                        <p class="name text-center">Lenny Maartens
+                                        </p>
                                         <p class="card-title knowledge">CEO</p>
 
                                         <!-- <ul class="text-center">
@@ -309,8 +311,9 @@
                                             <li><img src="images/about/fb.png" alt=""></li>
                                         </ul> -->
                                         <div class="text-center">
-                                            <a href="https://www.linkedin.com/in/alexander-danielides-97284715/">
-                                                <button type="button" class="btn btn-primary3">VIEW LINKEDIN</button> </a>
+                                            <a href="https://www.linkedin.com/in/lenny-maartens-b6a38037/">
+                                                <button type="button" class="btn btn-primary3">VIEW LINKEDIN</button>
+                                            </a>
                                         </div>
                                         <br>
                                         <div class="text-center">
@@ -329,11 +332,12 @@
                             <div class="col-md-12">
                                 <div class="card card1">
                                     <div class="img-center">
-                                        <img class="card-img-top1" src="images/about/user3.png" alt="Card image cap">
+                                        <img class="card-img-top1" src="images/about/user2.png" alt="Card image cap">
                                     </div>
                                     <div class="card-body">
 
-                                        <p class="name text-center">Lenny Maartens</p>
+                                        <p class="name text-center">Alex Danielides
+                                        </p>
                                         <p class="card-title knowledge">Advisor</p>
 
                                         <!-- <ul class="text-center">
@@ -343,7 +347,8 @@
                                             <li><img src="images/about/fb.png" alt=""></li>
                                         </ul> -->
                                         <div class="text-center">
-                                            <button type="button" class="btn btn-primary3">VIEW LINKEDIN</button>
+                                            <a href="https://www.linkedin.com/in/alexander-danielides-97284715/"> <button
+                                                    type="button" class="btn btn-primary3">VIEW LINKEDIN</button> </a>
                                         </div>
                                         <br>
                                         <div class="text-center">
@@ -376,7 +381,8 @@
                                             <li><img src="images/about/fb.png" alt=""></li>
                                         </ul> -->
                                         <div class="text-center">
-                                            <button type="button" class="btn btn-primary3">VIEW LINKEDIN</button>
+                                            <a href="https://www.linkedin.com/in/nicole-papakostas-8287a114b/"> <button
+                                                    type="button" class="btn btn-primary3">VIEW LINKEDIN</button> </a>
                                         </div>
                                         <br>
 
@@ -565,7 +571,7 @@
                                     ORLANDO
                                 </a>
                             </p>
-                            
+
 
                         </div>
                     </div>
@@ -644,7 +650,8 @@
                                     ideas are heard, and your career can thrive.
                                 </p>
 
-                                <a href="https://www.linkedin.com/company/exhibit-network/jobs"> <button type="button" class="btn btn-primary1 none">JOIN
+                                <a href="https://www.linkedin.com/company/exhibit-network/jobs"> <button type="button"
+                                        class="btn btn-primary1 none">JOIN
                                         NOW</button></a>
                             </div>
                         </div>
@@ -662,6 +669,83 @@
                 <a href="#"> <img class="w-100" src="images/about/sec=gr.png" alt=""></a>
             </div>
 
+</section>
+
+<section id="first-section">
+    <div class="container">
+        <!-- <div class="row">
+            <div class="col-lg-8 offset-lg-2 text-center">
+                <h1 class="text-uppercase"><span class="wow fadeInUp">December</span> <span
+                        class="text-gradient wow fadeInUp" data-wow-delay="
+                    .3s">3 - 7</span></h1>
+            </div>
+        </div> -->
+
+        <div class="row align-items-center">
+            <div class="col-md-6 " data-jarallax-element="-60">
+                <p class=" text-uppercase mb-3 head-text">get in touch </p>
+                <div class="position-relative z1000">
+
+                    <div class="row">
+                        <div class="col-md-12 ">
+                            <!-- <p class="wow fadeInRight head-text1" data-wow-delay=".4s">Exhibit Network is taking care of
+                                your booth. Go to Happy Hour…We Got This.</p> -->
+                            <br>
+                            <p class="wow fadeInRight head-text1" data-wow-delay=".4s">Never worry about your trade show
+                                exhibit again. With Exhibit Network, you can be confident all your trade show
+                                experiences will be seamless and stress-free.Trust us…we got this.</p>
+                            <img src="images/contact/c2.png" alt="">
+                        </div>
+
+                    </div>
+
+                    <!-- <button type="button" class="btn btn-primary1 w-100">DOWNLOAD NOW</button> -->
+
+                    <br>
+
+                </div>
+                <!-- <img src="images/misc/circle-gradient.png"
+                    class="position-absolute top-50 start-50 translate-middle" alt=""> -->
+            </div>
+            <div class="col-lg-6  position-relative">
+                <form>
+                    <div class="form-group">
+                        <div class="ptb-25">
+                            <label class="label1" for="exampleInputEmail1">first name</label>
+                            <input type="text" class="form-control1" id="exampleInputEmail1"
+                                aria-describedby="emailHelp" placeholder="">
+                        </div>
+
+                    </div>
+                    <div class="form-group ptb-25">
+                        <label class="label1" for="exampleInputEmail1">last name</label>
+                        <input type="text" class="form-control1" id="exampleInputEmail1" aria-describedby="emailHelp"
+                            placeholder="">
+
+                    </div>
+                    <div class="form-group ptb-25">
+                        <label class="label1" for="exampleInputEmail1">Company Name</label>
+                        <input type="text" class="form-control1" id="exampleInputEmail1" aria-describedby="emailHelp"
+                            placeholder="">
+
+                    </div>
+                    <div class="form-group ptb-25">
+                        <label class="label1" for="exampleInputEmail1">email</label>
+                        <input type="email" class="form-control1" id="exampleInputEmail1" aria-describedby="emailHelp"
+                            placeholder="">
+
+                    </div>
+                    <div class="form-group ptb-25">
+                        <label class="label1" for="exampleInputPassword1">message</label>
+                        <input type="text" class="form-control1" id="exampleInputPassword1" placeholder="">
+                    </div>
+
+                    <button type="button" class="btn btn-primary1 ">submit</button>
+                </form>
+            </div>
+
+        </div>
+    </div>
 </section>
 
 <div class="modal fade" id="exampleModal8" tabindex="-1" aria-labelledby="exampleModalLabel8" aria-hidden="true">
@@ -979,21 +1063,29 @@
 
                         <p class="left-front">“If you don’t ask, you don’t get.”
                         </p>
-                        <p class="c-151">– My dad</p>
-                        <p class="head-text1">Lenny started in the exhibit industry at age 19 as a custom fabricator and
-                            installer and quickly displayed an aptitude for leadership. Almost immediately, he became
-                            the supervisor of a team of 30+ members. Later experiences as Production Foreman, Estimator,
-                            Purchaser, and Production Manager prepared him for his leadership roles at Exhibit Network.
+                        <p class="c-151">– Henry Ford</p>
+                        <p class="head-text1">As the former Director of Business Development at Iapetus Holdings LLC,
+                            drove revenue growth, led product expansion and fostered channel partnerships across the
+                            family of businesses. With diverse roles, including President of Atlas Commodities,
+                            Strategic Advisor to Soaring Eagle Technologies and Strategic Advisor to Atlas Retail
+                            Energy, he showcased expertise in restructuring, mergers & acquisitions, international
+                            expansion, and renewable initiatives. In his role at the holdings company, Alex managed
+                            investments, strategic initiatives and maintained crucial capital relationships.
+
 
                         </p>
-                        <p class="head-text1">The reputation that Exhibit Network holds throughout the trade show
-                            industry is the direct result of Lenny’s passion for quality workmanship, innovation, and
-                            creative problem-solving. He holds himself and the employees to high standards of integrity
-                            and excellence.
+                        <p class="head-text1">Previous experiences at Trafigura Trading LLC and Goldman Sachs & Co.
+                            highlight his extensive background in energy trading and structured transactions. A Duke
+                            University graduate with a BA in Economics, Alex brings a global perspective as a dual
+                            citizen (US & EU) and fluent in Greek.
+
+
 
                         </p>
-                        <p class="head-text1">Lenny is an avid outdoorsman who can be found fishing in Alaska, and
-                            hunting in Texas, Pennsylvania, and Namibia.
+                        <p class="head-text1">He and his wife Jamie have lived in Houston for 15 years and have two
+                            young and very cute daughters Zoe and Maia.
+
+
                         </p>
 
                     </div>
@@ -1039,24 +1131,28 @@
                         <p class="left-front">“Coming together is a beginning. Keeping together is progress. Working
                             together is success.”
                         </p>
-                        <p class="c-151">Henry Ford</p>
-                        <p class="head-text1">As the former Director of Business Development at Iapetus Holdings LLC,
-                            Alex drove revenue growth, led product expansion, and fostered channel partnerships across
-                            the family of businesses. With diverse roles, including President of Atlas Commodities,
-                            Strategic Advisor to Soaring Eagle Technologies, and Strategic Advisor to Atlas Retail
-                            Energy, he showcased expertise in restructuring, mergers & acquisitions, international
-                            expansion, and renewable initiatives. In his role at the holdings company, Alex managed
-                            investments and strategic initiatives and maintained crucial capital relationships.
+                        <p class="c-151">Lenny Maartens
+                        </p>
+                        <p class="head-text1">Lenny started in the exhibit industry at age 19 as a custom fabricator and
+                            installer, and quickly displayed an aptitude for leadership. Almost immediately, he became
+                            the supervisor of a team of 30+ members. Later experiences as Production Foreman, Estimator,
+                            Purchaser, and Production Manager prepared him for his leadership roles at Exhibit Network.
+
+
 
                         </p>
-                        <p class="head-text1">Previous experiences at Trafigura Trading LLC and Goldman Sachs & Co.
-                            highlight his extensive background in energy trading and structured transactions. A Duke
-                            University graduate with a BA in Economics, Alex brings a global perspective as a dual
-                            citizen (US & EU) and is fluent in Greek.
+                        <p class="head-text1">The reputation that Exhibit Network holds throughout the trade show
+                            industry is the direct result of Lenny’s passion for quality workmanship, innovation, and
+                            creative problem-solving. He holds himself and the employees to high standards of integrity
+                            and excellence.
+
+
 
                         </p>
-                        <p class="head-text1">He and his wife Jamie have lived in Houston for 15 years and have two
-                            young and very cute daughters, Zoe and Maia.
+                        <p class="head-text1">Lenny is an avid outdoorsman who can be found fishing in Alaska, and
+                            hunting in Texas, Pennsylvania, and Namibia.
+
+
                         </p>
 
 
@@ -1104,7 +1200,7 @@
                         <p class="left-front">“Life moves pretty fast. If you don’t stop and look around once in
                             a while, you could miss it.”
                         </p>
-                        <p class="c-151">Jon Arnstein                        </p>
+                        <p class="c-151">Jon Arnstein </p>
                         <p class="head-text1">Jon led company strategy and operations as the Director of Global
                             Operations & Strategy at BigCommerce. Prior to that, he assisted with the successful
                             $1.68B acquisition and integration of Magento to Adobe and managed high-level

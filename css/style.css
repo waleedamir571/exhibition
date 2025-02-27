@@ -79,6 +79,10 @@ Table of content:
 
 }
 
+.pt-50{
+  padding-top: 50px;
+}
+
 .about-us2 {
   color: #fff;
   font-size: 22px;
@@ -88,6 +92,9 @@ Table of content:
   text-transform: capitalize;
 }
 
+section#first-section\ d-none11{
+  display: none !important;
+}
 
 
 
@@ -1283,6 +1290,10 @@ li {
   text-transform: uppercase;
 }
 
+.mw-4{
+  max-width: 4%;
+  padding-right: 0px;
+}
 
 .relax-50 {
   color: #FFF;
@@ -1299,7 +1310,7 @@ li {
 .relax2 {
   color: #514CA0;
   text-align: center;
-  font-size: 75px;
+  font-size: 73px;
   font-style: normal;
   font-weight: 700;
   line-height: 1.3;
@@ -2846,7 +2857,8 @@ footer p {
   font-weight: 300;
   line-height: 31.12px;
   /* 277.816% */
-  text-transform: capitalize;
+  text-transform: math-auto;
+
 }
 
 .dark-scheme footer a {
@@ -14799,7 +14811,7 @@ section .color-overlay {
 
 .no-bottom {
   margin-bottom: 0;
-  padding-bottom: 50px !important;
+  padding-bottom: 0px !important;
 }
 
 p {

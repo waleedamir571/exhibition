@@ -1,5 +1,12 @@
 <?php include 'header.php'; ?>
 
+
+<style>
+    .d-none1{
+        display: none;
+    }
+</style>
+
 <section id="de-carousel section-schedule" class="no-top no-bottom carousel slide carousel-fade "
     data-mdb-ride="carousel">
     <!-- Indicators -->
@@ -185,7 +192,9 @@
     </div>
 </section>
 
-<section id="first-section">
+
+<div class="d-none1">
+    <section id="first-section " >
     <div class="container">
         <!-- <div class="row">
             <div class="col-lg-8 offset-lg-2 text-center">
@@ -261,5 +270,7 @@
         </div>
     </div>
 </section>
+</div>
+
 
 <?php include 'footer.php'; ?>

@@ -19,9 +19,12 @@
 
                                     <p class=" text-uppercase mb-3 head-text"> <span class="wow fadeInRight"
                                             data-wow-delay=".2s">LAS VEGAS</span></p>
-                                    <p class="wow fadeInUp head-text1 animated" data-wow-delay=".3s">Recognized as a
-                                        city of indulgence, neon lights, world-class shows, and over-the-top themed
-                                        hotels, Las Vegas is nicknamed “Sin City.”</p>
+                                    <p class="wow fadeInUp head-text1 animated" data-wow-delay=".3s">With an
+                                        overabundance of entertainment,
+                                        lodging, and convention center space, it’s no
+                                        wonder the Las Vegas Convention and
+                                        Visitors Authority calls it “The World’s No. 1
+                                        Meeting Destination.”</p>
                                     <div class="spacer-10"></div>
                                     <?php include 'scroll-down.php'; ?>
                                 </div>
@@ -86,8 +89,9 @@
                         </p>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a
                                 href="https://mandalaybay.mgmresorts.com/en/meetings-groups/meeting-convention-facilities.html">
-                            <span class="about-us1">🔹
-                                Mandalay Bay Convention Center,</span> </a> the fifth largest convention center in the U.S.,
+                                <span class="about-us1">🔹
+                                    Mandalay Bay Convention Center,</span> </a> the fifth largest convention center in
+                            the U.S.,
                             with 2.1 million gross square feet of meeting and exhibit space
                         </p>
 
@@ -102,39 +106,50 @@
                     class="position-absolute top-50 start-50 translate-middle" alt=""> -->
             </div>
 
-            <div class="col-md-6 position-relative">
+            <div class="col-md-5 offset-md-1  position-relative">
 
                 <div class="row">
 
                     <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s">Exhibit Network has supported
                         customer exhibits at all the top Las Vegas-based convention centers as well as the
-                        <a href="https://mgmgrand.mgmresorts.com/en/meetings-groups/meetings-and-conventions.html"> <span
-                            class="about-us1"> MGM Grand
-                            Hotel  </span> </a> and <a href="https://www.caesars.com/meetings/properties/caesars-forum"> <span
-                            class="about-us1"> Caesar’s. </span> </a> We understand the Las Vegas union guidelines, permits and
+                        <a href="https://mgmgrand.mgmresorts.com/en/meetings-groups/meetings-and-conventions.html">
+                            <span class="about-us1"> MGM Grand
+                                Hotel </span> </a> and <a
+                            href="https://www.caesars.com/meetings/properties/caesars-forum"> <span class="about-us1">
+                                Caesar’s. </span> </a> We understand the Las Vegas union guidelines, permits and
                         licenses, venue
-                        requirements, and more for events such as:</p>
+                        requirements, and more for events such as:
+                    </p>
                     <br>
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a href="https://www.ces.tech/"> <span class="about-us1">
-                            🔹 Consumer Electronics Show (CES), </span> </a> the most powerful and visionary tech event in
+                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a
+                            href="https://www.ces.tech/"> <span class="about-us1">
+                                🔹 Consumer Electronics Show (CES), </span> </a> the most powerful and visionary tech
+                        event in
                         the
                         world</p>
                     <br>
 
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a href="https://www.semashow.com/"> <span class="about-us1">
-                            🔹 Specialty Equipment Market Association</span> </a> (SEMA), an automotive aftermarket trade
+                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a
+                            href="https://www.semashow.com/"> <span class="about-us1">
+                                🔹 Specialty Equipment Market Association</span> </a> (SEMA), an automotive aftermarket
+                        trade
                         show
                     </p>
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a href="https://www.conexpoconagg.com/"> <span class="about-us1"> 🔹
-                            ConExpo</span> </a>, the largest construction show in North America
+                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a
+                            href="https://www.conexpoconagg.com/"> <span class="about-us1"> 🔹
+                                ConExpo</span> </a>, the largest construction show in North America
                     </p>
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a href="https://www.nabshow.com/las-vegas/"> <span class="about-us1">
-                            🔹 National Association of Broadcasters</span> </a>(NAB), the premier destination for leaders in
+                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a
+                            href="https://www.nabshow.com/las-vegas/"> <span class="about-us1">
+                                🔹 National Association of Broadcasters</span> </a>(NAB), the premier destination for
+                        leaders in
                         the
                         media and entertainment industries
                     </p>
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a href="https://www.buildersshow.com/"> <span class="about-us1">
-                            🔹 International Builders Show</span> </a> (IBS), the largest gathering for residential building
+                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a
+                            href="https://www.buildersshow.com/"> <span class="about-us1">
+                                🔹 International Builders Show</span> </a> (IBS), the largest gathering for residential
+                        building
                         professionals in North America
                     </p>
 

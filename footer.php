@@ -1,3 +1,6 @@
+
+
+
 <a href="#" id="back-to-top"></a>
 
 
@@ -71,7 +74,7 @@ and successful as possible. </p>
                         <p><img class="w-10" src="images/home/location.png" alt=""> EXHIBIT NETWORK, LLC<br>3434 Lang
                             Rd, Houston TX 77092</p>
                         <p> <img class="w-10" src="images/home/call.png" alt=""><a href="tel:7132901212%20"> 713.290.1212</a></p>
-                        <p><a class="text-transform" href="mailto:info@exhibithouston.com"> <img class="w-10 " src="images/home/sms.png" alt="">info@exhibithouston.com </a></p>
+                        <p><a class="text-transform" href="mailto:info@exhibithouston.com"> <img class="w-10 " src="images/home/sms.png" alt=""> info@exhibithouston.com </a></p>
                         <div class="social-icons">
                             <a href="@ExhibitNetwork"><img src="images/home/x.png" alt=""></a>
                             <a href="https://www.facebook.com/EXHIBITNETWORK"><img src="images/home/fb (2).png" alt=""></a>

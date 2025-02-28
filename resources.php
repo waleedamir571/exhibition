@@ -107,11 +107,12 @@
                     </div>
                     <div class="col-md-8">
                         <p class="exhibit1">Blog</p>
-                        <p class="full">Decluttering Your Trade Show Booth</p>
-                        <p class="exhibit1">The cleanliness of your booth is a foundational element of the customer
-                            experience</p>
+                        <p class="full">Trade Show Booth Etiquette</p>
+                        <p class="exhibit1">We always recommend “being in the moment”
 
-                        <a href="">
+                        </p>
+
+                        <a href="https://hoisolution.com/exhibit/blogs/trade-show-booth-etiquette">
                             <p class="read">Read More</p>
                         </a>
                     </div>
@@ -123,9 +124,11 @@
                     <div class="col-md-8">
                         <p class="exhibit1">Press Release</p>
                         <p class="full">Forklift Safety for Trade Show Exhibitors</p>
-                        <p class="exhibit1">Understanding forklift safety in an exhibition hall can save lives</p>
+                        <p class="exhibit1">Understanding forklift safety in an exhibition hall can save lives
 
-                        <p class="read">Read More</p>
+                        </p>
+
+                       <a href="https://hoisolution.com/exhibit/blogs/forklift-safety-for-trade-show-exhibitors/"> <p class="read">Read More</p> </a>
                     </div>
                 </div>
                 <div class="row">
@@ -135,13 +138,15 @@
                     <div class="col-md-8">
                         <p class="exhibit1">Case Study</p>
                         <p class="full">Graphic Design Tips for Trade Show Exhibitors</p>
-                        <p class="exhibit1">Simple tips for making the most of your exhibit graphics</p>
+                        <p class="exhibit1">Simple tips for making the most of your exhibit graphics
 
-                        <p class="read">Read More</p>
+                        </p>
+
+                      <a href="https://hoisolution.com/exhibit/blogs/graphic-design-tips-for-trade-show-exhibitors/">  <p class="read">Read More</p> </a>
                     </div>
                 </div>
 
-                <button type="button" class="btn btn-primary1 w-100">CHECK OUT OUR ALL BLOGS</button>
+               <a href="https://hoisolution.com/exhibit/blogs/"> <button type="button" class="btn btn-primary1 w-100">CHECK OUT OUR ALL BLOGS</button> </a>
 
             </div>
 
@@ -164,25 +169,27 @@
             <div class="col-md-6">
                 <div class="row">
                     <div class="col-md-4">
-                        <img class="w-100" src="images/resource/b2.png" alt="">
+                        <img class="w-100" src="images/resource/b4.png" alt="">
                     </div>
                     <div class="col-md-8">
                         <p class="exhibit1">Media Coverage</p>
-                        <h3>The Importance of Lean Six Sigma for Trade Show Project Managers</h3>
-                        <p class="guide2 ">Our Project Managers are lean thinkers to ensure your success</p>
-                        <p class="read">Read More</p>
-                    </div>
+                        <h3>The Importance of Lean Six Sigma</h3>
+                        <p class="guide2 ">Our Project Managers are lean thinkers to ensure your success
+
+                        </p>
+                       <a href="https://hoisolution.com/exhibit/blogs/the-importance-of-lean-six-sigma-for-trade-show-project-managers/"> <p class="read">Read More</p> </a>
+                    </div> 
                 </div>
                 <br>
                 <div class="row">
                     <div class="col-md-4">
-                        <img class="w-100" src="images/resource/b3.png" alt="">
+                        <img class="w-100" src="images/resource/b5.png" alt="">
                     </div>
                     <div class="col-md-8">
                         <p class="exhibit1">Blog</p>
                         <h3>A First Trade Show Cautionary Tale</h3>
                         <p class="guide2 ">Trade show success relies on a competent team</p>
-                        <p class="read">Read More</p>
+                       <a href="https://hoisolution.com/exhibit/blogs/a-first-trade-show-cautionary-tale/"> <p class="read">Read More</p> </a>
                     </div>
                 </div>
             </div>
@@ -190,25 +197,27 @@
             <div class="col-md-6">
                 <div class="row">
                     <div class="col-md-4">
-                        <img class="w-100" src="images/resource/b2.png" alt="">
+                        <img class="w-100" src="images/resource/b6.png" alt="">
                     </div>
                     <div class="col-md-8">
                         <p class="exhibit1">Case Study</p>
                         <h3>A Seamless, Stress-free, Delightful Trade Show Experience</h3>
                         <p class="guide2 ">Discover why the customer experience matters at Exhibit Network</p>
-                        <p class="read">Read More</p>
+                       <a href="https://hoisolution.com/exhibit/blogs/a-seamless-stress-free-delightful-trade-show-experience/"> <p class="read">Read More</p> </a>
                     </div>
                 </div>
                 <br>
                 <div class="row">
                     <div class="col-md-4">
-                        <img class="w-100" src="images/resource/b3.png" alt="">
+                        <img class="w-100" src="images/resource/b7.png" alt="">
                     </div>
                     <div class="col-md-8">
                         <p class="exhibit1">White Paper</p>
                         <h3>Choosing the Right Trade Show Partner</h3>
-                        <p class="guide2 ">Choosing the right exhibit house to meet your needs is important</p>
-                        <p class="read">Read More</p>
+                        <p class="guide2 ">Choosing the right exhibit house to meet your needs is important
+
+                        </p>
+                       <a href="https://hoisolution.com/exhibit/blogs/choosing-the-right-trade-show-partner/"> <p class="read">Read More</p> </a>
                     </div>
                 </div>
             </div>
@@ -246,11 +255,13 @@
                     </div>
                     <div class="card-body">
                         <p class="exhibit1">White Paper</p>
-                        <h3>The Importance of Your Trade Show Warehouse</h3>
-                        <p class="guide2 ">Cleanliness, efficiency, and care are critical for proper exhibit storage</p>
+                        <h3>The Importance of <br> Your Trade</h3>
+                        <p class="guide2 ">Cleanliness, efficiency, and care are critical for proper exhibit storage
+
+                        </p>
 
                         <div class="btn-pos">
-                            <a href="contact-us.php" target="_blank" class="btn-line">VIEW MORE</a>
+                            <a href="https://hoisolution.com/exhibit/blogs/the-importance-of-your-trade-show-warehouse/" target="_blank" class="btn-line">VIEW MORE</a>
                         </div>
 
                     </div>
@@ -259,15 +270,17 @@
             <div class="col-md-4">
                 <div class="card card1">
                     <div class="img-center1">
-                        <img class="w-100" src="images/resource/museum.png" alt="Card image cap">
+                        <img class="w-100" src="images/resource/b12.png" alt="Card image cap">
                     </div>
                     <div class="card-body">
                         <p class="exhibit1">Media Coverage</p>
                         <h3>Trade Show Booth <br> Etiquette</h3>
-                        <p class="guide2 ">We always recommend “being in the <br> moment”</p>
+                        <p class="guide2 ">We always recommend “being in the 
+
+                            <br> moment”</p>
 
                         <div class="btn-pos">
-                            <a href="contact-us.php" target="_blank" class="btn-line">VIEW MORE</a>
+                            <a href="https://hoisolution.com/exhibit/blogs/trade-show-booth-etiquette/" target="_blank" class="btn-line">VIEW MORE</a>
                         </div>
 
                     </div>
@@ -276,14 +289,14 @@
             <div class="col-md-4">
                 <div class="card card1">
                     <div class="img-center1">
-                        <img class="w-100" src="images/resource/exhibition.png" alt="Card image cap">
+                        <img class="w-100" src="images/resource/b13.png" alt="Card image cap">
                     </div>
                     <div class="card-body">
                         <p class="exhibit1">Press Release</p>
                         <h3>Gathering Intelligence at a Trade Show</h3>
                         <p class="guide2 ">Our advice: <br> walk an aisle in their shoes!</p>
                         <div class="btn-pos">
-                            <a href="contact-us.php" target="_blank" class="btn-line">VIEW MORE</a>
+                            <a href="https://hoisolution.com/exhibit/blogs/gathering-intelligence-at-a-trade-show/" target="_blank" class="btn-line">VIEW MORE</a>
                         </div>
 
                     </div>
@@ -608,6 +621,14 @@
             </div>
             <div class="col-lg-6  position-relative">
                 <form>
+                    <div class="form-group">
+                        <div class="ptb-25">
+                            <label class="label1" for="exampleInputEmail1">Title</label>
+                            <input type="text" class="form-control1" id="exampleInputEmail1"
+                                aria-describedby="emailHelp" placeholder="">
+                        </div>
+
+                    </div>
                     <div class="form-group">
                         <div class="ptb-25">
                             <label class="label1" for="exampleInputEmail1">first name</label>

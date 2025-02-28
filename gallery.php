@@ -189,6 +189,14 @@
                 <form>
                     <div class="form-group">
                         <div class="ptb-25">
+                            <label class="label1" for="exampleInputEmail1">Title</label>
+                            <input type="text" class="form-control1" id="exampleInputEmail1"
+                                aria-describedby="emailHelp" placeholder="">
+                        </div>
+
+                    </div>
+                    <div class="form-group">
+                        <div class="ptb-25">
                             <label class="label1" for="exampleInputEmail1">first name</label>
                             <input type="text" class="form-control1" id="exampleInputEmail1"
                                 aria-describedby="emailHelp" placeholder="">

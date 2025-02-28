@@ -282,7 +282,8 @@
                 </div>
                 <div class="col-md-6">
 
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us">STORAGE :</span> (on site right now)
+                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us">STORAGE
+                            :</span> (on site right now)
                         We offer over 42K square feet of storage. Our clean, organized, efficient warehouse ensures
                         secure storage and easy access/retrieval.</p>
 
@@ -451,6 +452,14 @@
             </div>
             <div class="col-lg-6  position-relative">
                 <form>
+                    <div class="form-group">
+                        <div class="ptb-25">
+                            <label class="label1" for="exampleInputEmail1">Title</label>
+                            <input type="text" class="form-control1" id="exampleInputEmail1"
+                                aria-describedby="emailHelp" placeholder="">
+                        </div>
+
+                    </div>
                     <div class="form-group">
                         <div class="ptb-25">
                             <label class="label1" for="exampleInputEmail1">first name</label>

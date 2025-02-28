@@ -486,7 +486,6 @@ function questionnaireForm($payload, $con)
             $selected_goals[] = $other_goals; // Add "Other" field to goals
         }
         $important_goals = implode(", ", $selected_goals);
-
         $trade_show_experience = [];
         if (isset($payload['trade_show_experience'])) {
             foreach ($payload['trade_show_experience'] as $category => $levels) {
@@ -494,10 +493,7 @@ function questionnaireForm($payload, $con)
             }
         }
         $trade_show_experience_str = implode(", ", $trade_show_experience);
-
         $event_type = isset($payload['event_type']) ? $payload['event_type'] : '';
-
-        // Process Design Flexibility (Yes / No)
         $design_flexibility = isset($payload['design_flexibility']) ? $payload['design_flexibility'] : '';
         $sql = "INSERT INTO form (title, first_name, last_name, company_name, email, message, important_goals, trade_show_experience, event_type, design_flexibility) 
                 VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
@@ -506,13 +502,10 @@ function questionnaireForm($payload, $con)
         $stmt->bind_param("ssssssssss", $title, $first_name, $last_name, $company_name, $email, $message, $important_goals, $trade_show_experience_str, $event_type, $design_flexibility);
 
         // Execute the query
-        if ($stmt->execute()) {
-            $stmt->close();
-            return true; // Success
-        } else {
-            $stmt->close();
-            return false; // Failure
-        }
+        $success = $stmt->execute(); 
+        $stmt->close(); 
+        return $success; 
+        
 
         // //EMAIL NOTIFICATION
         // $emailContent = '<p>Page : ' . $payload['page'] . '</p>';

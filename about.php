@@ -708,48 +708,7 @@
                     class="position-absolute top-50 start-50 translate-middle" alt=""> -->
             </div>
             <div class="col-lg-6  position-relative">
-                <form>
-                    <div class="form-group">
-                        <div class="ptb-25">
-                            <label class="label1" for="exampleInputEmail1">Title</label>
-                            <input type="text" class="form-control1" id="exampleInputEmail1"
-                                aria-describedby="emailHelp" placeholder="">
-                        </div>
-
-                    </div>
-                    <div class="form-group">
-                        <div class="ptb-25">
-                            <label class="label1" for="exampleInputEmail1">first name</label>
-                            <input type="text" class="form-control1" id="exampleInputEmail1"
-                                aria-describedby="emailHelp" placeholder="">
-                        </div>
-
-                    </div>
-                    <div class="form-group ptb-25">
-                        <label class="label1" for="exampleInputEmail1">last name</label>
-                        <input type="text" class="form-control1" id="exampleInputEmail1" aria-describedby="emailHelp"
-                            placeholder="">
-
-                    </div>
-                    <div class="form-group ptb-25">
-                        <label class="label1" for="exampleInputEmail1">Company Name</label>
-                        <input type="text" class="form-control1" id="exampleInputEmail1" aria-describedby="emailHelp"
-                            placeholder="">
-
-                    </div>
-                    <div class="form-group ptb-25">
-                        <label class="label1" for="exampleInputEmail1">email</label>
-                        <input type="email" class="form-control1" id="exampleInputEmail1" aria-describedby="emailHelp"
-                            placeholder="">
-
-                    </div>
-                    <div class="form-group ptb-25">
-                        <label class="label1" for="exampleInputPassword1">message</label>
-                        <input type="text" class="form-control1" id="exampleInputPassword1" placeholder="">
-                    </div>
-
-                    <button type="button" class="btn btn-primary1 ">submit</button>
-                </form>
+                <?php include 'questionaire_form.php' ?>
             </div>
 
         </div>
@@ -1252,7 +1211,6 @@
 <!-- <script src="//cdn.jsdelivr.net/gh/freeps2/a7rarpress@main/script.js"></script> -->
 
 <script>
-
     var swiper = new Swiper(".slide-content", {
         slidesPerView: 3,
         spaceBetween: 10,
@@ -1282,7 +1240,6 @@
             },
         },
     });
-
 </script>
 
 

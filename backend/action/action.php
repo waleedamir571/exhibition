@@ -54,6 +54,8 @@ if (isset($_POST['type'])) {
             break;
     }
     header('Location: https://hancockpublishers.com/thank-you');
+    // header("Location: " . $_SERVER['HTTP_REFERER']);
+
 }
 
 

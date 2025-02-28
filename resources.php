@@ -128,7 +128,9 @@
 
                         </p>
 
-                       <a href="https://hoisolution.com/exhibit/blogs/forklift-safety-for-trade-show-exhibitors/"> <p class="read">Read More</p> </a>
+                        <a href="https://hoisolution.com/exhibit/blogs/forklift-safety-for-trade-show-exhibitors/">
+                            <p class="read">Read More</p>
+                        </a>
                     </div>
                 </div>
                 <div class="row">
@@ -142,11 +144,13 @@
 
                         </p>
 
-                      <a href="https://hoisolution.com/exhibit/blogs/graphic-design-tips-for-trade-show-exhibitors/">  <p class="read">Read More</p> </a>
+                        <a href="https://hoisolution.com/exhibit/blogs/graphic-design-tips-for-trade-show-exhibitors/">
+                            <p class="read">Read More</p>
+                        </a>
                     </div>
                 </div>
 
-               <a href="https://hoisolution.com/exhibit/blogs/"> <button type="button" class="btn btn-primary1 w-100">CHECK OUT OUR ALL BLOGS</button> </a>
+                <a href="https://hoisolution.com/exhibit/blogs/"> <button type="button" class="btn btn-primary1 w-100">CHECK OUT OUR ALL BLOGS</button> </a>
 
             </div>
 
@@ -177,8 +181,10 @@
                         <p class="guide2 ">Our Project Managers are lean thinkers to ensure your success
 
                         </p>
-                       <a href="https://hoisolution.com/exhibit/blogs/the-importance-of-lean-six-sigma-for-trade-show-project-managers/"> <p class="read">Read More</p> </a>
-                    </div> 
+                        <a href="https://hoisolution.com/exhibit/blogs/the-importance-of-lean-six-sigma-for-trade-show-project-managers/">
+                            <p class="read">Read More</p>
+                        </a>
+                    </div>
                 </div>
                 <br>
                 <div class="row">
@@ -189,7 +195,9 @@
                         <p class="exhibit1">Blog</p>
                         <h3>A First Trade Show Cautionary Tale</h3>
                         <p class="guide2 ">Trade show success relies on a competent team</p>
-                       <a href="https://hoisolution.com/exhibit/blogs/a-first-trade-show-cautionary-tale/"> <p class="read">Read More</p> </a>
+                        <a href="https://hoisolution.com/exhibit/blogs/a-first-trade-show-cautionary-tale/">
+                            <p class="read">Read More</p>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -203,7 +211,9 @@
                         <p class="exhibit1">Case Study</p>
                         <h3>A Seamless, Stress-free, Delightful Trade Show Experience</h3>
                         <p class="guide2 ">Discover why the customer experience matters at Exhibit Network</p>
-                       <a href="https://hoisolution.com/exhibit/blogs/a-seamless-stress-free-delightful-trade-show-experience/"> <p class="read">Read More</p> </a>
+                        <a href="https://hoisolution.com/exhibit/blogs/a-seamless-stress-free-delightful-trade-show-experience/">
+                            <p class="read">Read More</p>
+                        </a>
                     </div>
                 </div>
                 <br>
@@ -217,7 +227,9 @@
                         <p class="guide2 ">Choosing the right exhibit house to meet your needs is important
 
                         </p>
-                       <a href="https://hoisolution.com/exhibit/blogs/choosing-the-right-trade-show-partner/"> <p class="read">Read More</p> </a>
+                        <a href="https://hoisolution.com/exhibit/blogs/choosing-the-right-trade-show-partner/">
+                            <p class="read">Read More</p>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -275,9 +287,10 @@
                     <div class="card-body">
                         <p class="exhibit1">Media Coverage</p>
                         <h3>Trade Show Booth <br> Etiquette</h3>
-                        <p class="guide2 ">We always recommend “being in the 
+                        <p class="guide2 ">We always recommend “being in the
 
-                            <br> moment”</p>
+                            <br> moment”
+                        </p>
 
                         <div class="btn-pos">
                             <a href="https://hoisolution.com/exhibit/blogs/trade-show-booth-etiquette/" target="_blank" class="btn-line">VIEW MORE</a>
@@ -620,48 +633,7 @@
                     class="position-absolute top-50 start-50 translate-middle" alt=""> -->
             </div>
             <div class="col-lg-6  position-relative">
-                <form>
-                    <div class="form-group">
-                        <div class="ptb-25">
-                            <label class="label1" for="exampleInputEmail1">Title</label>
-                            <input type="text" class="form-control1" id="exampleInputEmail1"
-                                aria-describedby="emailHelp" placeholder="">
-                        </div>
-
-                    </div>
-                    <div class="form-group">
-                        <div class="ptb-25">
-                            <label class="label1" for="exampleInputEmail1">first name</label>
-                            <input type="text" class="form-control1" id="exampleInputEmail1"
-                                aria-describedby="emailHelp" placeholder="">
-                        </div>
-
-                    </div>
-                    <div class="form-group ptb-25">
-                        <label class="label1" for="exampleInputEmail1">last name</label>
-                        <input type="text" class="form-control1" id="exampleInputEmail1" aria-describedby="emailHelp"
-                            placeholder="">
-
-                    </div>
-                    <div class="form-group ptb-25">
-                        <label class="label1" for="exampleInputEmail1">Company Name</label>
-                        <input type="text" class="form-control1" id="exampleInputEmail1" aria-describedby="emailHelp"
-                            placeholder="">
-
-                    </div>
-                    <div class="form-group ptb-25">
-                        <label class="label1" for="exampleInputEmail1">email</label>
-                        <input type="email" class="form-control1" id="exampleInputEmail1" aria-describedby="emailHelp"
-                            placeholder="">
-
-                    </div>
-                    <div class="form-group ptb-25">
-                        <label class="label1" for="exampleInputPassword1">message</label>
-                        <input type="text" class="form-control1" id="exampleInputPassword1" placeholder="">
-                    </div>
-
-                    <button type="button" class="btn btn-primary1 ">submit</button>
-                </form>
+                <?php include 'questionaire_form.php' ?>
             </div>
 
         </div>

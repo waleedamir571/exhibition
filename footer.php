@@ -49,13 +49,18 @@ and successful as possible. </p>
                     <div class="col-lg-2 offset-md-1 col-md-6">
                         <h5>Resources</h5>
                         <ul>
-                            <li><a href="#">Pay </a></li>
+                            <li><a href="https://hoisolution.com/exhibit/blogs/case-studies/">Case Studies
+                            </a></li>
                                                         <br>
-                            <li><a href="happy-hour-guide">Need a
-                            Booth ?</a></li>
+                                                        <li><a href="https://hoisolution.com/exhibit/blogs/">Blog
+
+                                                        </a></li>
+                                                        <br>
+                            <li><a href="need-a-booth">Need a
+                            Booth </a></li>
                             <br>
-                            <li><a href="technology">Technology</a></li>
-                            <br>
+                            <!-- <li><a href="technology">Technology</a></li>
+                            <br> -->
                             <li><a href="newsroom">Newsroom</a></li>
                             <br>
                             <!-- <li><a href="upload">Upload</a></li>
@@ -71,8 +76,12 @@ and successful as possible. </p>
                     <!-- Contact Us -->
                     <div class="col-lg-3 col-md-12">
                         <h5>Contact Us</h5>
-                        <p><img class="w-10" src="images/home/location.png" alt=""> EXHIBIT NETWORK, LLC<br>3434 Lang
-                            Rd, Houston TX 77092</p>
+                        <p style="display: flex; align-items: center;">
+    <img class="mb-30" src="images/home/location.png" alt="" >
+    <span>EXHIBIT NETWORK, LLC - 3434 Lang Rd, Houston TX 77092</span>
+</p>
+
+                            
                         <p> <img class="w-10" src="images/home/call.png" alt=""><a href="tel:7132901212%20"> 713.290.1212</a></p>
                         <p><a class="text-transform" href="mailto:info@exhibithouston.com"> <img class="w-10 " src="images/home/sms.png" alt=""> info@exhibithouston.com </a></p>
                         <div class="social-icons">
@@ -244,7 +253,12 @@ and successful as possible. </p>
 
 </html>
 
+
 <script>
+
+
+
+
     // Ensure DOM is fully loaded
 // JavaScript Code
 document.addEventListener('DOMContentLoaded', function() {

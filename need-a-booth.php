@@ -73,19 +73,32 @@
                                 <div class="row">
                                     <div class="col-md-6">
                                         <p class="size30"><input class="form-check-input" type="checkbox"
-                                                id="flexCheckDefault" name="important_goals[]" value="Meeting lead generation targets"> Meeting lead generation targets</p>
+                                                id="flexCheckDefault" name="important_goals[]"
+                                                value="Meeting lead generation targets"> Meeting lead generation targets
+                                        </p>
                                         <p class="size30"><input class="form-check-input" type="checkbox"
-                                                id="flexCheckDefault" name="important_goals[]" value="Increasing brand awareness/visibility"> Increasing band awareness/visibility</p>
+                                                id="flexCheckDefault" name="important_goals[]"
+                                                value="Increasing brand awareness/visibility"> Increasing band
+                                            awareness/visibility</p>
                                         <p class="size30"><input class="form-check-input" type="checkbox"
-                                                id="flexCheckDefault" name="important_goals[]" value="Measuring return on investment"> Measuring return on investment</p>
+                                                id="flexCheckDefault" name="important_goals[]"
+                                                value="Measuring return on investment"> Measuring return on investment
+                                        </p>
                                         <p class="size30"><input class="form-check-input" type="checkbox"
-                                                id="flexCheckDefault" name="important_goals[]" value="Monitoring cost per lead"> Monitoring cost per lead</p>
+                                                id="flexCheckDefault" name="important_goals[]"
+                                                value="Monitoring cost per lead"> Monitoring cost per lead</p>
                                         <p class="size30"><input class="form-check-input" type="checkbox"
-                                                id="flexCheckDefault" name="important_goals[]" value="Booking trade show meetings or demos"> Booking trade show meetings or demos</p>
+                                                id="flexCheckDefault" name="important_goals[]"
+                                                value="Booking trade show meetings or demos"> Booking trade show
+                                            meetings or demos</p>
                                         <p class="size30"><input class="form-check-input" type="checkbox"
-                                                id="flexCheckDefault" name="important_goals[]" value="Showcasing or introducing products"> Showcasing or introducing products</p>
+                                                id="flexCheckDefault" name="important_goals[]"
+                                                value="Showcasing or introducing products"> Showcasing or introducing
+                                            products</p>
                                         <p class="size30"><input class="form-check-input" type="checkbox"
-                                                id="flexCheckDefault" name="important_goals[]" value="Increasing foot traffic to the booth"> Increasing foot traffic to the booth</p>
+                                                id="flexCheckDefault" name="important_goals[]"
+                                                value="Increasing foot traffic to the booth"> Increasing foot traffic to
+                                            the booth</p>
                                         <br>
 
                                         <div class="row align-items-center">
@@ -107,19 +120,33 @@
                                     </div>
                                     <div class="col-md-6">
                                         <p class="size30"><input class="form-check-input" type="checkbox"
-                                                id="flexCheckDefault" name="important_goals[]" value="Capturing # of Quality Customer interaction"> Capturing # of Quality Customer interaction</p>
+                                                id="flexCheckDefault" name="important_goals[]"
+                                                value="Capturing # of Quality Customer interaction"> Capturing # of
+                                            Quality Customer interaction</p>
                                         <p class="size30"><input class="form-check-input" type="checkbox"
-                                                id="flexCheckDefault" name="important_goals[]" value="Initiating Partnership discussions"> Initiating Partnership discussions</p>
+                                                id="flexCheckDefault" name="important_goals[]"
+                                                value="Initiating Partnership discussions"> Initiating Partnership
+                                            discussions</p>
                                         <p class="size30"><input class="form-check-input" type="checkbox"
-                                                id="flexCheckDefault" name="important_goals[]" value="Calculating social media likes, comments, shares"> Calculating social media likes, comments, shares</p>
+                                                id="flexCheckDefault" name="important_goals[]"
+                                                value="Calculating social media likes, comments, shares"> Calculating
+                                            social media likes, comments, shares</p>
                                         <p class="size30"><input class="form-check-input" type="checkbox"
-                                                id="flexCheckDefault" name="important_goals[]" value="Garnering press coverage and/or awards"> Garnering press coverage and/or awards</p>
+                                                id="flexCheckDefault" name="important_goals[]"
+                                                value="Garnering press coverage and/or awards"> Garnering press coverage
+                                            and/or awards</p>
                                         <p class="size30"><input class="form-check-input" type="checkbox"
-                                                id="flexCheckDefault" name="important_goals[]" value="Quantifying post-show lead conversion to sales"> Quantifying post-show lead conversion to sales</p>
+                                                id="flexCheckDefault" name="important_goals[]"
+                                                value="Quantifying post-show lead conversion to sales"> Quantifying
+                                            post-show lead conversion to sales</p>
                                         <p class="size30"><input class="form-check-input" type="checkbox"
-                                                id="flexCheckDefault" name="important_goals[]" value="Calculating post-show revenue attribution"> Calculating post-show revenue attribution</p>
+                                                id="flexCheckDefault" name="important_goals[]"
+                                                value="Calculating post-show revenue attribution"> Calculating post-show
+                                            revenue attribution</p>
                                         <p class="size30"><input class="form-check-input" type="checkbox"
-                                                id="flexCheckDefault" name="important_goals[]" value="Ensuring the show is seamless and stress-free"> Ensuring the show is seamless and stress-free</p>
+                                                id="flexCheckDefault" name="important_goals[]"
+                                                value="Ensuring the show is seamless and stress-free"> Ensuring the show
+                                            is seamless and stress-free</p>
                                     </div>
                                 </div>
 
@@ -144,19 +171,22 @@
                                     </div>
                                     <div class="col-md-2">
                                         <p class="size30"> Low</p>
-                                        <input class="form-check-input" type="checkbox" id="flexCheckDefault" name="trade_show_experience[Developing strategy][]" value="Low">
+                                        <input class="form-check-input" type="checkbox" id="flexCheckDefault"
+                                            name="trade_show_experience[Developing strategy][]" value="Low">
 
                                     </div>
 
                                     <div class="col-md-2">
                                         <p class="size30"> Medium</p>
-                                        <input class="form-check-input" type="checkbox" id="flexCheckDefault" name="trade_show_experience[Developing strategy][]" value="Medium">
+                                        <input class="form-check-input" type="checkbox" id="flexCheckDefault"
+                                            name="trade_show_experience[Developing strategy][]" value="Medium">
 
                                     </div>
 
                                     <div class="col-md-2">
                                         <p class="size30"> High</p>
-                                        <input class="form-check-input" type="checkbox" id="flexCheckDefault" name="trade_show_experience[Developing strategy][]" value="High">
+                                        <input class="form-check-input" type="checkbox" id="flexCheckDefault"
+                                            name="trade_show_experience[Developing strategy][]" value="High">
 
                                     </div>
 
@@ -171,19 +201,22 @@
                                     </div>
                                     <div class="col-md-2">
 
-                                        <input class="form-check-input" type="checkbox" id="flexCheckDefault" name="trade_show_experience[Designing experience][]" value="Low">
+                                        <input class="form-check-input" type="checkbox" id="flexCheckDefault"
+                                            name="trade_show_experience[Designing experience][]" value="Low">
 
                                     </div>
 
                                     <div class="col-md-2">
 
-                                        <input class="form-check-input" type="checkbox" id="flexCheckDefault" name="trade_show_experience[Designing experience][]" value="Medium">
+                                        <input class="form-check-input" type="checkbox" id="flexCheckDefault"
+                                            name="trade_show_experience[Designing experience][]" value="Medium">
 
                                     </div>
 
                                     <div class="col-md-2">
 
-                                        <input class="form-check-input" type="checkbox" id="flexCheckDefault" name="trade_show_experience[Designing experience][]" value="High">
+                                        <input class="form-check-input" type="checkbox" id="flexCheckDefault"
+                                            name="trade_show_experience[Designing experience][]" value="High">
 
                                     </div>
 
@@ -198,20 +231,23 @@
                                     </div>
                                     <div class="col-md-2">
 
-                                        <input class="form-check-input" type="checkbox" id="flexCheckDefault" name="trade_show_experience[Managing booth][]" value="Low">
+                                        <input class="form-check-input" type="checkbox" id="flexCheckDefault"
+                                            name="trade_show_experience[Managing booth][]" value="Low">
 
                                     </div>
 
                                     <div class="col-md-2">
 
-                                        <input class="form-check-input" type="checkbox" id="flexCheckDefault" name="trade_show_experience[Managing booth][]" value="Medium">
+                                        <input class="form-check-input" type="checkbox" id="flexCheckDefault"
+                                            name="trade_show_experience[Managing booth][]" value="Medium">
 
 
                                     </div>
 
                                     <div class="col-md-2">
 
-                                        <input class="form-check-input" type="checkbox" id="flexCheckDefault" name="trade_show_experience[Managing booth][]" value="High">
+                                        <input class="form-check-input" type="checkbox" id="flexCheckDefault"
+                                            name="trade_show_experience[Managing booth][]" value="High">
 
 
                                     </div>
@@ -232,7 +268,8 @@
 
                                         <p class="size30"> One</p>
 
-                                        <input class="form-check-input" type="checkbox" id="flexCheckDefault" name="event_type" value="One-time">
+                                        <input class="form-check-input" type="checkbox" id="flexCheckDefault"
+                                            name="event_type" value="One-time">
 
 
                                     </div>
@@ -242,7 +279,8 @@
                                         <p class="size30"> Recurring</p>
 
 
-                                        <input class="form-check-input" type="checkbox" id="flexCheckDefault" name="event_type" value="Recurring">
+                                        <input class="form-check-input" type="checkbox" id="flexCheckDefault"
+                                            name="event_type" value="Recurring">
 
 
                                     </div>
@@ -255,7 +293,8 @@
                                 <div class="row">
                                     <div class="col-md-6">
 
-                                        <p class="size30"> If recurring, do you need design flexibility among events?</p>
+                                        <p class="size30"> If recurring, do you need design flexibility among events?
+                                        </p>
 
 
                                         <br>
@@ -264,7 +303,8 @@
                                     <div class="col-md-2">
 
                                         <p class="size30"> Yes</p>
-                                        <input class="form-check-input" type="checkbox" id="flexCheckDefault" name="design_flexibility" value="Yes">
+                                        <input class="form-check-input" type="checkbox" id="flexCheckDefault"
+                                            name="design_flexibility" value="Yes">
 
 
                                     </div>
@@ -272,7 +312,8 @@
                                     <div class="col-md-2">
                                         <p class="size30"> No</p>
 
-                                        <input class="form-check-input" type="checkbox" id="flexCheckDefault" name="design_flexibility" value="No">
+                                        <input class="form-check-input" type="checkbox" id="flexCheckDefault"
+                                            name="design_flexibility" value="No">
 
 
                                     </div>
@@ -320,21 +361,14 @@
                                     <div class="col-md-6 mb-sm-30 ">
 
 
-                                        <div class="form-group">
-
-                                            <div class="ptb-25">
-                                                <label class="label1" for="exampleInputEmail1">Title</label>
-                                                <input type="text" class="form-control1" id="exampleInputEmail1"
-                                                    aria-describedby="emailHelp" placeholder="" name="title" required>
-                                            </div>
-
-                                        </div>
+                                      
                                         <div class="form-group">
 
                                             <div class="ptb-25">
                                                 <label class="label1" for="exampleInputEmail1">first name</label>
                                                 <input type="text" class="form-control1" id="exampleInputEmail1"
-                                                    aria-describedby="emailHelp" placeholder="" name="first_name" required>
+                                                    aria-describedby="emailHelp" placeholder="" name="first_name"
+                                                    required>
                                             </div>
 
                                         </div>
@@ -344,10 +378,20 @@
                                                 aria-describedby="emailHelp" placeholder="" name="last_name" required>
 
                                         </div>
+                                        <div class="form-group">
+
+                                            <div class="ptb-25">
+                                                <label class="label1" for="exampleInputEmail1">Title</label>
+                                                <input type="text" class="form-control1" id="exampleInputEmail1"
+                                                    aria-describedby="emailHelp" placeholder="" name="title" required>
+                                            </div>
+
+                                        </div>
                                         <div class="form-group ptb-25">
                                             <label class="label1" for="exampleInputEmail1">Company Name</label>
                                             <input type="text" class="form-control1" id="exampleInputEmail1"
-                                                aria-describedby="emailHelp" placeholder="" name="company_name" required>
+                                                aria-describedby="emailHelp" placeholder="" name="company_name"
+                                                required>
 
                                         </div>
                                         <div class="form-group ptb-25">

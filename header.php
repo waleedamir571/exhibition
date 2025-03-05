@@ -48,7 +48,7 @@
 
                                 </li>  -->
                                 <li>
-                                    <a href="happy-hour-guide" target="_blank">
+                                    <a href="need-a-booth" target="_blank">
                                         <p>Need a booth?</p>
                                     </a>
 

@@ -10,7 +10,7 @@
     <div class="container position-relative z1000">
         <div class="row">
             <div class="col-md-12 text-center wow fadeInUp">
-                <p class="about-us relax2 montserrat"> <img src="images/home/Line.png" alt=""> Customer Storage Terms &
+                <p class=" relax4 montserrat"> <img src="images/home/Line.png" alt=""> Customer Storage Terms &
                     Conditions
                     <img src="images/home/Line.png" alt="">
                 </p>

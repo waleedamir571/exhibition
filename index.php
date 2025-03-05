@@ -58,8 +58,7 @@
                     </div>
 
                     <br>
-                    <p class="head-text1">When you partner with Exhibit Network, we work hard to ensure you are
-                        successful.</p>
+                    <p class="head-text1">When you partner with Exhibit Network, we work hard to ensure your success.</p>
                     <div class="spacer-single"></div>
                 </div>
 

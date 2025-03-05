@@ -1,5 +1,20 @@
 <?php include 'header.php'; ?>
 
+<style>
+
+
+.about-us1::before {
+    
+    content: '🔹';
+    position: absolute;
+    left: -12px;
+    /* top: 0%; */
+    /* transform: translateY(-50%); */
+
+}
+
+</style>
+
 
 <section id="de-carousel section-schedule" class="no-top no-bottom carousel slide carousel-fade "
     data-mdb-ride="carousel">
@@ -46,7 +61,7 @@
 
     <div class="container">
 
-        <div class="row align-items-center">
+        <div class="row ">
 
 
             <div class="col-md-6 position-relative" data-jarallax-element="-60">
@@ -57,7 +72,8 @@
 
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s">With unparalleled
                             entertainment and theme parks, including Walt Disney World and Universal Studios, it’s no
-                            wonder why Orlando draws large trade shows to its <a href="https://www.occc.net/"> <span
+                            wonder why Orlando draws large trade shows to its
+                            <br> <a target="_blank" href="https://www.occc.net/"> <span
                                     class="about-us1"> Orange County
                                     Convention Center. </span> </a> With over
                             2 million square feet of convention space and just under 500,000 square feet of meeting room
@@ -66,18 +82,18 @@
 
                         <br>
 
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a href="https://npe.org/">
-                                <span class="about-us1">🔹
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank" href="https://npe.org/">
+                                <span class="about-us1">
                                     NPE The Plastics Show</span></a> the largest plastics trade show in the Americas.
                         </p>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a
-                                href="https://www.infosecworldusa.com/"> <span class="about-us1">🔹
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank"
+                                href="https://www.infosecworldusa.com/"> <span class="about-us1">
                                     InfoSec World</span> </a> the leading cybersecurity conference for security
                             professionals and
                             executives.
                         </p>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a
-                                href="https://www.pgashow.com/#/"> <span class="about-us1">🔹
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank"
+                                href="https://www.pgashow.com/#/"> <span class="about-us1">
                                     PGA Show</span> </a> the longest-running and largest global gathering for the
                             business of
                             golf.
@@ -91,28 +107,28 @@
                 <!-- <img src="images/misc/circle-gradient.png"
                     class="position-absolute top-50 start-50 translate-middle" alt=""> -->
             </div>
-            <div class="col-md-6 position-relative" data-jarallax-element="-60">
+            <div class="col-md-5 offset-md-1 position-relative" data-jarallax-element="-60">
 
                 <div class="position-relative z1000">
 
                     <div class="row">
 
 
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a
-                                href="https://www.iaapa.org/expos-and-events/iaapa-expo"> <span class="about-us1">🔹
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank"
+                                href="https://www.iaapa.org/expos-and-events/iaapa-expo"> <span class="about-us1">
                                     IAAPA Expo</span> </a> the biggest event in the attractions industry, hosted by the
                             International Association of Amusement Parks and Attractions.
                         </p>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a
-                                href="https://globalpetexpo.org/"> <span class="about-us1">🔹
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank"
+                                href="https://globalpetexpo.org/"> <span class="about-us1">
                                     Global Pet Expo</span> </a> the premiere annual event for the pet industry.
                         </p>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a href=""> <span
-                                    class="about-us1">🔹
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank" href="https://navc.com/vmx-event/"> <span
+                                    class="about-us1">
                                     VMX</span> </a> Veterinary Meeting and Expo, the world’s premier veterinary event
                         </p>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us1">🔹
-                                I/ITSEC</span> the world’s largest modeling, simulation, and training event
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank" href="https://www.iitsec.org/"> <span class="about-us1">
+                                I/ITSEC</span> </a> the world’s largest modeling, simulation, and training event
                         </p>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> Exhibit Network has
                             supported our customers’ trade show exhibits at the Orlando Orange County Convention Center

@@ -122,7 +122,7 @@
                         <img class="w-100" src="images/resource/b2.png" alt="">
                     </div>
                     <div class="col-md-8">
-                        <p class="exhibit1">Press Release</p>
+                        <p class="exhibit1">Blog</p>
                         <p class="full">Forklift Safety for Trade Show Exhibitors</p>
                         <p class="exhibit1">Understanding forklift safety in an exhibition hall can save lives
 
@@ -136,7 +136,7 @@
                         <img class="w-100" src="images/resource/b3.png" alt="">
                     </div>
                     <div class="col-md-8">
-                        <p class="exhibit1">Case Study</p>
+                        <p class="exhibit1">Blog</p>
                         <p class="full">Graphic Design Tips for Trade Show Exhibitors</p>
                         <p class="exhibit1">Simple tips for making the most of your exhibit graphics
 
@@ -200,7 +200,7 @@
                         <img class="w-100" src="images/resource/b6.png" alt="">
                     </div>
                     <div class="col-md-8">
-                        <p class="exhibit1">Case Study</p>
+                        <p class="exhibit1">blogs</p>
                         <h3>A Seamless, Stress-free, Delightful Trade Show Experience</h3>
                         <p class="guide2 ">Discover why the customer experience matters at Exhibit Network</p>
                        <a href="https://hoisolution.com/exhibit/blogs/a-seamless-stress-free-delightful-trade-show-experience/"> <p class="read">Read More</p> </a>
@@ -212,7 +212,7 @@
                         <img class="w-100" src="images/resource/b7.png" alt="">
                     </div>
                     <div class="col-md-8">
-                        <p class="exhibit1">White Paper</p>
+                        <p class="exhibit1">blogs</p>
                         <h3>Choosing the Right Trade Show Partner</h3>
                         <p class="guide2 ">Choosing the right exhibit house to meet your needs is important
 
@@ -251,11 +251,12 @@
             <div class="col-md-4">
                 <div class="card card1">
                     <div class="img-center1">
-                        <img class="w-100" src="images/resource/news.png" alt="Card image cap">
+                        <img class="w-100" src="https://hoisolution.com/exhibit/wp-content/uploads/2025/02/blog_01_warehouse.jpg" alt="Card image cap">
                     </div>
                     <div class="card-body">
-                        <p class="exhibit1">White Paper</p>
-                        <h3>The Importance of <br> Your Trade</h3>
+                        <p class="exhibit1">blogs</p>
+                        <h3>The Importance of Your
+                            Trade Show Warehouse</h3>
                         <p class="guide2 ">Cleanliness, efficiency, and care are critical for proper exhibit storage
 
                         </p>
@@ -273,7 +274,7 @@
                         <img class="w-100" src="images/resource/b12.png" alt="Card image cap">
                     </div>
                     <div class="card-body">
-                        <p class="exhibit1">Media Coverage</p>
+                        <p class="exhibit1">blogs</p>
                         <h3>Trade Show Booth <br> Etiquette</h3>
                         <p class="guide2 ">We always recommend “being in the 
 
@@ -292,7 +293,7 @@
                         <img class="w-100" src="images/resource/b13.png" alt="Card image cap">
                     </div>
                     <div class="card-body">
-                        <p class="exhibit1">Press Release</p>
+                        <p class="exhibit1">blogs</p>
                         <h3>Gathering Intelligence at a Trade Show</h3>
                         <p class="guide2 ">Our advice: <br> walk an aisle in their shoes!</p>
                         <div class="btn-pos">
@@ -583,89 +584,6 @@
 
 </section>
 
-<section id="first-section">
-    <div class="container">
-        <!-- <div class="row">
-            <div class="col-lg-8 offset-lg-2 text-center">
-                <h1 class="text-uppercase"><span class="wow fadeInUp">December</span> <span
-                        class="text-gradient wow fadeInUp" data-wow-delay="
-                    .3s">3 - 7</span></h1>
-            </div>
-        </div> -->
-
-        <div class="row align-items-center">
-            <div class="col-md-6 " data-jarallax-element="-60">
-                <p class=" text-uppercase mb-3 head-text">get in touch </p>
-                <div class="position-relative z1000">
-
-                    <div class="row">
-                        <div class="col-md-12 ">
-                            <!-- <p class="wow fadeInRight head-text1" data-wow-delay=".4s">Exhibit Network is taking care of
-                                your booth. Go to Happy Hour…We Got This.</p> -->
-                            <br>
-                            <p class="wow fadeInRight head-text1" data-wow-delay=".4s">Never worry about your trade show
-                                exhibit again. With Exhibit Network, you can be confident all your trade show
-                                experiences will be seamless and stress-free.Trust us…we got this.</p>
-                            <img src="images/contact/c2.png" alt="">
-                        </div>
-
-                    </div>
-
-                    <!-- <button type="button" class="btn btn-primary1 w-100">DOWNLOAD NOW</button> -->
-
-                    <br>
-
-                </div>
-                <!-- <img src="images/misc/circle-gradient.png"
-                    class="position-absolute top-50 start-50 translate-middle" alt=""> -->
-            </div>
-            <div class="col-lg-6  position-relative">
-                <form>
-                    <div class="form-group">
-                        <div class="ptb-25">
-                            <label class="label1" for="exampleInputEmail1">Title</label>
-                            <input type="text" class="form-control1" id="exampleInputEmail1"
-                                aria-describedby="emailHelp" placeholder="">
-                        </div>
-
-                    </div>
-                    <div class="form-group">
-                        <div class="ptb-25">
-                            <label class="label1" for="exampleInputEmail1">first name</label>
-                            <input type="text" class="form-control1" id="exampleInputEmail1"
-                                aria-describedby="emailHelp" placeholder="">
-                        </div>
-
-                    </div>
-                    <div class="form-group ptb-25">
-                        <label class="label1" for="exampleInputEmail1">last name</label>
-                        <input type="text" class="form-control1" id="exampleInputEmail1" aria-describedby="emailHelp"
-                            placeholder="">
-
-                    </div>
-                    <div class="form-group ptb-25">
-                        <label class="label1" for="exampleInputEmail1">Company Name</label>
-                        <input type="text" class="form-control1" id="exampleInputEmail1" aria-describedby="emailHelp"
-                            placeholder="">
-
-                    </div>
-                    <div class="form-group ptb-25">
-                        <label class="label1" for="exampleInputEmail1">email</label>
-                        <input type="email" class="form-control1" id="exampleInputEmail1" aria-describedby="emailHelp"
-                            placeholder="">
-
-                    </div>
-                    <div class="form-group ptb-25">
-                        <label class="label1" for="exampleInputPassword1">message</label>
-                        <input type="text" class="form-control1" id="exampleInputPassword1" placeholder="">
-                    </div>
-
-                    <button type="button" class="btn btn-primary1 ">submit</button>
-                </form>
-            </div>
-
-        </div>
-    </div>
-</section>
+<?php include 'form.php'; ?>
 
 <?php include 'footer.php'; ?>

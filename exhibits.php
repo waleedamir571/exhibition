@@ -115,7 +115,128 @@
             <div class="row">
                 <div class="col-md-3 text-end">
 
-                    <div class="gallery_product  filter hdpe sprinkle">
+                    <div class="gallery_product  filter  sprinkle">
+                        <button type="" class="" data-bs-toggle="modal" data-bs-target="#exampleModal21">
+                            <img class="w-100" src="images/exhibit/cometfront.jpg" class="img-responsive">
+                        </button>
+
+                        <p class="c-150">Comet – Front Lit
+
+
+
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-3 text-end">
+
+                    <div class="gallery_product  filter  sprinkle">
+                        <button type="" class="" data-bs-toggle="modal" data-bs-target="#exampleModal20">
+                            <img class="w-100" src="images/exhibit/meteor.jpg" class="img-responsive">
+                        </button>
+
+                        <p class="c-150">Meteor – Front Lit
+
+
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-3 text-end">
+
+                    <div class="gallery_product  filter hdpe ">
+                        <button type="" class="" data-bs-toggle="modal" data-bs-target="#exampleModal19">
+                            <img class="w-100" src="images/exhibit/blue.jpg" class="img-responsive">
+                        </button>
+
+                        <p class="c-150">C-105 – 20 x 20
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-3 text-end">
+
+                    <div class="gallery_product  filter hdpe ">
+                        <button type="" class="" data-bs-toggle="modal" data-bs-target="#exampleModal18">
+                            <img class="w-100" src="images/exhibit/c-110.jpg" class="img-responsive">
+                        </button>
+
+                        <p class="c-150">C-110 20 x 20
+
+
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-3 text-end">
+
+                    <div class="gallery_product  filter hdpe ">
+                        <button type="" class="" data-bs-toggle="modal" data-bs-target="#exampleModal17">
+                            <img class="w-100" src="images/exhibit/terrainn.jpg" class="img-responsive">
+                        </button>
+
+                        <p class="c-150">C-155 20 x 20
+
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-3 text-end">
+
+                    <div class="gallery_product  filter  sprinkle">
+                        <button type="" class="" data-bs-toggle="modal" data-bs-target="#exampleModal16">
+                            <img class="w-100" src="images/exhibit/corona.jpg" class="img-responsive">
+                        </button>
+
+                        <p class="c-150">Corona
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-3 text-end">
+
+                    <div class="gallery_product  filter  sprinkle">
+                        <button type="" class="" data-bs-toggle="modal" data-bs-target="#exampleModal15">
+                            <img class="w-100" src="images/exhibit/galaxy.jpg" class="img-responsive">
+                        </button>
+
+                        <p class="c-150">Galaxy
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-3 text-end">
+
+                    <div class="gallery_product  filter  sprinkle">
+                        <button type="" class="" data-bs-toggle="modal" data-bs-target="#exampleModal14">
+                            <img class="w-100" src="images/exhibit/meteor.jpg" class="img-responsive">
+                        </button>
+
+                        <p class="c-150">Meteor – Back Lit
+
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-3 text-end">
+
+                    <div class="gallery_product  filter  sprinkle spray">
+                        <button type="" class="" data-bs-toggle="modal" data-bs-target="#exampleModal13">
+                            <img class="w-100" src="images/exhibit/polaris.jpg" class="img-responsive">
+                        </button>
+
+
+                        <p class="c-150">Polaris
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-3 text-end">
+
+                    <div class="gallery_product  filter hdpe ">
+                        <button type="" class="" data-bs-toggle="modal" data-bs-target="#exampleModal12">
+                            <img class="w-100" src="images/exhibit/c-150.jpg" class="img-responsive">
+                        </button>
+
+
+                        <p class="c-150">C-150 20 x 20
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-3 text-end">
+
+                    <div class="gallery_product  filter  sprinkle spray">
                         <button type="" class="" data-bs-toggle="modal" data-bs-target="#exampleModal10">
                             <img class="w-100" src="images/exhibit/1.png" class="img-responsive">
                         </button>
@@ -125,7 +246,7 @@
                     </div>
                 </div>
                 <div class="col-md-3 text-end">
-                    <div class="gallery_product  filter sprinkle sprinkle">
+                    <div class="gallery_product  filter  hdpe">
                         <button type="" class="" data-bs-toggle="modal" data-bs-target="#exampleModal1">
                             <img class="w-100" src="images/exhibit/imageblue.png" class="img-responsive">
                         </button>
@@ -135,7 +256,7 @@
                     </div>
                 </div>
                 <div class="col-md-3 text-end">
-                    <div class="gallery_product  filter hdpe sprinkle">
+                    <div class="gallery_product  filter  sprinkle">
 
                         <button type="" class="" data-bs-toggle="modal" data-bs-target="#exampleModal2">
                             <img class="w-100" src="images/exhibit/3.png" class="img-responsive">
@@ -157,7 +278,7 @@
                     </div>
                 </div>
                 <div class="col-md-3 text-end">
-                    <div class="gallery_product  filter hdpe">
+                    <div class="gallery_product filter spray ">
 
                         <button type="" class="" data-bs-toggle="modal" data-bs-target="#exampleModal4">
                             <img class="w-100" src="images/exhibit/9.png" class="img-responsive">
@@ -168,7 +289,7 @@
 
 
                 <div class="col-md-3 text-end">
-                    <div class="gallery_product  filter irrigation">
+                    <div class="gallery_product  filter irrigation spray">
                         <button type="" class="" data-bs-toggle="modal" data-bs-target="#exampleModal5">
                             <img class="w-100" src="images/exhibit/6.png" class="img-responsive">
                         </button>
@@ -178,7 +299,7 @@
                 </div>
 
                 <div class="col-md-3 text-end">
-                    <div class="gallery_product  filter spray">
+                    <div class="gallery_product  filter  hdpe ">
                         <button type="" class="" data-bs-toggle="modal" data-bs-target="#exampleModal6">
                             <img class="w-100" src="images/exhibit/7.png" class="img-responsive">
                         </button>
@@ -202,20 +323,20 @@
                             <img class="w-100" src="images/exhibit/red-stone.jpg" class="img-responsive">
                         </button>
 
-                        <p class="c-150">Red Stone</p>
+                        <p class="c-150">C-125 20 X 50</p>
                     </div>
                 </div>
 
 
                 <div class="col-md-3 text-end">
-                    <div class="gallery_product  filter irrigation">
+                    <div class="gallery_product  filter irrigation hdpe">
                         <button type="" class="" data-bs-toggle="modal" data-bs-target="#exampleModal9">
                             <img class="w-100" src="images/exhibit/xnergy.jpg" class="img-responsive">
                         </button>
 
                         <p class="c-150">C-135 20 x 40
 
-</p>
+                        </p>
                     </div>
                 </div>
 
@@ -229,7 +350,7 @@
                     </div>
                 </div> -->
                 <div class="col-md-3 text-end">
-                    <div class="gallery_product  filter spray">
+                    <div class="gallery_product  filter  hdpe ">
                         <button type="" class="" data-bs-toggle="modal" data-bs-target="#exampleModal11">
                             <img class="w-100" src="images/exhibit/energy.jpg" class="img-responsive">
                         </button>
@@ -245,6 +366,1917 @@
     </div>
 
 </section>
+<div class="modal fade" id="exampleModal21" tabindex="-1" aria-labelledby="exampleModalLabel21" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-xl">
+        <div class="modal-content">
+            <div class="modal-header">
+
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+
+                <!-- Tabs Navigation -->
+                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link active" id="tab1-tab" data-bs-toggle="tab" data-bs-target="#tab281"
+                            type="button" role="tab">⭐⭐⭐⭐
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab2-tab" data-bs-toggle="tab" data-bs-target="#tab282"
+                            type="button" role="tab">⭐⭐⭐
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab3-tab" data-bs-toggle="tab" data-bs-target="#tab283"
+                            type="button" role="tab">⭐⭐
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab3-tab" data-bs-toggle="tab" data-bs-target="#tab284"
+                            type="button" role="tab">⭐
+
+                        </button>
+                    </li>
+
+
+                </ul>
+
+                <!-- Tabs Content -->
+                <div class="tab-content mt-3" id="myTabContent">
+                    <!-- Tab 1 Content -->
+                    <div class="tab-pane  show active" id="tab281" role="tabpanel">
+                        <div class="row align-items-center">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/comet1.jpg" class="img-fluid" alt="Image 1">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">
+
+                                    Comet – Front Lit
+
+
+
+                                </p>
+                                <p class="left-front">
+                                    Rental Packages 10x20
+
+
+                                </p>
+                                <p class="head-text1">
+                                    The 20′ Comet Front Lit is the titan of our Rental Packages.
+
+                                    Comet is superb as a stand-alone 10×20 exhibit and is a lodestar to four of our
+                                    FlexMod Exhibits. With additional hardware and graphics, it also converts into two
+                                    10′ Meteors.
+
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 2 Content -->
+                    <div class="tab-pane " id="tab282" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/comet2.jpg" class="img-fluid" alt="Image 2">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">Comet – Front Lit
+
+                                </p>
+                                <p class="left-front">Rental Packages 10x20
+
+                                </p>
+                                <p class="left-front">The 20′ Comet is the titan of our Rental Packages.
+
+                                    Comet is superb as a stand-alone 10×20 exhibit and is a lodestar to four of our
+                                    FlexMod Exhibits. With additional hardware and graphics, it also converts into two
+                                    10′ Meteors.
+                                </p>
+                                <p class="head-text1">
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 3 Content -->
+                    <div class="tab-pane " id="tab283" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/comet3.jpg" class="img-fluid" alt="Image 3">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">Comet – Front Lit
+
+
+                                </p>
+                                <p class="left-front">Rental Packages 10x20
+
+                                </p>
+                                <p class="head-text1">
+
+                                    The 20′ Comet is the titan of our Rental Packages.
+
+                                    Comet is superb as a stand-alone 10×20 exhibit and is a lodestar to four of our
+                                    FlexMod Exhibits. With additional hardware and graphics, it also converts into two
+                                    10′ Meteors.
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 4 Content -->
+                    <div class="tab-pane " id="tab284" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/comet4.jpg" class="img-fluid" alt="Image 3">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">Comet – Front Lit
+                                </p>
+                                <p class="left-front">Rental Packages 10x20
+                                </p>
+                                <p class="head-text1">
+                                    The 20′ Comet is the titan of our Rental Packages.
+
+                                    Comet is superb as a stand-alone 10×20 exhibit and is a lodestar to four of our
+                                    FlexMod Exhibits. With additional hardware and graphics, it also converts into two
+                                    10′ Meteors.
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="exampleModal20" tabindex="-1" aria-labelledby="exampleModalLabel20" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-xl">
+        <div class="modal-content">
+            <div class="modal-header">
+
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+
+                <!-- Tabs Navigation -->
+                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link active" id="tab1-tab" data-bs-toggle="tab" data-bs-target="#tab261"
+                            type="button" role="tab">⭐⭐⭐
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab2-tab" data-bs-toggle="tab" data-bs-target="#tab262"
+                            type="button" role="tab">⭐⭐
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab3-tab" data-bs-toggle="tab" data-bs-target="#tab263"
+                            type="button" role="tab">⭐
+
+                        </button>
+                    </li>
+
+
+                </ul>
+
+                <!-- Tabs Content -->
+                <div class="tab-content mt-3" id="myTabContent">
+                    <!-- Tab 1 Content -->
+                    <div class="tab-pane  show active" id="tab261" role="tabpanel">
+                        <div class="row align-items-center">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/meteor1.jpg" class="img-fluid" alt="Image 1">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">
+
+                                    Meteor – Front Lit
+
+
+                                </p>
+                                <p class="left-front">
+                                    Rental Packages 10x10
+
+                                </p>
+                                <p class="head-text1">
+                                    The 10’ Meteor Front Lit is the supernova of our Rental Packages.
+
+                                    Meteor is superb as a stand-alone 10×10 exhibit and shines at expanding four of our
+                                    FlexMod Exhibits. With additional hardware and graphics, it also converts into a 20’
+                                    Comet.
+
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 2 Content -->
+                    <div class="tab-pane " id="tab262" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/meteor1.jpg" class="img-fluid" alt="Image 2">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">Meteor – Front Lit
+
+                                </p>
+                                <p class="left-front">Rental Packages 10x10
+                                    The 10’ Meteor Front Lit is the supernova of our Rental Packages.
+
+                                    Meteor is superb as a stand-alone 10×10 exhibit and shines at expanding four of our
+                                    FlexMod Exhibits. With additional hardware and graphics, it also converts into a 20’
+                                    Comet.
+                                </p>
+                                <p class="head-text1">
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 3 Content -->
+                    <div class="tab-pane " id="tab263" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/meteor2.jpg" class="img-fluid" alt="Image 3">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">Left Front Detail
+
+                                </p>
+                                <p class="left-front">C-105 – 20 x 20
+
+
+                                </p>
+                                <p class="head-text1">
+
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 4 Content -->
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="exampleModal19" tabindex="-1" aria-labelledby="exampleModalLabel19" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-xl">
+        <div class="modal-content">
+            <div class="modal-header">
+
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+
+                <!-- Tabs Navigation -->
+                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link active" id="tab1-tab" data-bs-toggle="tab" data-bs-target="#tab111"
+                            type="button" role="tab">Front Right
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab2-tab" data-bs-toggle="tab" data-bs-target="#tab112"
+                            type="button" role="tab">Rear Left
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab3-tab" data-bs-toggle="tab" data-bs-target="#tab113"
+                            type="button" role="tab">Right Front Elevated
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab4-tab" data-bs-toggle="tab" data-bs-target="#tab114"
+                            type="button" role="tab">Left Front Detail
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab4-tab" data-bs-toggle="tab" data-bs-target="#tab115"
+                            type="button" role="tab">Right Side
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab4-tab" data-bs-toggle="tab" data-bs-target="#tab116"
+                            type="button" role="tab">Left Rear Elevated
+
+
+                        </button>
+                    </li>
+
+                </ul>
+
+                <!-- Tabs Content -->
+                <div class="tab-content mt-3" id="myTabContent">
+                    <!-- Tab 1 Content -->
+                    <div class="tab-pane  show active" id="tab111" role="tabpanel">
+                        <div class="row align-items-center">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/blue1.jpg" class="img-fluid" alt="Image 1">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">
+
+                                    Front Right
+
+                                </p>
+                                <p class="left-front">
+                                    C-105 – 20 x 20
+                                </p>
+                                <p class="head-text1">
+
+
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 2 Content -->
+                    <div class="tab-pane " id="tab112" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/blue2.jpg" class="img-fluid" alt="Image 2">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">Right Front Elevated
+
+
+                                </p>
+                                <p class="left-front">C-105 – 20 x 20
+
+
+                                </p>
+                                <p class="head-text1">
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 3 Content -->
+                    <div class="tab-pane " id="tab113" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/blue3.jpg" class="img-fluid" alt="Image 3">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">Left Front Detail
+
+                                </p>
+                                <p class="left-front">C-105 – 20 x 20
+
+
+                                </p>
+                                <p class="head-text1">
+
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 4 Content -->
+                    <div class="tab-pane " id="tab114" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/blue4.jpg" class="img-fluid" alt="Image 5">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">C-105 – 20 x 20
+
+                                </p>
+                                <p class="left-front">Right Side
+
+                                </p>
+                                <p class="head-text1">
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 5 Content -->
+                    <div class="tab-pane " id="tab115" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/blue5.jpg" class="img-fluid" alt="Image 5">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">C-105 – 20 x 20
+
+
+                                </p>
+                                <p class="left-front">Left Rear Elevated
+
+                                </p>
+                                <p class="head-text1">
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane " id="tab116" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/blue6.jpg" class="img-fluid" alt="Image 5">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">C-110 20 x 20
+                                </p>
+                                <p class="left-front">Left Front Detail
+
+                                </p>
+                                <p class="head-text1">
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="exampleModal18" tabindex="-1" aria-labelledby="exampleModalLabel18" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-xl">
+        <div class="modal-content">
+            <div class="modal-header">
+
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+
+                <!-- Tabs Navigation -->
+                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link active" id="tab1-tab" data-bs-toggle="tab" data-bs-target="#tab351"
+                            type="button" role="tab">Left Front
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab2-tab" data-bs-toggle="tab" data-bs-target="#tab352"
+                            type="button" role="tab">Right rear
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab3-tab" data-bs-toggle="tab" data-bs-target="#tab353"
+                            type="button" role="tab">Left Front Elevated
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab4-tab" data-bs-toggle="tab" data-bs-target="#tab354"
+                            type="button" role="tab">Right Rear Elevated
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab4-tab" data-bs-toggle="tab" data-bs-target="#tab355"
+                            type="button" role="tab">Meeting Area Detail
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab4-tab" data-bs-toggle="tab" data-bs-target="#tab356"
+                            type="button" role="tab">Left Front Detail
+
+                        </button>
+                    </li>
+
+                </ul>
+
+                <!-- Tabs Content -->
+                <div class="tab-content mt-3" id="myTabContent">
+                    <!-- Tab 1 Content -->
+                    <div class="tab-pane  show active" id="tab351" role="tabpanel">
+                        <div class="row align-items-center">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/m1.jpg" class="img-fluid" alt="Image 1">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">
+
+                                    C-110 20 x 20
+
+
+                                </p>
+                                <p class="left-front">C-155 20 x 20
+
+
+
+
+
+                                </p>
+                                <p class="head-text1">
+
+
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 2 Content -->
+                    <div class="tab-pane " id="tab352" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/m2.jpg" class="img-fluid" alt="Image 2">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">Right rear
+
+                                </p>
+                                <p class="left-front">C-110 20 x 20
+
+                                </p>
+                                <p class="head-text1">
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 3 Content -->
+                    <div class="tab-pane " id="tab353" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/m3.jpg" class="img-fluid" alt="Image 3">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">C-110 20 x 20
+
+                                </p>
+                                <p class="left-front">Left Front Elevated
+
+                                </p>
+                                <p class="head-text1">
+
+
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 4 Content -->
+                    <div class="tab-pane " id="tab354" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/m4.jpg" class="img-fluid" alt="Image 5">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">C-110 20 x 20
+
+
+
+
+                                </p>
+                                <p class="left-front">Right Rear Elevated
+
+
+                                </p>
+                                <p class="head-text1">
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 5 Content -->
+                    <div class="tab-pane " id="tab355" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/m5.jpg" class="img-fluid" alt="Image 5">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">C-110 20 x 20
+
+                                </p>
+                                <p class="left-front">Meeting Area Detail
+
+                                </p>
+                                <p class="head-text1">
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane " id="tab356" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/m6.jpg" class="img-fluid" alt="Image 5">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">C-110 20 x 20
+                                </p>
+                                <p class="left-front">Left Front Detail
+
+                                </p>
+                                <p class="head-text1">
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="exampleModal17" tabindex="-1" aria-labelledby="exampleModalLabel17" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-xl">
+        <div class="modal-content">
+            <div class="modal-header">
+
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+
+                <!-- Tabs Navigation -->
+                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link active" id="tab1-tab" data-bs-toggle="tab" data-bs-target="#tab291"
+                            type="button" role="tab">Left Front
+
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab2-tab" data-bs-toggle="tab" data-bs-target="#tab292"
+                            type="button" role="tab">Front
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab3-tab" data-bs-toggle="tab" data-bs-target="#tab293"
+                            type="button" role="tab">Right Front
+
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab4-tab" data-bs-toggle="tab" data-bs-target="#tab294"
+                            type="button" role="tab">Back
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab4-tab" data-bs-toggle="tab" data-bs-target="#tab295"
+                            type="button" role="tab">Detail
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab4-tab" data-bs-toggle="tab" data-bs-target="#tab296"
+                            type="button" role="tab">Elevated
+
+                        </button>
+                    </li>
+
+                </ul>
+
+                <!-- Tabs Content -->
+                <div class="tab-content mt-3" id="myTabContent">
+                    <!-- Tab 1 Content -->
+                    <div class="tab-pane  show active" id="tab291" role="tabpanel">
+                        <div class="row align-items-center">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/terrainn1.jpg" class="img-fluid" alt="Image 1">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">
+
+                                    Left Front
+
+                                </p>
+                                <p class="left-front">C-155 20 x 20
+
+
+
+
+
+                                </p>
+                                <p class="head-text1">
+                                    C-155 is a custom 20 x 20 exhibit with features including a 20 x 20 hanging sign
+                                    with SEG graphics, conference room with SEG fabric exterior/interior graphics,
+                                    conference table/chairs, circular hanging SEG graphic sign, Back-lit, double-sided
+                                    SEG graphic towers, premium counter with storage and coffee service.
+
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 2 Content -->
+                    <div class="tab-pane " id="tab292" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/terrain2.jpg" class="img-fluid" alt="Image 2">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">Front
+
+
+
+                                </p>
+                                <p class="left-front">C-155 20 x 20
+
+
+
+
+                                </p>
+                                <p class="head-text1">
+
+                                    C-155 is a custom 20 x 20 exhibit with features including a 20 x 20 hanging sign
+                                    with SEG graphics, conference room with SEG fabric exterior/interior graphics,
+                                    conference table/chairs, circular hanging SEG graphic sign, Back-lit, double-sided
+                                    SEG graphic towers, premium counter with storage and coffee service.
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 3 Content -->
+                    <div class="tab-pane " id="tab293" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/terain3.jpg" class="img-fluid" alt="Image 3">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">C-155 20 x 20
+
+
+
+                                </p>
+                                <p class="left-front">Right Front
+
+
+                                </p>
+                                <p class="head-text1">
+
+                                    C-155 is a custom 20 x 20 exhibit with features including a 20 x 20 hanging sign
+                                    with SEG graphics, conference room with SEG fabric exterior/interior graphics,
+                                    conference table/chairs, circular hanging SEG graphic sign, Back-lit, double-sided
+                                    SEG graphic towers, premium counter with storage and coffee service.
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 4 Content -->
+                    <div class="tab-pane " id="tab294" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/terain4.jpg" class="img-fluid" alt="Image 5">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">C-155 20 x 20
+
+
+
+                                </p>
+                                <p class="left-front">Back
+
+                                </p>
+                                <p class="head-text1">
+                                    C-155 is a custom 20 x 20 exhibit with features including a 20 x 20 hanging sign
+                                    with SEG graphics, conference room with SEG fabric exterior/interior graphics,
+                                    conference table/chairs, circular hanging SEG graphic sign, Back-lit, double-sided
+                                    SEG graphic towers, premium counter with storage and coffee service.
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 5 Content -->
+                    <div class="tab-pane " id="tab295" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/terain5.jpg" class="img-fluid" alt="Image 5">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">C-155 20 x 20
+
+
+
+
+
+                                </p>
+                                <p class="left-front">Detail
+                                </p>
+                                <p class="head-text1">
+                                    C-155 is a custom 20 x 20 exhibit with features including a 20 x 20 hanging sign
+                                    with SEG graphics, conference room with SEG fabric exterior/interior graphics,
+                                    conference table/chairs, circular hanging SEG graphic sign, Back-lit, double-sided
+                                    SEG graphic towers, premium counter with storage and coffee service.
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane " id="tab296" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/terain6.jpg" class="img-fluid" alt="Image 5">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">C-155 20 x 20
+
+
+
+                                </p>
+                                <p class="left-front">Elevated
+
+
+
+                                </p>
+                                <p class="head-text1">
+                                    C-155 is a custom 20 x 20 exhibit with features including a 20 x 20 hanging sign
+                                    with SEG graphics, conference room with SEG fabric exterior/interior graphics,
+                                    conference table/chairs, circular hanging SEG graphic sign, Back-lit, double-sided
+                                    SEG graphic towers, premium counter with storage and coffee service.
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="exampleModal16" tabindex="-1" aria-labelledby="exampleModalLabel16" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-xl">
+        <div class="modal-content">
+            <div class="modal-header">
+
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+
+                <!-- Tabs Navigation -->
+                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link active" id="tab1-tab" data-bs-toggle="tab" data-bs-target="#tab301"
+                            type="button" role="tab">20x20 – view A
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab2-tab" data-bs-toggle="tab" data-bs-target="#tab302"
+                            type="button" role="tab">20x20 – view B
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab3-tab" data-bs-toggle="tab" data-bs-target="#tab303"
+                            type="button" role="tab">10x20 – view A
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab4-tab" data-bs-toggle="tab" data-bs-target="#tab304"
+                            type="button" role="tab">10x20 – view B
+
+                        </button>
+                    </li>
+
+                </ul>
+
+                <!-- Tabs Content -->
+                <div class="tab-content mt-3" id="myTabContent">
+                    <!-- Tab 1 Content -->
+                    <div class="tab-pane  show active" id="tab301" role="tabpanel">
+                        <div class="row align-items-center">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/corona1.jpg" class="img-fluid" alt="Image 1">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">
+
+                                    Corona
+                                </p>
+                                <p class="left-front">20x20 – view A
+
+
+
+
+                                </p>
+                                <p class="head-text1">
+                                    The Corona Rental Package is in a solar system all its own because it was designed
+                                    for a very unique situation. Corona is a 10×20 or 20×20 island booth (open on all
+                                    four sides). This unusual design was originally requested by two exhibitors who were
+                                    sharing a 10×20 island booth space. One side of the exhibit was branded for one
+                                    exhibitor, the other side for the other exhibitor. The following year, these same
+                                    exhibitors had a 20 x 20 island booth space. The same exhibit structure with
+                                    branding on each side was used with the addition of more furniture.
+
+                                    Corona is presented in our Rental Package Collection to illuminate our ability to
+                                    provide solutions for unusual situations. Seemingly inescapable black holes can be
+                                    overcome simply by allowing Exhibit Network to explore the cosmos until we find the
+                                    perfect solution for you.
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 2 Content -->
+                    <div class="tab-pane " id="tab302" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/coronab.jpg" class="img-fluid" alt="Image 2">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">Corona
+
+
+
+                                </p>
+                                <p class="left-front">20x20 – view B
+
+
+
+                                </p>
+                                <p class="head-text1">
+
+                                    The Corona Rental Package is in a solar system all its own because it was designed
+                                    for a very unique situation. Corona is a 10×20 or 20×20 island booth (open on all
+                                    four sides). This unusual design was originally requested by two exhibitors who were
+                                    sharing a 10×20 island booth space. One side of the exhibit was branded for one
+                                    exhibitor, the other side for the other exhibitor. The following year, these same
+                                    exhibitors had a 20 x 20 island booth space. The same exhibit structure with
+                                    branding on each side was used with the addition of more furniture.
+
+                                    Corona is presented in our Rental Package Collection to illuminate our ability to
+                                    provide solutions for unusual situations. Seemingly inescapable black holes can be
+                                    overcome simply by allowing Exhibit Network to explore the cosmos until we find the
+                                    perfect solution for you.
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 3 Content -->
+                    <div class="tab-pane " id="tab303" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/coronac.jpg" class="img-fluid" alt="Image 3">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">10x20 – view A
+
+
+
+
+
+                                </p>
+                                <p class="left-front">Corona
+
+
+
+                                </p>
+                                <p class="head-text1">
+
+                                    The Corona Rental Package is in a solar system all its own because it was designed
+                                    for a very unique situation. Corona is a 10×20 or 20×20 island booth (open on all
+                                    four sides). This unusual design was originally requested by two exhibitors who were
+                                    sharing a 10×20 island booth space. One side of the exhibit was branded for one
+                                    exhibitor, the other side for the other exhibitor. The following year, these same
+                                    exhibitors had a 20 x 20 island booth space. The same exhibit structure with
+                                    branding on each side was used with the addition of more furniture.
+
+                                    Corona is presented in our Rental Package Collection to illuminate our ability to
+                                    provide solutions for unusual situations. Seemingly inescapable black holes can be
+                                    overcome simply by allowing Exhibit Network to explore the cosmos until we find the
+                                    perfect solution for you.
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 4 Content -->
+                    <div class="tab-pane " id="tab304" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/coronad.jpg" class="img-fluid" alt="Image 5">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">10x20 – view B
+
+
+                                </p>
+                                <p class="left-front">Corona
+
+                                </p>
+                                <p class="head-text1">
+                                    The Corona Rental Package is in a solar system all its own because it was designed
+                                    for a very unique situation. Corona is a 10×20 or 20×20 island booth (open on all
+                                    four sides). This unusual design was originally requested by two exhibitors who were
+                                    sharing a 10×20 island booth space. One side of the exhibit was branded for one
+                                    exhibitor, the other side for the other exhibitor. The following year, these same
+                                    exhibitors had a 20 x 20 island booth space. The same exhibit structure with
+                                    branding on each side was used with the addition of more furniture.
+
+                                    Corona is presented in our Rental Package Collection to illuminate our ability to
+                                    provide solutions for unusual situations. Seemingly inescapable black holes can be
+                                    overcome simply by allowing Exhibit Network to explore the cosmos until we find the
+                                    perfect solution for you.
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 5 Content -->
+                    <div class="tab-pane " id="tab115" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/e5.jpg" class="img-fluid" alt="Image 5">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">10x20
+
+
+
+
+                                </p>
+                                <p class="left-front">Polaris
+                                </p>
+                                <p class="head-text1">
+                                    The Polaris Collection is strategically designed for brand visibility and utility.
+                                    The 20×20 Polaris is best suited for an island booth (open to aisles on all four
+                                    sides), and features a semi-private meeting area and two video presentation
+                                    opportunities. The closet structure provides ample storage room and additional space
+                                    for messaging. The Polaris Collection contains two Satellite exhibits that function
+                                    independently: one 20’ Comet and one 10’ Meteor (requires 10’ fabric graphic).
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane " id="tab116" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/e6.jpg" class="img-fluid" alt="Image 5">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">10x10
+
+
+                                </p>
+                                <p class="left-front">Polaris
+
+
+
+                                </p>
+                                <p class="head-text1">
+                                    The Polaris Collection is strategically designed for brand visibility and utility.
+                                    The 20×20 Polaris is best suited for an island booth (open to aisles on all four
+                                    sides), and features a semi-private meeting area and two video presentation
+                                    opportunities. The closet structure provides ample storage room and additional space
+                                    for messaging. The Polaris Collection contains two Satellite exhibits that function
+                                    independently: one 20’ Comet and one 10’ Meteor (requires 10’ fabric graphic).
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="exampleModal15" tabindex="-1" aria-labelledby="exampleModalLabel15" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-xl">
+        <div class="modal-content">
+            <div class="modal-header">
+
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+
+                <!-- Tabs Navigation -->
+                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link active" id="tab1-tab" data-bs-toggle="tab" data-bs-target="#tab311"
+                            type="button" role="tab">⭐⭐⭐
+
+
+
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab2-tab" data-bs-toggle="tab" data-bs-target="#tab312"
+                            type="button" role="tab">⭐⭐
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab3-tab" data-bs-toggle="tab" data-bs-target="#tab313"
+                            type="button" role="tab">⭐
+
+                        </button>
+                    </li>
+
+                </ul>
+
+                <!-- Tabs Content -->
+                <div class="tab-content mt-3" id="myTabContent">
+                    <!-- Tab 1 Content -->
+                    <div class="tab-pane  show active" id="tab311" role="tabpanel">
+                        <div class="row align-items-center">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/galaxy1.jpg" class="img-fluid" alt="Image 1">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">
+
+                                    Rental Packages 10x10
+
+                                </p>
+                                <p class="left-front">
+                                    Galaxy
+                                </p>
+                                <p class="head-text1">
+                                    The 10’ Galaxy is the microcosmic star of our Rental Packages. Galaxy features three
+                                    graphic areas (two on the exhibit and one on the counter) and a lockable closet. Add
+                                    an optional monitor for a bigger impact.
+
+                                    Galaxy is intended as a stand-alone 10’ x 10’ display suitable for exhibitors who
+                                    will always be in a 10’ space. Galaxy stands out from traditional 10’ displays due
+                                    to its unique, innovative design and its spacious closet to store samples,
+                                    promotional items, and personal belongings. Think of Galaxy as having the universal
+                                    features of a larger exhibit at a lesser price.
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 2 Content -->
+                    <div class="tab-pane " id="tab312" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/galaxy2.jpg" class="img-fluid" alt="Image 2">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">Rental Packages 10x10
+
+                                </p>
+                                <p class="left-front">Galaxy
+                                </p>
+                                <p class="head-text1">
+
+                                    The 10’ Galaxy is the microcosmic star of our Rental Packages. Galaxy features three
+                                    graphic areas (two on the exhibit and one on the counter) and a lockable closet. Add
+                                    an optional monitor for a bigger impact.
+
+                                    Galaxy is intended as a stand-alone 10’ x 10’ display suitable for exhibitors who
+                                    will always be in a 10’ space. Galaxy stands out from traditional 10’ displays due
+                                    to its unique, innovative design and its spacious closet to store samples,
+                                    promotional items, and personal belongings. Think of Galaxy as having the universal
+                                    features of a larger exhibit at a lesser price.
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 3 Content -->
+                    <div class="tab-pane " id="tab313" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/galaxy3.jpg" class="img-fluid" alt="Image 3">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">Rental Packages 10x10
+
+                                </p>
+                                <p class="left-front">Meteor – Back Lit
+
+                                </p>
+                                <p class="head-text1">
+
+                                    he 10’ Meteor Back Lit is the supernova of our Rental Packages.
+
+                                    Meteor is superb as a stand-alone 10×10 exhibit and shines at expanding four of our
+                                    FlexMod Exhibits. With additional hardware and graphics, it also converts into a 20’
+                                    Comet.
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 4 Content -->
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="exampleModal14" tabindex="-1" aria-labelledby="exampleModalLabel14" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-xl">
+        <div class="modal-content">
+            <div class="modal-header">
+
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+
+                <!-- Tabs Navigation -->
+                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link active" id="tab1-tab" data-bs-toggle="tab" data-bs-target="#tab331"
+                            type="button" role="tab">⭐⭐⭐
+
+
+
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab2-tab" data-bs-toggle="tab" data-bs-target="#tab332"
+                            type="button" role="tab">⭐⭐
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab3-tab" data-bs-toggle="tab" data-bs-target="#tab333"
+                            type="button" role="tab">⭐
+
+                        </button>
+                    </li>
+
+                </ul>
+
+                <!-- Tabs Content -->
+                <div class="tab-content mt-3" id="myTabContent">
+                    <!-- Tab 1 Content -->
+                    <div class="tab-pane  show active" id="tab331" role="tabpanel">
+                        <div class="row align-items-center">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/meteor1.jpg" class="img-fluid" alt="Image 1">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">
+
+                                    Rental Packages 10x10
+
+                                </p>
+                                <p class="left-front">
+                                    Meteor – Back Lit
+                                </p>
+                                <p class="head-text1">
+                                    he 10’ Meteor Back Lit is the supernova of our Rental Packages.
+
+                                    Meteor is superb as a stand-alone 10×10 exhibit and shines at expanding four of our
+                                    FlexMod Exhibits. With additional hardware and graphics, it also converts into a 20’
+                                    Comet.
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 2 Content -->
+                    <div class="tab-pane " id="tab332" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/meteor2.jpg" class="img-fluid" alt="Image 2">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">Meteor – Back Lit
+
+
+
+
+                                </p>
+                                <p class="left-front">Rental Packages 10x10
+
+
+
+                                </p>
+                                <p class="head-text1">
+
+                                    The 10’ Meteor Back Lit is the supernova of our Rental Packages.
+
+                                    Meteor is superb as a stand-alone 10×10 exhibit and shines at expanding four of our
+                                    FlexMod Exhibits. With additional hardware and graphics, it also converts into a 20’
+                                    Comet.
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 3 Content -->
+                    <div class="tab-pane " id="tab333" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/meteor3.jpg" class="img-fluid" alt="Image 3">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">Rental Packages 10x10
+
+                                </p>
+                                <p class="left-front">Meteor – Back Lit
+
+                                </p>
+                                <p class="head-text1">
+
+                                    he 10’ Meteor Back Lit is the supernova of our Rental Packages.
+
+                                    Meteor is superb as a stand-alone 10×10 exhibit and shines at expanding four of our
+                                    FlexMod Exhibits. With additional hardware and graphics, it also converts into a 20’
+                                    Comet.
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 4 Content -->
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="exampleModal13" tabindex="-1" aria-labelledby="exampleModalLabel13" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-xl">
+        <div class="modal-content">
+            <div class="modal-header">
+
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+
+                <!-- Tabs Navigation -->
+                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link active" id="tab1-tab" data-bs-toggle="tab" data-bs-target="#tab341"
+                            type="button" role="tab">20x20 - view A
+
+
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab2-tab" data-bs-toggle="tab" data-bs-target="#tab342"
+                            type="button" role="tab">20x20 - view B
+
+
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab3-tab" data-bs-toggle="tab" data-bs-target="#tab343"
+                            type="button" role="tab">20x20 - view C
+
+
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab4-tab" data-bs-toggle="tab" data-bs-target="#tab344"
+                            type="button" role="tab">20x20 - view D
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab5-tab" data-bs-toggle="tab" data-bs-target="#tab345"
+                            type="button" role="tab">10x20
+
+                        </button>
+                    </li>
+
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab6-tab" data-bs-toggle="tab" data-bs-target="#tab346"
+                            type="button" role="tab">10x10
+
+                        </button>
+                    </li>
+                </ul>
+
+                <!-- Tabs Content -->
+                <div class="tab-content mt-3" id="myTabContent">
+                    <!-- Tab 1 Content -->
+                    <div class="tab-pane  show active" id="tab341" role="tabpanel">
+                        <div class="row align-items-center">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/polaris-a.jpg" class="img-fluid" alt="Image 1">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">
+
+                                    Polaris
+                                </p>
+                                <p class="left-front">20x20 - view A
+
+
+
+                                </p>
+                                <p class="head-text1">
+                                    The Polaris Collection is strategically designed for brand visibility and utility.
+                                    The 20×20 Polaris is best suited for an island booth (open to aisles on all four
+                                    sides), and features a semi-private meeting area and two video presentation
+                                    opportunities. The closet structure provides ample storage room and additional space
+                                    for messaging. The Polaris Collection contains two Satellite exhibits that function
+                                    independently: one 20’ Comet and one 10’ Meteor (requires 10’ fabric graphic).
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 2 Content -->
+                    <div class="tab-pane " id="tab342" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/polarisb.jpg" class="img-fluid" alt="Image 2">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">Polaris
+
+
+
+                                </p>
+                                <p class="left-front">20x20 - view B
+
+
+                                </p>
+                                <p class="head-text1">
+
+                                    The Polaris Collection is strategically designed for brand visibility and utility.
+                                    The 20×20 Polaris is best suited for an island booth (open to aisles on all four
+                                    sides), and features a semi-private meeting area and two video presentation
+                                    opportunities. The closet structure provides ample storage room and additional space
+                                    for messaging. The Polaris Collection contains two Satellite exhibits that function
+                                    independently: one 20’ Comet and one 10’ Meteor (requires 10’ fabric graphic).
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 3 Content -->
+                    <div class="tab-pane " id="tab343" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/polarisc.jpg" class="img-fluid" alt="Image 3">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">20x20 - view C
+
+
+
+
+                                </p>
+                                <p class="left-front">Polaris
+
+
+
+                                </p>
+                                <p class="head-text1">
+
+                                    The Polaris Collection is strategically designed for brand visibility and utility.
+                                    The 20×20 Polaris is best suited for an island booth (open to aisles on all four
+                                    sides), and features a semi-private meeting area and two video presentation
+                                    opportunities. The closet structure provides ample storage room and additional space
+                                    for messaging. The Polaris Collection contains two Satellite exhibits that function
+                                    independently: one 20’ Comet and one 10’ Meteor (requires 10’ fabric graphic).
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 4 Content -->
+                    <div class="tab-pane " id="tab344" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/e4.jpg" class="img-fluid" alt="Image 5">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">20x20 - view D
+
+                                </p>
+                                <p class="left-front">Polaris
+
+                                </p>
+                                <p class="head-text1">
+                                    The Polaris Collection is strategically designed for brand visibility and utility.
+                                    The 20×20 Polaris is best suited for an island booth (open to aisles on all four
+                                    sides), and features a semi-private meeting area and two video presentation
+                                    opportunities. The closet structure provides ample storage room and additional space
+                                    for messaging. The Polaris Collection contains two Satellite exhibits that function
+                                    independently: one 20’ Comet and one 10’ Meteor (requires 10’ fabric graphic).
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 5 Content -->
+                    <div class="tab-pane " id="tab345" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/e5.jpg" class="img-fluid" alt="Image 5">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">10x20
+
+
+
+
+                                </p>
+                                <p class="left-front">Polaris
+                                </p>
+                                <p class="head-text1">
+                                    The Polaris Collection is strategically designed for brand visibility and utility.
+                                    The 20×20 Polaris is best suited for an island booth (open to aisles on all four
+                                    sides), and features a semi-private meeting area and two video presentation
+                                    opportunities. The closet structure provides ample storage room and additional space
+                                    for messaging. The Polaris Collection contains two Satellite exhibits that function
+                                    independently: one 20’ Comet and one 10’ Meteor (requires 10’ fabric graphic).
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane " id="tab346" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/e6.jpg" class="img-fluid" alt="Image 5">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">10x10
+
+
+                                </p>
+                                <p class="left-front">Polaris
+
+
+
+                                </p>
+                                <p class="head-text1">
+                                    The Polaris Collection is strategically designed for brand visibility and utility.
+                                    The 20×20 Polaris is best suited for an island booth (open to aisles on all four
+                                    sides), and features a semi-private meeting area and two video presentation
+                                    opportunities. The closet structure provides ample storage room and additional space
+                                    for messaging. The Polaris Collection contains two Satellite exhibits that function
+                                    independently: one 20’ Comet and one 10’ Meteor (requires 10’ fabric graphic).
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="exampleModal12" tabindex="-1" aria-labelledby="exampleModalLabel12" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-xl">
+        <div class="modal-content">
+            <div class="modal-header">
+
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+
+                <!-- Tabs Navigation -->
+                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link active" id="tab1-tab" data-bs-toggle="tab" data-bs-target="#tab251"
+                            type="button" role="tab">Left Front
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab2-tab" data-bs-toggle="tab" data-bs-target="#tab252"
+                            type="button" role="tab">Front
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab3-tab" data-bs-toggle="tab" data-bs-target="#tab253"
+                            type="button" role="tab">Right Front
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab4-tab" data-bs-toggle="tab" data-bs-target="#tab254"
+                            type="button" role="tab">Left Rear
+
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab5-tab" data-bs-toggle="tab" data-bs-target="#tab255"
+                            type="button" role="tab">Right Rear
+
+                        </button>
+                    </li>
+
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="tab6-tab" data-bs-toggle="tab" data-bs-target="#tab256"
+                            type="button" role="tab">Elevated
+
+                        </button>
+                    </li>
+                </ul>
+
+                <!-- Tabs Content -->
+                <div class="tab-content mt-3" id="myTabContent">
+                    <!-- Tab 1 Content -->
+                    <div class="tab-pane  show active" id="tab251" role="tabpanel">
+                        <div class="row align-items-center">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/c-left-front.jpg" class="img-fluid" alt="Image 1">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">
+
+                                    C-150 20 x 20
+
+                                </p>
+                                <p class="left-front">Left Front
+
+
+
+                                </p>
+                                <p class="head-text1">
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 2 Content -->
+                    <div class="tab-pane " id="tab252" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/c-front.jpg" class="img-fluid" alt="Image 2">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">C-150 20 x 20
+
+                                </p>
+                                <p class="left-front">Front
+                                </p>
+                                <p class="head-text1">
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 3 Content -->
+                    <div class="tab-pane " id="tab253" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/c-right-front.jpg" class="img-fluid" alt="Image 3">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">C-150 20 x 20
+
+                                </p>
+                                <p class="left-front">Right Front
+
+                                </p>
+                                <p class="head-text1">
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 4 Content -->
+                    <div class="tab-pane " id="tab254" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/c-left-rear.jpg" class="img-fluid" alt="Image 5">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">C-150 20 x 20
+
+
+
+
+
+                                </p>
+                                <p class="left-front">Left Rear
+
+
+
+
+
+
+                                </p>
+                                <p class="head-text1">
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 5 Content -->
+                    <div class="tab-pane " id="tab255" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/rightrear.jpg" class="img-fluid" alt="Image 5">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">C-150 20 x 20
+
+
+
+
+                                </p>
+                                <p class="left-front">Right Rear
+
+                                </p>
+                                <p class="head-text1">
+
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane " id="tab256" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="images/exhibit/c-elevated.jpg" class="img-fluid" alt="Image 5">
+                            </div>
+                            <div class="col-md-6">
+                                <p class="c-151">C-150 20 x 20
+
+                                </p>
+                                <p class="left-front">Elevated
+
+                                </p>
+                                <p class="head-text1">
+
+                                </p>
+
+                                <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
 
 <div class="modal fade" id="exampleModal11" tabindex="-1" aria-labelledby="exampleModalLabel11" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-xl">
@@ -2766,89 +4798,6 @@
     </div>
 </div>
 
-<section id="first-section">
-    <div class="container">
-        <!-- <div class="row">
-            <div class="col-lg-8 offset-lg-2 text-center">
-                <h1 class="text-uppercase"><span class="wow fadeInUp">December</span> <span
-                        class="text-gradient wow fadeInUp" data-wow-delay="
-                    .3s">3 - 7</span></h1>
-            </div>
-        </div> -->
-
-        <div class="row align-items-center">
-            <div class="col-md-6 " data-jarallax-element="-60">
-                <p class=" text-uppercase mb-3 head-text">get in touch </p>
-                <div class="position-relative z1000">
-
-                    <div class="row">
-                        <div class="col-md-12 ">
-                            <!-- <p class="wow fadeInRight head-text1" data-wow-delay=".4s">Exhibit Network is taking care of
-                                your booth. Go to Happy Hour…We Got This.</p> -->
-                            <br>
-                            <p class="wow fadeInRight head-text1" data-wow-delay=".4s">Never worry about your trade show
-                                exhibit again. With Exhibit Network, you can be confident all your trade show
-                                experiences will be seamless and stress-free.Trust us…we got this.</p>
-                            <img src="images/contact/c2.png" alt="">
-                        </div>
-
-                    </div>
-
-                    <!-- <button type="button" class="btn btn-primary1 w-100">DOWNLOAD NOW</button> -->
-
-                    <br>
-
-                </div>
-                <!-- <img src="images/misc/circle-gradient.png"
-                    class="position-absolute top-50 start-50 translate-middle" alt=""> -->
-            </div>
-            <div class="col-lg-6  position-relative">
-                <form>
-                    <div class="form-group">
-                        <div class="ptb-25">
-                            <label class="label1" for="exampleInputEmail1">Title</label>
-                            <input type="text" class="form-control1" id="exampleInputEmail1"
-                                aria-describedby="emailHelp" placeholder="">
-                        </div>
-
-                    </div>
-                    <div class="form-group">
-                        <div class="ptb-25">
-                            <label class="label1" for="exampleInputEmail1">first name</label>
-                            <input type="text" class="form-control1" id="exampleInputEmail1"
-                                aria-describedby="emailHelp" placeholder="">
-                        </div>
-
-                    </div>
-                    <div class="form-group ptb-25">
-                        <label class="label1" for="exampleInputEmail1">last name</label>
-                        <input type="text" class="form-control1" id="exampleInputEmail1" aria-describedby="emailHelp"
-                            placeholder="">
-
-                    </div>
-                    <div class="form-group ptb-25">
-                        <label class="label1" for="exampleInputEmail1">Company Name</label>
-                        <input type="text" class="form-control1" id="exampleInputEmail1" aria-describedby="emailHelp"
-                            placeholder="">
-
-                    </div>
-                    <div class="form-group ptb-25">
-                        <label class="label1" for="exampleInputEmail1">email</label>
-                        <input type="email" class="form-control1" id="exampleInputEmail1" aria-describedby="emailHelp"
-                            placeholder="">
-
-                    </div>
-                    <div class="form-group ptb-25">
-                        <label class="label1" for="exampleInputPassword1">message</label>
-                        <input type="text" class="form-control1" id="exampleInputPassword1" placeholder="">
-                    </div>
-
-                    <button type="button" class="btn btn-primary1 ">submit</button>
-                </form>
-            </div>
-
-        </div>
-    </div>
-</section>
+<?php include 'form.php'; ?>
 
 <?php include 'footer.php'; ?>

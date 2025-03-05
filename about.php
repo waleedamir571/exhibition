@@ -273,7 +273,7 @@
                                         <li><img src="images/about/fb.png" alt=""></li>
                                     </ul> -->
                                     <div class="text-center">
-                                        <a href="https://www.linkedin.com/in/jonarnstein/"><button type="button"
+                                        <a target="_blank" href="https://www.linkedin.com/in/jonarnstein/"><button type="button"
                                                 class="btn btn-primary3">VIEW LINKEDIN</button></a>
                                     </div>
                                     <br>
@@ -302,7 +302,7 @@
 
                                         <p class="name text-center">Lenny Maartens
                                         </p>
-                                        <p class="card-title knowledge">CEO</p>
+                                        <p class="card-title knowledge">ADVISOR</p>
 
                                         <!-- <ul class="text-center">
 
@@ -311,7 +311,7 @@
                                             <li><img src="images/about/fb.png" alt=""></li>
                                         </ul> -->
                                         <div class="text-center">
-                                            <a href="https://www.linkedin.com/in/lenny-maartens-b6a38037/">
+                                            <a target="_blank" href="https://www.linkedin.com/in/lenny-maartens-b6a38037/">
                                                 <button type="button" class="btn btn-primary3">VIEW LINKEDIN</button>
                                             </a>
                                         </div>
@@ -338,7 +338,7 @@
 
                                         <p class="name text-center">Alex Danielides
                                         </p>
-                                        <p class="card-title knowledge">Advisor</p>
+                                        <p class="card-title knowledge">CEO</p>
 
                                         <!-- <ul class="text-center">
 
@@ -347,7 +347,7 @@
                                             <li><img src="images/about/fb.png" alt=""></li>
                                         </ul> -->
                                         <div class="text-center">
-                                            <a href="https://www.linkedin.com/in/alexander-danielides-97284715/"> <button
+                                            <a target="_blank" href="https://www.linkedin.com/in/alexander-danielides-97284715/"> <button
                                                     type="button" class="btn btn-primary3">VIEW LINKEDIN</button> </a>
                                         </div>
                                         <br>
@@ -381,7 +381,7 @@
                                             <li><img src="images/about/fb.png" alt=""></li>
                                         </ul> -->
                                         <div class="text-center">
-                                            <a href="https://www.linkedin.com/in/nicole-papakostas-8287a114b/"> <button
+                                            <a target="_blank" href="https://www.linkedin.com/in/nicole-papakostas-8287a114b/"> <button
                                                     type="button" class="btn btn-primary3">VIEW LINKEDIN</button> </a>
                                         </div>
                                         <br>
@@ -415,7 +415,7 @@
                                             <li><img src="images/about/insta.png" alt=""></li>
                                             <li><img src="images/about/fb.png" alt=""></li>
                                         </ul> -->
-                                        <div class="text-center">
+                                        <div class="text-center" style="display: none;">
                                             <button type="button" class="btn btn-primary3">VIEW LINKEDIN</button>
                                         </div>
                                         <br>
@@ -449,7 +449,7 @@
                                             <li><img src="images/about/insta.png" alt=""></li>
                                             <li><img src="images/about/fb.png" alt=""></li>
                                         </ul> -->
-                                        <div class="text-center">
+                                        <div class="text-center" style="display: none;">
                                             <button type="button" class="btn btn-primary3">VIEW LINKEDIN</button>
                                         </div>
                                         <br>
@@ -483,7 +483,7 @@
                                             <li><img src="images/about/insta.png" alt=""></li>
                                             <li><img src="images/about/fb.png" alt=""></li>
                                         </ul> -->
-                                        <div class="text-center">
+                                        <div class="text-center" style="display: none;">
                                             <button type="button" class="btn btn-primary3">VIEW LINKEDIN</button>
                                         </div>
                                         <br>
@@ -671,90 +671,7 @@
 
 </section>
 
-<section id="first-section">
-    <div class="container">
-        <!-- <div class="row">
-            <div class="col-lg-8 offset-lg-2 text-center">
-                <h1 class="text-uppercase"><span class="wow fadeInUp">December</span> <span
-                        class="text-gradient wow fadeInUp" data-wow-delay="
-                    .3s">3 - 7</span></h1>
-            </div>
-        </div> -->
-
-        <div class="row align-items-center">
-            <div class="col-md-6 " data-jarallax-element="-60">
-                <p class=" text-uppercase mb-3 head-text">get in touch </p>
-                <div class="position-relative z1000">
-
-                    <div class="row">
-                        <div class="col-md-12 ">
-                            <!-- <p class="wow fadeInRight head-text1" data-wow-delay=".4s">Exhibit Network is taking care of
-                                your booth. Go to Happy Hour…We Got This.</p> -->
-                            <br>
-                            <p class="wow fadeInRight head-text1" data-wow-delay=".4s">Never worry about your trade show
-                                exhibit again. With Exhibit Network, you can be confident all your trade show
-                                experiences will be seamless and stress-free.Trust us…we got this.</p>
-                            <img src="images/contact/c2.png" alt="">
-                        </div>
-
-                    </div>
-
-                    <!-- <button type="button" class="btn btn-primary1 w-100">DOWNLOAD NOW</button> -->
-
-                    <br>
-
-                </div>
-                <!-- <img src="images/misc/circle-gradient.png"
-                    class="position-absolute top-50 start-50 translate-middle" alt=""> -->
-            </div>
-            <div class="col-lg-6  position-relative">
-                <form>
-                    <div class="form-group">
-                        <div class="ptb-25">
-                            <label class="label1" for="exampleInputEmail1">Title</label>
-                            <input type="text" class="form-control1" id="exampleInputEmail1"
-                                aria-describedby="emailHelp" placeholder="">
-                        </div>
-
-                    </div>
-                    <div class="form-group">
-                        <div class="ptb-25">
-                            <label class="label1" for="exampleInputEmail1">first name</label>
-                            <input type="text" class="form-control1" id="exampleInputEmail1"
-                                aria-describedby="emailHelp" placeholder="">
-                        </div>
-
-                    </div>
-                    <div class="form-group ptb-25">
-                        <label class="label1" for="exampleInputEmail1">last name</label>
-                        <input type="text" class="form-control1" id="exampleInputEmail1" aria-describedby="emailHelp"
-                            placeholder="">
-
-                    </div>
-                    <div class="form-group ptb-25">
-                        <label class="label1" for="exampleInputEmail1">Company Name</label>
-                        <input type="text" class="form-control1" id="exampleInputEmail1" aria-describedby="emailHelp"
-                            placeholder="">
-
-                    </div>
-                    <div class="form-group ptb-25">
-                        <label class="label1" for="exampleInputEmail1">email</label>
-                        <input type="email" class="form-control1" id="exampleInputEmail1" aria-describedby="emailHelp"
-                            placeholder="">
-
-                    </div>
-                    <div class="form-group ptb-25">
-                        <label class="label1" for="exampleInputPassword1">message</label>
-                        <input type="text" class="form-control1" id="exampleInputPassword1" placeholder="">
-                    </div>
-
-                    <button type="button" class="btn btn-primary1 ">submit</button>
-                </form>
-            </div>
-
-        </div>
-    </div>
-</section>
+<?php include 'form.php'; ?>
 
 <div class="modal fade" id="exampleModal8" tabindex="-1" aria-labelledby="exampleModalLabel8" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-xl">
@@ -779,7 +696,10 @@
 
                         <p class="left-front">“Always workin’ in silence, let my success make the noise.”
                         </p>
-                        <p class="c-151">Russ Vitale</p>
+                        <p class="left-front">Russ Vitale
+                        </p>
+                        <p class="c-151">Wes Galicia
+                        </p>
                         <p class="head-text1">Wes Galicia was born in Monterrey, Mexico, but raised in Houston, so we
                             consider him a true Texan! Wes is indispensable in our warehouse. From storing crates
                             strategically in the warehouse to documenting their locations in a user-friendly computer
@@ -838,7 +758,10 @@
 
                         <p class="left-front">“Failure is not an option.”
                         </p>
-                        <p class="c-151">Gene Kranz</p>
+                        <p class="left-front">Gene Kranz
+                        </p>
+                        <p class="c-151">George Wenk
+                        </p>
                         <p class="head-text1">George is a native Houstonian who has been with Exhibit Network since
                             2021. He has a 20-year background in the trade show industry and is multi-talented. He
                             fabricates, warehouses, delivers, installs, and dismantles exhibits and performs small
@@ -893,7 +816,10 @@
 
                         <p class="left-front">“Love your neighbor as yourself”
                         </p>
-                        <p class="c-151">Matthew 22:39</p>
+                        <p class="left-front">Matthew 22:39
+                        </p>
+                        <p class="c-151">Alex Regusci
+                        </p>
                         <p class="head-text1">Alex was born in Uruguay, but we’re fortunate he landed his talents at
                             Exhibit Network. Alex is a talented architectural cabinetmaker who has also been in the
                             trade show industry for almost 10 years. We appreciate him because he maintains and thrives
@@ -948,7 +874,9 @@
 
                         <p class="left-front">“Every day is a fashion show and the world is your runway.”
                         </p>
-                        <p class="c-151">Coco Chanel</p>
+                        <p class="left-front"> Coco Chanel</p>
+                        <p class="c-151">Nicole Papakostas
+                        </p>
                         <p class="head-text1">Nicole Papakostas, one of our project managers, was born in New York City
                             and is half-Greek and half-Colombian. She comes from a very exotic combination of cultures.
                             She loves both cultures and spending time with her family in both countries. Nicole had the
@@ -1071,7 +999,10 @@
 
                         <p class="left-front">“If you don’t ask, you don’t get.”
                         </p>
-                        <p class="c-151">– Henry Ford</p>
+                        <p class="left-front">“Henry Ford
+                        </p>
+                        <p class="c-151">–Alex Danielides
+                        </p>
                         <p class="head-text1">As the former Director of Business Development at Iapetus Holdings LLC,
                             drove revenue growth, led product expansion and fostered channel partnerships across the
                             family of businesses. With diverse roles, including President of Atlas Commodities,
@@ -1207,6 +1138,8 @@
 
                         <p class="left-front">“Life moves pretty fast. If you don’t stop and look around once in
                             a while, you could miss it.”
+                        </p>
+                        <p class="left-front">– Ferris Bueller
                         </p>
                         <p class="c-151">Jon Arnstein </p>
                         <p class="head-text1">Jon led company strategy and operations as the Director of Global

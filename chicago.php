@@ -1,5 +1,17 @@
 <?php include 'header.php'; ?>
 
+<style>
+    .about-us1::before {
+
+        content: '🔹';
+        position: absolute;
+        left: -12px;
+        /* top: 0%; */
+        /* transform: translateY(-50%); */
+
+    }
+</style>
+
 
 <section id="de-carousel section-schedule" class="no-top no-bottom carousel slide carousel-fade "
     data-mdb-ride="carousel">
@@ -50,7 +62,7 @@
 
     <div class="container">
 
-        <div class="row align-items-center">
+        <div class="row ">
 
             <div class="col-md-6 position-relative" data-jarallax-element="-60">
 
@@ -58,8 +70,17 @@
 
                     <div class="row">
 
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s">
+                            Known as the “Windy City,” Chicago is more
+                            than tall skyscrapers, Wrigley Field, deep-dish
+                            pizza, and the Chicago bean.
+
+
+                        </p>
+
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s">Chicago is also home to
-                         <a href="https://www.mccormickplace.com/">   <span class="about-us1"> McCormick Place Convention Center</span> </a>. With 2.6 million square
+                           <br> <a target="_blank" href="https://www.mccormickplace.com/"> <span class="about-us1">
+                                    McCormick Place Convention Center</span> </a>. With 2.6 million square
                             feet of exhibit halls and 600,000
                             square feet of meeting space, it’s billed as the largest and most versatile convention
                             center on the continent.
@@ -73,7 +94,7 @@
 
 
                         </p>
-                       
+
 
                         <br>
 
@@ -86,7 +107,7 @@
                     class="position-absolute top-50 start-50 translate-middle" alt=""> -->
             </div>
 
-            <div class="col-md-6 position-relative">
+            <div class="col-md-5 offset-md-1 position-relative">
 
                 <div class="row">
 
@@ -96,19 +117,26 @@
 
                     <br>
 
-                   
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a href="https://www.chicagoautoshow.com/default.html"> <span class="about-us1">🔹
-                        Chicago Auto Show</span> </a>the nation’s largest auto show
+
+                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank"
+                            href="https://www.chicagoautoshow.com/default.html"> <span class="about-us1">
+                                Chicago Auto Show</span> </a>the nation’s largest auto show
                     </p>
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a href="https://www.theinspiredhomeshow.com/"> <span class="about-us1">🔹
-                        The Inspired Home Show</span> </a>, formerly the International Home and Housewares
+                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank"
+                            href="https://www.theinspiredhomeshow.com/"> <span class="about-us1">
+                                The Inspired Home Show</span> </a>, formerly the International Home and Housewares
                     </p>
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a href="https://www.nationalrestaurantshow.com/Home/"> <span class="about-us1">🔹
-                        National Restaurant Association Annual Show</span> </a>, the world’s most influential and inspirational showcase of food service innovation
+                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank"
+                            href="https://www.nationalrestaurantshow.com/Home/"> <span class="about-us1">
+                                National Restaurant Association Annual Show</span> </a>, the world’s most influential
+                        and inspirational showcase of food service innovation
                     </p>
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a href="https://www.imts.com/"> <span class="about-us1"> 🔹 International Manufacturing Technology
-                        Show </span> </a>
-                        (IMTS), the largest trade show in the Western Hemisphere, draws the innovators, sellers, and drivers of manufacturing technology.
+                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank"
+                            href="https://www.imts.com/"> <span class="about-us1"> International Manufacturing
+                                Technology
+                                Show </span> </a>
+                        (IMTS), the largest trade show in the Western Hemisphere, draws the innovators, sellers, and
+                        drivers of manufacturing technology.
                     </p>
 
                     <br>

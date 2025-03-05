@@ -40,9 +40,9 @@
             <div class="image-box">
                 <img src="images/what-we-do/3.png" alt="Interactive Elements">
                 <div class="overlay">
-                    <p class="graphic">Interactive elements </p class="graphic">
+                    <p class="graphic">Interactive elements</p class="graphic">
                     <p class="g-text">Touchscreens, LED walls, AV elements, and more. Capture attention, facilitate
-                        real-time demonstrations, provide personalized content, and encourage deeper interactions with
+                        real-time demonstrations, providepersonalized content, and encourage deeper interactions with
                         your brand.</p>
                 </div>
             </div>
@@ -52,8 +52,8 @@
                 <div class="overlay">
                     <p class="graphic">Rental furniture</p class="graphic">
                     <p class="g-text">Ask us for our rental catalog. Our comprehensive catalog provides a wide selection
-                        of furniture options tailored  to your needs. Accommodate visitors in a professional environment
-                        with ease and convenience without the  hassle of purchasing, storing, or transporting items.</p>
+                        of furniture options tailored to your needs. Accommodate visitors in a professional environment
+                        with ease and convenience without the hassle of purchasing, storing, or transporting items.</p>
                 </div>
             </div>
             <!-- Image 5 -->
@@ -82,9 +82,9 @@
             <div class="image-box">
                 <img src="images/what-we-do/7.png" alt="Carpet and Flooring">
                 <div class="overlay">
-                    <p class="graphic">Signage, lighting, and electrical </p class="graphic">
+                    <p class="graphic">Signage, lighting, and electrical</p class="graphic">
                     <p class="g-text">Visually impactful and functional. Expertly designed signage draws attention and
-                        reinforces your brand  message. Well-planned lighting enhances product displays and creates the
+                        reinforces your brand message. Well-planned lighting enhances product displays and creates the
                         desired ambiance.</p>
                 </div>
             </div>
@@ -94,8 +94,8 @@
                 <div class="overlay">
                     <p class="graphic">Carpet, pad, and flooring</p class="graphic">
                     <p class="g-text">A comfortable surface for attendees is a must. Select high-quality, padded
-                        carpeting to reduce fatigue during  long hours on your feet. Or choose from various flooring
-                        options to enhance your booth’s aesthetic and  complement your brand image.</p>
+                        carpeting to reduce fatigue during long hours on your feet. Or choose from various flooring
+                        options to enhance your booth’s aesthetic and complement your brand image.</p>
                 </div>
             </div>
         </div>
@@ -155,22 +155,25 @@
 
     /* Overlay Text */
     .image-box .overlay {
-        position: absolute;
-        bottom: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        background: rgba(0, 0, 0, 0.8);
-        color: white;
-        display: flex;
-        flex-direction: column;
-        justify-content: end;
-        align-items: center;
-        opacity: 0;
-        transition: opacity 0.3s ease-in-out;
-        padding: 20px;
-        /* text-align: center; */
-    }
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    display: flex
+;
+    flex-direction: column;
+    opacity: 0;
+    transition: opacity 0.3sease-in-out;
+    padding: 20px;
+    text-align: justify !important;
+    flex-wrap: nowrap;
+    align-content: flex-end;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
 
     .image-box {
         position: relative;

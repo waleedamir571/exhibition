@@ -67,7 +67,7 @@
 
         <div class="row ">
 
-            <div class="col-md-5 " data-jarallax-element="-60">
+            <div class="col-md-5 " >
 
                 <div class=" z1000">
 

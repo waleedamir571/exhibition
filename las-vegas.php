@@ -61,7 +61,7 @@
 
         <div class="row ">
 
-            <div class="col-md-6 position-relative" data-jarallax-element="-60">
+            <div class="col-md-6 position-relative" >
 
                 <div class="position-relative z1000">
 

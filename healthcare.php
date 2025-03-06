@@ -1,51 +1,19 @@
 <?php include 'header.php'; ?>
 
-
-<section id="de-carousel section-schedule" class="no-top no-bottom carousel slide carousel-fade "
-    data-mdb-ride="carousel">
-    <!-- Indicators -->
+<style>
 
 
-    <!-- Inner -->
-    <div class="">
-        <div class=" position-relative">
-            <!-- Single item -->
-            <div class=" jarallax">
-                <img src="images/slider/1.jpg" class="jarallax-img" alt="">
-                <div class="mask">
-                    <div class="h-100 v-center1">
-                        <div class="container">
-                            <div class="row gx-5 align-items-center">
-                                <div class="col-md-6 mb-sm-30 ">
-
-                                    <p class=" text-uppercase mb-3 head-text"> <span class="wow fadeInRight"
-                                            data-wow-delay=".2s">Healthcare</span></p>
-                                    <p class="wow fadeInUp head-text1 animated" data-wow-delay=".3s">Never worry about
-                                        your trade show exhibit again. With Exhibit Network, you can be confident all
-                                        your trade show experiences will be seamless and stress-free.Trust us…we got
-                                        this.</p>
-                                    <div class="spacer-10"></div>
-                                    <?php include 'scroll-down.php'; ?>
-                                </div>
-                                <div class="col-md-6 mb-sm-30 text-center">
-
-                                    <img src="images/technology/health.png" alt="">
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Single item -->
-        </div>
-    </div>
-    <!-- Inner -->
-</section>
-
-
-
-
+    .about-us1::before {
+        
+        content: '🔹';
+        position: absolute;
+        left: -12px;
+        /* top: 0%; */
+        /* transform: translateY(-50%); */
+    
+    }
+    
+    </style>
 
 <section id="first-section" class="jarallax no-bottom">
 
@@ -57,8 +25,11 @@
                     <img src="images/home/Line.png" alt="">
                 </p>
                 <br>
-                <p class="head-text1">The healthcare industry thrives on advancements in medical technology,
-                    pharmaceuticals, and patient care solutions.
+                <p class="head-text1">Healthcare, medical, and pharma trade shows often center around key specialties
+                    such as anesthesiology, radiology, infectious diseases, family medicine, emergency physicians,
+                    neurology, vaccines, pharmaceuticals, andoptometry. Today’s medical trade shows showcase
+                    groundbreaking advances in precision medicine, AI and machine learning, stem cell research, health
+                    monitoring, gene therapy, precision medicine, immunotherapy, telehealth, and more.
                 </p>
                 <div class="spacer-single"></div>
             </div>
@@ -74,13 +45,19 @@
                 <div class="col-md-12">
                     <img class="w-100" src="images/technology/health2.png" alt="">
                 </div>
+                <div class="pt-50">
+                <p class="head-text1 text-center">Exhibit Network is exceptionally well versed in designing highly visible, branded exhibits with a
+                    clean medical aesthetic that enable you to demo products, hold informational workshops, provide
+                    hands-on training, and offer touchscreen tutorials for your critical healthcare products and
+                    services.</p>
+                </div>
             </div>
 
         </div>
 
-        <div class="row align-items-center">
+        <div class="row ">
 
-            <div class="col-md-6 position-relative" data-jarallax-element="-60">
+            <div class="col-md-6 position-relative" d>
 
                 <div class="position-relative z1000">
 
@@ -91,18 +68,29 @@
                             <h2 class="text-uppercase wow fadeInRight relax3 montserrat animated animated"
                                 data-wow-delay=".3s">
 
-                                Top <span style="color: #514CA0;">Healthcare</span>
-                                Trade Shows:
+                                MAJOR <span style="color: #514CA0;">Healthcare</span>
+                                TRADESHOWS:
                             </h2>
                         </div>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us">
-                                🔹 MedTech Expo</span> – Showcasing the latest in medical devices and digital health</p>
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
+                                href="https://www.mdmwest.com/en/home.html"> <span class="about-us1">
+                                    MD&M </a></span>West and <a href="https://www.mdmwest.com/en/home.html"> <span
+                                    class="about-us1">
+                                    MD&M</span></a> East (Medical Design & Manufacturing), North America’s largest
+                            MedTech
+                            conferences.</p>
                         <br>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us">🔹
-                            Arab Health</span> – A major event bringing together global healthcare providers.</p>
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
+                                href="https://www.interphex.com/#/"> <span class="about-us1">
+                                    INTERPHEX</span></a> the leading global pharmaceutical and biotechnology event.
+                        </p>
                         <br>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us">🔹
-                            HIMSS Global Health Conference</span> –  Focused on healthcare IT and digital transformation.
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
+                                href="https://www.ashrm.org/annual-conference"> <span class="about-us1">
+                                    ASHRM Annual Conference</span></a> (American Society of Healthcare and Risk
+                            Management), the
+                            largest gathering in the nation for healthcare risk management professionals.
+
                         </p>
                         <br>
 
@@ -115,7 +103,7 @@
                     class="position-absolute top-50 start-50 translate-middle" alt=""> -->
             </div>
 
-            <div class="col-md-6 position-relative">
+            <div class="col-md-5 offset-md-1 position-relative">
 
 
 
@@ -129,11 +117,14 @@
 
                         </h2>
                     </div>
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> ✅ Present groundbreaking medical technologies and innovations.</p>
+                    <p class="wow fadeInRight head-text1 animated about-us1" data-wow-delay=".4s"> Showcase your life-changing
+                        innovations for patients, physicians, and care providers.</p>
                     <br>
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s">✅ Engage with hospitals, healthcare professionals, and investors.</p>
+                    <p class="wow fadeInRight head-text1 animated about-us1" data-wow-delay=".4s">Connect with customers from
+                        around the globe to demonstrate and educate.</p>
                     <br>
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> ✅ Learn about regulatory updates and industry trends.
+                    <p class="wow fadeInRight head-text1 animated about-us1" data-wow-delay=".4s"> Gain critical acclaim and media
+                        coverage that extends beyond the show.
                     </p>
                     <br>
 

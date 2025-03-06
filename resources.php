@@ -94,9 +94,11 @@
         <div class="row align-items-center">
             <div class="col-lg-6  position-relative">
                 <div class="images-deco-1">
-                    <img src="images/resource/ssection.png" class="d-img-1" alt="">
-                    <!-- <img src="images/misc/dotted.png" class="d-img-2" alt="" data-jarallax-element="40"> -->
-                    <div class="d-img-3 bg-color"></div>
+                    <a
+                        href="https://hoisolution.com/exhibit/blogs/the-importance-of-strong-crating-for-trade-show-exhibits/">
+                        <img src="images/resource/ssection.png" class="d-img-1" alt=""> </a>
+                        <!-- <img src="images/misc/dotted.png" class="d-img-2" alt="" data-jarallax-element="40"> -->
+                        <div class="d-img-3 bg-color"></div>
                 </div>
             </div>
             <div class="col-md-6  position-relative" data-jarallax-element="-60">
@@ -128,7 +130,9 @@
 
                         </p>
 
-                       <a href="https://hoisolution.com/exhibit/blogs/forklift-safety-for-trade-show-exhibitors/"> <p class="read">Read More</p> </a>
+                        <a href="https://hoisolution.com/exhibit/blogs/forklift-safety-for-trade-show-exhibitors/">
+                            <p class="read">Read More</p>
+                        </a>
                     </div>
                 </div>
                 <div class="row">
@@ -142,11 +146,14 @@
 
                         </p>
 
-                      <a href="https://hoisolution.com/exhibit/blogs/graphic-design-tips-for-trade-show-exhibitors/">  <p class="read">Read More</p> </a>
+                        <a href="https://hoisolution.com/exhibit/blogs/graphic-design-tips-for-trade-show-exhibitors/">
+                            <p class="read">Read More</p>
+                        </a>
                     </div>
                 </div>
 
-               <a href="https://hoisolution.com/exhibit/blogs/"> <button type="button" class="btn btn-primary1 w-100">CHECK OUT OUR ALL BLOGS</button> </a>
+                <a href="https://hoisolution.com/exhibit/blogs/"> <button type="button"
+                        class="btn btn-primary1 w-100">CHECK OUT OUR ALL BLOGS</button> </a>
 
             </div>
 
@@ -177,8 +184,11 @@
                         <p class="guide2 ">Our Project Managers are lean thinkers to ensure your success
 
                         </p>
-                       <a href="https://hoisolution.com/exhibit/blogs/the-importance-of-lean-six-sigma-for-trade-show-project-managers/"> <p class="read">Read More</p> </a>
-                    </div> 
+                        <a
+                            href="https://hoisolution.com/exhibit/blogs/the-importance-of-lean-six-sigma-for-trade-show-project-managers/">
+                            <p class="read">Read More</p>
+                        </a>
+                    </div>
                 </div>
                 <br>
                 <div class="row">
@@ -189,7 +199,9 @@
                         <p class="exhibit1">Blog</p>
                         <h3>A First Trade Show Cautionary Tale</h3>
                         <p class="guide2 ">Trade show success relies on a competent team</p>
-                       <a href="https://hoisolution.com/exhibit/blogs/a-first-trade-show-cautionary-tale/"> <p class="read">Read More</p> </a>
+                        <a href="https://hoisolution.com/exhibit/blogs/a-first-trade-show-cautionary-tale/">
+                            <p class="read">Read More</p>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -203,7 +215,10 @@
                         <p class="exhibit1">blogs</p>
                         <h3>A Seamless, Stress-free, Delightful Trade Show Experience</h3>
                         <p class="guide2 ">Discover why the customer experience matters at Exhibit Network</p>
-                       <a href="https://hoisolution.com/exhibit/blogs/a-seamless-stress-free-delightful-trade-show-experience/"> <p class="read">Read More</p> </a>
+                        <a
+                            href="https://hoisolution.com/exhibit/blogs/a-seamless-stress-free-delightful-trade-show-experience/">
+                            <p class="read">Read More</p>
+                        </a>
                     </div>
                 </div>
                 <br>
@@ -217,7 +232,9 @@
                         <p class="guide2 ">Choosing the right exhibit house to meet your needs is important
 
                         </p>
-                       <a href="https://hoisolution.com/exhibit/blogs/choosing-the-right-trade-show-partner/"> <p class="read">Read More</p> </a>
+                        <a href="https://hoisolution.com/exhibit/blogs/choosing-the-right-trade-show-partner/">
+                            <p class="read">Read More</p>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -251,7 +268,9 @@
             <div class="col-md-4">
                 <div class="card card1">
                     <div class="img-center1">
-                        <img class="w-100" src="https://hoisolution.com/exhibit/wp-content/uploads/2025/02/blog_01_warehouse.jpg" alt="Card image cap">
+                        <img class="w-100"
+                            src="https://hoisolution.com/exhibit/wp-content/uploads/2025/02/blog_01_warehouse.jpg"
+                            alt="Card image cap">
                     </div>
                     <div class="card-body">
                         <p class="exhibit1">blogs</p>
@@ -262,7 +281,8 @@
                         </p>
 
                         <div class="btn-pos">
-                            <a href="https://hoisolution.com/exhibit/blogs/the-importance-of-your-trade-show-warehouse/" target="_blank" class="btn-line">VIEW MORE</a>
+                            <a href="https://hoisolution.com/exhibit/blogs/the-importance-of-your-trade-show-warehouse/"
+                                target="_blank" class="btn-line">VIEW MORE</a>
                         </div>
 
                     </div>
@@ -276,12 +296,14 @@
                     <div class="card-body">
                         <p class="exhibit1">blogs</p>
                         <h3>Trade Show Booth <br> Etiquette</h3>
-                        <p class="guide2 ">We always recommend “being in the 
+                        <p class="guide2 ">We always recommend “being in the
 
-                            <br> moment”</p>
+                            <br> moment”
+                        </p>
 
                         <div class="btn-pos">
-                            <a href="https://hoisolution.com/exhibit/blogs/trade-show-booth-etiquette/" target="_blank" class="btn-line">VIEW MORE</a>
+                            <a href="https://hoisolution.com/exhibit/blogs/trade-show-booth-etiquette/" target="_blank"
+                                class="btn-line">VIEW MORE</a>
                         </div>
 
                     </div>
@@ -297,7 +319,8 @@
                         <h3>Gathering Intelligence at a Trade Show</h3>
                         <p class="guide2 ">Our advice: <br> walk an aisle in their shoes!</p>
                         <div class="btn-pos">
-                            <a href="https://hoisolution.com/exhibit/blogs/gathering-intelligence-at-a-trade-show/" target="_blank" class="btn-line">VIEW MORE</a>
+                            <a href="https://hoisolution.com/exhibit/blogs/gathering-intelligence-at-a-trade-show/"
+                                target="_blank" class="btn-line">VIEW MORE</a>
                         </div>
 
                     </div>

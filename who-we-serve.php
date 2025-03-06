@@ -72,20 +72,24 @@
 
             <div class="swiper mySwiper">
                 <div class="swiper-wrapper">
-                    <div class="swiper-slide"><a href="technology.php"> <img class="w-100" src="images/serve/slide.png"
+                    <div class="swiper-slide"><a href="healthcare"> <img class="w-100" src="images/serve/healthcare.png"
                                 alt=""> </a></div>
-                    <div class="swiper-slide"><a href="electronics.php"> <img class="w-100"
-                                src="images/serve/electronic.png" alt=""></a></div>
-                    <div class="swiper-slide"><a href="healthcare.php"> <img class="w-100" src="images/serve/health.png"
+                    <div class="swiper-slide"><a href="food-and-beverage-tradeshows"> <img class="w-100"
+                                src="images/serve/food.png" alt=""></a></div>
+                    <div class="swiper-slide"><a href="energy,oil-and-gas-tradeshows"> <img class="w-100" src="images/serve/energy.png"
                                 alt=""></a></div>
-                    <div class="swiper-slide"><a href="automotive.php"> <img class="w-100" src="images/serve/auto.png"
+                    <div class="swiper-slide"><a href="technology-tradeshows"> <img class="w-100" src="images/serve/tech.png"
                                 alt=""></a></div>
-                    <div class="swiper-slide"><a href="retail.php"> <img class="w-100" src="images/serve/retail.png"
+                    <div class="swiper-slide"><a href="manufacturing-tradeshows"> <img class="w-100" src="images/serve/manufacturing.png"
                                 alt=""></a></div>
-                    <div class="swiper-slide"><a href="consumer-goods.php"> <img class="w-100"
-                                src="images/serve/consumers.png" alt=""></a></div>
-                    <div class="swiper-slide"><a href="financial-services.php"> <img class="w-100"
-                                src="images/serve/finice.png" alt=""></a></div>
+                    <div class="swiper-slide"><a href="sporting-goods-tradeshows"> <img class="w-100"
+                                src="images/serve/sporting.png" alt=""></a></div>
+                    <div class="swiper-slide"><a href="logistics-tradeshows"> <img class="w-100"
+                                src="images/serve/logistics.png" alt=""></a></div>
+                                <div class="swiper-slide"><a href="construction-tradeshows"> <img class="w-100"
+                                    src="images/serve/cons.png" alt=""></a></div>
+                                    <div class="swiper-slide"><a href="chemical-tradeshows"> <img class="w-100"
+                                        src="images/serve/chemicals.png" alt=""></a></div>
 
                 </div>
                 <div class="swiper-button-next"></div>

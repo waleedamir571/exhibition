@@ -18,15 +18,15 @@
     <div class="container position-relative z1000">
         <div class="row">
             <div class="col-md-12 text-center wow fadeInUp">
-                <p class="about-us relax2 montserrat"> <img src="images/home/Line.png" alt=""> LOGISTICS TRADESHOWS
+                <p class="about-us relax2 montserrat"> <img src="images/home/Line.png" alt=""> CHEMICALS TRADESHOWS
                     <img src="images/home/Line.png" alt="">
                 </p>
                 <br>
-                <p class="head-text1">Today’s logistics trade shows are at the center of innovation in transportation,
-                    shipping, and supply chain management. Covering global supply chain resilience advances, increased
-                    supply chain visibility, AI-powered logistics management, low emissions transportation solutions,
-                    carbon capture and storage, advanced biofuels, and more, exhibitor showcases highlight industry
-                    change-makers.
+                <p class="head-text1">Chemicals and coatings trade shows are pivotal events where industry leaders
+                    unveil groundbreaking innovations, including pneumatic conveying of materials, advancements in 3D
+                    printing, cationic coatings, resin-based waterborne matting agents, corrosion inhibitors, pigment
+                    optimization, solvent systems addressing VOCs and PFAS alternatives, laser solutions aimed at
+                    disrupting traditional sand and abrasive blasting methods, and more.
                 </p>
                 <div class="spacer-single"></div>
             </div>
@@ -40,11 +40,12 @@
 
             <div class="row">
                 <div class="col-md-12">
-                    <img class="w-100" src="images/technology/logistics.png" alt="">
+                    <img class="w-100" src="images/technology/chemical.png" alt="">
                 </div>
                 <div class="pt-50">
-                    <p class="head-text1 text-center">Work with Exhibit Network to elevate your brand with a custom
-                        exhibit that dominates the trade show floor.</p>
+                    <p class="head-text1 text-center">Partner with Exhibit Network to design and fabricate a custom
+                        exhibition that enables you to stand out among your peers as you revolutionize industrial
+                        processes and better the world.</p>
                 </div>
             </div>
 
@@ -63,32 +64,27 @@
                             <h2 class="text-uppercase wow fadeInRight relax3 montserrat animated animated"
                                 data-wow-delay=".3s">
 
-                                MAJOR <span style="color: #514CA0;">LOGISTICS</span>
+                                MAJOR <span style="color: #514CA0;">CHEMICAL</span>
                                 TRADESHOWS:
                             </h2>
                         </div>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
-                                href="https://www.modexshow.com/"> <span class="about-us1">
-                                    MODEX </a></span> , the world’s largest supply chain experience where manufacturing
-                            and supply chain decision-makers come together.</p>
+                                href="https://www.powderandbulkshow.com/en/home.html"> <span class="about-us1">
+                                    The Powder Show </a></span>(The International Powder & Bulk Solids Conference &
+                            Exhibition), the largest handling and dry processing event in the country.</p>
                         <br>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
-                                href="https://manife.st/"> <span class="about-us1">
-                                    Manifest</span></a>, the most comprehensive ecosystem of those innovating and
-                            transforming end-to-end supply chain and logistics.
+                                href="https://american-coatings-show.com/"> <span class="about-us1">
+                                    American Coatings Show</span></a> the largest gathering for the coatings community
+                            nationwide.
                         </p>
                         <br>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank"
-                                href="https://tpm.joc.com/en"> <span class="about-us1">
-                                    TPM</span></a> , the premier conference for international container shipping and
-                            supply chain.
+                                href="https://www.ampp.org/home"> <span class="about-us1">
+                                    AMPP</span></a> (Association for Materials Protection and Performance), the largest
+                            event for corrosion and coatings professionals.
                         </p>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank"
-                                href="https://truckingshow.com/"> <span class="about-us1">
-                                    Mid-America Trucking Show</span></a> ,(MATS), the largest trucking trade show in
-                            North America.
 
-                        </p>
 
                     </div>
 
@@ -109,14 +105,14 @@
 
                         </h2>
                     </div>
-                    <p class="wow fadeInRight head-text1 animated about-us1" data-wow-delay=".4s"> Garner attention for
-                        your groundbreaking innovations.</p>
+                    <p class="wow fadeInRight head-text1 animated about-us1" data-wow-delay=".4s"> Make lasting
+                        professional connections with engineers and executives.</p>
                     <br>
-                    <p class="wow fadeInRight head-text1 animated about-us1" data-wow-delay=".4s">Engage with a wide
-                        array of decision-makers across myriad industries.</p>
+                    <p class="wow fadeInRight head-text1 animated about-us1" data-wow-delay=".4s">Introduce
+                        transformative technologies that are shaping the future.</p>
                     <br>
-                    <p class="wow fadeInRight head-text1 animated about-us1" data-wow-delay=".4s">Maximize your brand
-                        presence among other industry leaders.
+                    <p class="wow fadeInRight head-text1 animated about-us1" data-wow-delay=".4s">Bring your brand to
+                        life by telling a compelling, industry-changing story.
                     </p>
                     <br>
 

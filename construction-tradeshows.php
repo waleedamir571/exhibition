@@ -18,15 +18,14 @@
     <div class="container position-relative z1000">
         <div class="row">
             <div class="col-md-12 text-center wow fadeInUp">
-                <p class="about-us relax2 montserrat"> <img src="images/home/Line.png" alt=""> LOGISTICS TRADESHOWS
+                <p class="about-us relax2 montserrat"> <img src="images/home/Line.png" alt=""> CONSTRUCTION TRADESHOWS
                     <img src="images/home/Line.png" alt="">
                 </p>
                 <br>
-                <p class="head-text1">Today’s logistics trade shows are at the center of innovation in transportation,
-                    shipping, and supply chain management. Covering global supply chain resilience advances, increased
-                    supply chain visibility, AI-powered logistics management, low emissions transportation solutions,
-                    carbon capture and storage, advanced biofuels, and more, exhibitor showcases highlight industry
-                    change-makers.
+                <p class="head-text1">Trade shows and conventions are the perfect place to showcase the latest
+                    innovations in the construction industry, including electric and hydrogen-powered equipment,
+                    material handlers, crushers, loaders, screeners, and other portable, sustainable, and durable
+                    products.
                 </p>
                 <div class="spacer-single"></div>
             </div>
@@ -40,11 +39,12 @@
 
             <div class="row">
                 <div class="col-md-12">
-                    <img class="w-100" src="images/technology/logistics.png" alt="">
+                    <img class="w-100" src="images/technology/cons.png" alt="">
                 </div>
                 <div class="pt-50">
-                    <p class="head-text1 text-center">Work with Exhibit Network to elevate your brand with a custom
-                        exhibit that dominates the trade show floor.</p>
+                    <p class="head-text1 text-center">Exhibit Network will work with you to design a memorable,
+                        interactive experience that draws customers in, engages them with your brand, and helps you
+                        highlight how your solution is perfect for meeting the needs of theconstruction industry.</p>
                 </div>
             </div>
 
@@ -68,27 +68,21 @@
                             </h2>
                         </div>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
-                                href="https://www.modexshow.com/"> <span class="about-us1">
-                                    MODEX </a></span> , the world’s largest supply chain experience where manufacturing
-                            and supply chain decision-makers come together.</p>
+                                href="https://www.conexpoconagg.com/"> <span class="about-us1">
+                                    CONEXPO CON/AGG </a></span> , the largest construction show in North America.</p>
                         <br>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
-                                href="https://manife.st/"> <span class="about-us1">
-                                    Manifest</span></a>, the most comprehensive ecosystem of those innovating and
-                            transforming end-to-end supply chain and logistics.
+                                href="https://www.worldofconcrete.com/en/home.html"> <span class="about-us1">
+                                    World of Concrete</span></a>,the commercial construction industry's first, largest,
+                            and most important annual international event for concrete and masonry professionals.
                         </p>
                         <br>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank"
-                                href="https://tpm.joc.com/en"> <span class="about-us1">
-                                    TPM</span></a> , the premier conference for international container shipping and
-                            supply chain.
+                                href="https://www.theutilityexpo.com/"> <span class="about-us1">
+                                    The Utility Expo</span></a> ,the most significant event for utility professionals
+                            and construction contractors.
                         </p>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank"
-                                href="https://truckingshow.com/"> <span class="about-us1">
-                                    Mid-America Trucking Show</span></a> ,(MATS), the largest trucking trade show in
-                            North America.
 
-                        </p>
 
                     </div>
 
@@ -109,14 +103,14 @@
 
                         </h2>
                     </div>
-                    <p class="wow fadeInRight head-text1 animated about-us1" data-wow-delay=".4s"> Garner attention for
-                        your groundbreaking innovations.</p>
+                    <p class="wow fadeInRight head-text1 animated about-us1" data-wow-delay=".4s"> Showcase your newest
+                        products and services with hands-on demonstrations.</p>
                     <br>
-                    <p class="wow fadeInRight head-text1 animated about-us1" data-wow-delay=".4s">Engage with a wide
-                        array of decision-makers across myriad industries.</p>
+                    <p class="wow fadeInRight head-text1 animated about-us1" data-wow-delay=".4s">Allow your customers
+                        to see, feel, and experience your latest features and benefits first hand.</p>
                     <br>
-                    <p class="wow fadeInRight head-text1 animated about-us1" data-wow-delay=".4s">Maximize your brand
-                        presence among other industry leaders.
+                    <p class="wow fadeInRight head-text1 animated about-us1" data-wow-delay=".4s">Garner media
+                        attention, awards, and accolades that increase your brand visibility beyond the show.
                     </p>
                     <br>
 

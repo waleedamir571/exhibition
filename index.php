@@ -18,11 +18,10 @@
 
                                         <!-- <p class="text-uppercase mb-3  up-head"> <span class="wow fadeInRight"
                                                 data-wow-delay=".2s">EXPERIENCE MATTERS</span></p> -->
-                                        <p class="wow fadeInUp relax-new" data-wow-delay=".3s"><span class="relax-51"> RELAX</span><span
-                                                class="relax-50">... WE GOT THIS</span></p>
-                                        <p class="about-us2">Welcome to Exhibit Network. We are in business to make your
-                                            trade show experience as <br> seamless, stress-free, and successful as
-                                            possible.
+                                        <p class="wow fadeInUp relax-new" data-wow-delay=".3s"><span class="relax-51">
+                                                RELAX</span><span class="relax-50">... WE GOT THIS</span></p>
+                                        <p class="about-us2"> Wexler Surgical partnered with Exhibit Network to design
+                                            <br> a custom trade show booth with lighted instrumentation displays
                                         </p>
 
                                         <a href="about"> <button type="button" class="btn btn-primary2">LEARN
@@ -58,7 +57,8 @@
                     </div>
 
                     <br>
-                    <p class="head-text1">When you partner with Exhibit Network, we work hard to ensure your success.</p>
+                    <p class="head-text1">When you partner with Exhibit Network, we work hard to ensure your success.
+                    </p>
                     <div class="spacer-single"></div>
                 </div>
 

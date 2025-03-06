@@ -402,7 +402,6 @@
                         </button>
                     </li>
 
-
                 </ul>
 
                 <!-- Tabs Content -->
@@ -418,12 +417,9 @@
 
                                     Comet – Front Lit
 
-
-
                                 </p>
                                 <p class="left-front">
                                     Rental Packages 10x20
-
 
                                 </p>
                                 <p class="head-text1">
@@ -479,7 +475,6 @@
                             <div class="col-md-6">
                                 <p class="c-151">Comet – Front Lit
 
-
                                 </p>
                                 <p class="left-front">Rental Packages 10x20
 
@@ -506,6 +501,7 @@
                             </div>
                             <div class="col-md-6">
                                 <p class="c-151">Comet – Front Lit
+
                                 </p>
                                 <p class="left-front">Rental Packages 10x20
                                 </p>
@@ -522,7 +518,6 @@
                             </div>
                         </div>
                     </div>
-
 
                 </div>
 
@@ -4108,22 +4103,25 @@
                 <ul class="nav nav-tabs" id="myTab" role="tablist">
                     <li class="nav-item" role="presentation">
                         <button class="nav-link active" id="tab1-tab" data-bs-toggle="tab" data-bs-target="#taba"
-                            type="button" role="tab">Comet – Front Lit
+                            type="button" role="tab">Comet – Back Lit
+
                         </button>
                     </li>
                     <li class="nav-item" role="presentation">
                         <button class="nav-link" id="tab2-tab" data-bs-toggle="tab" data-bs-target="#tabb" type="button"
-                            role="tab">Comet – Front Lit
+                            role="tab">Comet – Back Lit
+
                         </button>
                     </li>
                     <li class="nav-item" role="presentation">
                         <button class="nav-link" id="tab3-tab" data-bs-toggle="tab" data-bs-target="#tabc" type="button"
-                            role="tab">Comet – Front Lit
+                            role="tab">Comet – Back Lit
+
                         </button>
                     </li>
                     <li class="nav-item" role="presentation">
                         <button class="nav-link" id="tab4-tab" data-bs-toggle="tab" data-bs-target="#tabd" type="button"
-                            role="tab">Comet – Front Lit</button>
+                            role="tab">Comet – Back Lit</button>
                     </li>
 
                 </ul>
@@ -4139,7 +4137,7 @@
                             <div class="col-md-6">
                                 <p class="c-151">Rental Packages 10x20
                                 </p>
-                                <p class="left-front">Comet – Front Lit
+                                <p class="left-front">Comet – Back Lit
 
                                 </p>
                                 <p class="head-text1">The 20′ Comet Front Lit is the titan of our Rental Packages.
@@ -4165,7 +4163,7 @@
                             <div class="col-md-6">
                                 <p class="c-151">Rental Packages 10x20
                                 </p>
-                                <p class="left-front">Comet – Front Lit
+                                <p class="left-front">Comet – Back Lit
 
                                 </p>
                                 <p class="head-text1">The 20′ Comet Front Lit is the titan of our Rental Packages.
@@ -4191,7 +4189,7 @@
                             <div class="col-md-6">
                                 <p class="c-151">Rental Packages 10x20
                                 </p>
-                                <p class="left-front">Comet – Front Lit
+                                <p class="left-front">Comet – Back Lit
 
                                 </p>
                                 <p class="head-text1">The 20′ Comet Front Lit is the titan of our Rental Packages.
@@ -4217,7 +4215,7 @@
                             <div class="col-md-6">
                                 <p class="c-151">Rental Packages 10x20
                                 </p>
-                                <p class="left-front">Comet – Front Lit
+                                <p class="left-front">Comet – Back Lit
 
                                 </p>
                                 <p class="head-text1">The 20′ Comet Front Lit is the titan of our Rental Packages.

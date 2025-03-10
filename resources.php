@@ -159,18 +159,8 @@
 
         </div>
     </div>
-    <div class="container">
-        <!-- <div class="row pt-50 pb-30">
-
-            <div class="col-md-6">
-                <img class="w-100" src="images/resource/video.png" alt="">
-            </div>
-
-            <div class="col-md-6">
-                <img class="w-100" src="images/resource/video.png" alt="">
-            </div>
-
-        </div> -->
+    <!-- <div class="container">
+        
         <div class="row pt-50 pb-30">
 
             <div class="col-md-6">
@@ -240,7 +230,7 @@
             </div>
 
         </div>
-    </div>
+    </div> -->
 
 </section>
 

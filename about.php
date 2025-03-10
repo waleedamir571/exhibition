@@ -402,7 +402,7 @@
                             <div class="col-md-12">
                                 <div class="card card1">
                                     <div class="img-center">
-                                        <img class="card-img-top1" src="images/about/regusci.png" alt="Card image cap">
+                                        <img class="" src="images/about/regusci.png" alt="Card image cap">
                                     </div>
                                     <div class="card-body">
 
@@ -436,7 +436,7 @@
                             <div class="col-md-12">
                                 <div class="card card1">
                                     <div class="img-center">
-                                        <img class="card-img-top1" src="images/about/george.png" alt="Card image cap">
+                                        <img class="" src="images/about/george.png" alt="Card image cap">
                                     </div>
                                     <div class="card-body">
 
@@ -470,7 +470,7 @@
                             <div class="col-md-12">
                                 <div class="card card1">
                                     <div class="img-center">
-                                        <img class="card-img-top1" src="images/about/wes.png" alt="Card image cap">
+                                        <img class="" src="images/about/wes.png" alt="Card image cap">
                                     </div>
                                     <div class="card-body">
 

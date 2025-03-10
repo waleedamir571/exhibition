@@ -1657,7 +1657,7 @@
                                 <p class="c-151">Rental Packages 10x10
 
                                 </p>
-                                <p class="left-front">Meteor – Back Lit
+                                <p class="left-front">Galaxy
 
                                 </p>
                                 <p class="head-text1">
@@ -1757,15 +1757,15 @@
                                 <img src="images/exhibit/meteor2.jpg" class="img-fluid" alt="Image 2">
                             </div>
                             <div class="col-md-6">
-                                <p class="c-151">Meteor – Back Lit
+                                <p class="c-151">
 
-
+                                    Rental Packages 10x10
 
 
                                 </p>
-                                <p class="left-front">Rental Packages 10x10
+                                <p class="left-front">
 
-
+                                    Meteor – Back Lit
 
                                 </p>
                                 <p class="head-text1">
@@ -2285,40 +2285,40 @@
                 <!-- Tabs Navigation -->
                 <ul class="nav nav-tabs" id="myTab" role="tablist">
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link active" id="tab1-tab" data-bs-toggle="tab" data-bs-target="#tab111"
+                        <button class="nav-link active" id="tab1-tab" data-bs-toggle="tab" data-bs-target="#tab371"
                             type="button" role="tab">Right Front
 
 
                         </button>
                     </li>
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="tab2-tab" data-bs-toggle="tab" data-bs-target="#tab112"
+                        <button class="nav-link" id="tab2-tab" data-bs-toggle="tab" data-bs-target="#tab372"
                             type="button" role="tab">Left Front
 
 
                         </button>
                     </li>
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="tab3-tab" data-bs-toggle="tab" data-bs-target="#tab113"
+                        <button class="nav-link" id="tab3-tab" data-bs-toggle="tab" data-bs-target="#tab373"
                             type="button" role="tab">Right Rear
 
 
                         </button>
                     </li>
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="tab4-tab" data-bs-toggle="tab" data-bs-target="#tab114"
+                        <button class="nav-link" id="tab4-tab" data-bs-toggle="tab" data-bs-target="#tab374"
                             type="button" role="tab">Left Front Elevated
                         </button>
                     </li>
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="tab5-tab" data-bs-toggle="tab" data-bs-target="#tab115"
+                        <button class="nav-link" id="tab5-tab" data-bs-toggle="tab" data-bs-target="#tab375"
                             type="button" role="tab">Right Front Detail
 
                         </button>
                     </li>
 
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="tab6-tab" data-bs-toggle="tab" data-bs-target="#tab116"
+                        <button class="nav-link" id="tab6-tab" data-bs-toggle="tab" data-bs-target="#tab376"
                             type="button" role="tab">Simulators Detail
 
                         </button>
@@ -2328,7 +2328,7 @@
                 <!-- Tabs Content -->
                 <div class="tab-content mt-3" id="myTabContent">
                     <!-- Tab 1 Content -->
-                    <div class="tab-pane  show active" id="tab111" role="tabpanel">
+                    <div class="tab-pane  show active" id="tab371" role="tabpanel">
                         <div class="row align-items-center">
                             <div class="col-md-6">
                                 <img src="images/exhibit/e1.jpg" class="img-fluid" alt="Image 1">
@@ -2353,7 +2353,7 @@
                     </div>
 
                     <!-- Tab 2 Content -->
-                    <div class="tab-pane " id="tab112" role="tabpanel">
+                    <div class="tab-pane " id="tab372" role="tabpanel">
                         <div class="row">
                             <div class="col-md-6">
                                 <img src="images/exhibit/e2.jpg" class="img-fluid" alt="Image 2">
@@ -2381,7 +2381,7 @@
                     </div>
 
                     <!-- Tab 3 Content -->
-                    <div class="tab-pane " id="tab113" role="tabpanel">
+                    <div class="tab-pane " id="tab373" role="tabpanel">
                         <div class="row">
                             <div class="col-md-6">
                                 <img src="images/exhibit/e3.jpg" class="img-fluid" alt="Image 3">
@@ -2409,7 +2409,7 @@
                     </div>
 
                     <!-- Tab 4 Content -->
-                    <div class="tab-pane " id="tab114" role="tabpanel">
+                    <div class="tab-pane " id="tab374" role="tabpanel">
                         <div class="row">
                             <div class="col-md-6">
                                 <img src="images/exhibit/e4.jpg" class="img-fluid" alt="Image 5">
@@ -2438,7 +2438,7 @@
                     </div>
 
                     <!-- Tab 5 Content -->
-                    <div class="tab-pane " id="tab115" role="tabpanel">
+                    <div class="tab-pane " id="tab375" role="tabpanel">
                         <div class="row">
                             <div class="col-md-6">
                                 <img src="images/exhibit/e5.jpg" class="img-fluid" alt="Image 5">
@@ -2460,7 +2460,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="tab-pane " id="tab116" role="tabpanel">
+                    <div class="tab-pane " id="tab376" role="tabpanel">
                         <div class="row">
                             <div class="col-md-6">
                                 <img src="images/exhibit/e6.jpg" class="img-fluid" alt="Image 5">

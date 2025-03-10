@@ -49,10 +49,10 @@ and successful as possible. </p>
                     <div class="col-lg-2 offset-md-1 col-md-6">
                         <h5>Resources</h5>
                         <ul>
-                            <li><a href="https://hoisolution.com/exhibit/blogs/case-studies/">Case Studies
+                            <li><a href="https://hoisolution.com/exhibit/case-studies/">Case Studies
                             </a></li>
                                                         <br>
-                                                        <li><a href="https://hoisolution.com/exhibit/blogs/">Blog
+                                                        <li><a href="https://hoisolution.com/exhibit/blog/">Blog
 
                                                         </a></li>
                                                         <br>

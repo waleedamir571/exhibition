@@ -48,7 +48,7 @@
                 <div class="pt-50">
                 <p class="head-text1 text-center">Exhibit Network is exceptionally well versed in designing highly visible, branded exhibits with a
                     clean medical aesthetic that enable you to demo products, hold informational workshops, provide
-                    hands-on training, and offer touchscreen tutorials for your critical healthcare products and
+                    hands-on training, and offer touchscreen tutorials for  critical healthcare products and
                     services.</p>
                 </div>
             </div>
@@ -74,7 +74,8 @@
                         </div>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
                                 href="https://www.mdmwest.com/en/home.html"> <span class="about-us1">
-                                    MD&M </a></span>West and <a href="https://www.mdmwest.com/en/home.html"> <span
+                                    MD&M </a></span>West and <a target="_blank" href="https://www.mdmeast.com/en/home.
+                                    html"> <span
                                     class="about-us1">
                                     MD&M</span></a> East (Medical Design & Manufacturing), North America’s largest
                             MedTech

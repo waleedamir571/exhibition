@@ -22,14 +22,7 @@
                                 <div class="col-md-6 mb-sm-30 ">
                                     <p class=" text-uppercase mb-3 head-text">get in touch </p>
                                     <form>
-                                    <div class="form-group">
-                                            <div class="ptb-25">
-                                                <label class="label1" for="exampleInputEmail1">Title</label>
-                                                <input type="text" class="form-control1" id="exampleInputEmail1"
-                                                    aria-describedby="emailHelp" placeholder="">
-                                            </div>
-
-                                        </div>
+                                   
                                         <div class="form-group">
                                             <div class="ptb-25">
                                                 <label class="label1" for="exampleInputEmail1">first name</label>
@@ -42,6 +35,14 @@
                                             <label class="label1" for="exampleInputEmail1">last name</label>
                                             <input type="text" class="form-control1" id="exampleInputEmail1"
                                                 aria-describedby="emailHelp" placeholder="">
+
+                                        </div>
+                                        <div class="form-group">
+                                            <div class="ptb-25">
+                                                <label class="label1" for="exampleInputEmail1">Title</label>
+                                                <input type="text" class="form-control1" id="exampleInputEmail1"
+                                                    aria-describedby="emailHelp" placeholder="">
+                                            </div>
 
                                         </div>
                                         <div class="form-group ptb-25">

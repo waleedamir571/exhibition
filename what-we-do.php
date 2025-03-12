@@ -24,7 +24,7 @@
                                         your trade show
                                         exhibit again. We provide full, turnkey
                                         services for everything related to your
-                                        exhibit before, during, after, and inbetween shows.
+                                        exhibit before, during, after, and in-between shows.
 
                                     <div class="spacer-10"></div>
                                     <?php include 'scroll-down.php'; ?>

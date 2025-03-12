@@ -74,14 +74,14 @@
                             dealers.</p>
                         <br>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
-                                href="#"> <span class="about-us1">
+                                href="https://www.greatamericanoutdoorshow.org/"> <span class="about-us1">
                                     The Great American Outdoor Show</span></a>, the world’s largest outdoor recreation
                             show and expo.
                         </p>
                         <br>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank"
                                 href="https://shotshow.org/"> <span class="about-us1">
-                                    SHOT SHOW</span></a> ,(Shooting, Hunting, and Outdoor Trade Show).
+                                    SHOT SHOW</span></a> (Shooting, Hunting, and Outdoor Trade Show).
                         </p>
 
                     </div>
@@ -103,7 +103,7 @@
 
                         </h2>
                     </div>
-                    <p class="wow fadeInRight head-text1 animated about-us1" data-wow-delay=".4s"> SDisplay your latest
+                    <p class="wow fadeInRight head-text1 animated about-us1" data-wow-delay=".4s"> Display your latest
                         product inventions alongside your customers’ perennial favorites.</p>
                     <br>
                     <p class="wow fadeInRight head-text1 animated about-us1" data-wow-delay=".4s">Connect with major

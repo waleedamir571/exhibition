@@ -63,11 +63,21 @@
 
 
     <div class="container">
-
+    <div class="row ">
+        <div class="col-md-12 ">
+            <p class="wow fadeInRight head-text1 animated text-center" data-wow-delay=".4s">With decades of experience
+                managing events at our Houston-based convention centers, we understand their rules,
+                permitting
+                requirements, designated loading docks, safety protocols, set-up guidelines, and
+                requirements
+                for coordinating with show management for any of your unique needs or booth requirements.
+            </p>
+            <br>
+    </div>
 
         <div class="row ">
 
-            <div class="col-md-5 " >
+            <div class="col-md-5 ">
 
                 <div class=" z1000">
 
@@ -83,9 +93,9 @@
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> According to the <a
                                 target="_blank"
                                 href="https://www.northstarmeetingsgroup.com/Planner-Guides/Convention-Cities-Index-2024">
-                                <span class="about-us1">2024 Convention Cities Index</span> </a> published by event
+                                <span class="about-us12">2024 Convention Cities Index</span> </a> published by event
                             production platform <a target="_blank" href="https://www.northstarmeetingsgroup.com/"> <span
-                                    class="about-us1"> Northstar Meetings Group </span> </a>, Houston ranks
+                                    class="about-us12"> Northstar Meetings Group </span> </a>, Houston ranks
                             #5 in the country based on
                             criteria including the amount of indoor exhibit space, the number of hotel rooms within a
                             15-minute walk of the convention center, the average cost of hotel rooms, visitor safety,
@@ -106,16 +116,10 @@
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
                                 href="https://performingartshouston.org/"> <span class="about-us1">
                                     Sam Houston Race Park , Hobby Center for Performing Arts</span> </a> and <a
-                                href="https://riceowls.com/facilities/rice-stadium/3"> <span class="about-us1">
+                                href="https://riceowls.com/facilities/rice-stadium/3"> <span target="_blank" class="about-us12">
                                     Rice Stadium.</span> </a>
                         </p>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s">With decades of experience
-                            managing events at our Houston-based convention centers, we understand their rules,
-                            permitting
-                            requirements, designated loading docks, safety protocols, set-up guidelines, and
-                            requirements
-                            for coordinating with show management for any of your unique needs or booth requirements.
-                        </p>
+                      
 
                         <br>
 
@@ -148,7 +152,7 @@
 
                     <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
                             href="https://napeexpo.com/summit"> <span class="about-us1">
-                                 NAPE Summit,</span> </a> executives, investors, and professionals from the upstream
+                                NAPE Summit,</span> </a> executives, investors, and professionals from the upstream
                         energy sector.
                     </p>
                     <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
@@ -156,8 +160,11 @@
                         ideas, insight, and solutions to the biggest challenges facing the future of energy, the
                         environment, and climate.
                     </p>
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us1">
-                            Energy Transition North America</span> key decision makers from utilities, oil & gas,
+                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank" href="https://events.reuterseven
+ts.com/energy-live/energytransition
+"> <span class="about-us1">
+                                Energy Transition North America</span> </a> key decision makers from utilities, oil &
+                        gas,
                         renewable power generation, finance and policymaking.
                     </p>
                     <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"

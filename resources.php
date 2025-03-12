@@ -105,16 +105,16 @@
 
                 <div class="row">
                     <div class="col-md-4">
-                        <img class="w-100" src="images/resource/b1.png" alt="">
+                        <img class="w-100" src="https://hoisolution.com/exhibit/wp-content/uploads/2025/02/Measurements-0000000.jpg" alt="">
                     </div>
                     <div class="col-md-8">
                         <p class="exhibit1">Blog</p>
-                        <p class="full">Trade Show Booth Etiquette</p>
-                        <p class="exhibit1">We always recommend “being in the moment”
+                        <p class="full">Choosing the Right Trade Show Partner</p>
+                        <p class="exhibit1">Choosing the right exhibit house to meet your needs is important
 
                         </p>
 
-                        <a href="https://hoisolution.com/exhibit/blogs/trade-show-booth-etiquette">
+                        <a href="https://hoisolution.com/exhibit/blogs/choosing-the-right-trade-show-partner/">
                             <p class="read">Read More</p>
                         </a>
                     </div>

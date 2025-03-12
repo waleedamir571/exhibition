@@ -104,7 +104,7 @@
                         <div class="col-md-10">
                             <p class="wow fadeInRight mission" data-wow-delay=".4s">OUR VISION </p>
                             <img class="w-100" src="images/about/Line 11.png" alt="">
-                            <p class="mission-text">A stress-free trade show every time.All you need to do is arrive at
+                            <p class="mission-text">A stress-free trade show every time. All you need to do is arrive at
                                 your booth when the show opens.</p>
                         </div>
                     </div>
@@ -687,7 +687,7 @@
                 <div class=" mt-3" ">
                     <!-- Tab 1 Content -->
                     <div class="" >
-                        <div class=" row align-items-center">
+                        <div class=" row ">
                     <div class="col-md-6">
                         <img src="images/about/wes1.png" class="img-fluid" alt="Image 1">
 
@@ -749,7 +749,7 @@
                 <div class=" mt-3" ">
                     <!-- Tab 1 Content -->
                     <div class="" >
-                        <div class=" row align-items-center">
+                        <div class=" row ">
                     <div class="col-md-6">
                         <img src="images/about/george1.png" class="img-fluid" alt="Image 1">
 
@@ -807,7 +807,7 @@
                 <div class=" mt-3" ">
                     <!-- Tab 1 Content -->
                     <div class="" >
-                        <div class=" row align-items-center">
+                        <div class=" row ">
                     <div class="col-md-6">
                         <img src="images/about/regusci1.png" class="img-fluid" alt="Image 1">
 
@@ -865,7 +865,7 @@
                 <div class=" mt-3" ">
                     <!-- Tab 1 Content -->
                     <div class="" >
-                        <div class=" row align-items-center">
+                        <div class=" row ">
                     <div class="col-md-6">
                         <img src="images/about/pop1.png" class="img-fluid" alt="Image 1">
 
@@ -932,7 +932,7 @@
                 <div class=" mt-3" ">
                     <!-- Tab 1 Content -->
                     <div class="" >
-                        <div class=" row align-items-center">
+                        <div class=" row ">
                     <div class="col-md-6">
                         <img src="images/about/kethleen.png" class="img-fluid" alt="Image 1">
 
@@ -990,16 +990,17 @@
                 <div class=" mt-3" ">
                     <!-- Tab 1 Content -->
                     <div class="" >
-                        <div class=" row align-items-center">
+                        <div class=" row ">
                     <div class="col-md-6">
                         <img src="images/about/alex.png" class="img-fluid" alt="Image 1">
 
                     </div>
                     <div class="col-md-6">
 
-                        <p class="left-front">“If you don’t ask, you don’t get.”
+                        <p class="left-front">““Coming together is a beginning. Keeping together
+                        is progress. Working together is success.”
                         </p>
-                        <p class="left-front">“Henry Ford
+                        <p class="left-front">– Henry Ford
                         </p>
                         <p class="c-151">–Alex Danielides
                         </p>
@@ -1060,15 +1061,16 @@
                 <div class=" mt-3" ">
                     <!-- Tab 1 Content -->
                     <div class="" >
-                        <div class=" row align-items-center">
+                        <div class=" row ">
                     <div class="col-md-6">
                         <img src="images/about/lenny.png" class="img-fluid" alt="Image 1">
 
                     </div>
                     <div class="col-md-6">
 
-                        <p class="left-front">“Coming together is a beginning. Keeping together is progress. Working
-                            together is success.”
+                        <p class="left-front">If you don’t ask, you don’t get.
+                        </p>
+                        <p class="left-front">– My dad
                         </p>
                         <p class="c-151">Lenny Maartens
                         </p>
@@ -1129,7 +1131,7 @@
                 <div class=" mt-3" ">
                     <!-- Tab 1 Content -->
                     <div class="" >
-                        <div class=" row align-items-center">
+                        <div class=" row ">
                     <div class="col-md-6">
                         <img src="images/about/jon.png" class="img-fluid" alt="Image 1">
 

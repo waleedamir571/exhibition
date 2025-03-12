@@ -44,7 +44,7 @@
                 <div class="pt-50">
                     <p class="head-text1 text-center">Exhibit Network will work with you to design a memorable,
                         interactive experience that draws customers in, engages them with your brand, and helps you
-                        highlight how your solution is perfect for meeting the needs of theconstruction industry.</p>
+                        highlight how your solution is perfect for meeting the needs of the construction industry.</p>
                 </div>
             </div>
 
@@ -63,7 +63,7 @@
                             <h2 class="text-uppercase wow fadeInRight relax3 montserrat animated animated"
                                 data-wow-delay=".3s">
 
-                                MAJOR <span style="color: #514CA0;">LOGISTICS</span>
+                                MAJOR <span style="color: #514CA0;">CONSTRUCTION</span>
                                 TRADESHOWS:
                             </h2>
                         </div>
@@ -73,13 +73,13 @@
                         <br>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
                                 href="https://www.worldofconcrete.com/en/home.html"> <span class="about-us1">
-                                    World of Concrete</span></a>,the commercial construction industry's first, largest,
+                                    World of Concrete</span></a>, the commercial construction industry's first, largest,
                             and most important annual international event for concrete and masonry professionals.
                         </p>
                         <br>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank"
                                 href="https://www.theutilityexpo.com/"> <span class="about-us1">
-                                    The Utility Expo</span></a> ,the most significant event for utility professionals
+                                    The Utility Expo</span></a>, the most significant event for utility professionals
                             and construction contractors.
                         </p>
 

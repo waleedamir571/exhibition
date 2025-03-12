@@ -1,6 +1,6 @@
 <div class="top-6 text-center" style="cursor: pointer;">
 
-    <p class="p-text ">scroll down</p>
+    <p class="p-text ">scroll </p>
     <div class="text-center">
         <svg xmlns="http://www.w3.org/2000/svg" width="50" height="19" viewBox="0 0 50 19" fill="none">
             <path

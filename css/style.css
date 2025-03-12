@@ -132,17 +132,14 @@ section#first-section\ d-none11{
   border-radius: 5px 5px 0px 0px;
   background: #514CA0;
   /* background: #070713; */
-
-  /* filter: blur(13.927815437316895px);
-  backdrop-filter: blur(3.336003541946411px); */
   color: #fff;
-  display: flex;
+  display: flex
+;
   align-items: center;
   justify-content: center;
-  text-align: center;
+  text-align: justify;
   padding: 10px;
   opacity: 0;
-  transition: opacity 0.5s ease;
 }
  .overlay1:hover {
   opacity: 1;
@@ -237,6 +234,15 @@ input#flexCheckDefault {
 }
 
 .about-us1 {
+  color: #514CA0;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+  text-transform: capitalize;
+}
+
+.about-us12 {
   color: #514CA0;
   font-size: 22px;
   font-style: normal;
@@ -799,8 +805,11 @@ button.accordion-button.p-text {
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
-  line-height: 110%;
+  line-height: 1.4;
   text-align: justify;
+  word-spacing: 0px;
+  white-space: normal;
+  letter-spacing: -1px;
 }
 
 ol,
@@ -832,8 +841,6 @@ li {
 
 .name {
   color: #FFF;
-
-
   font-size: 32px;
   font-style: normal;
   font-weight: 600;
@@ -856,7 +863,6 @@ li {
   left: 50%;
   width: 2px;
   height: 100%;
-
   transform: translateX(-50%);
   z-index: 0;
   /* Ensure it doesn't block mouse interaction */
@@ -872,7 +878,6 @@ li {
 .step-number {
   font-size: 50px;
   font-weight: bold;
-
   color: #514CA0;
   /* font-family: Anton; */
   font-size: 180px;
@@ -890,7 +895,6 @@ li {
 
 .lorem-ipsum {
   color: #D6D6D6;
-
   font-family: "Inria Sans";
   font-size: 20px;
   font-style: normal;
@@ -906,8 +910,6 @@ li {
 
 .discover {
   color: #FFF;
-
-
   font-size: 40px;
   font-style: normal;
   font-weight: 500;
@@ -923,8 +925,6 @@ li {
   margin-left: 179px;
   margin-top: -12%;
 }
-
-
 
 .step:nth-child(even) .step-content {
   margin-right: 183px;
@@ -1209,7 +1209,7 @@ li {
   font-family: Lexend;
   font-size: 20px;
   font-style: normal;
-  font-weight: 700;
+  font-weight: 500;
   line-height: 29px;
 }
 
@@ -1392,7 +1392,8 @@ li.head-text1 {
   font-size: 22px;
   font-style: normal;
   font-weight: 300;
-  line-height: 30px
+  line-height: 30px;
+  text-transform: math-auto;
 }
 
 .pt-50 {

@@ -85,7 +85,7 @@
                         </p>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank"
                                 href="https://truckingshow.com/"> <span class="about-us1">
-                                    Mid-America Trucking Show</span></a> ,(MATS), the largest trucking trade show in
+                                    Mid-America Trucking Show</span></a> (MATS), the largest trucking trade show in
                             North America.
 
                         </p>

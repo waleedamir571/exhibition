@@ -79,7 +79,7 @@
                         <br>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
                                 href="https://www.nationalrestaurantshow.com/Home/"> <span class="about-us1">
-                                    National Restaurant Association Show</span></a> , the world’s most influential
+                                    National Restaurant Association Show</span></a>, the world’s most influential
                             showcase of foodservice innovation.
                         </p>
                         <br>
@@ -91,7 +91,7 @@
                         </p>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank"
                                 href="https://www.iftevent.org/"> <span class="about-us1">
-                                    IFT FIRST</span></a> , the largest global food science and technology event, and B2B
+                                    IFT FIRST</span></a>, the largest global food science and technology event, and B2B
                             food expo.
 
                         </p>

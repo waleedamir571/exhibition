@@ -300,7 +300,7 @@ input#flexCheckDefault {
 .mb-30{
   width: 20px;
   margin-right: 10px;
-  margin-bottom: 30px;
+  margin-bottom: 60px;
 }
 
 .br-10 {
@@ -1209,7 +1209,7 @@ li {
   font-family: Lexend;
   font-size: 20px;
   font-style: normal;
-  font-weight: 500;
+  font-weight: bold;
   line-height: 29px;
 }
 

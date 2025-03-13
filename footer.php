@@ -78,7 +78,7 @@ and successful as possible. </p>
                         <h5>Contact Us</h5>
                         <p style="display: flex; align-items: center;">
     <img class="mb-30" src="images/home/location.png" alt="" >
-    <span>EXHIBIT NETWORK, LLC  3434 Lang Rd, Houston TX 77092</span>
+    <span>EXHIBIT NETWORK, <br> LLC  3434 Lang Rd, <br> Houston TX 77092</span>
 </p>
 
                             

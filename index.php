@@ -11,7 +11,15 @@
                 <div class=" jarallax">
                     <img src="images/slider/1.jpg" class="jarallax-img" alt="">
                     <div class="mask">
-                        <div class="h-100 v-center">
+                        <div class="h-100 v-center" role="img"
+                            aria-label="Wexler Surgical partnered with Exhibit Network to design a custom trade show booth with lighted instrumentation displays."
+                            aria-describedby="description">
+                            <span id="description" class="sr-only">
+                                Wexler Surgical partnered with Exhibit Network to design a custom trade show booth with
+                                lighted displays for their surgical instruments at SVCS,
+                                AORN, AATS, ISMICS, SVS/VAM, and ACS Clinical Congress.
+                            </span>
+
                             <div class="container">
                                 <div class="row gx-5 align-items-center">
                                     <div class="col-lg-12 mb-sm-30 text-center">
@@ -20,8 +28,12 @@
                                                 data-wow-delay=".2s">EXPERIENCE MATTERS</span></p> -->
                                         <p class="wow fadeInUp relax-new" data-wow-delay=".3s"><span class="relax-51">
                                                 RELAX</span><span class="relax-50">... WE GOT THIS</span></p>
-                                        <p class="about-us2"> Wexler Surgical partnered with Exhibit Network to design
-                                            <br> a custom trade show booth with lighted instrumentation displays
+                                        <p class="about-us2"> Welcome to Exhibit
+                                            Network. We are in business
+                                            to make your tradeshow <br>
+                                            experience as seamless,
+                                            stress-free, and successful
+                                            as possible.
                                         </p>
 
                                         <a href="about"> <button type="button" class="btn btn-primary2">LEARN

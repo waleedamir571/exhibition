@@ -16,6 +16,16 @@
         <div class="image-container">
             <!-- Image 1 -->
             <div class="image-box">
+                <img src="images/what-we-do/3d.png" alt="Graphic Design">
+                <div class="overlay">
+                    <p class="graphic">3D renderings</p>
+                    <p class="g-text">We walk before we run. Our 3D renderings ensure alignment with your vision and
+                        goals before production and enable you to visualize your booth from every angle. They enhance
+                        collaboration and communication; enable us to address potential issues with layout, spacing, and
+                        functionality as early as possible; and improve the decision-making and approval process.</p>
+                </div>
+            </div>
+            <div class="image-box">
                 <img src="images/what-we-do/1.png" alt="Graphic Design">
                 <div class="overlay">
                     <p class="graphic">Exhibit design and production</p class="graphic">
@@ -69,7 +79,7 @@
             </div>
             <!-- Image 6 -->
             <div class="image-box">
-                <img src="images/what-we-do/6.png" alt="Signage and Lighting">
+                <img src="images/what-we-do/graphic.png" alt="Signage and Lighting">
                 <div class="overlay">
                     <p class="graphic">Graphic design and production</p class="graphic">
                     <p class="g-text">Does your graphic designer know the complexities of trade show graphic design? And
@@ -80,7 +90,7 @@
             </div>
             <!-- Image 7 -->
             <div class="image-box">
-                <img src="images/what-we-do/7.png" alt="Carpet and Flooring">
+                <img src="images/what-we-do/elect.png" alt="Carpet and Flooring">
                 <div class="overlay">
                     <p class="graphic">Signage, lighting, and electrical</p class="graphic">
                     <p class="g-text">Visually impactful and functional. Expertly designed signage draws attention and
@@ -90,7 +100,7 @@
             </div>
             <!-- Image 8 -->
             <div class="image-box">
-                <img src="images/what-we-do/slider.png" alt="Custom Solutions">
+                <img src="images/what-we-do/carpet.png" alt="Custom Solutions">
                 <div class="overlay">
                     <p class="graphic">Carpet, pad, and flooring</p class="graphic">
                     <p class="g-text">A comfortable surface for attendees is a must. Select high-quality, padded
@@ -155,25 +165,24 @@
 
     /* Overlay Text */
     .image-box .overlay {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(0, 0, 0, 0.8);
-    color: white;
-    display: flex
-;
-    flex-direction: column;
-    opacity: 0;
-    transition: opacity 0.3sease-in-out;
-    padding: 20px;
-    text-align: justify !important;
-    flex-wrap: nowrap;
-    align-content: flex-end;
-    justify-content: flex-end;
-    align-items: flex-start;
-}
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.8);
+        color: white;
+        display: flex;
+        flex-direction: column;
+        opacity: 0;
+        transition: opacity 0.3sease-in-out;
+        padding: 20px;
+        text-align: justify !important;
+        flex-wrap: nowrap;
+        align-content: flex-end;
+        justify-content: flex-end;
+        align-items: flex-start;
+    }
 
     .image-box {
         position: relative;

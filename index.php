@@ -81,7 +81,7 @@
             <div class="row pt-50 pb-30">
                 <div class="col-md-4">
                     <div class="card1" style="position: relative; overflow: hidden;">
-                        <img class="card-img-top" src="images/home/card1.png" alt="Card image cap">
+                        <img class="card-img-top" src="images/home/confident-exhibit-customer-field-pink-flowers.jpg" alt="Card image cap">
                         <div class="overlay1">
                             <p class="fontsize24">
                                 We take the time to educate you on all your options throughout the project lifecycle so
@@ -100,7 +100,7 @@
 
                 <div class="col-md-4">
                     <div class="card1" style="position: relative; overflow: hidden;">
-                        <img class="card-img-top" src="images/home/card2.png" alt="Card image cap">
+                        <img class="card-img-top" src="images/home/red-and-white-gift-box-for-valued-exhibitors.jpg" alt="Card image cap">
                         <div class="overlay1">
                             <p class="fontsize24">
                                 Our discovery process focuses on your unique brand, business objectives, budget, and
@@ -118,7 +118,7 @@
 
                 <div class="col-md-4">
                     <div class="card1" style="position: relative; overflow: hidden;">
-                        <img class="card-img-top" src="images/home/card3.png" alt="Card image cap">
+                        <img class="card-img-top" src="images/home/exhibitor-with-white-flower-in-good-hands.jpg" alt="Card image cap">
                         <div class="overlay1">
                             <p class="fontsize24">
                                 Our highly engaged, solutions-oriented team is unmatched in its ability to meet your

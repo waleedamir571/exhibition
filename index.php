@@ -81,7 +81,7 @@
             <div class="row pt-50 pb-30">
                 <div class="col-md-4">
                     <div class="card1" style="position: relative; overflow: hidden;">
-                        <img class="card-img-top" src="images/home/confident-exhibit-customer-field-pink-flowers.jpg"
+                        <img class="card-img-top" src="images/home/confident-exhibit-customer-field-pink-flowers.png"
                             alt="Empowered woman in a pink field represents how Exhibit Network makes our trade show customers knowledgeable and confident"
                             title="Woman in a field of pink flowers, tilting her head back with arms outstretched, embodying joy and empowerment just like Exhibit Network helps tradeshow customers feel knowledgeable and confident">
                         <div class="overlay1">
@@ -102,7 +102,7 @@
 
                 <div class="col-md-4">
                     <div class="card1" style="position: relative; overflow: hidden;">
-                        <img class="card-img-top" src="images/home/red-and-white-gift-box-for-valued-exhibitors.jpg"
+                        <img class="card-img-top" src="images/home/red-and-white-gift-box-for-valued-exhibitors.png"
                             alt="A gift box with red ribbon represents how Exhibit Network wants our trade show customers to feel understood and valued"
                             title="A small white gift box with a red ribbon is being handed to someone loved like how Exhibit Network wants our trade show customers to feel understood and valued">
                         <div class="overlay1">
@@ -122,7 +122,7 @@
 
                 <div class="col-md-4">
                     <div class="card1" style="position: relative; overflow: hidden;">
-                        <img class="card-img-top" src="images/home/exhibitor-with-white-flower-in-good-hands.jpg"
+                        <img class="card-img-top" src="images/home/exhibitor-with-white-flower-in-good-hands.png"
                             alt="Outstretched hands cradling a small white flower represent how Exhibit Network trade show customers are in good hands"
                             title="Outstretched hands cradling a small white flower represent how trade show customers of Exhibit Network are in good hands">
                         <div class="overlay1">

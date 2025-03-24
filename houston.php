@@ -40,7 +40,7 @@
                                 </div>
                                 <div class="col-md-6 mb-sm-30 text-center">
 
-                                    <img src="images/houston/houston.png" alt="Shiny skyscrapers represent Exhibit Network roots serving Houston convention center industry including energy, oil, and gas"
+                                    <img src="images/houston/exhibit-houston-convention-skyscrapers.jpg" alt="Shiny skyscrapers represent Exhibit Network roots serving Houston convention center industry including energy, oil, and gas"
                                     title="Shiny silver, red, and tan skyscrapers with a deep blue Texas sky represent Exhibit Network roots serving the Houston exhibit and convention center industry including energy, oil, and gas trade shows">
                                 </div>
 

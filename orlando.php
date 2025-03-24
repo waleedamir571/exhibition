@@ -42,7 +42,7 @@
                                 </div>
                                 <div class="col-md-6 mb-sm-30 text-center">
 
-                                    <img src="images/houston/houston.png" alt="Fireworks burst over a theme park castle welcoming Exhibit Network clients to Orlando FL conventions like MegaCon and BUILD"
+                                    <img src="images/houston/orlando-fireworks-welcome-tradeshow-exhibitors.jpg" alt="Fireworks burst over a theme park castle welcoming Exhibit Network clients to Orlando FL conventions like MegaCon and BUILD"
                                     title="Brightly lit, yellow, orange, and white fireworks burst in the night sky over a blue-lit, theme park castle welcoming Exhibit Network clients to Orlando Florida conventions like MegaCon and BUILD">
                                 </div>
 

@@ -278,7 +278,8 @@
 
             <div class="row">
                 <div class="col-md-6">
-                    <img class="w-100" src="images/what-we-do/s1.png" alt="">
+                    <img class="w-100" src="images/what-we-do/trade-show-storage-warehouse-forklift.png" alt="Warehouse worker in hardhat and PPE operating forklift demonstrates how Exhibit Network offers storage for trade show booths"
+                    title="A warehouse worker in yellow hardhat and PPE vest operating a forklift demonstrates how Exhibit Network offers clean, organized, efficient, secure storage for trade show booth equipment and materials">
                 </div>
                 <div class="col-md-6">
 
@@ -334,7 +335,8 @@
 
                 </div>
                 <div class="col-md-6">
-                    <img class="w-100" src="images/what-we-do/s2.png" alt="">
+                    <img class="w-100" src="images/what-we-do/repairing-trade-show-booth-damage.png" alt="A gloved hand drilling a frame demonstrates how Exhibit Network can repair and refurbish damaged trade show exhibits"
+                    title="Safety-green gloved hand drilling a frame while an ungloved hand holds it steadily demonstrates how Exhibit Network can repair and refurbish damaged trade show exhibits to extend their lifespan">
                 </div>
 
             </div>

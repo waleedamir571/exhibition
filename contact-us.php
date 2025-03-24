@@ -69,7 +69,7 @@
                                 </div>
                                 <div class="col-md-6 mb-sm-30 text-center">
 
-                                    <img src="images/contact/imageee.png" alt="iPhone encourages exhibitors to contact Exhibit Network for custom trade show exhibits, booth rentals and portable displays"
+                                    <img src="images/contact/exhibitors-get-in-touch-with-exhibit-network.png" alt="iPhone encourages exhibitors to contact Exhibit Network for custom trade show exhibits, booth rentals and portable displays"
                                     title="Black iPhone with gold screen reflection charging on brown wooden table encourages exhibitors to get in touch with Exhibit Network for custom trade show exhibits, booth rentals and portable displays">
                                 </div>
 

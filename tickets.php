@@ -26,7 +26,8 @@
                 </div>
             </div>
             <div class="image-box">
-                <img src="images/what-we-do/1.png" alt="Graphic Design">
+                <img src="images/what-we-do/electric-drill-exhibit-design-production.jpg" alt="Placing a drill bit in an electric drill showing how Exhibit Network specializes in custom exhibit design and production"
+                title="Closeup of a man’s hand placing a drill bit in a black electric drill showing how Exhibit Network specializes in custom exhibit design and production to optimize your trade show experience and success">
                 <div class="overlay">
                     <p class="graphic">Exhibit design and production</p class="graphic">
                     <p class="g-text">We meet exacting standards: yours and ours. Smart exhibit design unites compelling
@@ -48,7 +49,8 @@
             </div>
             <!-- Image 3 -->
             <div class="image-box">
-                <img src="images/what-we-do/3.png" alt="Interactive Elements">
+                <img src="images/what-we-do/interactive-trade-show-functionality.jpg" alt="Hand touching a glowing screen showing how Exhibit Network designs immersive, hands-on displays for an interactive showcase"
+                title="Closeup of a hand reaching out to touch a cyan glowing screen showing how Exhibit Network designs immersive, hands-on displays to showcase products and technologies in a tangible, interactive fashion">
                 <div class="overlay">
                     <p class="graphic">Interactive elements</p class="graphic">
                     <p class="g-text">Touchscreens, LED walls, AV elements, and more. Capture attention, facilitate
@@ -58,7 +60,8 @@
             </div>
             <!-- Image 4 -->
             <div class="image-box">
-                <img src="images/what-we-do/4.png" alt="Rental Furniture">
+                <img src="images/what-we-do/black-chair-trade-show-rental-furniture.jpg" alt="Black rented chair showing how Exhibit Network offers a comprehensive catalog with a wide selection of rental furniture "
+                title="Black chair in front of a white trade show booth curtain on a white carpet showing how Exhibit Network offers a comprehensive catalog with a wide selection of rental furniture for ease and convenience">
                 <div class="overlay">
                     <p class="graphic">Rental furniture</p class="graphic">
                     <p class="g-text">Ask us for our rental catalog. Our comprehensive catalog provides a wide selection
@@ -68,7 +71,8 @@
             </div>
             <!-- Image 5 -->
             <div class="image-box">
-                <img src="images/what-we-do/5.png" alt="Meeting Spaces">
+                <img src="images/what-we-do/trade-show-meeting-space.jpg" alt="Professional woman in a meeting showing how Exhibit Network offers private, comfortable meeting spaces and conference rooms"
+                title="Woman with long brown hair and a cream-colored professional outfit holding a meeting in a comfortable ivory-colored chair showing how Exhibit Network offers private meeting spaces and conference rooms">
                 <div class="overlay">
                     <p class="graphic">Meeting spaces, conference rooms</p class="graphic">
                     <p class="g-text">A dedicated area for confidentiality. Enable focused discussions, relationship
@@ -90,7 +94,8 @@
             </div>
             <!-- Image 7 -->
             <div class="image-box">
-                <img src="images/what-we-do/elect.png" alt="Carpet and Flooring">
+                <img src="images/what-we-do/relax-we-got-this-trade-show.png" alt="Lighted sign reads SIT & RELAX as a reminder that Exhibit Network provides trade show signage, lighting, and electrical"
+                title="Backlit, white and purple sign reads SIT & RELAX with matching reflections serve as a reminder that Exhibit Network provides trade show signage, lighting, and electrical with a stress-free experience">
                 <div class="overlay">
                     <p class="graphic">Signage, lighting, and electrical</p class="graphic">
                     <p class="g-text">Visually impactful and functional. Expertly designed signage draws attention and
@@ -100,7 +105,8 @@
             </div>
             <!-- Image 8 -->
             <div class="image-box">
-                <img src="images/what-we-do/carpet.png" alt="Custom Solutions">
+                <img src="images/what-we-do/trade-show-carpet-rental.jpg" alt="Leg with black pants placed on striped carpet illustrates how Exhibit Network provides trade show carpeting and flooring"
+                title="Left leg in black pants with black show placed on rust, yellow, white, and black striped carpet illustrate how Exhibit Network provides high-quality, padded carpeting and trade show flooring options">
                 <div class="overlay">
                     <p class="graphic">Carpet, pad, and flooring</p class="graphic">
                     <p class="g-text">A comfortable surface for attendees is a must. Select high-quality, padded

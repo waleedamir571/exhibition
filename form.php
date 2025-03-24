@@ -21,7 +21,7 @@
                             <p class="wow fadeInRight head-text1" data-wow-delay=".4s">Never worry about your trade show
                                 exhibit again. With Exhibit Network, you can be confident all your trade show
                                 experiences will be seamless and stress-free. Relax … we got this.</p>
-                            <img src="images/contact/c2.png" alt="">
+                            <img class="w-100" src="images/contact/c2.png" alt="">
                         </div>
 
                     </div>

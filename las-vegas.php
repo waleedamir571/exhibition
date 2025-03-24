@@ -40,7 +40,7 @@
                                 </div>
                                 <div class="col-md-6 mb-sm-30 text-center">
 
-                                    <img src="images/houston/houston.png" alt="WELCOME to Fabulous Las Vegas sign welcomes Exhibit Network clients to Nevada convention centers and exhibition halls"
+                                    <img src="images/houston/las-vegas-sign-welcomes-trade-show-exhibitors.jpg" alt="WELCOME to Fabulous Las Vegas sign welcomes Exhibit Network clients to Nevada convention centers and exhibition halls"
                                     title="Futuristic 1950-style sign spelling WELCOME to Fabulous Las Vegas in silver dollars, blue cursive, and large, red type welcome Exhibit Network clients exhibiting at Nevada convention centers">
                                 </div>
 

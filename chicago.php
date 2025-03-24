@@ -43,7 +43,8 @@
                                 </div>
                                 <div class="col-md-6 mb-sm-30 text-center">
 
-                                    <img src="images/houston/houston.png" alt="">
+                                    <img src="images/houston/houston.png" alt="A well-lit, red Chicago marquee welcomes Exhibit Network clients exhibiting at Illinois conventions like the restaurant show"
+                                    title="Street of downtown brick buildings and skyscrapers prominently features a red-lit Chicago theater marquee welcoming Exhibit Network clients exhibiting at Illinois conventions like the restaurant show">
                                 </div>
 
                             </div>

@@ -30,7 +30,8 @@
                                 </div>
                                 <div class="col-md-6 mb-sm-30 text-center">
 
-                                    <img src="images/happy-hour/happy.png" alt="">
+                                    <img src="images/happy-hour/happy.png" alt="Neon sign says HELLO THERE to those who seek a seamless, stress-free, successful trade show experience with Exhibit Network "
+                                    title="A bright, light purple neon sign held over a dark purple background reads HELLO THERE to welcome exhibitors who seek a seamless, stress-free, and successful trade show experience to Exhibit Network`">
                                 </div>
 
                             </div>
@@ -356,7 +357,8 @@
                                     <div class="col-md-6 mb-sm-30 ">
                                         <p class=" text-uppercase mb-3 head-text">LAST BUT NOT LEAST </p>
 
-                                        <img src="images/happy-hour/happy1.png" alt="">
+                                        <img src="images/happy-hour/happy1.png" alt="A gold sign in the window of bistro says RELAX  reminding exhibitors they can relax and trust Exhibit Network with their trade show management"
+                                        title="A gold sign in the evening window of a cozy, well-lit bistro says RELAX  reminding exhibitors they can relax with their clients at happy hour and trust Exhibit Network with their trade show management">
                                     </div>
                                     <div class="col-md-6 mb-sm-30 ">
 

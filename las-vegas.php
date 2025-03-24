@@ -30,7 +30,7 @@
                                     <p class=" text-uppercase mb-3 head-text"> <span class="wow fadeInRight"
                                             data-wow-delay=".2s">LAS VEGAS</span></p>
                                     <p class="wow fadeInUp head-text1 animated" data-wow-delay=".3s">With an
-                                        overabundance of entertainment,
+                                    overabundance of entertainment,
                                         lodging, and convention center space, it’s no
                                         wonder the Las Vegas Convention and
                                         Visitors Authority calls it “The World’s No. 1
@@ -40,7 +40,8 @@
                                 </div>
                                 <div class="col-md-6 mb-sm-30 text-center">
 
-                                    <img src="images/houston/houston.png" alt="">
+                                    <img src="images/houston/houston.png" alt="WELCOME to Fabulous Las Vegas sign welcomes Exhibit Network clients to Nevada convention centers and exhibition halls"
+                                    title="Futuristic 1950-style sign spelling WELCOME to Fabulous Las Vegas in silver dollars, blue cursive, and large, red type welcome Exhibit Network clients exhibiting at Nevada convention centers">
                                 </div>
 
                             </div>

@@ -13,7 +13,7 @@
         <div class=" position-relative">
             <!-- Single item -->
             <div class=" jarallax">
-                <img src="images/slider/1.jpg" class="jarallax-img" alt="">
+                <img class="jarallax-img" src="images/slider/1.jpg"  >
                 <div class="mask">
                     <div class="h-100 v-center1">
                         <div class="container pt-50">
@@ -69,7 +69,8 @@
                                 </div>
                                 <div class="col-md-6 mb-sm-30 text-center">
 
-                                    <img src="images/contact/imageee.png" alt="">
+                                    <img src="images/contact/imageee.png" alt="iPhone encourages exhibitors to contact Exhibit Network for custom trade show exhibits, booth rentals and portable displays"
+                                    title="Black iPhone with gold screen reflection charging on brown wooden table encourages exhibitors to get in touch with Exhibit Network for custom trade show exhibits, booth rentals and portable displays">
                                 </div>
 
                             </div>

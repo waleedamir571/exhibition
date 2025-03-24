@@ -40,7 +40,8 @@
 
                                 <div class="col-md-6 mb-sm-30 text-center">
 
-                                    <img src="images/about/about.png" alt="">
+                                    <img src="images/about/about.png" alt="A stack of cairn stones with an ocean view represents how trade show customers can relax with Exhibit Network, we got this"
+                                    title="A tall stack of smooth and calming cairn stones with a blue oceanfront backdrop represents how trade show customers can relax with Exhibit Network, we got this">
                                 </div>
 
                             </div>
@@ -553,7 +554,8 @@
 
                     <div class="row">
                         <div class="col-md-6">
-                            <img class="w-100" src="images/about/map.png" alt="">
+                            <img class="w-100" src="images/about/map.png" alt="A large map with black camera and silver iPad on top represents how Exhibit Network can serve you at any trade show location"
+                            title="A large map with black camera and silver iPad on top featuring a black and white photo of NYC and a woman’s hand over the image represents how Exhibit Network can serve you at any trade show location">
 
                         </div>
                         <div class="col-md-6">

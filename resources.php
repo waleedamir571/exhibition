@@ -52,7 +52,8 @@
                                 </div>
                                 <div class="col-md-6 mb-sm-30 text-center">
 
-                                    <img src="images/resource/head.png" alt="">
+                                    <img src="images/resource/head.png" alt="An old typewriter encourages visitors to learn more about Exhibit Network and the trade show, conference, and expo industry"
+                                    title="A black, dusty, old-fashioned typewriter sits among antique wood furniture encouraging visitors to access resources about Exhibit Network and the nationwide trade show, conference, and expo industry">
                                 </div>
 
                             </div>

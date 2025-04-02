@@ -1,11 +1,15 @@
+<?php include 'backend/function/meta.php' ?>
+
+
 <!DOCTYPE html>
 <html lang="zxx">
 
 
-
-
 <head>
-    <title>Exhibit Network</title>
+<title>
+        <?php echo $title_name; ?>
+    </title>
+    <meta name="description" content="<?php echo $description; ?>">
     <link rel="icon" href="images/icon.png" type="image/gif" sizes="16x16">
     <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">

@@ -119,20 +119,12 @@ switch ($functions) {
     case "food-and-beverage-tradeshows.php";
         $title_name = "Restaurant | Food | Beverage Exhibitors | Exhibit Network ";
         $description = "Need a turnkey exhibit for your food and beverage, food science, or restaurant trade shows? Exhibit Network offers a seamless, stress-free, delightful experience.";
-        $form_heading1 = "";
-        $form_heading2 = "Pitch Your Book Idea";
-        $url = $baseUrl . "memoir-writing-services";
-        $indexfollow = "index, follow";
-        $keywordwords = "Professional memoir writing services in USA, memoir writing services, memoir writing Company";
+      
         break;
     case "energy-oil-and-gas-tradeshows.php";
         $title_name = "Energy, Oil, and Gas Trade Shows  | Exhibit Network";
         $description = ": Need a custom exhibit for your energy, oil, or gas trade shows? Exhibit Network offers comprehensive solutions to amplify your brand's impact.";
-        $form_heading1 = "";
-        $form_heading2 = "Pitch Your Book Idea";
-        $url = $baseUrl . "childrens-book-writing";
-        $indexfollow = "index, follow";
-        $keywordwords = "Professional Children’s Book Writing Services in USA, Children’s Book Writing Services, Children’s Book Writing Company";
+     
         break;
     case "technology.php";
         $title_name = "Technology and Electronics Trade Shows | Exhibit Network";
@@ -142,47 +134,28 @@ switch ($functions) {
     case "manufacturing-tradeshows.php";
         $title_name = "Manufacturing | Industrial Trade Shows | Exhibit Network";
         $description = "Need a highly professional, well-branded booth to showcase your new products at a manufacturing or industrial trade show? Exhibit Network has you covered. ";
-        $form_heading1 = "Contact Us";
-        $form_heading2 = "Pitch Your Book Idea";
-        $url = $baseUrl . "portfolio";
-        $indexfollow = "index, follow";
-        $keywordwords = "";
+       
         break;
     case "sporting-goods-tradeshows.php";
         $title_name = "Serving Sporting Goods Trade Shows | Exhibit Network";
         $description = "Need a branded booth with a custom-designed display case for your sporting goods? Exhibit Network designs and builds beautiful retail trade show floors.";
         $form_heading1 = "";
-        $form_heading2 = "Pitch Your Book Idea";
-        $url = $baseUrl . "privacy-policy";
-        $indexfollow = "index, follow";
-        $keywordwords = "Privacy Policy";
+       
         break;
     case "logistics-tradeshows.php";
         $title_name = "Serving Logistics Trade Show Clients | Exhibit Network";
         $description = "Need a trade show booth for your shipping, logistics, supply chain, or trucking trade shows? Exhibit Network offers custom exhibits that elevate your brand.";
-        $form_heading1 = "";
-        $form_heading2 = "Pitch Your Book Idea";
-        $url = $baseUrl . "terms-and-conditions";
-        $indexfollow = "index, follow";
-        $keywordwords = "Terms and Conditions";
+       
         break;
     case "construction-tradeshows.php";
         $title_name = "Serving Construction Trade Shows | Exhibit Network ";
         $description = "Showcasing your products at CONEXPO, World of Concrete, the Utility Expo, or a construction trade show? Exhibit Network provides turnkey trade show services. ";
-        $form_heading1 = "Contact Us";
-        $form_heading2 = "Pitch Your Book Idea";
-        $url = $baseUrl . "contact-us";
-        $indexfollow = "index, follow";
-        $keywordwords = "Professional Ghostwriter";
+       
         break;
     case "chemical-tradeshows.php";
         $title_name = "Chemicals and Coatings Trade Shows | Exhibit Network";
         $description = "Unveiling a groundbreaking innovation at a chemical or coatings trade show? Exhibit Network provides custom, branded solutions for your booth to stand out. ";
-        $form_heading1 = "Contact Us";
-        $form_heading2 = "Pitch Your Book Idea";
-        $url = $baseUrl . "faq";
-        $indexfollow = "noindex, nofollow";
-        $keywordwords = "";
+       
         break;
   
 }

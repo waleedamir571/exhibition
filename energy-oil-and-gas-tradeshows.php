@@ -31,7 +31,6 @@
                 <div class="spacer-single"></div>
             </div>
 
-
         </div>
     </div>
 
@@ -56,7 +55,6 @@
             <div class="col-md-6 position-relative">
 
                 <div class="position-relative z1000">
-
 
                     <div class="row">
                         <div class="col-md-12 ">
@@ -85,11 +83,7 @@
                             event
                         </p>
 
-
-
                     </div>
-
-
 
                 </div>
                 <!-- <img src="images/misc/circle-gradient.png"
@@ -97,8 +91,6 @@
             </div>
 
             <div class="col-md-5 offset-md-1 position-relative">
-
-
 
                 <div class="row">
                     <div class="col-md-12 ">
@@ -124,14 +116,11 @@
                 </div>
                 <br>
 
-
             </div>
 
         </div>
     </div>
 
 </section>
-
-
 
 <?php include 'footer.php'; ?>

@@ -20,14 +20,14 @@
     <div class="de-gradient-edge-top"></div>
     <div class="container position-relative z1000">
         <div class="row">
-            <div class="col-md-12 text-center wow fadeInUp">
+            <div class="col-md-12  wow fadeInUp">
                 <p class="about-us relax2 montserrat"> <img src="images/home/Line.png" alt=""> Healthcare Trade Shows
                     <img src="images/home/Line.png" alt="">
                 </p>
                 <br>
                 <p class="head-text1">Healthcare, medical, and pharma trade shows often center around key specialties
                     such as anesthesiology, radiology, infectious diseases, family medicine, emergency physicians,
-                    neurology, vaccines, pharmaceuticals, andoptometry. Today’s medical trade shows showcase
+                    neurology, vaccines, pharmaceuticals, and optometry. Today’s medical trade shows showcase
                     groundbreaking advances in precision medicine, AI and machine learning, stem cell research, health
                     monitoring, gene therapy, precision medicine, immunotherapy, telehealth, and more.
                 </p>

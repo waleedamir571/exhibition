@@ -224,7 +224,7 @@
                                     show
                                     exhibit again. With Exhibit Network, you can be confident all your trade show
                                     experiences will be seamless and stress-free.Trust us…we got this.</p>
-                                <img src="images/contact/c2.png" alt="">
+                                <img src="images/contact/exhibitors-get-in-touch-with-exhibit-network.png" alt="">
                             </div>
 
                         </div>

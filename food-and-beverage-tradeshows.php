@@ -74,7 +74,7 @@
                         </div>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
                                 href="https://www.americasfoodandbeverage.com/"> <span class="about-us1">
-                                    Americas Food & Beverage Show </a></span>, the largest trade show in the Western
+                                    Americas Food & Beverage Show</a></span>, the largest trade show in the Western
                             Hemisphere for the food and beverage industry.</p>
                         <br>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"

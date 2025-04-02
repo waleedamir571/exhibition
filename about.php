@@ -1072,12 +1072,12 @@
                 </div>
                 <div class="col-md-6">
 
-                    <p class="left-front">““Coming together is a beginning. Keeping together
+                    <p class="left-front">“Coming together is a beginning. Keeping together
                         is progress. Working together is success.”
                     </p>
                     <p class="left-front">– Henry Ford
                     </p>
-                    <p class="c-151">–Alex Danielides
+                    <p class="c-151">Alex Danielides
                     </p>
                     <p class="head-text1">As the former Director of Business Development at Iapetus Holdings LLC,
                         drove revenue growth, led product expansion and fostered channel partnerships across the

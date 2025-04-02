@@ -17,7 +17,7 @@
     <div class="de-gradient-edge-top"></div>
     <div class="container position-relative z1000">
         <div class="row">
-            <div class="col-md-12 text-center wow fadeInUp">
+            <div class="col-md-12  wow fadeInUp">
                 <p class="about-us relax2 montserrat"> <img src="images/home/Line.png" alt=""> LOGISTICS TRADESHOWS
                     <img src="images/home/Line.png" alt="">
                 </p>
@@ -69,7 +69,7 @@
                         </div>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
                                 href="https://www.modexshow.com/"> <span class="about-us1">
-                                    MODEX </a></span> , the world’s largest supply chain experience where manufacturing
+                                    MODEX </a></span>, the world’s largest supply chain experience where manufacturing
                             and supply chain decision-makers come together.</p>
                         <br>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
@@ -80,7 +80,7 @@
                         <br>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank"
                                 href="https://tpm.joc.com/en"> <span class="about-us1">
-                                    TPM</span></a> , the premier conference for international container shipping and
+                                    TPM</span></a>, the premier conference for international container shipping and
                             supply chain.
                         </p>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank"

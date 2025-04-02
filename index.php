@@ -30,10 +30,10 @@
                                                 RELAX</span><span class="relax-50">... WE GOT THIS</span></p>
                                         <p class="about-us2"> Welcome to Exhibit
                                             Network. We are in business
-                                            to make your tradeshow <br>
+                                            to make your trade show <br>
                                             experience as seamless,
                                             stress-free, and successful
-                                            as possible.
+                                            as possible
                                         </p>
 
                                         <a href="about"> <button type="button" class="btn btn-primary2">LEARN

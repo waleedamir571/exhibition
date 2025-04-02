@@ -17,7 +17,7 @@
     <div class="de-gradient-edge-top"></div>
     <div class="container position-relative z1000">
         <div class="row">
-            <div class="col-md-12 text-center wow fadeInUp">
+            <div class="col-md-12  wow fadeInUp">
                 <p class="about-us relax2 montserrat"> <img src="images/home/Line.png" alt=""> MANUFACTURING TRADESHOWS
                     <img src="images/home/Line.png" alt="">
                 </p>
@@ -81,19 +81,19 @@
                         <br>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank"
                                 href="https://www.semiconwest.org/"> <span class="about-us1">
-                                    SEMICON West</span></a> , the premier event for semiconductor industry
+                                    SEMICON West</span></a>, the premier event for semiconductor industry
                             professionals.
                         </p>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank"
                                 href="https://www.mdmwest.com/en/home.html"> <span class="about-us1">
-                                    MD&M West</span></a> , the one show combining MedTech, Automation, Design and
+                                    MD&M West</span></a>, the one show combining MedTech, Automation, Design and
                             Manufacturing, and Plastics.
 
                         </p>
 
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank"
                                 href="https://valveworldexpoamericas.com/"> <span class="about-us1">
-                                    Valve World Americas</span></a> , the latest technologies, components, and systems
+                                    Valve World Americas</span></a>, the latest technologies, components, and systems
                             in the field of industrial fluid control.
 
                         </p>

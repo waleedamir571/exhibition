@@ -78,14 +78,14 @@ and successful as possible. </p>
                         <h5>Contact Us</h5>
                         <p style="display: flex; align-items: center;">
     <img class="mb-30" src="images/home/location.png" alt="" >
-    <span>EXHIBIT NETWORK, <br> LLC  3434 Lang Rd, <br> Houston TX 77092</span>
+    <span>EXHIBIT NETWORK,  LLC <br>  3434 Lang Rd, <br> Houston TX 77092</span>
 </p>
 
                             
                         <p> <img class="w-10" src="images/home/call.png" alt=""><a href="tel:7132901212%20"> 713.290.1212</a></p>
                         <p><a class="text-transform" href="mailto:info@exhibithouston.com"> <img class="w-10 " src="images/home/sms.png" alt=""> info@exhibithouston.com </a></p>
                         <div class="social-icons">
-                            <a href="@ExhibitNetwork"><img src="images/home/x.png" alt=""></a>
+                            <a href="https://x.com/exhibitnetwork"><img src="images/home/x.png" alt=""></a>
                             <a href="https://www.facebook.com/EXHIBITNETWORK"><img src="images/home/fb (2).png" alt=""></a>
                             <a href="https://www.youtube.com/@ExhibitNetwork"><img src="images/home/yiu.png" alt=""></a>
                             <a href="https://www.linkedin.com/company/exhibit-network/"><img src="images/home/linked.png" alt=""></a>
@@ -411,7 +411,16 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 </script>
 
+
+
 <script>
+    window.onload = function() {
+  let img = document.querySelector('header img[src*="dotted.png"]');
+  if (img) {
+    img.style.display = 'none';
+  }
+}
+
  $(document).ready(function () {
     $(".image-box").hover(
         function () {

@@ -40,8 +40,9 @@
                                 </div>
                                 <div class="col-md-6 mb-sm-30 text-center">
 
-                                    <img src="images/houston/exhibit-houston-convention-skyscrapers.jpg" alt="Shiny skyscrapers represent Exhibit Network roots serving Houston convention center industry including energy, oil, and gas"
-                                    title="Shiny silver, red, and tan skyscrapers with a deep blue Texas sky represent Exhibit Network roots serving the Houston exhibit and convention center industry including energy, oil, and gas trade shows">
+                                    <img src="images/houston/exhibit-houston-convention-skyscrapers.jpg"
+                                        alt="Shiny skyscrapers represent Exhibit Network roots serving Houston convention center industry including energy, oil, and gas"
+                                        title="Shiny silver, red, and tan skyscrapers with a deep blue Texas sky represent Exhibit Network roots serving the Houston exhibit and convention center industry including energy, oil, and gas trade shows">
                                 </div>
 
                             </div>
@@ -64,145 +65,158 @@
 
 
     <div class="container">
-    <div class="row ">
-        <div class="col-md-12 ">
-            <p class="wow fadeInRight head-text1 animated text-center" data-wow-delay=".4s">With decades of experience
-                managing events at our Houston-based convention centers, we understand their rules,
-                permitting
-                requirements, designated loading docks, safety protocols, set-up guidelines, and
-                requirements
-                for coordinating with show management for any of your unique needs or booth requirements.
-            </p>
-            <br>
-    </div>
-
         <div class="row ">
+            <div class="col-md-12 ">
+                <p class="wow fadeInRight head-text1 animated " data-wow-delay=".4s">With decades of
+                    experience
+                    managing events at our Houston-based convention centers, we understand their rules,
+                    permitting
+                    requirements, designated loading docks, safety protocols, set-up guidelines, and
+                    requirements
+                    for coordinating with show management for any of your unique needs or booth requirements.
+                </p>
+                <br>
+            </div>
 
-            <div class="col-md-5 ">
+            <div class="row ">
 
-                <div class=" z1000">
+                <div class="col-md-5 ">
+
+                    <div class=" z1000">
 
 
-                    <div class="row">
+                        <div class="row">
 
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s">Home to NASA’s Johnson Space
-                            Center, Houston is nicknamed the
-                            “Space City.” Beyond space exploration, Houston is a global leader in the oil and gas
-                            industry and is home to world-class advanced manufacturing and robotics firms, the world’s
-                            largest medical complex, the Texas Medical Center, and dozens of Fortune 500 companies.</p>
-                        <br>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> According to the <a
-                                target="_blank"
-                                href="https://www.northstarmeetingsgroup.com/Planner-Guides/Convention-Cities-Index-2024">
-                                <span class="about-us12">2024 Convention Cities Index</span> </a> published by event
-                            production platform <a target="_blank" href="https://www.northstarmeetingsgroup.com/"> <span
-                                    class="about-us12"> Northstar Meetings Group </span> </a>, Houston ranks
-                            #5 in the country based on
-                            criteria including the amount of indoor exhibit space, the number of hotel rooms within a
-                            15-minute walk of the convention center, the average cost of hotel rooms, visitor safety,
-                            and access to an international airport.</p>
-                        <br>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> Trade shows in Houston are
-                            held at venues such as:</p>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
-                                href="https://www.grbhouston.com/"> <span class="about-us1">
-                                    George R. Brown Convention Center</span> </a> one of the ten largest convention
-                            centers in
-                            the US.
-                        </p>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank"
-                                href="https://www.nrgpark.com/nrg-center/"> <span class="about-us1">
-                                    NRG Center</span> </a> offering over 1.4 million square feet and 11 exhibit halls.
-                        </p>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
-                                href="https://performingartshouston.org/"> <span class="about-us1">
-                                    Sam Houston Race Park , Hobby Center for Performing Arts</span> </a> and <a
-                                href="https://riceowls.com/facilities/rice-stadium/3"> <span target="_blank" class="about-us12">
-                                    Rice Stadium.</span> </a>
-                        </p>
-                      
+                            <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s">Home to NASA’s Johnson
+                                Space
+                                Center, Houston is nicknamed the
+                                “Space City.” Beyond space exploration, Houston is a global leader in the oil and gas
+                                industry and is home to world-class advanced manufacturing and robotics firms, the
+                                world’s
+                                largest medical complex, the Texas Medical Center, and dozens of Fortune 500 companies.
+                            </p>
+                            <br>
+                            <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> According to the <a
+                                    target="_blank"
+                                    href="https://www.northstarmeetingsgroup.com/Planner-Guides/Convention-Cities-Index-2024">
+                                    <span class="about-us12">2024 Convention Cities Index</span> </a> published by event
+                                production platform <a target="_blank" href="https://www.northstarmeetingsgroup.com/">
+                                    <span class="about-us12"> Northstar Meetings Group </span> </a>, Houston ranks
+                                #5 in the country based on
+                                criteria including the amount of indoor exhibit space, the number of hotel rooms within
+                                a
+                                15-minute walk of the convention center, the average cost of hotel rooms, visitor
+                                safety,
+                                and access to an international airport.</p>
+                            <br>
+                            <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> Trade shows in Houston
+                                are
+                                held at venues such as:</p>
+                            <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
+                                    href="https://www.grbhouston.com/"> <span class="about-us1">
+                                        George R. Brown Convention Center</span> </a> one of the ten largest convention
+                                centers in
+                                the US.
+                            </p>
+                            <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank"
+                                    href="https://www.nrgpark.com/nrg-center/"> <span class="about-us1">
+                                        NRG Center</span> </a> offering over 1.4 million square feet and 11 exhibit
+                                halls.
+                            </p>
+                            <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
+                                    href="https://performingartshouston.org/"> <span class="about-us1">
+                                        Sam Houston Race Park , Hobby Center for Performing Arts</span> </a> and <a target="_blank"
+                                    href="https://riceowls.com/facilities/rice-stadium/3"> <span 
+                                        class="about-us12">
+                                        Rice Stadium.</span> </a>
+                            </p>
+
+
+                            <br>
+
+                        </div>
 
                         <br>
 
                     </div>
-
-                    <br>
-
-                </div>
-                <!-- <img src="images/misc/circle-gradient.png"
+                    <!-- <img src="images/misc/circle-gradient.png"
                     class="position-absolute top-50 start-50 translate-middle" alt=""> -->
-            </div>
+                </div>
 
-            <div class="col-md-5 offset-md-1 position-relative">
-
-
-
-                <div class="row">
+                <div class="col-md-5 offset-md-1 position-relative">
 
 
-                    <br>
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> Exhibit Network is proud to
-                        support customers from around the world who exhibit at our many Houston-based shows,
-                        including:
+
+                    <div class="row">
+
+
                         <br>
-                        <a target="_blank" href="https://www.otcnet.org/"> <span class="about-us1"> Offshore Technology
-                                Conference</span> </a>, a collaboration of non-profit organizations that
-                        support the global energy sector.
-                    </p>
-                    <br>
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> Exhibit Network is proud to
+                            support customers from around the world who exhibit at our many Houston-based shows,
+                            including:
+                            <br>
+                            <a target="_blank" href="https://www.otcnet.org/"> <span class="about-us1"> Offshore
+                                    Technology
+                                    Conference</span> </a>, a collaboration of non-profit organizations that
+                            support the global energy sector.
+                        </p>
+                        <br>
 
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
-                            href="https://napeexpo.com/summit"> <span class="about-us1">
-                                NAPE Summit,</span> </a> executives, investors, and professionals from the upstream
-                        energy sector.
-                    </p>
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
-                            href="https://www.ceraweek.com/en"><span class="about-us1"> CERAWeek, </a> </span> new
-                        ideas, insight, and solutions to the biggest challenges facing the future of energy, the
-                        environment, and climate.
-                    </p>
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank" href="https://events.reuterseven
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
+                                href="https://napeexpo.com/summit"> <span class="about-us1">
+                                    NAPE Summit,</span> </a> executives, investors, and professionals from the upstream
+                            energy sector.
+                        </p>
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
+                                href="https://www.ceraweek.com/en"><span class="about-us1"> CERAWeek, </a> </span> new
+                            ideas, insight, and solutions to the biggest challenges facing the future of energy, the
+                            environment, and climate.
+                        </p>
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank" href="https://events.reuterseven
 ts.com/energy-live/energytransition
 "> <span class="about-us1">
-                                Energy Transition North America</span> </a> key decision makers from utilities, oil &
-                        gas,
-                        renewable power generation, finance and policymaking.
-                    </p>
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
-                            href="https://www.hydrogen-expo.com/"> <span class="about-us1">
-                                Hydrogen Technology Expo</span> </a> advanced technologies for the hydrogen and fuel
-                        cell industry.
-                    </p>
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank"
-                            href="https://www.coffeeexpo.org/"> <span class="about-us1">
-                                Specialty Coffee Expo</span> </a> the largest B2B specialty coffee trade show in North
-                        America.
-                    </p>
-                    <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
-                            href="https://ilta2025.ilta.org/"> <span class="about-us1">
-                                ILTA Conference and Trade Show,</span> </a> International Liquid Terminals Association
-                    </p>
+                                    Energy Transition North America</span> </a> key decision makers from utilities, oil
+                            &
+                            gas,
+                            renewable power generation, finance and policymaking.
+                        </p>
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
+                                href="https://www.hydrogen-expo.com/"> <span class="about-us1">
+                                    Hydrogen Technology Expo</span> </a> advanced technologies for the hydrogen and fuel
+                            cell industry.
+                        </p>
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank"
+                                href="https://www.coffeeexpo.org/"> <span class="about-us1">
+                                    Specialty Coffee Expo</span> </a> the largest B2B specialty coffee trade show in
+                            North
+                            America.
+                        </p>
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
+                                href="https://ilta2025.ilta.org/"> <span class="about-us1">
+                                    ILTA Conference and Trade Show,</span> </a> International Liquid Terminals
+                            Association
+                        </p>
 
+                        <br>
+
+                    </div>
                     <br>
 
-                </div>
-                <br>
 
+                </div>
 
             </div>
 
-        </div>
+            <div class="row pt-50 pb-30">
 
-        <div class="row pt-50 pb-30">
-
-            <div class="row">
-                <div class="col-md-12">
-                    <img class="w-100" src="images/houston/houston1.png" alt="">
+                <div class="row">
+                    <div class="col-md-12">
+                        <img class="w-100" src="images/houston/houston1.png" alt="">
+                    </div>
                 </div>
-            </div>
 
+            </div>
         </div>
-    </div>
 
 </section>
 

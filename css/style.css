@@ -79,6 +79,23 @@ Table of content:
 
 }
 
+header img[src*="dotted.png"] {
+  display: none !important;
+}
+
+
+
+.about-us1::before {
+
+  content: '🔹';
+  position: absolute;
+  left: -12px;
+  /* top: 0%; */
+  /* transform: translateY(-50%); */
+  display: none !important;
+
+}
+
 .bg1 {
   background-image: url(../images/about/bg.png);
   background-size: 100% 100% !important;
@@ -123,17 +140,18 @@ Table of content:
   /* border-radius: 10px; */
   position: relative;
   top: 1rem;
-  left: 0rem;
+  left: 1rem;
 }
 
 
+
 .image-box2 img {
-  width: 70%;
-  height: auto;
-  /* border-radius: 10px; */
-  position: relative;
-  top: -1rem;
-  left: -6rem;
+    width: 70%;
+    height: auto;
+    /* border-radius: 10px; */
+    position: relative;
+    top: -1rem;
+    left: -7rem;
 }
 .title {
   font-weight: bold;
@@ -176,7 +194,7 @@ Table of content:
   font-style: normal;
   font-weight: 700;
   line-height: 30px;
-  text-transform: capitalize;
+  text-transform: math-auto;
 }
 
 section#first-section\ d-none11{
@@ -188,7 +206,7 @@ section#first-section\ d-none11{
   top: 0;
   left: 0;
   width: 100%;
-  height: 72%;
+  height: 73%;
   border-radius: 5px 5px 0px 0px;
   background: #514CA0;
   /* background: #070713; */
@@ -198,7 +216,8 @@ section#first-section\ d-none11{
   align-items: center;
   justify-content: center;
   text-align: justify;
-  padding: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
   opacity: 0;
 }
  .overlay1:hover {
@@ -862,10 +881,10 @@ button.accordion-button.p-text {
   font-style: normal;
   font-weight: 400;
   line-height: 1.4;
-  text-align: justify;
-  word-spacing: 0px;
+  text-align: left;
+  /* word-spacing: 0px;
   white-space: normal;
-  letter-spacing: -1px;
+  letter-spacing: -1px; */
 }
 
 ol,
@@ -1262,7 +1281,7 @@ li {
 
 .testimonial-name {
   color: #514CA0;
-  font-family: Lexend;
+ 
   font-size: 20px;
   font-style: normal;
   font-weight: bold;
@@ -11126,8 +11145,8 @@ object {
   background: rgba(20, 20, 20, .5);
 }
 
-.de-video-overlay.dotted {
-  background: url(../images_02/dotted.html);
+.de-video-overlay {
+  background: url(../images_02/dotfgfted.html);
 }
 
 .video-fixed {
@@ -13999,7 +14018,7 @@ body.dark-scheme::-webkit-scrollbar-track,
 }
 
 .v-center {
-  background-image: url(../images/home/bg2.png);
+  background-image: url(../images/home/bg.jpg);
   background-repeat: no-repeat;
   background-size: 100% 100%;
   min-height: 100%;
@@ -16120,12 +16139,14 @@ a.read_more i {
   width: 100%;
   position: relative;
   overflow: hidden !important;
-  display: inline-block;
+  /* display: inline-block; */
+  background: black !important;
 }
 
 .mask img {
   width: 100%;
   height: 100%;
+  
 }
 
 .mask .cover {
@@ -16139,6 +16160,7 @@ a.read_more i {
   bottom: 0px;
   top: 100%;
   margin-top: -70px;
+  display: none;
 }
 
 .mask .cover .c-inner {
@@ -20746,4 +20768,20 @@ v-center1 {
   .container-timeline ul li::before {
     left: 0
   }
+}
+
+@media (min-width: 2560px) {
+  .image-box2 img {
+    width: 65%;
+    top: 0;
+    left: -45%;
+}
+.image-box4 img {
+  width: 44%;
+  height: auto;
+  /* border-radius: 10px; */
+  position: relative;
+  top: 1rem;
+  left: 1rem;
+}
 }

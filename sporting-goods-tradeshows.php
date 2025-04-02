@@ -17,7 +17,7 @@
     <div class="de-gradient-edge-top"></div>
     <div class="container position-relative z1000">
         <div class="row">
-            <div class="col-md-12 text-center wow fadeInUp">
+            <div class="col-md-12  wow fadeInUp">
                 <p class="about-us relax2 montserrat"> <img src="images/home/Line.png" alt=""> SPORTING GOODS TRADESHOWS
                     <img src="images/home/Line.png" alt="">
                 </p>
@@ -70,7 +70,7 @@
                         </div>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
                                 href="https://www.icastfishing.org/"> <span class="about-us1">
-                                    ICAST </a></span>, the world's largest trade show for sportfishing manufacturers and
+                                    ICAST</a></span>, the world's largest trade show for sportfishing manufacturers and
                             dealers.</p>
                         <br>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"

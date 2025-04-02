@@ -17,7 +17,7 @@
     <div class="de-gradient-edge-top"></div>
     <div class="container position-relative z1000">
         <div class="row">
-            <div class="col-md-12 text-center wow fadeInUp">
+            <div class="col-md-12  wow fadeInUp">
                 <p class="about-us relax2 montserrat"> <img src="images/home/Line.png" alt=""> CONSTRUCTION TRADESHOWS
                     <img src="images/home/Line.png" alt="">
                 </p>
@@ -69,7 +69,7 @@
                         </div>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
                                 href="https://www.conexpoconagg.com/"> <span class="about-us1">
-                                    CONEXPO CON/AGG </a></span> , the largest construction show in North America.</p>
+                                    CONEXPO CON/AGG</a></span>, the largest construction show in North America.</p>
                         <br>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
                                 href="https://www.worldofconcrete.com/en/home.html"> <span class="about-us1">

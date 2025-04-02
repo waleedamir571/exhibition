@@ -127,8 +127,6 @@ Table of content:
 }
 
 
-
-
 .image-box2 img {
   width: 70%;
   height: auto;
@@ -184,8 +182,6 @@ Table of content:
 section#first-section\ d-none11{
   display: none !important;
 }
-
-
 
 .overlay1 {
   position: absolute;
@@ -243,7 +239,6 @@ section#first-section\ d-none11{
   text-transform: uppercase;
 
 }
-
 
 input#flexCheckDefault {
   margin-top: 5px;
@@ -379,7 +374,6 @@ input#flexCheckDefault {
   padding-bottom: 25px;
 }
 
-
 .p-0 a {
   padding: 0px !important;
 }
@@ -503,8 +497,6 @@ input#flexCheckDefault {
   line-height: 0;
   font-size: 25px !important;
 }
-
-
 
 .menu-item.active {
   color: #514CA0 !important;
@@ -20736,7 +20728,6 @@ v-center1 {
     background-attachment: scroll;
   }
 }
-
 
 @media (min-width: 1200px) {
   .container-timeline ul {

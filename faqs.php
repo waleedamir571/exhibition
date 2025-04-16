@@ -234,7 +234,7 @@
             </div>
 
             <div class="col-md-6">
-                <img class="w-100" src="images/resource/faqs.png" alt="">
+                <img class="w-100" src="images/resource/exhibit-network-trade-show-faqs.jpg" alt="">
             </div>
 
 

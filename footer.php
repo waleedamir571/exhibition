@@ -85,11 +85,11 @@ and successful as possible. </p>
                         <p> <img class="w-10" src="images/home/call.png" alt=""><a href="tel:7132901212%20"> 713.290.1212</a></p>
                         <p><a class="text-transform" href="mailto:info@exhibithouston.com"> <img class="w-10 " src="images/home/sms.png" alt=""> info@exhibithouston.com </a></p>
                         <div class="social-icons">
-                            <a href="https://x.com/exhibitnetwork"><img src="images/home/x.png" alt=""></a>
-                            <a href="https://www.facebook.com/EXHIBITNETWORK"><img src="images/home/fb (2).png" alt=""></a>
-                            <a href="https://www.youtube.com/@ExhibitNetwork"><img src="images/home/yiu.png" alt=""></a>
-                            <a href="https://www.linkedin.com/company/exhibit-network/"><img src="images/home/linked.png" alt=""></a>
-                            <a href="https://www.instagram.com/exhibitnetwork"><img src="images/home/insta (2).png" alt=""></a>
+                            <a href="https://x.com/exhibitnetwork" target="_blank"><img src="images/home/x.png" alt=""></a>
+                            <a href="https://www.facebook.com/EXHIBITNETWORK" target="_blank"><img src="images/home/fb (2).png" alt=""></a>
+                            <a href="https://www.youtube.com/@ExhibitNetwork" target="_blank"><img src="images/home/yiu.png" alt=""></a>
+                            <a href="https://www.linkedin.com/company/exhibit-network/" target="_blank"><img src="images/home/linked.png" alt=""></a>
+                            <a href="https://www.instagram.com/exhibitnetwork" target="_blank"><img src="images/home/insta (2).png" alt=""></a>
                         </div>
                     </div>
                 </div>

@@ -31,7 +31,7 @@
                                 </div>
                                 <div class="col-md-6 mb-sm-30 text-center">
 
-                                    <img src="images/what-we-do/head.png" alt="">
+                                    <img src="images/what-we-do/what.jpg" alt="">
                                 </div>
 
                             </div>
@@ -103,7 +103,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6  position-relative">
                 <div class="images-deco-1">
-                    <img src="images/what-we-do/about.png" class="d-img-1" alt="">
+                    <img src="images/what-we-do/exhibit-network-on-site-trade-show-services.jpg" class="d-img-1" alt="">
                     <!-- <img src="images/misc/dotted.png" class="d-img-2" alt="" data-jarallax-element="40"> -->
                     <div class="d-img-3 bg-color"></div>
                 </div>
@@ -349,7 +349,7 @@
 
             <div class="row">
                 <div class="col-md-6">
-                    <img class="w-100" src="images/what-we-do/s3.png" alt="">
+                    <img class="w-100" src="images/what-we-do/exhibit-network-exhibitor-modular-displays.jpg" alt="">
                 </div>
                 <div class="col-md-5 offset-md-1 position-relative" data-jarallax-element="-60">
 

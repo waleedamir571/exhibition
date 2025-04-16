@@ -238,24 +238,182 @@
 
 </section>
 
+<section id="first-section">
 
-
-<section id="section-schedule" class="jarallax no-bottom">
-
-    <!-- <div class="de-gradient-edge-top"></div>
     <div class="container position-relative z1000">
         <div class="row">
             <div class="col-md-12 text-center wow fadeInUp">
-                <p class="about-us relax2 montserrat"> <img src="images/home/Line.png" alt=""> AWARDS & ACollades
-                    <img src="images/home/Line.png" alt="">
+                <p class="about-us relax2 montserrat"> <img src="images/home/Line.png" alt=""> OUR LATEST Case Studies
+
                 </p>
                 <br>
-                <p class="head-text1">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-                <div class="spacer-single"></div>
+                <!-- <p class="head-text1">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                <div class="spacer-single"></div> -->
+            </div>
+
+
+        </div>
+    </div>
+    <div class="container">
+        <!-- <div class="row">
+            <div class="col-lg-8 offset-lg-2 text-center">
+                <h1 class="text-uppercase"><span class="wow fadeInUp">December</span> <span
+                        class="text-gradient wow fadeInUp" data-wow-delay="
+                    .3s">3 - 7</span></h1>
+            </div>
+        </div> -->
+
+        <div class="row align-items-center">
+            <div class="col-lg-6  position-relative">
+                <div class="images-deco-1">
+                    <a
+                        href="https://hoisolution.com/exhibit/blogs/the-importance-of-strong-crating-for-trade-show-exhibits/">
+                        <img src="images/resource/ssection.png" class="d-img-1" alt=""> </a>
+                    <!-- <img src="images/misc/dotted.png" class="d-img-2" alt="" data-jarallax-element="40"> -->
+                    <div class="d-img-3 bg-color"></div>
+                </div>
+            </div>
+            <div class="col-md-6  position-relative" data-jarallax-element="-60">
+
+                <div class="row">
+                    <div class="col-md-4">
+                        <img class="w-100"
+                            src="https://hoisolution.com/exhibit/wp-content/uploads/2025/02/Measurements-0000000.jpg"
+                            alt="">
+                    </div>
+                    <div class="col-md-8">
+                        <p class="exhibit1">Case Studies</p>
+                        <p class="full">Choosing the Right Trade Show Partner</p>
+                        <p class="exhibit1">Choosing the right exhibit house to meet your needs is important
+
+                        </p>
+
+                        <a href="https://hoisolution.com/exhibit/blogs/choosing-the-right-trade-show-partner/">
+                            <p class="read">Read More</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <img class="w-100" src="images/resource/b2.png" alt="">
+                    </div>
+                    <div class="col-md-8">
+                        <p class="exhibit1">Case Studies
+</p>
+                        <p class="full">Forklift Safety for Trade Show Exhibitors</p>
+                        <p class="exhibit1">Understanding forklift safety in an exhibition hall can save lives
+
+                        </p>
+
+                        <a href="https://hoisolution.com/exhibit/blogs/forklift-safety-for-trade-show-exhibitors/">
+                            <p class="read">Read More</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <img class="w-100" src="images/resource/b3.png" alt="">
+                    </div>
+                    <div class="col-md-8">
+                        <p class="exhibit1">Case Studies</p>
+                        <p class="full">Graphic Design Tips for Trade Show Exhibitors</p>
+                        <p class="exhibit1">Simple tips for making the most of your exhibit graphics
+
+                        </p>
+
+                        <a href="https://hoisolution.com/exhibit/blogs/graphic-design-tips-for-trade-show-exhibitors/">
+                            <p class="read">Read More</p>
+                        </a>
+                    </div>
+                </div>
+
+                <a href="https://hoisolution.com/exhibit/blogs/"> <button type="button"
+                        class="btn btn-primary1 w-100">CHECK OUT ALL OUR Case Studies</button> </a>
+
+            </div>
+
+        </div>
+    </div>
+    <!-- <div class="container">
+        
+        <div class="row pt-50 pb-30">
+
+            <div class="col-md-6">
+                <div class="row">
+                    <div class="col-md-4">
+                        <img class="w-100" src="images/resource/b4.png" alt="">
+                    </div>
+                    <div class="col-md-8">
+                        <p class="exhibit1">Media Coverage</p>
+                        <h3>The Importance of Lean Six Sigma</h3>
+                        <p class="guide2 ">Our Project Managers are lean thinkers to ensure your success
+
+                        </p>
+                        <a
+                            href="https://hoisolution.com/exhibit/blogs/the-importance-of-lean-six-sigma-for-trade-show-project-managers/">
+                            <p class="read">Read More</p>
+                        </a>
+                    </div>
+                </div>
+                <br>
+                <div class="row">
+                    <div class="col-md-4">
+                        <img class="w-100" src="images/resource/b5.png" alt="">
+                    </div>
+                    <div class="col-md-8">
+                        <p class="exhibit1">Blog</p>
+                        <h3>A First Trade Show Cautionary Tale</h3>
+                        <p class="guide2 ">Trade show success relies on a competent team</p>
+                        <a href="https://hoisolution.com/exhibit/blogs/a-first-trade-show-cautionary-tale/">
+                            <p class="read">Read More</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="row">
+                    <div class="col-md-4">
+                        <img class="w-100" src="images/resource/b6.png" alt="">
+                    </div>
+                    <div class="col-md-8">
+                        <p class="exhibit1">blogs</p>
+                        <h3>A Seamless, Stress-free, Delightful Trade Show Experience</h3>
+                        <p class="guide2 ">Discover why the customer experience matters at Exhibit Network</p>
+                        <a
+                            href="https://hoisolution.com/exhibit/blogs/a-seamless-stress-free-delightful-trade-show-experience/">
+                            <p class="read">Read More</p>
+                        </a>
+                    </div>
+                </div>
+                <br>
+                <div class="row">
+                    <div class="col-md-4">
+                        <img class="w-100" src="images/resource/b7.png" alt="">
+                    </div>
+                    <div class="col-md-8">
+                        <p class="exhibit1">blogs</p>
+                        <h3>Choosing the Right Trade Show Partner</h3>
+                        <p class="guide2 ">Choosing the right exhibit house to meet your needs is important
+
+                        </p>
+                        <a href="https://hoisolution.com/exhibit/blogs/choosing-the-right-trade-show-partner/">
+                            <p class="read">Read More</p>
+                        </a>
+                    </div>
+                </div>
             </div>
 
         </div>
     </div> -->
+
+</section>
+
+
+
+<!-- <section id="section-schedule" class="jarallax no-bottom">
+
+    
 
     <div class="container">
         <div class="row pt-50 pb-30">
@@ -324,7 +482,7 @@
         </div>
     </div>
 
-</section>
+</section> -->
 
 <section id="section-schedule" class="jarallax no-bottom">
 
@@ -538,7 +696,7 @@
             </div>
 
             <div class="col-md-6">
-                <img class="w-100" src="images/resource/faqs.png" alt="">
+                <img class="w-100" src="images/resource/exhibit-network-trade-show-faqs.jpg" alt="">
             </div>
 
 

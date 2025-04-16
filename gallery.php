@@ -28,7 +28,7 @@
                                 </div>
                                 <div class="col-md-6 mb-sm-30 text-center">
 
-                                    <img src="images/gallery/head.png" alt="">
+                                    <img src="images/gallery/exhibit-network-trade-show-gallery.jpg" alt="">
                                 </div>
 
                             </div>
@@ -66,7 +66,7 @@
                 <div class="col-md-8">
 
                     <div class="gallery_product  filter hdpe">
-                        <img class="w-100" src="images/home/p1.png" class="img-responsive">
+                        <img class="w-100" src="images/home/p1.jpg" class="img-responsive">
                     </div>
 
                     <div class="row">
@@ -76,16 +76,16 @@
                             </div>
 
                             <div class="gallery_product  filter hdpe">
-                                <img class="w-100" src="images/home/p3.png" class="img-responsive">
+                                <img class="w-100" src="images/home/p3.jpg" class="img-responsive">
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="gallery_product  filter sprinkle">
-                                <img class="w-100" src="images/home/p4.png" class="img-responsive">
+                                <img class="w-100" src="images/home/p4.jpg" class="img-responsive">
                             </div>
 
                             <div class="gallery_product  filter hdpe">
-                                <img class="w-100" src="images/home/p5.png" class="img-responsive">
+                                <img class="w-100" src="images/home/p5.jpg" class="img-responsive">
                             </div>
                         </div>
                     </div>
@@ -110,11 +110,11 @@
 
                 <div class="col-md-4">
                     <div class="gallery_product  filter irrigation">
-                        <img src="images/home/p6.png" class="img-responsive">
+                        <img class="w-100" src="images/home/p6.jpg" class="img-responsive">
                     </div>
 
                     <div class="gallery_product  filter spray">
-                        <img src="images/home/p7.png" class="img-responsive">
+                        <img class="w-100" src="images/home/p7.jpg" class="img-responsive">
                     </div>
 
                     <!-- <div class="gallery_product  filter irrigation">

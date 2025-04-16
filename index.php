@@ -26,16 +26,20 @@
 
                                         <!-- <p class="text-uppercase mb-3  up-head"> <span class="wow fadeInRight"
                                                 data-wow-delay=".2s">EXPERIENCE MATTERS</span></p> -->
-                                        <p class="wow fadeInUp relax-new" data-wow-delay=".3s"><span class="relax-51">
-                                                RELAX</span><span class="relax-50">... WE GOT THIS</span></p>
-                                        <p class="about-us2"> Welcome to Exhibit
-                                            Network. We are in business
-                                            to make your trade show <br>
-                                            experience as seamless,
+                                        <p class="wow fadeInUp " data-wow-delay=".3s"><span class="head-text10">
+                                                RELAX ... WE GOT THIS</span></p>
+                                                <p class="wow fadeInUp " data-wow-delay=".3s"><span class="c-151">
+                                                    Welcome to Exhibit
+                                            Network</span></p>
+                                            <br>
+                                         <div class="blur"> 
+                                        <p class="about-us2">  We are in business
+                                            to make your trade show 
+                                            experience <br> as seamless,
                                             stress-free, and successful
                                             as possible
                                         </p>
-
+                                    </div>  
                                         <a href="about"> <button type="button" class="btn btn-primary2">LEARN
                                                 MORE</button></a>
 
@@ -450,7 +454,7 @@
 
 
                                 <div class="c-item_wrap">
-                                    <img class="w-100" src="images/home/1.png" class="lazy img-fluid" alt="">
+                                    <img class="w-100" src="images/about/s1.png" class="lazy img-fluid" alt="">
                                 </div>
 
                             </div>
@@ -460,7 +464,7 @@
 
 
                                 <div class="c-item_wrap">
-                                    <img class="w-100" src="images/home/2.png" class="lazy img-fluid" alt="">
+                                    <img class="w-100" src="images/about/s2.png" class="lazy img-fluid" alt="">
                                 </div>
 
                             </div>
@@ -470,7 +474,7 @@
 
 
                                 <div class="c-item_wrap">
-                                    <img class="w-100" src="images/home/3.png" class="lazy img-fluid" alt="">
+                                    <img class="w-100" src="images/about/s3.png" class="lazy img-fluid" alt="">
                                 </div>
 
                             </div>
@@ -480,7 +484,7 @@
 
 
                                 <div class="c-item_wrap">
-                                    <img class="w-100" src="images/home/4.png" class="lazy img-fluid" alt="">
+                                    <img class="w-100" src="images/about/s4.png" class="lazy img-fluid" alt="">
                                 </div>
 
                             </div>
@@ -491,7 +495,7 @@
 
 
                                 <div class="c-item_wrap">
-                                    <img class="w-100" src="images/home/5.png" class="lazy img-fluid" alt="">
+                                    <img class="w-100" src="images/about/s5.png" class="lazy img-fluid" alt="">
                                 </div>
 
                             </div>
@@ -538,21 +542,21 @@
             <div class="row align-items-center pt-50">
 
                 <div class="col-md-8">
-                    <img class="w-100" src="images/home/p1.png" alt="">
+                    <img class="w-100" src="images/home/p1.jpg" alt="">
                     <br>
                     <br>
                     <div class="row">
                         <div class="col-md-6">
                             <img class="w-100" src="images/home/p2.png" alt="">
                             <br>
-                            <img class="w-100" src="images/home/p4.png" alt="">
+                            <img class="w-100" src="images/home/p4.jpg" alt="">
                         </div>
                         <br>
                         <br>
                         <div class="col-md-6">
-                            <img class="w-100" src="images/home/p3.png" alt="">
+                            <img class="w-100" src="images/home/p3.jpg" alt="">
                             <br>
-                            <img class="w-100" src="images/home/p5.png" alt="">
+                            <img class="w-100" src="images/home/p5.jpg" alt="">
                         </div>
                         <br>
                     </div>
@@ -560,8 +564,9 @@
                 </div>
 
                 <div class="col-md-4">
-                    <img class="w-100" src="images/home/p6.png" alt="">
-                    <img class="w-100" src="images/home/p7.png" alt="">
+                    <img class="w-100" src="images/home/p6.jpg" alt="">
+                    <br><br>
+                    <img class="w-100" src="images/home/p7.jpg" alt="">
                 </div>
 
             </div>

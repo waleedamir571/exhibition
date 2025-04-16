@@ -40,7 +40,7 @@
 
                                 <div class="col-md-6 mb-sm-30 text-center">
 
-                                    <img src="images/about/cairn-stones-and-water-relax-we-got-this.png"
+                                    <img class="w-100" src="images/about/cairn-stones-and-water-relax-we-got-this.png"
                                         alt="A stack of cairn stones with an ocean view represents how trade show customers can relax with Exhibit Network, we got this"
                                         title="A tall stack of smooth and calming cairn stones with a blue oceanfront backdrop represents how trade show customers can relax with Exhibit Network, we got this">
                                 </div>
@@ -69,7 +69,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6  position-relative">
                 <div class="images-deco-1">
-                    <img src="images/about/about2.png" class="d-img-1" alt="">
+                    <img src="images/about/x.jpg" class="d-img-1" alt="">
                     <!-- <img src="images/misc/dotted.png" class="d-img-2" alt="" data-jarallax-element="40"> -->
                     <div class="d-img-3 bg-color"></div>
                 </div>
@@ -659,7 +659,7 @@
     <div class="container position-relative z1000">
         <div class="row align-items-center pt-50">
             <div class="col-lg-6">
-                <img class="w-100" src="images/about/last-sec.png" alt="">
+                <img class="w-100" src="images/about/careers.jpg" alt="">
             </div>
             <div class="col-lg-6 position-relative" data-jarallax-element="60">
                 <div class="position-relative z1000">
@@ -699,12 +699,11 @@
     <div class="container position-relative z1000">
         <div class="row align-items-center pt-50">
             <div class="col-lg-12">
-                <!-- <a href="#">
-                     <img class="w-100" src="images/about/sec=gr.png" alt=""></a> -->
-                <div class="bg1">
+               <a href="#">
+                     <img class="w-100" src="images/about/abt.png" alt=""></a> 
+                <!-- <div class="bg1">
                     <div class="container text-center">
-                        <!-- <h1 class="mb-4">Corporate Responsibility</h1>
-                        <p>At Exhibit Network, we take our corporate responsibility seriously. We work proactively to reduce waste and promote sustainability.</p> -->
+                       
 
                         <div class="row mt-4">
                             <div class="col-md-3 col-sm-6 mb-4">
@@ -712,7 +711,7 @@
                                     <img class="img1" src="images/about/silhouette-trade-show-team-jumping-for-joy.png"
                                         alt="Sunrise silhouette of a team jumping for joy representing how Exhibit Network celebrates sustainable trade show practices"
                                         title="Silhouette of a team jumping for joy in front of a yellow sunrise representing how Exhibit Network and trade show clients celebrate corporate responsibility and sustainable trade show practices">
-                                    <!-- <div class="title">Sustainability</div> -->
+                                   
                                 </div>
                             </div>
                             <div class="col-md-3 col-sm-6 mb-4">
@@ -720,7 +719,7 @@
                                     <img class="img2" src="images/about/reduce-reuse-recycle-responsible-trade-show.png"
                                         alt="Handwriting reduce, reuse, recycle on note representing how Exhibit Network promotes reusable, recyclable tradeshow displays"
                                         title="Desk with green plant and hand with pen writing the words reduce, reuse, recycle on a white, square, note representing how Exhibit Network promotes reusable and recyclable trade show displays ">
-                                    <!-- <div class="title">Eco-Friendly Practices</div> -->
+                                  
                                 </div>
                             </div>
                             <div class="col-md-3 col-sm-6 mb-4">
@@ -728,7 +727,7 @@
                                     <img class="img3" src="images/about/holding-sustainable-environmental-green-plant.png"
                                         alt="Palm cradling a green seedling representing how Exhibit Network promotes eco-friendly exhibit materials and carbon-offsetting"
                                         title="Palm cradling a green seedling in front of blurred images of trees representing how Exhibit Network promotes eco-friendly trade show materials, carbon-offsetting for shipping and event-based emissions">
-                                    <!-- <div class="title">Recycling Initiatives</div> -->
+                                   
                                 </div>
                             </div>
                             <div class="col-md-3 col-sm-6 mb-4">
@@ -736,12 +735,12 @@
                                     <img class="img4" src="images/about/cardboard-cross-section-sustainable-material.png"
                                         alt="Cross-section of cardboard representing the Exhibit Network commitment to reducing trade show environmental footprint"
                                         title="Cross-section of cardboard with striated brown and black lines representing Exhibit Network commitment to reducing the environmental footprint of trade show exhibitors including shipping and materials">
-                                    <!-- <div class="title">Carbon Offsetting</div> -->
+                                  
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
 
 </section>

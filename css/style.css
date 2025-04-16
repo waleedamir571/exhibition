@@ -83,6 +83,38 @@ header img[src*="dotted.png"] {
   display: none !important;
 }
 
+.head-text10 {
+  color: #FFF;
+  text-align: center;
+ 
+  font-size: 115px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 91px;
+  text-transform: uppercase;
+}
+
+.blur {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 14px 4px 0;
+  height: 106px;
+
+  /* Full width breakout */
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.20) 0%, rgba(255, 255, 255, 0.20) 100%);
+  backdrop-filter: blur(2.7px);
+}
+
+
+
 
 
 .about-us1::before {
@@ -215,7 +247,7 @@ section#first-section\ d-none11{
 ;
   align-items: center;
   justify-content: center;
-  text-align: justify;
+  text-align: left;
   padding-left: 10px;
   padding-right: 10px;
   opacity: 0;
@@ -1311,17 +1343,19 @@ li {
 }
 
 .v-center1 {
-  /* background-color: black; */
   background-image: url(../images/contact/bg.png);
   background-repeat: no-repeat;
-  background-size: 100% 100%;
-  min-height: 100%;
+  background-size: cover; /* Better scaling on all devices */
   min-height: 100vh;
+  
   display: flex;
   align-items: center;
-  padding-top: 25px;
+  justify-content: center; /* Optional: centers content horizontally if needed */
+  
+  padding-top: 100px;  /* Creates space from header */
+  padding-bottom: 60px; /* Creates breathing room at the bottom */
+  box-sizing: border-box;
 }
-
 .knowledge {
   color: #514CA0 !important;
   text-align: center;
@@ -14018,12 +14052,13 @@ body.dark-scheme::-webkit-scrollbar-track,
 }
 
 .v-center {
-  background-image: url(../images/home/bg2.png);
+  background-image: url(../images/home/xbg.jpg);
   background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-size: 100% 100% !important;
   min-height: 100%;
   min-height: 100vh;
-  display: flex;
+  display: flex
+;
   align-items: center;
 }
 
@@ -20109,7 +20144,7 @@ img {
     /* min-height: 100%; */
     /* height: 28rem !important; */
     min-height: auto !important;
-    padding-top: 60px;
+    padding-top: 70px;
     padding-bottom: 60px;
 }
 
@@ -20319,6 +20354,35 @@ img {
     font-weight: 700;
     line-height: 40px;
   }
+
+  .head-text10 {
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 59px;
+    text-transform: uppercase;
+}
+
+
+.c-151 {
+  color: #FFF;
+  font-size: 31px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.4;
+  text-transform: Capitalize;
+}
+
+.about-us2 {
+  color: #fff;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 25px;
+  text-transform: math-auto;
+}
 
   header .logo-main {
     display: block;

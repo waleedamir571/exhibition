@@ -30,7 +30,7 @@
                                 </div>
                                 <div class="col-md-6 mb-sm-30 text-center">
 
-                                    <img src="images/serve/serve.png" alt="">
+                                    <img src="images/serve/serve.jpg" alt="">
                                 </div>
 
                             </div>

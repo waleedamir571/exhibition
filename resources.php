@@ -267,9 +267,9 @@
             <div class="col-lg-6  position-relative">
                 <div class="images-deco-1">
                     <a
-                        href="https://hoisolution.com/exhibit/blogs/the-importance-of-strong-crating-for-trade-show-exhibits/">
-                        <img src="images/resource/ssection.png" class="d-img-1" alt=""> </a>
-                    <!-- <img src="images/misc/dotted.png" class="d-img-2" alt="" data-jarallax-element="40"> -->
+                        href="https://hoisolution.com/exhibit/casestudies/guiding-first-time-exhibitors-with-a-cobranded-trade-show-exhibit/">
+                        <img src="images/resource/case4.jpg" class="d-img-1" alt=""> </a>
+                  
                     <div class="d-img-3 bg-color"></div>
                 </div>
             </div>
@@ -277,57 +277,59 @@
 
                 <div class="row">
                     <div class="col-md-4">
-                        <img class="w-100"
-                            src="https://hoisolution.com/exhibit/wp-content/uploads/2025/02/Measurements-0000000.jpg"
-                            alt="">
+                        <img class="w-100" src="images/resource/case1.jpg" alt="">
                     </div>
                     <div class="col-md-8">
                         <p class="exhibit1">Case Studies</p>
-                        <p class="full">Choosing the Right Trade Show Partner</p>
-                        <p class="exhibit1">Choosing the right exhibit house to meet your needs is important
+                        <p class="full">New Brand Identity with a Suite of Product Logos</p>
+                        <p class="exhibit1">Systel, Inc. needed visual identities for its growing product line.
 
                         </p>
 
-                        <a href="https://hoisolution.com/exhibit/blogs/choosing-the-right-trade-show-partner/">
+                        <a
+                            href="https://hoisolution.com/exhibit/casestudies/new-brand-identity-with-a-suite-of-product-logos/">
                             <p class="read">Read More</p>
                         </a>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-4">
-                        <img class="w-100" src="images/resource/b2.png" alt="">
+                        <img class="w-100" src="images/resource/case2.jpg" alt="">
                     </div>
                     <div class="col-md-8">
                         <p class="exhibit1">Case Studies
-</p>
-                        <p class="full">Forklift Safety for Trade Show Exhibitors</p>
-                        <p class="exhibit1">Understanding forklift safety in an exhibition hall can save lives
+                        </p>
+                        <p class="full">Prominent Trade Show Signage and Visibility</p>
+                        <p class="exhibit1">Blue Water Shipping needed a new exhibit for Breakbulk Americas in Houston
 
                         </p>
 
-                        <a href="https://hoisolution.com/exhibit/blogs/forklift-safety-for-trade-show-exhibitors/">
+                        <a
+                            href="https://hoisolution.com/exhibit/casestudies/prominent-trade-show-signage-and-visibility/">
                             <p class="read">Read More</p>
                         </a>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-4">
-                        <img class="w-100" src="images/resource/b3.png" alt="">
+                        <img class="w-100" src="images/resource/case3.png" alt="">
                     </div>
                     <div class="col-md-8">
                         <p class="exhibit1">Case Studies</p>
-                        <p class="full">Graphic Design Tips for Trade Show Exhibitors</p>
-                        <p class="exhibit1">Simple tips for making the most of your exhibit graphics
+                        <p class="full">Adding Value to a Comprehensive</p>
+                        <p class="exhibit1">With a history of successful collaboration, KARL STORZ came back to Exhibit
+                            Networ
 
                         </p>
 
-                        <a href="https://hoisolution.com/exhibit/blogs/graphic-design-tips-for-trade-show-exhibitors/">
+                        <a
+                            href="https://hoisolution.com/exhibit/casestudies/adding-value-to-a-comprehensive-list-of-trade-show-requirements/">
                             <p class="read">Read More</p>
                         </a>
                     </div>
                 </div>
 
-                <a href="https://hoisolution.com/exhibit/blogs/"> <button type="button"
+                <a href="https://hoisolution.com/exhibit/case-studies/"> <button type="button"
                         class="btn btn-primary1 w-100">CHECK OUT ALL OUR Case Studies</button> </a>
 
             </div>

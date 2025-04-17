@@ -451,8 +451,6 @@
                         <div id="item-carousel-big" class="owl-carousel no-hide owl-center" data-wow-delay="1s">
                             <div class="c-item">
 
-
-
                                 <div class="c-item_wrap">
                                     <img class="w-100" src="images/about/s1.png" class="lazy img-fluid" alt="">
                                 </div>
@@ -460,8 +458,6 @@
                             </div>
 
                             <div class="c-item">
-
-
 
                                 <div class="c-item_wrap">
                                     <img class="w-100" src="images/about/s2.png" class="lazy img-fluid" alt="">
@@ -471,8 +467,6 @@
 
                             <div class="c-item">
 
-
-
                                 <div class="c-item_wrap">
                                     <img class="w-100" src="images/about/s3.png" class="lazy img-fluid" alt="">
                                 </div>
@@ -481,34 +475,19 @@
 
                             <div class="c-item">
 
-
-
                                 <div class="c-item_wrap">
                                     <img class="w-100" src="images/about/s4.png" class="lazy img-fluid" alt="">
                                 </div>
 
                             </div>
 
-
                             <div class="c-item">
-
-
 
                                 <div class="c-item_wrap">
                                     <img class="w-100" src="images/about/s5.png" class="lazy img-fluid" alt="">
                                 </div>
 
                             </div>
-
-                            <!-- <div class="c-item">                            
-                                       
-                                            
-                                            
-                                            <div class="c-item_wrap">
-                                                <img class="w-100" src="images/home/slider3.png" class="lazy img-fluid" alt="">
-                                            </div>
-                                      
-                                    </div> -->
 
                         </div>
                         <!-- <div class="d-arrow-left mod-a"><i class="fa fa-angle-left"></i></div>

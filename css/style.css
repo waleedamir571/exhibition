@@ -8048,10 +8048,12 @@ i.font60 {
 }
 
 .pricing-s2.text-light .top .price,
-.pricing-s2.text-white .top .price,
-{
-color: #ffffff;
+.pricing-s2.text-white .top .price,{ 
+
+color : #ffffff;
+
 }
+
 
 .pricing-s2 .top .price .currency {
   font-size: 24px;

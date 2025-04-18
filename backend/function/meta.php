@@ -157,6 +157,11 @@ switch ($functions) {
         $description = "Unveiling a groundbreaking innovation at a chemical or coatings trade show? Exhibit Network provides custom, branded solutions for your booth to stand out. ";
        
         break;
+        case "404.php";
+        $title_name = "404";
+        $description = "404 ";
+       
+        break;
   
 }
 

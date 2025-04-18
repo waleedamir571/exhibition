@@ -352,6 +352,40 @@ input#flexCheckDefault {
   text-transform: capitalize;
 }
 
+.black {
+  background-color: black;
+  padding: 10px;
+  color: white !important;
+  font-size: 27px;
+  font-weight: bold;
+}
+
+.sr-only1 {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.v-center2 {
+  background-image: url(../images/home/exhibit-network-is-here-to-help.png) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex
+;
+  align-items: center;
+  justify-content: center;
+  padding-top: 100px;
+  padding-bottom: 60px;
+  box-sizing: border-box;
+}
+
 .about-us12 {
   color: #514CA0;
   font-size: 22px;

@@ -1,14 +1,14 @@
 <?php include 'header.php'; ?>
 
 <style>
-  .about-us1.with-icon::before {
-    content: '🔹';
-    position: absolute;
-    left: -25px; /* Adjust the left position as needed */
-    /* transform: translateY(-50%); */
-   
-}
+    .about-us1.with-icon::before {
+        content: '🔹';
+        position: absolute;
+        left: -25px;
+        /* Adjust the left position as needed */
+        /* transform: translateY(-50%); */
 
+    }
 </style>
 
 <section id="de-carousel section-schedule" class="no-top no-bottom carousel slide carousel-fade "
@@ -30,7 +30,7 @@
                                     <p class=" text-uppercase mb-3 head-text"> <span class="wow fadeInRight"
                                             data-wow-delay=".2s">LAS VEGAS</span></p>
                                     <p class="wow fadeInUp head-text1 animated" data-wow-delay=".3s">With an
-                                    overabundance of entertainment,
+                                        overabundance of entertainment,
                                         lodging, and convention center space, it’s no
                                         wonder the Las Vegas Convention and
                                         Visitors Authority calls it “The World’s No. 1
@@ -40,8 +40,9 @@
                                 </div>
                                 <div class="col-md-6 mb-sm-30 text-center">
 
-                                    <img src="images/houston/las-vegas-sign-welcomes-trade-show-exhibitors.jpg" alt="WELCOME to Fabulous Las Vegas sign welcomes Exhibit Network clients to Nevada convention centers and exhibition halls"
-                                    title="Futuristic 1950-style sign spelling WELCOME to Fabulous Las Vegas in silver dollars, blue cursive, and large, red type welcome Exhibit Network clients exhibiting at Nevada convention centers">
+                                    <img src="images/houston/las-vegas-sign-welcomes-trade-show-exhibitors.jpg"
+                                        alt="WELCOME to Fabulous Las Vegas sign welcomes Exhibit Network clients to Nevada convention centers and exhibition halls"
+                                        title="Futuristic 1950-style sign spelling WELCOME to Fabulous Las Vegas in silver dollars, blue cursive, and large, red type welcome Exhibit Network clients exhibiting at Nevada convention centers">
                                 </div>
 
                             </div>
@@ -62,7 +63,7 @@
 
         <div class="row ">
 
-            <div class="col-md-6 position-relative" >
+            <div class="col-md-6 position-relative">
 
                 <div class="position-relative z1000">
 
@@ -72,14 +73,16 @@
                             indulgence, neon lights, world-class shows, and over-the-top themed hotels, Las Vegas is
                             nicknamed “Sin City.” With an overabundance of entertainment, lodging, and convention center
                             space, it’s no wonder the <a target="_blank" href="https://www.vegasmeansbusiness.com/">
-                               <span class="about-us1"> Las Vegas Convention and Visitors
+                                <span class="about-us1"> Las Vegas Convention and Visitors
                                     Authority </span> </a> also calls it “The
                             World’s No. 1 Meeting Destination.” </p>
-                        
+
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> Boasting more meeting space
                             than any other city on the globe, Las Vegas is home to three of the top venues in the
-                            country as ranked by the <span class="about-us1"> Wall Street Journal: </span> </p>
-                       
+                            country as ranked by the <a target="_blank"
+                                href="https://www.wsj.com/business/hospitality/best-convention-centers-united-states-13867b35">
+                                <span class="about-us1"> Wall Street Journal: </span></a> </p>
+
 
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank"
                                 href="https://www.vegasmeansbusiness.com/meeting-facilities/convention-and-conference-facilities/las-vegas-convention-center/">

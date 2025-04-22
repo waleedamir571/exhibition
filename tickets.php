@@ -16,7 +16,7 @@
         <div class="image-container">
             <!-- Image 1 -->
             <div class="image-box">
-                <img src="images/what-we-do/3d.png" alt="Graphic Design">
+                <img src="images/what-we-do/socar.jpg" alt="Graphic Design">
                 <div class="overlay">
                     <p class="graphic">3D renderings</p>
                     <p class="g-text">We walk before we run. Our 3D renderings ensure alignment with your vision and
@@ -39,7 +39,7 @@
             </div>
             <!-- Image 2 -->
             <div class="image-box">
-                <img src="images/what-we-do/2.png" alt="Product Displays">
+                <img src="images/what-we-do/storz.jpg" alt="Product Displays">
                 <div class="overlay">
                     <p class="graphic">Product displays</p class="graphic">
                     <p class="g-text">Immersive, hands-on displays. Showcase the features and benefits of your range of

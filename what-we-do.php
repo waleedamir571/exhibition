@@ -31,7 +31,9 @@
                                 </div>
                                 <div class="col-md-6 mb-sm-30 text-center">
 
-                                    <img src="images/what-we-do/what.jpg" alt="">
+                                    <img src="images/what-we-do/exhibit-network-dramatic-trade-show-presence.jpg"
+                                        alt="Architectural booth with white lighted vertical pillars, overhead branded signage, podiums with seating, and video monitors"
+                                        title="Stunning architectural booth structure with white lighted vertical pillars at each corner, large overhead branded signage, three podiums with seating, video monitors, and overhead white lighted beams ">
                                 </div>
 
                             </div>
@@ -278,13 +280,14 @@
 
             <div class="row">
                 <div class="col-md-6">
-                    <img class="w-100" src="images/what-we-do/trade-show-storage-warehouse-forklift.png" alt="Warehouse worker in hardhat and PPE operating forklift demonstrates how Exhibit Network offers storage for trade show booths"
-                    title="A warehouse worker in yellow hardhat and PPE vest operating a forklift demonstrates how Exhibit Network offers clean, organized, efficient, secure storage for trade show booth equipment and materials">
+                    <img class="w-100" src="images/what-we-do/trade-show-storage-warehouse-forklift.png"
+                        alt="Warehouse worker in hardhat and PPE operating forklift demonstrates how Exhibit Network offers storage for trade show booths"
+                        title="A warehouse worker in yellow hardhat and PPE vest operating a forklift demonstrates how Exhibit Network offers clean, organized, efficient, secure storage for trade show booth equipment and materials">
                 </div>
                 <div class="col-md-6">
 
                     <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><span class="about-us">STORAGE
-                            :</span> 
+                            :</span>
                         We offer over 42K square feet of storage. Our clean, organized, efficient warehouse ensures
                         secure storage and easy access/retrieval.</p>
 
@@ -335,8 +338,9 @@
 
                 </div>
                 <div class="col-md-6">
-                    <img class="w-100" src="images/what-we-do/repairing-trade-show-booth-damage.png" alt="A gloved hand drilling a frame demonstrates how Exhibit Network can repair and refurbish damaged trade show exhibits"
-                    title="Safety-green gloved hand drilling a frame while an ungloved hand holds it steadily demonstrates how Exhibit Network can repair and refurbish damaged trade show exhibits to extend their lifespan">
+                    <img class="w-100" src="images/what-we-do/repairing-trade-show-booth-damage.png"
+                        alt="A gloved hand drilling a frame demonstrates how Exhibit Network can repair and refurbish damaged trade show exhibits"
+                        title="Safety-green gloved hand drilling a frame while an ungloved hand holds it steadily demonstrates how Exhibit Network can repair and refurbish damaged trade show exhibits to extend their lifespan">
                 </div>
 
             </div>

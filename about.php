@@ -69,7 +69,9 @@
         <div class="row align-items-center">
             <div class="col-lg-6  position-relative">
                 <div class="images-deco-1">
-                    <img src="images/about/x.jpg" class="d-img-1" alt="">
+                    <img src="images/about/exhibit-network-3D-backlit-signage.jpg" class="d-img-1"
+                        alt="Circular tower with green LED tiles and large, yellow, 3D backlit X draws attention for exhibitor BPX Energy at trade shows "
+                        title="Large, circular tower with green LED tiles, surrounded by bistro seating and a massive, yellow, 3D backlit X, draws attention for exhibitor BPX Energy at trade shows like NAPE Summit">
                     <!-- <img src="images/misc/dotted.png" class="d-img-2" alt="" data-jarallax-element="40"> -->
                     <div class="d-img-3 bg-color"></div>
                 </div>
@@ -659,7 +661,9 @@
     <div class="container position-relative z1000">
         <div class="row align-items-center pt-50">
             <div class="col-lg-6">
-                <img class="w-100" src="images/about/careers.jpg" alt="">
+                <img class="w-100" src="images/about/exhibit-network-is-hiring-trade-show-talent.jpg"
+                    alt="Man holding a business card with Exhibit Network logo reflects that we are hiring talent to serve our trade show exhibitors"
+                    title="Man in black suit and white collared shirt holding a white business card with purple Exhibit Network logo reflects that we are hiring talent to serve our trade show exhibitors ">
             </div>
             <div class="col-lg-6 position-relative" data-jarallax-element="60">
                 <div class="position-relative z1000">
@@ -699,8 +703,8 @@
     <div class="container position-relative z1000">
         <div class="row align-items-center pt-50">
             <div class="col-lg-12">
-               <a href="#">
-                     <img class="w-100" src="images/about/abt.png" alt=""></a> 
+                <a href="#">
+                    <img class="w-100" src="images/about/abt.png" alt=""></a>
                 <!-- <div class="bg1">
                     <div class="container text-center">
                        

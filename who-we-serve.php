@@ -30,7 +30,9 @@
                                 </div>
                                 <div class="col-md-6 mb-sm-30 text-center">
 
-                                    <img src="images/serve/serve.jpg" alt="">
+                                    <img src="images/serve/exhibit-network-stress-free-trade-show.jpg"
+                                    alt="Badge with Exhibit Network logo reflects that we serve marketing and sales directors, event managers, trade show exhibitors"
+                                    title="White badge with purple Exhibit Network logo reflects that we serve marketing and sales directors, event managers, company executives, product developers, and other trade show exhibitors ">
                                 </div>
 
                             </div>

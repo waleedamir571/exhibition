@@ -28,18 +28,18 @@
                                                 data-wow-delay=".2s">EXPERIENCE MATTERS</span></p> -->
                                         <p class="wow fadeInUp " data-wow-delay=".3s"><span class="head-text10">
                                                 RELAX ... WE GOT THIS</span></p>
-                                                <p class="wow fadeInUp " data-wow-delay=".3s"><span class="c-151">
-                                                    Welcome to Exhibit
-                                            Network</span></p>
-                                            <br>
-                                         <div class="blur"> 
-                                        <p class="about-us2">  We are in business
-                                            to make your trade show 
-                                            experience <br> as seamless,
-                                            stress-free, and successful
-                                            as possible
-                                        </p>
-                                    </div>  
+                                        <p class="wow fadeInUp " data-wow-delay=".3s"><span class="c-151">
+                                                Welcome to Exhibit
+                                                Network</span></p>
+                                        <br>
+                                        <div class="blur">
+                                            <p class="about-us2"> We are in business
+                                                to make your trade show
+                                                experience <br> as seamless,
+                                                stress-free, and successful
+                                                as possible
+                                            </p>
+                                        </div>
                                         <a href="about"> <button type="button" class="btn btn-primary2">LEARN
                                                 MORE</button></a>
 
@@ -452,7 +452,8 @@
                             <div class="c-item">
 
                                 <div class="c-item_wrap">
-                                    <img class="w-100" src="images/about/s1.png" class="lazy img-fluid" alt="">
+                                    <img class="w-100" src="images/about/exhibit-network-trade-show-storage.jpg.png"
+                                        class="lazy img-fluid" alt="">
                                 </div>
 
                             </div>
@@ -460,7 +461,11 @@
                             <div class="c-item">
 
                                 <div class="c-item_wrap">
-                                    <img class="w-100" src="images/about/s2.png" class="lazy img-fluid" alt="">
+                                    <img class="w-100"
+                                        src="images/about/exhibit-network-trade-show-management-services.jpg.png"
+                                        class="lazy img-fluid"
+                                        alt="Crates neatly stacked in Exhibit Network’s 32K sq. ft. warehouse, perfect for safely storing trade show equipment "
+                                        title="Neatly stacked crates and pallets in Exhibit Network’s clean, dry warehouse. Our 32K sq. ft. facility is perfect for safely storing and retrieving trade show booths and equipment between shows ">
                                 </div>
 
                             </div>
@@ -468,7 +473,11 @@
                             <div class="c-item">
 
                                 <div class="c-item_wrap">
-                                    <img class="w-100" src="images/about/s3.png" class="lazy img-fluid" alt="">
+                                    <img class="w-100"
+                                        src="images/about/exhibit-network-trade-show-logistics-services.jpg.png"
+                                        class="lazy img-fluid"
+                                        alt="Shipping box with stickers for safe handling and proper storage represents how Exhibit Network offers trade show logistics"
+                                        title="Shipping box with stickers for safe handling and proper storage represents how Exhibit Network offers trade show logistic services for ensuring your booth arrives on time at the designated area">
                                 </div>
 
                             </div>
@@ -476,7 +485,11 @@
                             <div class="c-item">
 
                                 <div class="c-item_wrap">
-                                    <img class="w-100" src="images/about/s4.png" class="lazy img-fluid" alt="">
+                                    <img class="w-100"
+                                        src="images/about/exhibit-network-trade-show-design-services.jpg.png"
+                                        class="lazy img-fluid"
+                                        alt="Floor plan represents how Exhibit Network offers design services for trade show booths, graphics, signage, product displays"
+                                        title="Close-up shot of a trade show floor plan illustration represents how Exhibit Network offers design services for trade show booths, graphics, signage, counters, product displays, and visitor flow">
                                 </div>
 
                             </div>
@@ -484,7 +497,10 @@
                             <div class="c-item">
 
                                 <div class="c-item_wrap">
-                                    <img class="w-100" src="images/about/s5.png" class="lazy img-fluid" alt="">
+                                    <img class="w-100" src="images/about/exhibit-network-trade-show-services.jpg"
+                                        class="lazy img-fluid"
+                                        alt="Man with electric screwdriver represents how Exhibit Network provides on-site services to ensure your trade show success"
+                                        title="Man carrying a yellow electric screwdriver represents how Exhibit Network provides on-site services before, during, and after your trade show to ensure your event runs seamlessly and stress-free ">
                                 </div>
 
                             </div>
@@ -521,21 +537,31 @@
             <div class="row align-items-center pt-50">
 
                 <div class="col-md-8">
-                    <img class="w-100" src="images/home/p1.jpg" alt="">
+                    <img class="w-100" src="images/home/exhibit-network-trade-show-3D-render.jpg"
+                        alt="3D rendering of a large trade show booth with podiums, video screens, comfortable seating, and a private conference room "
+                        title="Sleek, modern, 3D rendering of a large trade show booth for SOCAR Trading with welcome podiums, video screens, relaxed and bistro seating, and a large, private conference room for meetings and deals ">
                     <br>
                     <br>
                     <div class="row">
                         <div class="col-md-6">
-                            <img class="w-100" src="images/home/p2.png" alt="">
+                            <img class="w-100" src="images/home/high-visibility-exhibit-circular-signage.png"
+                                alt="High visibility, branded sign over a modular exhibit with towers, videos, literature racks, and meeting areas with storage"
+                                title="High visibility Blue Water Shipping branded circular sign over a modular exhibit with towers, video monitors, literature racks, counters and bar stools for relaxed meeting areas and storage underneath">
                             <br>
-                            <img class="w-100" src="images/home/p4.jpg" alt="">
+                            <img class="w-100" src="images/home/exhibit-network-trade-show-comfortable-seating.jpg"
+                                alt="Tall brown backwall with brand logo and large graphic in front of living-room style seating area and full-color advertisement"
+                                title="Tall, brown backwall with Baker Hughes brand logo and large, matching cyan graphic in front of living-room style seating area with comfortable brown lounge chairs, coffee table and a full-color ad ">
                         </div>
                         <br>
                         <br>
                         <div class="col-md-6">
-                            <img class="w-100" src="images/home/p3.jpg" alt="">
+                            <img class="w-100" src="images/home/double-decker-trade-show-booth.jpg"
+                                alt="Double-decker trade show booth with 3D backlit logos, seating, refrigerators, monitor, bistro tables, and greeting counter."
+                                title="RS Energy branded double-decker trade show booth with 3D backlit logos. The top has full seating and a refrigerator. The lower features a 90” monitor, bistro tables and chairs, and a greeting counter.">
                             <br>
-                            <img class="w-100" src="images/home/p5.jpg" alt="">
+                            <img class="w-100" src="images/home/exhibit-network-trade-show-overhead-signage.jpg"
+                                alt="Large, overhead, branded signage garners trade show attention to an open concept booth with backlit podiums and banner stands"
+                                title="Large, overhead, branded signage for Oxford Flow garners trade show attention to the open concept booth with backlit welcome podiums, backlit banner stands, video monitors, and literature stands">
                         </div>
                         <br>
                     </div>
@@ -543,9 +569,13 @@
                 </div>
 
                 <div class="col-md-4">
-                    <img class="w-100" src="images/home/p6.jpg" alt="">
+                    <img class="w-100" src="images/home/exhibit-network-trade-show-visibility.jpg"
+                        alt="Large booth at an oil and gas trade show featuring a tall, highly visible, branded pole, podium and wide screen video monitor"
+                        title="Large booth at an oil and gas trade show featuring tall, highly visible pole with the ROGII brand logo, welcome podium, wide screen video monitor, and seating areas for smaller video monitor viewings">
                     <br><br>
-                    <img class="w-100" src="images/home/p7.jpg" alt="">
+                    <img class="w-100" src="images/home/exhibit-network-conference-room-render.jpg"
+                        alt="Sleek, modern 3D rendering of a glassed conference room with large table at a trade show for private meetings and deals "
+                        title="Sleek 3D rendering of a white, glassed conference room at a trade show for private meetings and client deals with modern hanging lights, a conference room table, and ample seating for team members">
                 </div>
 
             </div>

@@ -453,7 +453,9 @@
 
                                 <div class="c-item_wrap">
                                     <img class="w-100" src="images/about/exhibit-network-trade-show-storage.jpg.png"
-                                        class="lazy img-fluid" alt="">
+                                        class="lazy img-fluid"
+                                        alt="Crates neatly stacked in Exhibit Network’s 32K sq. ft. warehouse, perfect for safely storing trade show equipment "
+                                        title="Neatly stacked crates and pallets in Exhibit Network’s clean, dry warehouse. Our 32K sq. ft. facility is perfect for safely storing and retrieving trade show booths and equipment between shows ">
                                 </div>
 
                             </div>
@@ -464,8 +466,8 @@
                                     <img class="w-100"
                                         src="images/about/exhibit-network-trade-show-management-services.jpg.png"
                                         class="lazy img-fluid"
-                                        alt="Crates neatly stacked in Exhibit Network’s 32K sq. ft. warehouse, perfect for safely storing trade show equipment "
-                                        title="Neatly stacked crates and pallets in Exhibit Network’s clean, dry warehouse. Our 32K sq. ft. facility is perfect for safely storing and retrieving trade show booths and equipment between shows ">
+                                        alt="Computer with calendar and project software represents how Exhibit Network offers turnkey trade show management services  "
+                                        title="Computer screen with color-coded calendar and project management software represents how Exhibit Network offers turnkey trade show management services before, during, and after your event ">
                                 </div>
 
                             </div>
@@ -497,7 +499,7 @@
                             <div class="c-item">
 
                                 <div class="c-item_wrap">
-                                    <img class="w-100" src="images/about/exhibit-network-trade-show-services.jpg"
+                                    <img class="w-100" src="images/about/exhibit-network-trade-show-services.png"
                                         class="lazy img-fluid"
                                         alt="Man with electric screwdriver represents how Exhibit Network provides on-site services to ensure your trade show success"
                                         title="Man carrying a yellow electric screwdriver represents how Exhibit Network provides on-site services before, during, and after your trade show to ensure your event runs seamlessly and stress-free ">

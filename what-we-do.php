@@ -105,12 +105,14 @@
         <div class="row align-items-center">
             <div class="col-lg-6  position-relative">
                 <div class="images-deco-1">
-                    <img src="images/what-we-do/exhibit-network-on-site-trade-show-services.jpg" class="d-img-1" alt="">
+                    <img src="images/what-we-do/exhibit-network-on-site-trade-show-services.jpg" class="d-img-1"
+                        alt="Exhibit Network manages trade show material handling, shipping, logistics, booth installation, cleaning, and on-site support"
+                        title="Man in a relax … we got this! t-shirt is laying down carpeting showing how Exhibit Network manages trade show material handling, shipping, logistics, booth installation, cleaning, and on-site support">
                     <!-- <img src="images/misc/dotted.png" class="d-img-2" alt="" data-jarallax-element="40"> -->
                     <div class="d-img-3 bg-color"></div>
                 </div>
             </div>
-            <div class="col-md-5 offset-md-1 position-relative" data-jarallax-element="-60">
+            <div class="col-md-6 position-relative" data-jarallax-element="-60">
                 <p class="about-us">Preset in showroom: </p>
                 <div class="position-relative z1000">
 
@@ -353,7 +355,9 @@
 
             <div class="row">
                 <div class="col-md-6">
-                    <img class="w-100" src="images/what-we-do/exhibit-network-exhibitor-modular-displays.jpg" alt="">
+                    <img class="w-100" src="images/what-we-do/exhibit-network-exhibitor-modular-displays.jpg"
+                        alt="An open-concept booth with architectural features, using modular, frame-based wall systems and structural profiles"
+                        title="Beautiful architectural features with arches and large freestanding walls, using modular, frame-based wall systems and structural profiles, add dimensionality to an open-concept booth for Baker Hughes">
                 </div>
                 <div class="col-md-5 offset-md-1 position-relative" data-jarallax-element="-60">
 

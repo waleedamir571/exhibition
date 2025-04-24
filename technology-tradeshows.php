@@ -38,7 +38,9 @@
 
             <div class="row">
                 <div class="col-md-12">
-                    <img class="w-100" src="images/technology/technology.png" alt="">
+                    <img class="w-100" src="images/technology/ev-charging-technology-trade-show.jpg"
+                        alt="Electric vehicle charging represents how Exhibit Network enables success at technology expos like CES, CLEO and IPC APEX Expo"
+                        title="Silver electric vehicle charging with black pump inserted represents how Exhibit Network poises clients for success at technology and electronics tradeshows like CES, CLEO, and IPC APEX Expo">
                 </div>
                 <div class="pt-50">
                     <p class="head-text1 text-center">With custom displays and interactive elements, Exhibit Network is

@@ -43,8 +43,9 @@
                                 </div>
                                 <div class="col-md-6 mb-sm-30 text-center">
 
-                                    <img src="images/houston/chicago-marquee-welcomes-trade-show-exhibitors.png" alt="A well-lit, red Chicago marquee welcomes Exhibit Network clients exhibiting at Illinois conventions like the restaurant show"
-                                    title="Street of downtown brick buildings and skyscrapers prominently features a red-lit Chicago theater marquee welcoming Exhibit Network clients exhibiting at Illinois conventions like the restaurant show">
+                                    <img src="images/houston/chicago-marquee-welcomes-trade-show-exhibitors.png"
+                                        alt="A well-lit, red Chicago marquee welcomes Exhibit Network clients exhibiting at Illinois conventions like the restaurant show"
+                                        title="Street of downtown brick buildings and skyscrapers prominently features a red-lit Chicago theater marquee welcoming Exhibit Network clients exhibiting at Illinois conventions like the restaurant show">
                                 </div>
 
                             </div>
@@ -65,7 +66,7 @@
 
         <div class="row ">
 
-            <div class="col-md-6 position-relative" >
+            <div class="col-md-6 position-relative">
 
                 <div class="position-relative z1000">
 
@@ -80,7 +81,7 @@
                         </p>
 
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s">Chicago is also home to
-                           <br> <a target="_blank" href="https://www.mccormickplace.com/"> <span class="about-us1">
+                            <br> <a target="_blank" href="https://www.mccormickplace.com/"> <span class="about-us1">
                                     McCormick Place Convention Center</span> </a>. With 2.6 million square
                             feet of exhibit halls and 600,000
                             square feet of meeting space, it’s billed as the largest and most versatile convention
@@ -153,7 +154,9 @@
 
             <div class="row">
                 <div class="col-md-12">
-                    <img class="w-100" src="images/houston/chicago.png" alt="">
+                    <img class="w-100" src="images/houston/chicago-trade-show-exhibit-expo.png"
+                        alt="Chicago bean welcomes Exhibit Network exhibitors to Illinois conventions like the National Confectioners Association’s Expo"
+                        title="Large, silver Chicago bean statue reflects the city skyscrapers and visitors to welcome Exhibit Network exhibitors to Illinois conventions like RSNA and the National Confectioners Association’s Expo">
                 </div>
             </div>
 

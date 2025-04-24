@@ -125,8 +125,8 @@
                             </p>
                             <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
                                     href="https://performingartshouston.org/"> <span class="about-us1">
-                                        Sam Houston Race Park , Hobby Center for Performing Arts</span> </a> and <a target="_blank"
-                                    href="https://riceowls.com/facilities/rice-stadium/3"> <span 
+                                        Sam Houston Race Park , Hobby Center for Performing Arts</span> </a> and <a
+                                    target="_blank" href="https://riceowls.com/facilities/rice-stadium/3"> <span
                                         class="about-us12">
                                         Rice Stadium.</span> </a>
                             </p>
@@ -211,7 +211,9 @@ ts.com/energy-live/energytransition
 
                 <div class="row">
                     <div class="col-md-12">
-                        <img class="w-100" src="images/houston/houston1.png" alt="">
+                        <img class="w-100" src="images/houston/houston-trade-show-exhibit-expo.png"
+                            alt="Houston night skyscapers welcome Exhibit Network exhibitors to Texas energy, oil and gas conventions, trade shows, and expos"
+                            title="Deep blue dusky sky with silhouettes of lighted skyscraper welcome Exhibit Network exhibitors to Houston Texas energy, oil and gas conventions, trade shows, and expos">
                     </div>
                 </div>
 

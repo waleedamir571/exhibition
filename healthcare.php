@@ -1,19 +1,16 @@
 <?php include 'header.php'; ?>
 
 <style>
-
-
     .about-us1::before {
-        
+
         content: '🔹';
         position: absolute;
         left: -12px;
         /* top: 0%; */
         /* transform: translateY(-50%); */
-    
+
     }
-    
-    </style>
+</style>
 
 <section id="first-section" class="jarallax no-bottom">
 
@@ -43,13 +40,16 @@
 
             <div class="row">
                 <div class="col-md-12">
-                    <img class="w-100" src="images/technology/health2.png" alt="">
+                    <img class="w-100" src="images/technology/medical-technology-trade-show-exhibit.jpg"
+                        alt="Medical scanning and imaging equipment represents Exhibit Network enabling success at healthcare expos MD&M, IMTS and ASHRM"
+                        title="Large white medical scanning and imaging equipment represents Exhibit Network enabling client success at healthcare and technology trade shows and expos like MD&M, IMTS, SEMICON, ASHRM and INTERPHEX">
                 </div>
                 <div class="pt-50">
-                <p class="head-text1 text-center">Exhibit Network is exceptionally well versed in designing highly visible, branded exhibits with a
-                    clean medical aesthetic that enable you to demo products, hold informational workshops, provide
-                    hands-on training, and offer touchscreen tutorials for  critical healthcare products and
-                    services.</p>
+                    <p class="head-text1 text-center">Exhibit Network is exceptionally well versed in designing highly
+                        visible, branded exhibits with a
+                        clean medical aesthetic that enable you to demo products, hold informational workshops, provide
+                        hands-on training, and offer touchscreen tutorials for critical healthcare products and
+                        services.</p>
                 </div>
             </div>
 
@@ -75,8 +75,7 @@
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
                                 href="https://www.mdmwest.com/en/home.html"> <span class="about-us1">
                                     MD&M </a></span>West and <a target="_blank" href="https://www.mdmeast.com/en/home.
-                                    html"> <span
-                                    class="about-us1">
+                                    html"> <span class="about-us1">
                                     MD&M</span></a> East (Medical Design & Manufacturing), North America’s largest
                             MedTech
                             conferences.</p>
@@ -118,13 +117,16 @@
 
                         </h2>
                     </div>
-                    <p class="wow fadeInRight head-text1 animated about-us1" data-wow-delay=".4s"> Showcase your life-changing
+                    <p class="wow fadeInRight head-text1 animated about-us1" data-wow-delay=".4s"> Showcase your
+                        life-changing
                         innovations for patients, physicians, and care providers.</p>
                     <br>
-                    <p class="wow fadeInRight head-text1 animated about-us1" data-wow-delay=".4s">Connect with customers from
+                    <p class="wow fadeInRight head-text1 animated about-us1" data-wow-delay=".4s">Connect with customers
+                        from
                         around the globe to demonstrate and educate.</p>
                     <br>
-                    <p class="wow fadeInRight head-text1 animated about-us1" data-wow-delay=".4s"> Gain critical acclaim and media
+                    <p class="wow fadeInRight head-text1 animated about-us1" data-wow-delay=".4s"> Gain critical acclaim
+                        and media
                         coverage that extends beyond the show.
                     </p>
                     <br>

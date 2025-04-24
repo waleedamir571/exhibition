@@ -39,7 +39,9 @@
 
             <div class="row">
                 <div class="col-md-12">
-                    <img class="w-100" src="images/technology/cons.png" alt="">
+                    <img class="w-100" src="images/technology/crane-construction-trade-show-exhibit.jpg"
+                        alt="Steel crane represents how Exhibit Network enables success at expos like CONEXPO CON/AGG, World of Concrete and Utility Expo"
+                        title="A steel crane towers over a construction site with a pale, cloudy yellow and blue sky representing how Exhibit Network enables success at expos like CONEXPO CON/AGG, World of Concrete and Utility Expo">
                 </div>
                 <div class="pt-50">
                     <p class="head-text1 text-center">Exhibit Network will work with you to design a memorable,

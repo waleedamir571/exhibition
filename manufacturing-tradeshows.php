@@ -40,7 +40,9 @@
 
             <div class="row">
                 <div class="col-md-12">
-                    <img class="w-100" src="images/technology/manufacturing.png" alt="">
+                    <img class="w-100" src="images/technology/industrial-welding-manufacturing-expo.jpg"
+                        alt="Welding sparks fly representing how Exhibit Network enables success at manufacturing expos like IMTS, FABTECH and Valve World"
+                        title="White sparks fly as a welder in a black face shield represents Exhibit Network enabling client success at manufacturing expos like IMTS, FABTECH, SEMICON, MD&M West, MD&M East and Valve World Americas">
                 </div>
                 <div class="pt-50">
                     <p class="head-text1 text-center">Partner with Exhibit Network to fabricate a custom showroom that

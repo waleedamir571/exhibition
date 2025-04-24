@@ -180,7 +180,9 @@
 
             <div class="row">
                 <div class="col-md-12">
-                    <img class="w-100" src="images/houston/las-vegas.png" alt="">
+                    <img class="w-100" src="images/houston/las-vegas-trade-show-exhibit-expo.png"
+                        alt="Las Vegas resort welcomes Exhibit Network clients exhibiting at Nevada trade shows, expos, and convention centers"
+                        title="A drones-eye view of a large Las Vegas resort with swimming pool, statues, and lighted signage welcomes Exhibit Network clients exhibiting at Nevada trade shows, expos, and convention centers">
                 </div>
             </div>
 

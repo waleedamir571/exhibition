@@ -42,7 +42,9 @@
 
             <div class="row">
                 <div class="col-md-12">
-                    <img class="w-100" src="images/technology/food.png" alt="">
+                    <img class="w-100" src="images/technology/coffee-maker-food-beverage-trade-show-expo.jpg"
+                        alt="Espresso machine represents Exhibit Network enabling success at food and beverage expos like National Restaurant Association"
+                        title="Ground coffee in portafiller resting by an espresso machine represents Exhibit Network enabling client success at food and beverage expos like National Restaurant Association Show, IBIE and IFT FIRST">
                 </div>
                 <div class="pt-50">
                     <p class="head-text1 text-center">Beyond our expertise in well-designed, branded exhibits and
@@ -57,7 +59,7 @@
 
         <div class="row ">
 
-            <div class="col-md-6 position-relative" >
+            <div class="col-md-6 position-relative">
 
                 <div class="position-relative z1000">
 
@@ -128,7 +130,8 @@
                         interactive displays, demo your latest technology or product innovation with an unforgettable
                         sensory experience.</p>
                     <br>
-                    <p class="wow fadeInRight head-text1 animated about-us1" data-wow-delay=".4s"> Gain innovative insights from other show participants and attendees.
+                    <p class="wow fadeInRight head-text1 animated about-us1" data-wow-delay=".4s"> Gain innovative
+                        insights from other show participants and attendees.
                     </p>
                     <br>
 

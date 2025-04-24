@@ -40,7 +40,9 @@
 
             <div class="row">
                 <div class="col-md-12">
-                    <img class="w-100" src="images/technology/chemical.png" alt="">
+                    <img class="w-100" src="images/technology/liquid-chemicals-coatings-trade-show-expo.jpg"
+                        alt="Purple chemical poured in a glass tube represents Exhibit Network enabling success at chemical and coatings expos like AMPP"
+                        title="Bright purple chemical poured in a tray of glass tubes represents Exhibit Network enabling success at chemical and coatings trade shows and expos like the Powder Show, American Coatings Show and AMPP">
                 </div>
                 <div class="pt-50">
                     <p class="head-text1 text-center">Partner with Exhibit Network to design and fabricate a custom
@@ -126,5 +128,3 @@
 </section>
 
 <?php include 'footer.php'; ?>
-
-

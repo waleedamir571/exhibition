@@ -39,7 +39,9 @@
 
             <div class="row">
                 <div class="col-md-12">
-                    <img class="w-100" src="images/technology/energu.png" alt="">
+                    <img class="w-100" src="images/technology/wind-turbines-energy-oil-gas-trade-show.jpg"
+                        alt="Wind turbines represent how Exhibit Network enables success at energy, oil and gas tradeshows like OTC, ATCE and DISTRIBUTECH"
+                        title="A row of white wind turbines and bright blue sky stretches for miles and represents how Exhibit Network enables client success at energy, oil and gas trade shows like OTC, ATCE, and DISTRIBUTECH">
                 </div>
                 <div class="pt-50">
                     <p class="head-text1 text-center">Serving the energy industry for decades, Exhibit Network is the

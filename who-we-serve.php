@@ -31,8 +31,8 @@
                                 <div class="col-md-6 mb-sm-30 text-center">
 
                                     <img src="images/serve/exhibit-network-stress-free-trade-show.jpg"
-                                    alt="Badge with Exhibit Network logo reflects that we serve marketing and sales directors, event managers, trade show exhibitors"
-                                    title="White badge with purple Exhibit Network logo reflects that we serve marketing and sales directors, event managers, company executives, product developers, and other trade show exhibitors ">
+                                        alt="Badge with Exhibit Network logo reflects that we serve marketing and sales directors, event managers, trade show exhibitors"
+                                        title="White badge with purple Exhibit Network logo reflects that we serve marketing and sales directors, event managers, company executives, product developers, and other trade show exhibitors ">
                                 </div>
 
                             </div>
@@ -74,24 +74,52 @@
 
             <div class="swiper mySwiper">
                 <div class="swiper-wrapper">
-                    <div class="swiper-slide"><a href="healthcare"> <img class="w-100" src="images/serve/healthcare.png"
-                                alt=""> </a></div>
+                    <div class="swiper-slide">
+                        <a href="healthcare"> <img class="w-100" src="images/serve/blue-prosthetic-hand-healthcare-trade-show.png"
+                                alt="Blue robotic hand represents Exhibit Network enabling client success at healthcare or tech expos like MD&M, IMTS and SEMICON"
+                                title="Bright blue robotic hand with digital joints and a cyan blue backdrop represents Exhibit Network enabling client success at healthcare and technology trade shows like MD&M, IMTS, SEMICON and INTERPHEX">
+                        </a>
+                    </div>
                     <div class="swiper-slide"><a href="food-and-beverage-tradeshows"> <img class="w-100"
-                                src="images/serve/food.png" alt=""></a></div>
+                                src="images/serve/aluminum-pan-food-beverage-trade-show.png"
+                                alt="Aluminum pan represents Exhibit Network enabling success at food and beverage trade shows like IBIE Baking Expo and IFT First"
+                                title="Steam rising from aluminum pan in front of a red wall and bar with wine bottles represents Exhibit Network enabling client success at food and beverage trade shows like IBIE Baking Expo and IFT First"></a>
+                    </div>
                     <div class="swiper-slide"><a href="energy-oil-and-gas-tradeshows"> <img class="w-100"
-                                src="images/serve/energy.png" alt=""></a></div>
+                                src="images/serve/pipeline-energy-oil-gas-trade-show.png"
+                                alt="Silver pipeline represents Exhibit Network enabling success at energy oil and gas trade shows like OTC, ATCE and DISTRIBUTECH"
+                                title="Silver pipeline stretches for miles along a green, grassy hillside represents Exhibit Network enabling client success at energy, oil and gas trade shows like OTC, ATCE, and DISTRIBUTECH"></a>
+                    </div>
                     <div class="swiper-slide"><a href="technology-tradeshows"> <img class="w-100"
-                                src="images/serve/tech.png" alt=""></a></div>
+                                src="images/serve/gray-and-red-drone-technology-exhibit.png"
+                                alt="Gray drone with red rotors represents how Exhibit Network poises clients for success at technology tradeshows and expos"
+                                title="Gray, quadcopter drone with red rotors and a dark gray background represents how Exhibit Network poises clients for success at technology tradeshows like Offshore Technology Conference or DISTRIBUTECH"></a>
+                    </div>
                     <div class="swiper-slide"><a href="manufacturing-tradeshows"> <img class="w-100"
-                                src="images/serve/manufacturing.png" alt=""></a></div>
+                                src="images/serve/industrial-laser-cutter-manufacturing-expo.png"
+                                alt="Laser cutter represents Exhibit Network enabling success at manufacturing trade shows like IMTS, FABTECH, SEMICON, and MD&M"
+                                title="Close-up of a shiny black and gold laser cutter precision cutting a sheet of steel represents Exhibit Network enabling client success at manufacturing trade shows like IMTS, FABTECH, SEMICON, and MD&M"></a>
+                    </div>
                     <div class="swiper-slide"><a href="sporting-goods-tradeshows"> <img class="w-100"
-                                src="images/serve/sporting.png" alt=""></a></div>
+                                src="images/serve/fishing-poles-sporting-goods-expo.png"
+                                alt="Fishing poles represent Exhibit Network enabling success at sporting goods trade shows and expos like ICAST and SHOT SHOW"
+                                title="Three black and silver fishing poles with shiny gold reels represent Exhibit Network enabling client success at sporting goods trade shows like ICAST, SHOT SHOW, and the Great American Outdoor Show"></a>
+                    </div>
                     <div class="swiper-slide"><a href="logistics-tradeshows"> <img class="w-100"
-                                src="images/serve/logistics.png" alt=""></a></div>
+                                src="images/serve/pallets-logistics-exhibit-trade-show-expo.png"
+                                alt="Wood pallets represent Exhibit Network enabling success at logistics trade shows like MODEX, Manifest, TPM and trucking shows"
+                                title="A stack of wooden pallets illuminated in a dark room represents Exhibit Network enabling client success at logistics and shipping trade shows like MODEX, Manifest, TPM, and Mid-America Trucking Show"></a>
+                    </div>
                     <div class="swiper-slide"><a href="construction-tradeshows"> <img class="w-100"
-                                src="images/serve/cons.png" alt=""></a></div>
+                                src="images/serve/hard-hat-construction-trade-show.png"
+                                alt="Yellow hard hat represents Exhibit Network enabling success at construction trade shows like CONEXPO and Utility Expo"
+                                title="A bright yellow hard hat on a marble slab with a yellow ruler represents Exhibit Network enabling client success at construction trade shows like CONEXPO CON/AGG, World of Concrete, and Utility Expo"></a>
+                    </div>
                     <div class="swiper-slide"><a href="chemical-tradeshows"> <img class="w-100"
-                                src="images/serve/chemicals.png" alt=""></a></div>
+                                src="images/serve/3d-print-chemicals-coatings-trade-show.png"
+                                alt="3D printed skill represents Exhibit Network enabling success at chemical and coatings trade shows like Powder Show and AMPP"
+                                title="A white 3D printed skill with a blurry brick backdrop represents Exhibit Network enabling success at chemical and coatings trade shows and expos like the Powder Show, American Coatings Show, and AMPP"></a>
+                    </div>
 
                 </div>
                 <div class="swiper-button-next"></div>

@@ -1,18 +1,15 @@
 <?php include 'header.php'; ?>
 
 <style>
+    .about-us1::before {
 
+        content: '🔹';
+        position: absolute;
+        left: -12px;
+        /* top: 0%; */
+        /* transform: translateY(-50%); */
 
-.about-us1::before {
-    
-    content: '🔹';
-    position: absolute;
-    left: -12px;
-    /* top: 0%; */
-    /* transform: translateY(-50%); */
-
-}
-
+    }
 </style>
 
 
@@ -42,8 +39,9 @@
                                 </div>
                                 <div class="col-md-6 mb-sm-30 text-center">
 
-                                    <img src="images/houston/orlando-fireworks-welcome-tradeshow-exhibitors.jpg" alt="Fireworks burst over a theme park castle welcoming Exhibit Network clients to Orlando FL conventions like MegaCon and BUILD"
-                                    title="Brightly lit, yellow, orange, and white fireworks burst in the night sky over a blue-lit, theme park castle welcoming Exhibit Network clients to Orlando Florida conventions like MegaCon and BUILD">
+                                    <img src="images/houston/orlando-fireworks-welcome-tradeshow-exhibitors.jpg"
+                                        alt="Fireworks burst over a theme park castle welcoming Exhibit Network clients to Orlando FL conventions like MegaCon and BUILD"
+                                        title="Brightly lit, yellow, orange, and white fireworks burst in the night sky over a blue-lit, theme park castle welcoming Exhibit Network clients to Orlando Florida conventions like MegaCon and BUILD">
                                 </div>
 
                             </div>
@@ -65,7 +63,7 @@
         <div class="row ">
 
 
-            <div class="col-md-6 position-relative" >
+            <div class="col-md-6 position-relative">
 
                 <div class="position-relative z1000">
 
@@ -74,16 +72,17 @@
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s">With unparalleled
                             entertainment and theme parks, including Walt Disney World and Universal Studios, it’s no
                             wonder why Orlando draws large trade shows to its
-                            <br> <a target="_blank" href="https://www.occc.net/"> <span
-                                    class="about-us1"> Orange County
+                            <br> <a target="_blank" href="https://www.occc.net/"> <span class="about-us1"> Orange County
                                     Convention Center. </span> </a> With over
                             2 million square feet of convention space and just under 500,000 square feet of meeting room
-                            footage, the OCCC hosts 150 trade shows and conventions per year including:</p>
+                            footage, the OCCC hosts 150 trade shows and conventions per year including:
+                        </p>
                         <br>
 
                         <br>
 
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank" href="https://npe.org/">
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank"
+                                href="https://npe.org/">
                                 <span class="about-us1">
                                     NPE The Plastics Show</span></a> the largest plastics trade show in the Americas.
                         </p>
@@ -124,12 +123,13 @@
                                 href="https://globalpetexpo.org/"> <span class="about-us1">
                                     Global Pet Expo</span> </a> the premiere annual event for the pet industry.
                         </p>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank" href="https://navc.com/vmx-event/"> <span
-                                    class="about-us1">
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> <a target="_blank"
+                                href="https://navc.com/vmx-event/"> <span class="about-us1">
                                     VMX</span> </a> Veterinary Meeting and Expo, the world’s premier veterinary event
                         </p>
-                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank" href="https://www.iitsec.org/"> <span class="about-us1">
-                                I/ITSEC</span> </a> the world’s largest modeling, simulation, and training event
+                        <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"><a target="_blank"
+                                href="https://www.iitsec.org/"> <span class="about-us1">
+                                    I/ITSEC</span> </a> the world’s largest modeling, simulation, and training event
                         </p>
                         <p class="wow fadeInRight head-text1 animated" data-wow-delay=".4s"> Exhibit Network has
                             supported our customers’ trade show exhibits at the Orlando Orange County Convention Center
@@ -156,7 +156,9 @@
 
             <div class="row">
                 <div class="col-md-12">
-                    <img class="w-100" src="images/houston/orlando.png" alt="">
+                    <img class="w-100" src="images/houston/orlando-trade-show-exhibit-expo.png"
+                        alt="Theme park castle welcomes Exhibit Network clients to Orlando conventions like NPE, InfoSec World, VMX, IAAPA, PGA Show"
+                        title="A white theme park castle with blue sky and hanging Christmas decorations welcoming Exhibit Network clients to Orlando Florida conventions like the Plastics Show, InfoSec World, VMX, IAAPA, PGA Show">
                 </div>
             </div>
 

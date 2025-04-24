@@ -40,7 +40,9 @@
 
             <div class="row">
                 <div class="col-md-12">
-                    <img class="w-100" src="images/technology/logistics.png" alt="">
+                    <img class="w-100" src="images/technology/delivery-robots-logistics-exhibit-trade-show.jpg"
+                        alt="Delivery robots represent Exhibit Network enabling success at logistics expos like MODEX, Manifest, TPM, Mid-America Trucking"
+                        title="White delivery robots with red flags line up against a wall to represent Exhibit Network enabling success at logistics and supply chain expos like MODEX, Manifest, TPM, and Mid-America Trucking Show">
                 </div>
                 <div class="pt-50">
                     <p class="head-text1 text-center">Work with Exhibit Network to elevate your brand with a custom

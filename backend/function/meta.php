@@ -126,7 +126,7 @@ switch ($functions) {
         $description = ": Need a custom exhibit for your energy, oil, or gas trade shows? Exhibit Network offers comprehensive solutions to amplify your brand's impact.";
      
         break;
-    case "technology.php";
+    case "technology-tradeshows.php";
         $title_name = "Technology and Electronics Trade Shows | Exhibit Network";
         $description = "Need a high-impact custom exhibit for your technology or electronics trade show? Exhibit Network offers large, branded solutions to maximize event visibility. ";
        

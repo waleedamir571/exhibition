@@ -39,7 +39,9 @@
 
             <div class="row">
                 <div class="col-md-12">
-                    <img class="w-100" src="images/technology/sporting.png" alt="">
+                    <img class="w-100" src="images/technology/rackets-sporting-goods-expo.jpg"
+                        alt="Three rackets represent Exhibit Network enabling success at sporting goods expos like ICAST and Great American Outdoor Show"
+                        title="Tennis, paddle, and pickleball rackets on grass and clay courts represent Exhibit Network enabling client success at sporting goods trade shows like ICAST, SHOT SHOW, and Great American Outdoor Show">
                 </div>
                 <div class="pt-50">
                     <p class="head-text1 text-center">When it comes to product displays, Exhibit Network has you

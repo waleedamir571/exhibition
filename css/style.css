@@ -86,31 +86,30 @@ header img[src*="dotted.png"] {
 .head-text10 {
   color: #FFF;
   text-align: center;
- 
-  font-size: 115px;
+  font-size: 98px;
   font-style: normal;
   font-weight: 800;
   line-height: 91px;
   text-transform: uppercase;
 }
 
+
 .blur {
-  display: flex;
+  /* display: flex
+; */
   justify-content: center;
   align-items: center;
   padding: 14px 4px 0;
-  height: 106px;
-
-  /* Full width breakout */
+  height: auto;
   width: 100vw;
   position: relative;
   left: 50%;
   right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
-
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.20) 0%, rgba(255, 255, 255, 0.20) 100%);
+  /* background: linear-gradient(90deg, rgba(255, 255, 255, 0.20) 0%, rgba(255, 255, 255, 0.20) 100%); */
   backdrop-filter: blur(2.7px);
+  background: rgba(0, 0, 0, 0.37);
 }
 
 
@@ -222,7 +221,7 @@ header img[src*="dotted.png"] {
 
 .about-us2 {
   color: #fff;
-  font-size: 22px;
+  font-size: 26px;
   font-style: normal;
   font-weight: 700;
   line-height: 30px;
@@ -1115,10 +1114,8 @@ li {
 
 
 .headbg {
-
   background: #323080;
-  padding: 11px 12px 10px 15px;
-
+  padding: 11px 12px 4px 15px;
 }
 
 .relax-new {
@@ -14088,7 +14085,7 @@ body.dark-scheme::-webkit-scrollbar-track,
 }
 
 .v-center {
-  background-image: url(../images/home/xbg.jpg);
+  background-image: url(../images/home/newbg1.png);
   background-repeat: no-repeat;
   background-size: 100% 100% !important;
   min-height: 100%;

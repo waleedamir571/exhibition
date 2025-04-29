@@ -26,19 +26,21 @@
 
                                         <!-- <p class="text-uppercase mb-3  up-head"> <span class="wow fadeInRight"
                                                 data-wow-delay=".2s">EXPERIENCE MATTERS</span></p> -->
-                                        <p class="wow fadeInUp " data-wow-delay=".3s"><span class="head-text10">
+                                       
+                                        <br>
+                                        <div class="blur">
+                                            <p class="wow fadeInUp " data-wow-delay=".3s"><span class="head-text10">
                                                 RELAX ... WE GOT THIS</span></p>
                                         <p class="wow fadeInUp " data-wow-delay=".3s"><span class="c-151">
                                                 Welcome to Exhibit
                                                 Network</span></p>
-                                        <br>
-                                        <div class="blur">
                                             <p class="about-us2"> We are in business
                                                 to make your trade show
-                                                experience <br> as seamless,
+                                                experience  as seamless,
                                                 stress-free, and successful
                                                 as possible
                                             </p>
+                                            <br>
                                         </div>
                                         <a href="about"> <button type="button" class="btn btn-primary2">LEARN
                                                 MORE</button></a>

@@ -16,7 +16,7 @@
         <div class="image-container">
             <!-- Image 1 -->
             <div class="image-box">
-                <img src="images/what-we-do/exhibit-network-3D-rendering-trade-show-booth"
+                <img src="images/what-we-do/exhibit-network-3D-rendering-trade-show-booth.jpg"
                     alt="3D rendering of a large trade show booth with a large video screen and private seating areas for client meetings "
                     title="Cross-section of a 3D rendering for a large trade show booth for SOCAR with green plants, a large video screen, and private seating areas for client meetings under a canopy of brown wood slats">
                 <div class="overlay">

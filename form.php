@@ -21,7 +21,8 @@
                             <p class="wow fadeInRight head-text1" data-wow-delay=".4s">Never worry about your trade show
                                 exhibit again. With Exhibit Network, you can be confident all your trade show
                                 experiences will be seamless and stress-free. Relax … we got this.</p>
-                            <img class="w-100" src="images/contact/exhibitors-get-in-touch-with-exhibit-network.png" alt="">
+                                <img class="w-100" src="images/contact/exhibitors-get-in-touch-with-exhibit-network.png" alt="iPhone encourages exhibitors to contact Exhibit Network for custom trade show exhibits, booth rentals and portable displays"
+                                title="Black iPhone with gold screen reflection charging on brown wooden table encourages exhibitors to get in touch with Exhibit Network for custom trade show exhibits, booth rentals and portable displays">
                         </div>
 
                     </div>

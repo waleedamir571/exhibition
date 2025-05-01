@@ -148,7 +148,8 @@ and successful as possible. </p>
                                          conference table/chairs, circular hanging SEG graphic sign, HD monitor, premium curved counter with storage, coffee service, 
                                          and bistro table with bar stools.</p>
 
-                                         <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                                           <a target="_blank" href="contact-us"> <button type="button"
+                                        class="btn btn-primary1">REQUEST INFO</button></a>
 
                                 </div>
                             </div>
@@ -167,7 +168,8 @@ and successful as possible. </p>
                                          conference table/chairs, circular hanging SEG graphic sign, HD monitor, premium curved counter with storage, coffee service, 
                                          and bistro table with bar stools.</p>
 
-                                         <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                                           <a target="_blank" href="contact-us"> <button type="button"
+                                        class="btn btn-primary1">REQUEST INFO</button></a>
                                 </div>
                             </div>
                         </div>
@@ -185,7 +187,8 @@ and successful as possible. </p>
                                          conference table/chairs, circular hanging SEG graphic sign, HD monitor, premium curved counter with storage, coffee service, 
                                          and bistro table with bar stools.</p>
 
-                                         <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                                           <a target="_blank" href="contact-us"> <button type="button"
+                                        class="btn btn-primary1">REQUEST INFO</button></a>
                                 </div>
                             </div>
                         </div>
@@ -203,7 +206,8 @@ and successful as possible. </p>
                                          conference table/chairs, circular hanging SEG graphic sign, HD monitor, premium curved counter with storage, coffee service, 
                                          and bistro table with bar stools.</p>
 
-                                         <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                                           <a target="_blank" href="contact-us"> <button type="button"
+                                        class="btn btn-primary1">REQUEST INFO</button></a>
                                 </div>
                             </div>
                         </div>
@@ -221,7 +225,8 @@ and successful as possible. </p>
                                          conference table/chairs, circular hanging SEG graphic sign, HD monitor, premium curved counter with storage, coffee service, 
                                          and bistro table with bar stools.</p>
 
-                                         <button type="button" class="btn btn-primary1">REQUEST INFO</button>
+                                           <a target="_blank" href="contact-us"> <button type="button"
+                                        class="btn btn-primary1">REQUEST INFO</button></a>
                                 </div>
                             </div>
                         </div>

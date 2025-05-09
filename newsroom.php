@@ -268,11 +268,9 @@ figure.menu-card.hover button {
 
 </style>
 
-
 <section id="de-carousel section-schedule" class="no-top no-bottom carousel slide carousel-fade "
     data-mdb-ride="carousel">
     <!-- Indicators -->
-
 
     <!-- Inner -->
     <div class="">
@@ -325,11 +323,9 @@ figure.menu-card.hover button {
                 <div class="spacer-single"></div>
             </div>
 
-
         </div>
     </div>
     <div class="container">
-
 
         <div class="row ">
             <div class="col-md-12">
@@ -558,8 +554,6 @@ figure.menu-card.hover button {
 
 
 </section>
-
-
 
 <?php include 'footer.php'; ?>
 

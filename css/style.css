@@ -12934,7 +12934,8 @@ a.img-icon-zoom {
   border-color: #555;
 }
 
-.widget_tags li a:hover border-color: #eceff3;
+.widget_tags li a:hover {
+  border-color: #eceff3;
 }
 
 footer .widget {
@@ -13314,7 +13315,7 @@ i.bg-color-secondary {
 
 
 .de-step-s1 {
-  overflow: ;
+ 
   position: relative;
   padding: 45px;
   border-radius: 20px;
@@ -13438,7 +13439,7 @@ i.bg-color-secondary {
 
 .owl-carousel.no-hide .owl-stage-outer {
   overflow: visible;
-  !important;
+  
 }
 
 .c-item {

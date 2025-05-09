@@ -234,7 +234,9 @@
             </div>
 
             <div class="col-md-6">
-                <img class="w-100" src="images/resource/exhibit-network-trade-show-faqs.jpg" alt="">
+                 <img class="w-100" src="images/resource/exhibit-network-trade-show-faqs.jpg"
+                    alt="Question mark written in condensation indicates that Exhibit Network has answered your frequently asked trade show questions"
+                    title="Question mark written in the condensation on a mirror with a purple hue indicates that Exhibit Network has answered your frequently asked questions to make your trade show experience stress-free">
             </div>
 
 
@@ -248,3 +250,5 @@
 </section>
 
 <?php include 'footer.php'; ?>
+
+

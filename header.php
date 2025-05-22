@@ -6,7 +6,7 @@
 
 
 <head>
-<title>
+    <title>
         <?php echo $title_name; ?>
     </title>
     <meta name="description" content="<?php echo $description; ?>">
@@ -43,9 +43,24 @@
                         <div class="social-icons">
                             <ul id="mainmenu">
                                 <li>
-                                    <p class="d-none1"><a
-                                            href="https://simplecheckout.authorize.net/payment/CatalogPayment.aspx"> Pay
-                                    </p></a>
+                                    <p class="d-none1">
+                                        <form name="PrePage" method="post"
+                                        action=https://Simplecheckout.authorize.net/payment/CatalogPayment.aspx target="_blank"> <input
+                                            type="hidden" name="LinkId" value="7160a093-5a70-4d53-be21-d6eb8910702e" />
+                                        <input type="submit" value="Pay" />
+                                    </form>
+                                    </p>
+                                     <!-- <form name="PrePage" method="post"
+                                        action=https://Simplecheckout.authorize.net/payment/CatalogPayment.aspx> <input
+                                            type="hidden" name="LinkId" value="7160a093-5a70-4d53-be21-d6eb8910702e" />
+                                        <input type="submit" value="Pay" />
+                                    </form> -->
+                                </a>
+                                    <!-- <form name="PrePage" method="post"
+                                        action=https://Simplecheckout.authorize.net/payment/CatalogPayment.aspx> <input
+                                            type="hidden" name="LinkId" value="7160a093-5a70-4d53-be21-d6eb8910702e" />
+                                        <input type="submit" value="Pay" />
+                                    </form> -->
                                 </li>
                                 <!-- <li>
                                     <p class="d-none1"><a href="upload" target="_blank"> Upload </a></p>
@@ -128,4 +143,3 @@
                 </div>
             </div>
         </header>
-

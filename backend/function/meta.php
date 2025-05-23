@@ -162,6 +162,11 @@ switch ($functions) {
         $description = "404 ";
        
         break;
+         case "thank-you.php";
+        $title_name = "Thank you for reaching out!";
+        $description = "Thank you for reaching out! We appreciate your message. ";
+       
+        break;
   
 }
 

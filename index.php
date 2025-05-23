@@ -552,9 +552,9 @@
                                 alt="High visibility, branded sign over a modular exhibit with towers, videos, literature racks, and meeting areas with storage"
                                 title="High visibility Blue Water Shipping branded circular sign over a modular exhibit with towers, video monitors, literature racks, counters and bar stools for relaxed meeting areas and storage underneath">
                             <br>
-                            <img class="w-100" src="images/home/exhibit-network-trade-show-comfortable-seating.jpg"
+                            <!-- <img class="w-100" src="images/home/exhibit-network-trade-show-comfortable-seating.jpg"
                                 alt="Tall brown backwall with brand logo and large graphic in front of living-room style seating area and full-color advertisement"
-                                title="Tall, brown backwall with Baker Hughes brand logo and large, matching cyan graphic in front of living-room style seating area with comfortable brown lounge chairs, coffee table and a full-color ad ">
+                                title="Tall, brown backwall with Baker Hughes brand logo and large, matching cyan graphic in front of living-room style seating area with comfortable brown lounge chairs, coffee table and a full-color ad "> -->
                         </div>
                         <br>
                         <br>
